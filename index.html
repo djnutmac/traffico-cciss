@@ -11,8 +11,8 @@
             --text-color: #333333;
             --primary: #0056b3;
             --accent: #dc3545;
-            --new-bg: #ff6d00; /* Arancione acceso per modalità giorno */
-            --new-text: #ffffff; /* Testo bianco sopra l'arancione in modalità giorno */
+            --new-bg: #ff6d00; 
+            --new-text: #ffffff; 
         }
         @media (prefers-color-scheme: dark) {
             :root {
@@ -21,8 +21,8 @@
                 --text-color: #e0e0e0;
                 --primary: #3792ff;
                 --accent: #ff6b6b;
-                --new-bg: #ff6d00; /* Stesso arancione acceso per modalità notte */
-                --new-text: #ffffff; /* Testo bianco per massimo contrasto al buio */
+                --new-bg: #ff6d00; 
+                --new-text: #ffffff; 
             }
         }
         body {
@@ -94,7 +94,6 @@
             color: var(--new-text) !important;
             border-left-style: dashed;
         }
-        /* Correzione colore dei titoli quando la card diventa arancione */
         .news-card.nuova-notizia .news-title {
             color: var(--new-text) !important;
         }
@@ -139,7 +138,7 @@
     let previousTitles = new Set();
     let lastSuccessTime = "";
     
-    const POLLING_INTERVAL = 180; // Polling a 3 minuti
+    const POLLING_INTERVAL = 180; // Controllo automatico ogni 3 minuti
     let secondsToNextRefresh = POLLING_INTERVAL;
     let timerInterval = null;
 
@@ -148,52 +147,84 @@
         statusEl.innerText = "Aggiornamento in corso...";
         
         const rssUrl = "https://www.cciss.it/rss";
-        const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(rssUrl)}&_ts=${new Date().getTime()}`;
+        
+        // Genera una stringa casuale + timestamp a ogni chiamata per forzare l'aggiornamento reale
+        const cacheBuster = Math.random().toString(36).substring(2) + new Date().getTime();
+        const proxyUrl = `https://cors-proxy.htmldriven.com/?url=${encodeURIComponent(rssUrl)}&cb=${cacheBuster}`;
 
         try {
             const response = await fetch(proxyUrl);
-            if (!response.ok) throw new Error("Errore di risposta dal server proxy");
+            if (!response.ok) throw new Error("Errore proxy primario");
+            
+            const jsonResult = await response.json();
+            const xmlText = jsonResult.body;
+            
+            if (!xmlText) throw new Error("Risposta vuota");
+
+            parseAndRender(xmlText, "notizie caricate.");
+
+        } catch (error) {
+            console.warn("Proxy primario fallito, tento il backup...", error);
+            // Salta istantaneamente al proxy di riserva senza attendere
+            fallbackFetch();
+        }
+    }
+
+    async function fallbackFetch() {
+        const statusEl = document.getElementById('status');
+        const rssUrl = "https://www.cciss.it/rss";
+        const cacheBuster = new Date().getTime() + Math.floor(Math.random() * 1000);
+        
+        // Secondo proxy di backup che legge l'XML in formato testo grezzo
+        const fallbackUrl = `https://thingproxy.freeboard.io/fetch/${rssUrl}?v=${cacheBuster}`;
+
+        try {
+            const response = await fetch(fallbackUrl);
+            if (!response.ok) throw new Error("Anche il proxy di backup è fallito");
             
             const xmlText = await response.text();
-            const parser = new DOMParser();
-            const xmlDoc = parser.parseFromString(xmlText, "text/xml");
-            
-            if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
-                throw new Error("Errore nel parsing dei dati XML");
-            }
-
-            const items = xmlDoc.getElementsByTagName("item");
-            
-            if (allEntries.length > 0) {
-                previousTitles = new Set(allEntries.map(e => e.title + e.pubDate));
-            } else {
-                previousTitles = new Set();
-            }
-
-            allEntries = [];
-
-            for (let i = 0; i < items.length; i++) {
-                const title = items[i].getElementsByTagName("title")[0]?.textContent || "";
-                const description = items[i].getElementsByTagName("description")[0]?.textContent || "";
-                const pubDate = items[i].getElementsByTagName("pubDate")[0]?.textContent || "";
-                
-                const uniqueKey = title + pubDate;
-                const isNew = previousTitles.size > 0 && !previousTitles.has(uniqueKey);
-
-                allEntries.push({ title, description, pubDate, isNew });
-            }
-
-            lastSuccessTime = new Date().toLocaleTimeString();
-            
-            secondsToNextRefresh = POLLING_INTERVAL;
-            updateStatusText(`${allEntries.length} notizie caricate.`);
-            filterNews();
+            parseAndRender(xmlText, "notizie caricate (via backup).");
 
         } catch (error) {
             console.error(error);
-            statusEl.innerText = "Errore nel caricamento. Riprovo a breve...";
-            secondsToNextRefresh = 15; 
+            statusEl.innerText = "Errore di rete (Cache bloccata). Riprovo a breve...";
+            secondsToNextRefresh = 15; // Riprova più in fretta se entrambi i nodi falliscono
         }
+    }
+
+    function parseAndRender(xmlText, suffixMessage) {
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+        
+        if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
+            throw new Error("Errore nel parsing XML");
+        }
+
+        const items = xmlDoc.getElementsByTagName("item");
+        
+        if (allEntries.length > 0) {
+            previousTitles = new Set(allEntries.map(e => e.title + e.pubDate));
+        } else {
+            previousTitles = new Set();
+        }
+
+        allEntries = [];
+
+        for (let i = 0; i < items.length; i++) {
+            const title = items[i].getElementsByTagName("title")[0]?.textContent || "";
+            const description = items[i].getElementsByTagName("description")[0]?.textContent || "";
+            const pubDate = items[i].getElementsByTagName("pubDate")[0]?.textContent || "";
+            
+            const uniqueKey = title + pubDate;
+            const isNew = previousTitles.size > 0 && !previousTitles.has(uniqueKey);
+
+            allEntries.push({ title, description, pubDate, isNew });
+        }
+
+        lastSuccessTime = new Date().toLocaleTimeString();
+        secondsToNextRefresh = POLLING_INTERVAL;
+        updateStatusText(`${allEntries.length} ${suffixMessage}`);
+        filterNews();
     }
 
     function startTimer() {
@@ -206,7 +237,7 @@
                 fetchFeed();
             } else {
                 if (allEntries.length > 0) {
-                    updateStatusText(`${allEntries.length} notizie caricate.`);
+                    updateStatusText(`${allEntries.length} notizie rilevate.`);
                 }
             }
         }, 1000);
