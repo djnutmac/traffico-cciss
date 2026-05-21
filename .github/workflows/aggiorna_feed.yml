@@ -1,0 +1,41 @@
+name: Aggiorna Feed CCISS
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Gira ogni 5 minuti spaccati
+  workflow_dispatch: # Ti permette di farlo partire anche a mano premendo un tasto
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Controlla il codice
+      uses: actions/checkout@v4
+
+    - name: Scarica il feed e convertilo in JSON
+      run: |
+        # Scarica il feed simulando un browser vero per evitare blocchi
+        curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" https://www.cciss.it/rss > feed.xml
+        
+        # Estrae i dati principali dall'XML e crea un JSON pulito usando PHP (preinstallato su Ubuntu)
+        php -r '
+          $xml = simplexml_load_file("feed.xml");
+          if (!$xml) exit(1);
+          $entries = [];
+          foreach ($xml->channel->item as $item) {
+              $entries[] = [
+                  "title" => (string)$item->title,
+                  "description" => (string)$item->description,
+                  "pubDate" => (string)$item->pubDate
+              ];
+          }
+          file_put_contents("feed.json", json_encode($entries, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        '
+        rm feed.xml
+
+    - name: Salva il file JSON nel repository
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "actions@github.com"
+        git add feed.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Aggiornamento feed automatico" && git push)
