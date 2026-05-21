@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCISS Monitor</title>
+    <style>
+        :root {
+            --bg-color: #f4f6f9;
+            --card-bg: #ffffff;
+            --text-color: #333333;
+            --primary: #0056b3;
+            --accent: #dc3545;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #121212;
+                --card-bg: #1e1e1e;
+                --text-color: #e0e0e0;
+                --primary: #3792ff;
+                --accent: #ff6b6b;
+            }
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 15px;
+        }
+        .header {
+            position: sticky;
+            top: 0;
+            background-color: var(--bg-color);
+            padding-bottom: 10px;
+            z-index: 100;
+        }
+        h1 {
+            font-size: 1.4rem;
+            margin: 0 0 10px 0;
+            text-align: center;
+        }
+        .filter-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        input, select {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 1rem;
+            background: var(--card-bg);
+            color: var(--text-color);
+        }
+        .btn-refresh {
+            padding: 12px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .status {
+            font-size: 0.85rem;
+            text-align: center;
+            margin-bottom: 10px;
+            opacity: 0.8;
+        }
+        .news-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .news-card {
+            background-color: var(--card-bg);
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            border-left: 5px solid var(--primary);
+        }
+        .news-card.critico {
+            border-left-color: var(--accent);
+        }
+        .news-title {
+            font-weight: bold;
+            font-size: 1.05rem;
+            margin-bottom: 5px;
+            color: var(--primary);
+        }
+        .news-desc {
+            font-size: 0.95rem;
+            line-height: 1.4;
+        }
+        .news-time {
+            font-size: 0.75rem;
+            opacity: 0.6;
+            margin-top: 8px;
+            text-align: right;
+        }
+        .no-results {
+            text-align: center;
+            padding: 30px;
+            opacity: 0.6;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>⚠️ CCISS Traffico Real-Time</h1>
+    <div class="filter-box">
+        <input type="text" id="searchFilter" placeholder="Cerca es. A1, Milano, PV, coda..." oninput="filterNews()">
+        <button class="btn-refresh" onclick="fetchFeed()">🔄</button>
+    </div>
+    <div id="status" class="status">Caricamento in corso...</div>
+</div>
+
+<div id="newsContainer" class="news-container"></div>
+
+<script>
+    let allEntries = [];
+
+    async function fetchFeed() {
+        const statusEl = document.getElementById('status');
+        statusEl.innerText = "Aggiornamento in corso...";
+        
+        const rssUrl = "https://www.cciss.it/rss";
+        // Usiamo un proxy CORS pubblico per permettere al browser del telefono di leggere il feed direttamente
+        const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}&_=${new Date().getTime()}`;
+
+        try {
+            const response = await fetch(proxyUrl);
+            if (!response.ok) throw new Error("Errore di rete");
+            const data = await response.json();
+            
+            // Il proxy restituisce l'XML come stringa dentro data.contents
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(data.contents, "text/xml");
+            
+            const items = xmlDoc.getElementsByTagName("item");
+            allEntries = [];
+
+            for (let i = 0; i < items.length; i++) {
+                const title = items[i].getElementsByTagName("title")[0]?.textContent || "";
+                const description = items[i].getElementsByTagName("description")[0]?.textContent || "";
+                const pubDate = items[i].getElementsByTagName("pubDate")[0]?.textContent || "";
+                
+                allEntries.push({ title, description, pubDate });
+            }
+
+            statusEl.innerText = `Ultimo aggiornamento: ${new Date().toLocaleTimeString()} (${allEntries.length} notizie caricate)`;
+            filterNews();
+
+        } catch (error) {
+            console.error(error);
+            statusEl.innerText = "Errore nel caricamento del feed. Riprova più tardi.";
+        }
+    }
+
+    function filterNews() {
+        const query = document.getElementById('searchFilter').value.toLowerCase().trim();
+        const container = document.getElementById('newsContainer');
+        container.innerHTML = "";
+
+        // Se la query contiene spazi, separiamo le parole chiave (es: "A4 Milano" cerca elementi con entrambe le parole)
+        const keywords = query.split(/\s+/);
+
+        const filtered = allEntries.filter(entry => {
+            const fullText = (entry.title + " " + entry.description).toLowerCase();
+            return keywords.every(kw => fullText.includes(kw));
+        });
+
+        if (filtered.length === 0) {
+            container.innerHTML = '<div class="no-results">Nessun evento corrisponde al filtro impostato.</div>';
+            return;
+        }
+
+        filtered.forEach(entry => {
+            const card = document.createElement('div');
+            card.className = 'news-card';
+            
+            // Se la notizia contiene parole critiche, cambia colore al bordo della card
+            if (entry.title.toLowerCase().includes('chiuso') || entry.description.toLowerCase().includes('bloccato')) {
+                card.classList.add('critico');
+            }
+
+            // Formattazione semplice della data del feed
+            let formattedTime = entry.pubDate;
+            try {
+                const dateObj = new Date(entry.pubDate);
+                if(!isNaN(dateObj)) {
+                    formattedTime = dateObj.toLocaleString('it-IT', { hour: '2-digit', minute: '2-digit', day: '2-digit', month: '2-digit' });
+                }
+            } catch(e) {}
+
+            card.innerHTML = `
+                <div class="news-title">${escapeHtml(entry.title)}</div>
+                <div class="news-desc">${escapeHtml(entry.description)}</div>
+                <div class="news-time">${formattedTime}</div>
+            `;
+            container.appendChild(card);
+        });
+    }
+
+    function escapeHtml(text) {
+        return text
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#039;");
+    }
+
+    // Carica il feed al primo avvio
+    fetchFeed();
+</script>
+
+</body>
+</html>
