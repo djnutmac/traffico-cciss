@@ -138,19 +138,24 @@
     let previousTitles = new Set();
     let lastSuccessTime = "";
     
-    const POLLING_INTERVAL = 60; // Il telefono controlla il file JSON su GitHub ogni minuto
+    const POLLING_INTERVAL = 90; // Ottimizzato a 90 secondi per sincronizzarsi con Pipedream
     let secondsToNextRefresh = POLLING_INTERVAL;
     let timerInterval = null;
+
+    // --- CONFIGURA QUI I TUOI DATI DI GITHUB PER IL BYPASS TOTALE DELLA CACHE ---
+    const USERNAME = "djnutmac";
+    const REPOSITORY = "traffico-cciss";
+    // ----------------------------------------------------------------------------
 
     async function fetchFeed() {
         const statusEl = document.getElementById('status');
         
-        // Leggiamo direttamente il file JSON statico dal tuo stesso spazio GitHub Pages
-        const jsonUrl = `feed.json?_ts=${new Date().getTime()}`;
+        // PUNTAMENTO DIRETTO AL CONTENUTO RAW DEL REPOSITORY (ZERO CACHE DELLA CDN)
+        const jsonUrl = `https://raw.githubusercontent.com/${USERNAME}/${REPOSITORY}/main/feed.json?_ts=${new Date().getTime()}`;
 
         try {
             const response = await fetch(jsonUrl);
-            if (!response.ok) throw new Error("File JSON non ancora generato dall'azione di GitHub.");
+            if (!response.ok) throw new Error("File JSON non raggiungibile.");
             
             const items = await response.json();
             
@@ -180,7 +185,7 @@
 
         } catch (error) {
             console.error(error);
-            statusEl.innerText = "In attesa della prima generazione dati di GitHub (può richiedere 1-2 min)...";
+            statusEl.innerText = "Sincronizzazione dati fallita. Riprovo...";
             secondsToNextRefresh = 10; 
         }
     }
