@@ -45,7 +45,7 @@
             gap: 10px;
             margin-bottom: 10px;
         }
-        input, select {
+        input {
             flex: 1;
             padding: 12px;
             border: 1px solid #ccc;
@@ -128,18 +128,23 @@
         statusEl.innerText = "Aggiornamento in corso...";
         
         const rssUrl = "https://www.cciss.it/rss";
-        // Usiamo un proxy CORS pubblico per permettere al browser del telefono di leggere il feed direttamente
-        const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}&_=${new Date().getTime()}`;
+        // Proxy CORS stabile per superare i blocchi dei browser
+        const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(rssUrl)}`;
 
         try {
             const response = await fetch(proxyUrl);
-            if (!response.ok) throw new Error("Errore di rete");
-            const data = await response.json();
+            if (!response.ok) throw new Error("Errore di risposta dal server proxy");
             
-            // Il proxy restituisce l'XML come stringa dentro data.contents
+            // Corsproxy.io restituisce il testo XML pulito
+            const xmlText = await response.text();
+            
             const parser = new DOMParser();
-            const xmlDoc = parser.parseFromString(data.contents, "text/xml");
+            const xmlDoc = parser.parseFromString(xmlText, "text/xml");
             
+            if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
+                throw new Error("Errore nel parsing dei dati XML del feed");
+            }
+
             const items = xmlDoc.getElementsByTagName("item");
             allEntries = [];
 
@@ -156,7 +161,7 @@
 
         } catch (error) {
             console.error(error);
-            statusEl.innerText = "Errore nel caricamento del feed. Riprova più tardi.";
+            statusEl.innerText = "Errore nel caricamento del feed. Riprova premendo il tasto 🔄.";
         }
     }
 
@@ -165,8 +170,8 @@
         const container = document.getElementById('newsContainer');
         container.innerHTML = "";
 
-        // Se la query contiene spazi, separiamo le parole chiave (es: "A4 Milano" cerca elementi con entrambe le parole)
-        const keywords = query.split(/\s+/);
+        // Supporta la ricerca a parole multiple separate da spazi (es: "A4 Milano")
+        const keywords = query.split(/\s+/).filter(kw => kw.length > 0);
 
         const filtered = allEntries.filter(entry => {
             const fullText = (entry.title + " " + entry.description).toLowerCase();
@@ -174,7 +179,7 @@
         });
 
         if (filtered.length === 0) {
-            container.innerHTML = '<div class="no-results">Nessun evento corrisponde al filtro impostato.</div>';
+            container.innerHTML = '<div class="no-results">Nessun evento corrisponde ai filtri inseriti.</div>';
             return;
         }
 
@@ -182,17 +187,27 @@
             const card = document.createElement('div');
             card.className = 'news-card';
             
-            // Se la notizia contiene parole critiche, cambia colore al bordo della card
-            if (entry.title.toLowerCase().includes('chiuso') || entry.description.toLowerCase().includes('bloccato')) {
+            // Evidenzia in rosso gli eventi bloccanti o critici
+            const isCritico = entry.title.toLowerCase().includes('chiuso') || 
+                              entry.title.toLowerCase().includes('bloccato') ||
+                              entry.description.toLowerCase().includes('chiuso') || 
+                              entry.description.toLowerCase().includes('bloccato');
+                              
+            if (isCritico) {
                 card.classList.add('critico');
             }
 
-            // Formattazione semplice della data del feed
+            // Formattazione della data italiana (GG/MM Ore:Minuti)
             let formattedTime = entry.pubDate;
             try {
                 const dateObj = new Date(entry.pubDate);
-                if(!isNaN(dateObj)) {
-                    formattedTime = dateObj.toLocaleString('it-IT', { hour: '2-digit', minute: '2-digit', day: '2-digit', month: '2-digit' });
+                if (!isNaN(dateObj)) {
+                    formattedTime = dateObj.toLocaleString('it-IT', { 
+                        hour: '2-digit', 
+                        minute: '2-digit', 
+                        day: '2-digit', 
+                        month: '2-digit' 
+                    });
                 }
             } catch(e) {}
 
@@ -214,7 +229,7 @@
             .replace(/'/g, "&#039;");
     }
 
-    // Carica il feed al primo avvio
+    // Esegui il primo caricamento automatico all'apertura della pagina
     fetchFeed();
 </script>
 
