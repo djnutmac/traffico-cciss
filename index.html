@@ -11,6 +11,8 @@
             --text-color: #333333;
             --primary: #0056b3;
             --accent: #dc3545;
+            --new-bg: #ff6d00; /* Arancione acceso per modalità giorno */
+            --new-text: #ffffff; /* Testo bianco sopra l'arancione in modalità giorno */
         }
         @media (prefers-color-scheme: dark) {
             :root {
@@ -19,6 +21,8 @@
                 --text-color: #e0e0e0;
                 --primary: #3792ff;
                 --accent: #ff6b6b;
+                --new-bg: #ff6d00; /* Stesso arancione acceso per modalità notte */
+                --new-text: #ffffff; /* Testo bianco per massimo contrasto al buio */
             }
         }
         body {
@@ -80,9 +84,19 @@
             border-radius: 10px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.05);
             border-left: 5px solid var(--primary);
+            transition: background-color 0.3s ease, color 0.3s ease;
         }
         .news-card.critico {
             border-left-color: var(--accent);
+        }
+        .news-card.nuova-notizia {
+            background-color: var(--new-bg) !important;
+            color: var(--new-text) !important;
+            border-left-style: dashed;
+        }
+        /* Correzione colore dei titoli quando la card diventa arancione */
+        .news-card.nuova-notizia .news-title {
+            color: var(--new-text) !important;
         }
         .news-title {
             font-weight: bold;
@@ -96,7 +110,7 @@
         }
         .news-time {
             font-size: 0.75rem;
-            opacity: 0.6;
+            opacity: 0.8;
             margin-top: 8px;
             text-align: right;
         }
@@ -122,7 +136,10 @@
 
 <script>
     let allEntries = [];
-    const POLLING_INTERVAL = 180; // Tempo di polling automatico in secondi (3 minuti)
+    let previousTitles = new Set();
+    let lastSuccessTime = "";
+    
+    const POLLING_INTERVAL = 180; // Polling a 3 minuti
     let secondsToNextRefresh = POLLING_INTERVAL;
     let timerInterval = null;
 
@@ -131,7 +148,6 @@
         statusEl.innerText = "Aggiornamento in corso...";
         
         const rssUrl = "https://www.cciss.it/rss";
-        // Cache busting inserito nell'URL per forzare il server a mandare dati freschi e non una copia vecchia
         const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(rssUrl)}&_ts=${new Date().getTime()}`;
 
         try {
@@ -147,6 +163,13 @@
             }
 
             const items = xmlDoc.getElementsByTagName("item");
+            
+            if (allEntries.length > 0) {
+                previousTitles = new Set(allEntries.map(e => e.title + e.pubDate));
+            } else {
+                previousTitles = new Set();
+            }
+
             allEntries = [];
 
             for (let i = 0; i < items.length; i++) {
@@ -154,10 +177,14 @@
                 const description = items[i].getElementsByTagName("description")[0]?.textContent || "";
                 const pubDate = items[i].getElementsByTagName("pubDate")[0]?.textContent || "";
                 
-                allEntries.push({ title, description, pubDate });
+                const uniqueKey = title + pubDate;
+                const isNew = previousTitles.size > 0 && !previousTitles.has(uniqueKey);
+
+                allEntries.push({ title, description, pubDate, isNew });
             }
 
-            // Reset del conto alla rovescia dopo un caricamento andato a buon fine
+            lastSuccessTime = new Date().toLocaleTimeString();
+            
             secondsToNextRefresh = POLLING_INTERVAL;
             updateStatusText(`${allEntries.length} notizie caricate.`);
             filterNews();
@@ -165,7 +192,6 @@
         } catch (error) {
             console.error(error);
             statusEl.innerText = "Errore nel caricamento. Riprovo a breve...";
-            // In caso di errore riprova comunque dopo 15 secondi invece di aspettare 3 minuti
             secondsToNextRefresh = 15; 
         }
     }
@@ -191,7 +217,7 @@
         const minuti = Math.floor(secondsToNextRefresh / 60);
         const secondi = secondsToNextRefresh % 60;
         const tempoString = `${minuti}:${secondi.toString().padStart(2, '0')}`;
-        statusEl.innerText = `Ultimo agg: ${new Date().toLocaleTimeString()} | Prossimo auto-update tra: ${tempoString} (${suffix})`;
+        statusEl.innerText = `Ultimo agg: ${lastSuccessTime} | Prossimo auto-update tra: ${tempoString} (${suffix})`;
     }
 
     function manualRefresh() {
@@ -219,6 +245,10 @@
             const card = document.createElement('div');
             card.className = 'news-card';
             
+            if (entry.isNew) {
+                card.classList.add('nuova-notizia');
+            }
+
             const isCritico = entry.title.toLowerCase().includes('chiuso') || 
                               entry.title.toLowerCase().includes('bloccato') ||
                               entry.description.toLowerCase().includes('chiuso') || 
@@ -259,7 +289,6 @@
             .replace(/'/g, "&#039;");
     }
 
-    // Avvio dell'app
     fetchFeed();
     startTimer();
 </script>
