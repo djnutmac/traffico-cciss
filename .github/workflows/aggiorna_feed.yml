@@ -5,19 +5,23 @@ on:
     - cron: '*/5 * * * *' # Gira ogni 5 minuti spaccati
   workflow_dispatch: # Ti permette di farlo partire anche a mano premendo un tasto
 
+# Imposta la variabile globale per forzare Node 24 ed eliminare i warning di deprecazione
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - name: Controlla il codice
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4.2.2 # Aggiornato all'ultima release compatibile con Node 24
 
     - name: Scarica il feed e convertilo in JSON
       run: |
         # Scarica il feed simulando un browser vero per evitare blocchi
         curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" https://www.cciss.it/rss > feed.xml
         
-        # Estrae i dati principali dall'XML e crea un JSON pulito usando PHP (preinstallato su Ubuntu)
+        # Estrae i dati principali dall'XML e crea un JSON pulito usando PHP
         php -r '
           $xml = simplexml_load_file("feed.xml");
           if (!$xml) exit(1);
