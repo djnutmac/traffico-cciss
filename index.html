@@ -113,7 +113,7 @@
     <h1>⚠️ CCISS Traffico Real-Time</h1>
     <div class="filter-box">
         <input type="text" id="searchFilter" placeholder="Cerca es. A1, Milano, PV, coda..." oninput="filterNews()">
-        <button class="btn-refresh" onclick="fetchFeed()">🔄</button>
+        <button class="btn-refresh" onclick="manualRefresh()">🔄</button>
     </div>
     <div id="status" class="status">Caricamento in corso...</div>
 </div>
@@ -122,27 +122,28 @@
 
 <script>
     let allEntries = [];
+    const POLLING_INTERVAL = 180; // Tempo di polling automatico in secondi (3 minuti)
+    let secondsToNextRefresh = POLLING_INTERVAL;
+    let timerInterval = null;
 
     async function fetchFeed() {
         const statusEl = document.getElementById('status');
         statusEl.innerText = "Aggiornamento in corso...";
         
         const rssUrl = "https://www.cciss.it/rss";
-        // Proxy CORS stabile per superare i blocchi dei browser
-        const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(rssUrl)}`;
+        // Cache busting inserito nell'URL per forzare il server a mandare dati freschi e non una copia vecchia
+        const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(rssUrl)}&_ts=${new Date().getTime()}`;
 
         try {
             const response = await fetch(proxyUrl);
             if (!response.ok) throw new Error("Errore di risposta dal server proxy");
             
-            // Corsproxy.io restituisce il testo XML pulito
             const xmlText = await response.text();
-            
             const parser = new DOMParser();
             const xmlDoc = parser.parseFromString(xmlText, "text/xml");
             
             if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
-                throw new Error("Errore nel parsing dei dati XML del feed");
+                throw new Error("Errore nel parsing dei dati XML");
             }
 
             const items = xmlDoc.getElementsByTagName("item");
@@ -156,13 +157,45 @@
                 allEntries.push({ title, description, pubDate });
             }
 
-            statusEl.innerText = `Ultimo aggiornamento: ${new Date().toLocaleTimeString()} (${allEntries.length} notizie caricate)`;
+            // Reset del conto alla rovescia dopo un caricamento andato a buon fine
+            secondsToNextRefresh = POLLING_INTERVAL;
+            updateStatusText(`${allEntries.length} notizie caricate.`);
             filterNews();
 
         } catch (error) {
             console.error(error);
-            statusEl.innerText = "Errore nel caricamento del feed. Riprova premendo il tasto 🔄.";
+            statusEl.innerText = "Errore nel caricamento. Riprovo a breve...";
+            // In caso di errore riprova comunque dopo 15 secondi invece di aspettare 3 minuti
+            secondsToNextRefresh = 15; 
         }
+    }
+
+    function startTimer() {
+        if (timerInterval) clearInterval(timerInterval);
+        
+        timerInterval = setInterval(() => {
+            secondsToNextRefresh--;
+            
+            if (secondsToNextRefresh <= 0) {
+                fetchFeed();
+            } else {
+                if (allEntries.length > 0) {
+                    updateStatusText(`${allEntries.length} notizie caricate.`);
+                }
+            }
+        }, 1000);
+    }
+
+    function updateStatusText(suffix) {
+        const statusEl = document.getElementById('status');
+        const minuti = Math.floor(secondsToNextRefresh / 60);
+        const secondi = secondsToNextRefresh % 60;
+        const tempoString = `${minuti}:${secondi.toString().padStart(2, '0')}`;
+        statusEl.innerText = `Ultimo agg: ${new Date().toLocaleTimeString()} | Prossimo auto-update tra: ${tempoString} (${suffix})`;
+    }
+
+    function manualRefresh() {
+        fetchFeed();
     }
 
     function filterNews() {
@@ -170,7 +203,6 @@
         const container = document.getElementById('newsContainer');
         container.innerHTML = "";
 
-        // Supporta la ricerca a parole multiple separate da spazi (es: "A4 Milano")
         const keywords = query.split(/\s+/).filter(kw => kw.length > 0);
 
         const filtered = allEntries.filter(entry => {
@@ -187,7 +219,6 @@
             const card = document.createElement('div');
             card.className = 'news-card';
             
-            // Evidenzia in rosso gli eventi bloccanti o critici
             const isCritico = entry.title.toLowerCase().includes('chiuso') || 
                               entry.title.toLowerCase().includes('bloccato') ||
                               entry.description.toLowerCase().includes('chiuso') || 
@@ -197,7 +228,6 @@
                 card.classList.add('critico');
             }
 
-            // Formattazione della data italiana (GG/MM Ore:Minuti)
             let formattedTime = entry.pubDate;
             try {
                 const dateObj = new Date(entry.pubDate);
@@ -229,8 +259,9 @@
             .replace(/'/g, "&#039;");
     }
 
-    // Esegui il primo caricamento automatico all'apertura della pagina
+    // Avvio dell'app
     fetchFeed();
+    startTimer();
 </script>
 
 </body>
