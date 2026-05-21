@@ -128,7 +128,7 @@
         <input type="text" id="searchFilter" placeholder="Cerca es. A1, Milano, PV, coda..." oninput="filterNews()">
         <button class="btn-refresh" onclick="manualRefresh()">🔄</button>
     </div>
-    <div id="status" class="status">Caricamento in corso...</div>
+    <div id="status" class="status">Inizializzazione in corso...</div>
 </div>
 
 <div id="newsContainer" class="news-container"></div>
@@ -138,101 +138,57 @@
     let previousTitles = new Set();
     let lastSuccessTime = "";
     
-    const POLLING_INTERVAL = 180; // Controllo automatico ogni 3 minuti
+    const POLLING_INTERVAL = 60; // Il telefono controlla il file JSON su GitHub ogni minuto
     let secondsToNextRefresh = POLLING_INTERVAL;
     let timerInterval = null;
 
     async function fetchFeed() {
         const statusEl = document.getElementById('status');
-        statusEl.innerText = "Aggiornamento in corso...";
         
-        const rssUrl = "https://www.cciss.it/rss";
-        
-        // Genera una stringa casuale + timestamp a ogni chiamata per forzare l'aggiornamento reale
-        const cacheBuster = Math.random().toString(36).substring(2) + new Date().getTime();
-        const proxyUrl = `https://cors-proxy.htmldriven.com/?url=${encodeURIComponent(rssUrl)}&cb=${cacheBuster}`;
+        // Leggiamo direttamente il file JSON statico dal tuo stesso spazio GitHub Pages
+        const jsonUrl = `feed.json?_ts=${new Date().getTime()}`;
 
         try {
-            const response = await fetch(proxyUrl);
-            if (!response.ok) throw new Error("Errore proxy primario");
+            const response = await fetch(jsonUrl);
+            if (!response.ok) throw new Error("File JSON non ancora generato dall'azione di GitHub.");
             
-            const jsonResult = await response.json();
-            const xmlText = jsonResult.body;
+            const items = await response.json();
             
-            if (!xmlText) throw new Error("Risposta vuota");
+            if (allEntries.length > 0) {
+                previousTitles = new Set(allEntries.map(e => e.title + e.pubDate));
+            } else {
+                previousTitles = new Set();
+            }
 
-            parseAndRender(xmlText, "notizie caricate.");
+            allEntries = [];
 
-        } catch (error) {
-            console.warn("Proxy primario fallito, tento il backup...", error);
-            // Salta istantaneamente al proxy di riserva senza attendere
-            fallbackFetch();
-        }
-    }
+            for (let i = 0; i < items.length; i++) {
+                const title = items[i].title || "";
+                const description = items[i].description || "";
+                const pubDate = items[i].pubDate || "";
+                
+                const uniqueKey = title + pubDate;
+                const isNew = previousTitles.size > 0 && !previousTitles.has(uniqueKey);
 
-    async function fallbackFetch() {
-        const statusEl = document.getElementById('status');
-        const rssUrl = "https://www.cciss.it/rss";
-        const cacheBuster = new Date().getTime() + Math.floor(Math.random() * 1000);
-        
-        // Secondo proxy di backup che legge l'XML in formato testo grezzo
-        const fallbackUrl = `https://thingproxy.freeboard.io/fetch/${rssUrl}?v=${cacheBuster}`;
+                allEntries.push({ title, description, pubDate, isNew });
+            }
 
-        try {
-            const response = await fetch(fallbackUrl);
-            if (!response.ok) throw new Error("Anche il proxy di backup è fallito");
-            
-            const xmlText = await response.text();
-            parseAndRender(xmlText, "notizie caricate (via backup).");
+            lastSuccessTime = new Date().toLocaleTimeString();
+            secondsToNextRefresh = POLLING_INTERVAL;
+            updateStatusText(`${allEntries.length} notizie caricate.`);
+            filterNews();
 
         } catch (error) {
             console.error(error);
-            statusEl.innerText = "Errore di rete (Cache bloccata). Riprovo a breve...";
-            secondsToNextRefresh = 15; // Riprova più in fretta se entrambi i nodi falliscono
+            statusEl.innerText = "In attesa della prima generazione dati di GitHub (può richiedere 1-2 min)...";
+            secondsToNextRefresh = 10; 
         }
-    }
-
-    function parseAndRender(xmlText, suffixMessage) {
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(xmlText, "text/xml");
-        
-        if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
-            throw new Error("Errore nel parsing XML");
-        }
-
-        const items = xmlDoc.getElementsByTagName("item");
-        
-        if (allEntries.length > 0) {
-            previousTitles = new Set(allEntries.map(e => e.title + e.pubDate));
-        } else {
-            previousTitles = new Set();
-        }
-
-        allEntries = [];
-
-        for (let i = 0; i < items.length; i++) {
-            const title = items[i].getElementsByTagName("title")[0]?.textContent || "";
-            const description = items[i].getElementsByTagName("description")[0]?.textContent || "";
-            const pubDate = items[i].getElementsByTagName("pubDate")[0]?.textContent || "";
-            
-            const uniqueKey = title + pubDate;
-            const isNew = previousTitles.size > 0 && !previousTitles.has(uniqueKey);
-
-            allEntries.push({ title, description, pubDate, isNew });
-        }
-
-        lastSuccessTime = new Date().toLocaleTimeString();
-        secondsToNextRefresh = POLLING_INTERVAL;
-        updateStatusText(`${allEntries.length} ${suffixMessage}`);
-        filterNews();
     }
 
     function startTimer() {
         if (timerInterval) clearInterval(timerInterval);
-        
         timerInterval = setInterval(() => {
             secondsToNextRefresh--;
-            
             if (secondsToNextRefresh <= 0) {
                 fetchFeed();
             } else {
@@ -248,7 +204,7 @@
         const minuti = Math.floor(secondsToNextRefresh / 60);
         const secondi = secondsToNextRefresh % 60;
         const tempoString = `${minuti}:${secondi.toString().padStart(2, '0')}`;
-        statusEl.innerText = `Ultimo agg: ${lastSuccessTime} | Prossimo auto-update tra: ${tempoString} (${suffix})`;
+        statusEl.innerText = `Ultimo agg: ${lastSuccessTime} | Prossimo controllo tra: ${tempoString} (${suffix})`;
     }
 
     function manualRefresh() {
