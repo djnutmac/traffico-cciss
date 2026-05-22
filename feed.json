@@ -1,22 +1,162 @@
 [
     {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n personale su strada causa lavori dalle 00:36 del 23 maggio 2026  tra Svincolo Palma Campania e Svincolo Nocera Pagani  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:38:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 00:36 del 23 maggio 2026  tra Svincolo Atri-Pineto e Svincolo Pescara N. Citta  S.Angelo  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:37:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 00:36 del 23 maggio 2026  tra Svincolo Arezzo e Svincolo Monte San Savino  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:37:00 GMT"
+    },
+    {
+        "title": "A26 Diramazione Predosa-Bettole",
+        "description": "A26 Diramazione Predosa-Bettole\n personale su strada causa lavori dalle 00:34 del 23 maggio 2026  tra Svincolo Novi Ligure e Allacciamento A26 Ge Voltri-Gravellona T.  in direzione A26 Genova Voltri-Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:35:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 00:27 del 23 maggio 2026  tra Svincolo Bologna Interporto e Svincolo Altedo  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:29:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 00:23 del 23 maggio 2026  tra Allacciamento Diramazione Roma Sud e Allacciamento A24 Roma-Teramo  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:24:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo in avaria in entrata  a Svincolo Massa in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:22:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n personale su strada dalle 00:18 del 23 maggio 2026  tra Svincolo Montecatini e Svincolo Pistoia  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:20:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 00:17 del 23 maggio 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Orte  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:19:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n traffico rallentato causa lavori dalle 00:16 del 23 maggio 2026  tra Svincolo Firenze Scandicci e Svincolo Firenze Impruneta  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:18:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n veicolo fermo o in avaria dalle 00:17 del 23 maggio 2026  tra Barriera Di Salerno M.S.Severino e Svincolo Castel S. Giorgio  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:18:00 GMT"
+    },
+    {
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n chiusura notturna, entrata chiusa causa lavori dalle 00:01 alle 06:00 del 23 maggio 2026  a Svincolo SS.412 Della Val Tidone: Pavia-Opera in direzione A8 Laghi da PAVIA  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:12:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n personale su strada causa lavori dalle 00:11 del 23 maggio 2026  tra Svincolo Tivoli e Svincolo Castel Madama   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:12:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 00:05 del 23 maggio 2026  tra Svincolo Prato Est e Svincolo Prato Ovest  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:09:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n veicolo fermo o in avaria dalle 00:04 del 23 maggio 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:09:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 23:38 del 22 maggio 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:07:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 00:03 del 23 maggio 2026  tra Svincolo Colleferro e Allacciamento Diramazione Roma Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:05:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n tratto chiuso causa lavori dalle 00:01 alle 06:00 del 23 maggio 2026  tra Svincolo Genova Bolzaneto e Allacciamento A12 Genova-Rosignano  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:03:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n uscita chiusa causa lavori dalle 00:01 alle 06:00 del 23 maggio 2026  a Svincolo Chiesina Uzzanese in direzione da Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:02:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n personale su strada causa lavori dalle 00:00 del 23 maggio 2026  tra Svincolo Recco e Svincolo Chiavari  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 22:01:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n rampa di accesso chiusa causa lavori dalle 23:58 del 22 alle 06:00 del 23 maggio 2026  a Svincolo Firenze Impruneta in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:59:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 23:52 del 22 maggio 2026  tra Svincolo Serravalle Scrivia e Svincolo Isola Del Cantone   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:54:00 GMT"
+    },
+    {
         "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 23:32 del 22 maggio 2026  tra Svincolo Celle Ligure e Svincolo Varazze  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:34:00 GMT"
+        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 23:49 del 22 maggio 2026  tra Svincolo Albisola e Svincolo Celle Ligure  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:51:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 23:32 del 22 maggio 2026  tra Allacciamento A15 Parma-La Spezia e Svincolo Parma  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:34:00 GMT"
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 23:48 del 22 maggio 2026  tra Svincolo Arenzano e Allacciamento A26 Ge Voltri-Gravellona T.  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:49:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n perdita di carico causa perdita accidentale dalle 23:32 del 22 maggio 2026  tra Svincolo Fidenza e Svincolo Parma  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:34:00 GMT"
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 23:47 del 22 maggio 2026  tra Svincolo Genova Pegli e Svincolo Genova Voltri  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:49:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n code causa incidente dalle 21:17 del 22 maggio 2026  tra Svincolo Terre di Canossa - Campegine e Svincolo Parma  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "title": "SS3bis Bis tiberina (e45)",
+        "description": "SS3bis Bis tiberina (e45)\n veicolo in avaria  a Incrocio Deruta Nord in direzione Incrocio Viterbo-Terni  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:47:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n lavori in ingresso  a Svincolo Novara Ovest in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:46:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n lavori  a Svincolo Biandrate Vicolungo in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:46:00 GMT"
+    },
+    {
+        "title": "Roma Via delle Valli",
+        "description": "Roma Via delle Valli\n riduzione di carreggiata causa lavori di rifacimento del manto stradale dalle 00:01 del 18 maggio 2026  tra Piazza Gondar e Piazza Conca d Oro  in direzione Piazza Conca d Oro  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:41:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada dalle 23:38 del 22 maggio 2026  tra Svincolo Valdichiana e Svincolo Chiusi-Chianciano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:39:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 23:36 del 22 maggio 2026  tra Svincolo Incisa - Reggello e Svincolo Valdarno  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 21:37:00 GMT"
+    },
+    {
+        "title": "A52 Tangenziale Nord Di Milano",
+        "description": "A52 Tangenziale Nord Di Milano\n chiusura notturna, entrata chiusa causa tratto chiuso dalle 23:05 del 22 alle 06:00 del 23 maggio 2026  a Svincolo Monza Centro: 1 Maggio in direzione SUD (A1 Bologna \/ Tangenziale Est) ramo da Sesto San Giovanni 1° Maggio (Km 5+281) e Monza  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 21:34:00 GMT"
     },
     {
@@ -35,43 +175,13 @@
         "pubDate": "Fri, 22 May 2026 21:33:00 GMT"
     },
     {
-        "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n chiusura notturna, entrata chiusa causa tratto chiuso dalle 23:05 del 22 alle 06:00 del 23 maggio 2026  a Svincolo Monza Centro: 1 Maggio in direzione SUD (A1 Bologna \/ Tangenziale Est) ramo da Sesto San Giovanni 1° Maggio (Km 5+281)  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:32:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 23:30 del 22 maggio 2026  tra Svincolo Casale Monferrato Nord e Allacciamento Diramazione Stroppiana-Santhia   in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:31:00 GMT"
-    },
-    {
         "title": "A50 Tangenziale Ovest Di Milano",
         "description": "A50 Tangenziale Ovest Di Milano\n chiusura notturna, entrata chiusa causa lavori dalle 23:03 del 22 alle 06:00 del 23 maggio 2026  a Svincolo SS494 Vigevanese Nuova: Lorenteggio in direzione  A1 Bologna ramo da SS494 MI-Lorenteggio  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 21:30:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicoli scortati per maltempo causa veicolo fermo o in avaria dalle 23:28 del 22 maggio 2026  tra Svincolo Cavenago e Svincolo Agrate  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:30:00 GMT"
-    },
-    {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n pedoni dalle 23:27 del 22 maggio 2026  tra Svincolo Legnano e Svincolo Castellanza  in direzione Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:29:00 GMT"
-    },
-    {
         "title": "A50 Tangenziale Ovest Di Milano",
         "description": "A50 Tangenziale Ovest Di Milano\n chiusura notturna, uscita chiusa causa lavori dalle 23:02 del 22 alle 06:00 del 23 maggio 2026  a Svincolo SS494 Vigevanese Nuova: Lorenteggio in direzione NORD (A8 Laghi) ramo per la SS494 Vigevano (km 13+901)   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:27:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n personale su strada causa lavori dalle 23:25 del 22 maggio 2026  tra Svincolo Pistoia e Svincolo Montecatini  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:27:00 GMT"
-    },
-    {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n code causa tratto chiuso dalle 23:25 del 22 maggio 2026  tra Svincolo Castronno e Svincolo Solbiate Arno  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 21:27:00 GMT"
     },
     {
@@ -85,34 +195,9 @@
         "pubDate": "Fri, 22 May 2026 21:25:00 GMT"
     },
     {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 23:21 del 22 maggio 2026  tra Svincolo Vasto Sud e Svincolo Vasto Nord-Casalbordino  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:24:00 GMT"
-    },
-    {
         "title": "A50 Tangenziale Ovest Di Milano",
         "description": "A50 Tangenziale Ovest Di Milano\n chiusura notturna, entrata chiusa causa lavori dalle 23:01 del 22 alle 06:00 del 23 maggio 2026  a Svincolo SS494 Vigevanese Nuova: Lorenteggio in direzione NORD (A8 Laghi) ramo dalla SS494 Vigevano (km 13+901)   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 21:24:00 GMT"
-    },
-    {
-        "title": "A22 Brennero-Modena",
-        "description": "A22 Brennero-Modena\n code causa lavori dalle 23:18 del 22 maggio 2026  tra 6,9 km dopo Svincolo Chiusa-Valgardena e 15,5 km prima di Svincolo Bolzano Nord  in direzione Modena  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:22:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo fermo o in avaria dalle 23:18 del 22 maggio 2026  tra Svincolo Pontedera Est e Svincolo Montopoli In Val D arno  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:21:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n code causa incidente dalle 21:44 del 22 maggio 2026  tra Svincolo Terre di Canossa - Campegine e Svincolo Parma  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:21:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 23:15 del 22 maggio 2026  tra Svincolo Terre di Canossa - Campegine e Svincolo Parma  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:20:00 GMT"
     },
     {
         "title": "SS54 Del Friuli",
@@ -128,16 +213,6 @@
         "title": "A51 Tangenziale Est Di Milano",
         "description": "A51 Tangenziale Est Di Milano\n chiusura notturna, entrata chiusa causa tratto chiuso dalle 23:01 del 22 alle 06:00 del 23 maggio 2026  a Svincolo C.A.M.M.: Monlue  in direzione NORD (Usmate)  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 21:19:00 GMT"
-    },
-    {
-        "title": "A14 Ramo Casalecchio",
-        "description": "A14 Ramo Casalecchio\n personale su strada causa lavori dalle 23:16 del 22 maggio 2026  tra Allacciamento A14 Bologna-Taranto e Svincolo Bologna Casalecchio  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:18:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 23:14 del 22 maggio 2026  tra Allacciamento Bari Nord - Raccordo Per La Tangenziale e Svincolo Bitonto  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:18:00 GMT"
     },
     {
         "title": "A51 Tangenziale Est Di Milano",
@@ -165,29 +240,9 @@
         "pubDate": "Fri, 22 May 2026 21:10:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 23:05 del 22 maggio 2026  tra Allacciamento A15 Parma-La Spezia e Svincolo Fidenza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:07:00 GMT"
-    },
-    {
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 17,3 km prima di Svincolo Pontremoli e 3,8 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 21:06:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 23:03 del 22 maggio 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:05:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 23:03 del 22 maggio 2026  tra Svincolo Ovada e Svincolo Masone  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:04:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 23:02 del 22 maggio 2026  tra Allacciamento A25 Torano-Pescara e Svincolo Pescara Ovest-Chieti  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 21:04:00 GMT"
     },
     {
         "title": "A10 Genova-Ventimiglia",
@@ -225,34 +280,9 @@
         "pubDate": "Fri, 22 May 2026 20:59:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n personale su strada causa lavori dalle 22:57 del 22 maggio 2026  tra Svincolo Lavagna e Svincolo Rapallo  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:58:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 22:56 del 22 maggio 2026  tra Svincolo Firenze Impruneta e Svincolo Firenze Sud  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:58:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 22:55 del 22 maggio 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:56:00 GMT"
-    },
-    {
         "title": "A4 Milano-Brescia",
         "description": "A4 Milano-Brescia\n rampa di accesso chiusa causa lavori dalle 22:53 del 22 alle 05:00 del 23 maggio 2026  a Svincolo Capriate  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 20:55:00 GMT"
-    },
-    {
-        "title": "A51 Tangenziale Est Di Milano",
-        "description": "A51 Tangenziale Est Di Milano\n veicolo in avaria  a Svincolo C.A.M.M.: Monlue  in direzione Svincolo Lecco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:54:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 22:53 del 22 maggio 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:54:00 GMT"
     },
     {
         "title": "A50 Tangenziale Ovest Di Milano",
@@ -270,21 +300,6 @@
         "pubDate": "Fri, 22 May 2026 20:50:00 GMT"
     },
     {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 22:49 del 22 maggio 2026  tra Svincolo Candela e Svincolo Cerignola   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:50:00 GMT"
-    },
-    {
-        "title": "A28 Portogruaro-Sacile",
-        "description": "A28 Portogruaro-Sacile\n incidente in uscita  a Svincolo Portogruaro in direzione Portogruaro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:48:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Berceto in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:48:00 GMT"
-    },
-    {
         "title": "A14 Pescara-Bari",
         "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 22:43 del 22 maggio 2026  tra Svincolo Ortona e Svincolo Lanciano   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 20:44:00 GMT"
@@ -293,21 +308,6 @@
         "title": "A52 Tangenziale Nord Di Milano",
         "description": "A52 Tangenziale Nord Di Milano\n lavori  tra Svincolo SP151 Cinisello B.Nord: Zona Industriale e Svincolo Sesto S.Giovanni (Diramazione Nord)  in direzione Allacciamento Tangenziale Est Di Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 20:40:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n lavori in uscita  a Svincolo Novara Ovest in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:39:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n uscita chiusa causa lavori  a Svincolo Novara Ovest in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:39:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 22:36 del 22 maggio 2026  tra Svincolo Teramo-Giulianova-Mosciano e Svincolo Val Vibrata  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:37:00 GMT"
     },
     {
         "title": "A51 Tangenziale Est Di Milano",
@@ -363,16 +363,6 @@
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 22:28 del 22 maggio 2026  a Svincolo Ponzano Romano-Soratte in direzione da Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 20:30:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 21:58 del 22 maggio 2026  tra Svincolo Anagni - Fiuggi e Svincolo Ferentino  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:29:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 21:46 del 22 maggio 2026  tra Svincolo Chiesina Uzzanese e Svincolo Montecatini  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:29:00 GMT"
     },
     {
         "title": "A14 Pescara-Bari",
@@ -460,11 +450,6 @@
         "pubDate": "Fri, 22 May 2026 20:18:00 GMT"
     },
     {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 22:15 del 22 maggio 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 22 May 2026 20:17:00 GMT"
-    },
-    {
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 21:02 del 22 maggio 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 20:15:00 GMT"
@@ -490,6 +475,11 @@
         "pubDate": "Fri, 22 May 2026 20:13:00 GMT"
     },
     {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n chiusura nodo causa lavori  a Allacciamento A21 Torino-Piacenza-Brescia in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 20:11:00 GMT"
+    },
+    {
         "title": "A10 Genova-Ventimiglia",
         "description": "A10 Genova-Ventimiglia\n lavori  tra 532 m prima di Svincolo Arma Di Taggia e 13,645 km dopo Svincolo Imperia Ovest  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 20:11:00 GMT"
@@ -498,5 +488,15 @@
         "title": "A26 Genova-Gravellona Toce",
         "description": "A26 Genova-Gravellona Toce\n chiusura nodo causa lavori  a Allacciamento A21 Torino-Piacenza-Brescia in direzione  Brescia   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 22 May 2026 20:10:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n rampa di accesso chiusa causa lavori dalle 22:07 del 22 alle 06:00 del 23 maggio 2026  a Svincolo Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 20:09:00 GMT"
+    },
+    {
+        "title": "SS299 Di Alagna",
+        "description": "SS299 Di Alagna\n senso unico alternato causa lavori dalle 07:30 del 25 alle 18:30 del 29 maggio 2026  tra Incrocio Agognate A4 Torino-Trieste e Incrocio Fara Novarese   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 22 May 2026 20:09:00 GMT"
     }
 ]
