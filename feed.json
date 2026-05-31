@@ -1,12 +1,367 @@
 [
     {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 17:48 del 31 maggio 2026  tra Svincolo L aquila Ovest e Svincolo Tornimparte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:50:00 GMT"
+        "title": "Verona Vicolo Listone",
+        "description": "Verona Vicolo Listone\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Piazza Brà  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:58:00 GMT"
     },
     {
-        "title": "A14 Bari-Taranto",
-        "description": "A14 Bari-Taranto\n incendio dalle 17:48 del 31 maggio 2026  tra Svincolo Bari Sud e Svincolo Acquaviva Delle Fonti  in direzione Taranto  <br\/> (Fonte: www.cciss.it)",
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 18:56 del 31 maggio 2026  tra Svincolo Assergi e Svincolo Colledara-San Gabriele  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:58:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 18:55 del 31 maggio 2026  tra Svincolo Castel Madama e Svincolo Tivoli  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:56:00 GMT"
+    },
+    {
+        "title": "Verona Vicoletto Listone",
+        "description": "Verona Vicoletto Listone\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Piazza Brà  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:55:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 18:42 del 31 maggio 2026  tra Svincolo Castel Madama e Svincolo Vicovaro-Mandela  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:54:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 18:53 del 31 maggio 2026  tra Svincolo Foggia e Svincolo San Severo  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:54:00 GMT"
+    },
+    {
+        "title": "R00 Raccordo Siena-Firenze",
+        "description": "R00 Raccordo Siena-Firenze\n traffico rallentato causa incidente  a Svincolo S.Casciano Nord in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:53:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 18:52 del 31 maggio 2026  tra Svincolo Pistoia e Svincolo Prato Ovest  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:53:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n code causa traffico intenso dalle 18:50 del 31 maggio 2026  a Svincolo Corso Malta in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:52:00 GMT"
+    },
+    {
+        "title": "Verona Piazza Brà",
+        "description": "Verona Piazza Brà\n strada chiusa causa manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  tra Corso Porta Nuova e Via degli Alpini   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:52:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n code causa traffico intenso dalle 18:51 del 31 maggio 2026  tra Barriera Napoli Est e Svincolo Corso Malta  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:52:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n veicolo fermo o in avaria dalle 18:47 del 31 maggio 2026  tra Allacciamento A12 Genova-Rosignano e Allacciamento A10 Genova-Ventimiglia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:52:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n code causa incidente dalle 18:06 del 31 maggio 2026  tra Svincolo Lucca e Svincolo Altopascio  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:49:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 17:38 del 31 maggio 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:49:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 18:45 del 31 maggio 2026  tra Svincolo Pomigliano D arco e Allacciamento A1 Milano-Napoli  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:46:00 GMT"
+    },
+    {
+        "title": "Verona Vicolo Volto San Luca",
+        "description": "Verona Vicolo Volto San Luca\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:42:00 GMT"
+    },
+    {
+        "title": "SS33 Del Sempione",
+        "description": "SS33 Del Sempione\n traffico rallentato causa incidente  a Incrocio Migiandone in direzione Rotatoria Milano - Cascina Merlata Fiera - Via Gallarate  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:41:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n code causa incidente dalle 18:34 del 31 maggio 2026  tra Svincolo Santa Croce Sull arno e Svincolo Empoli Ovest  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:40:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Sud",
+        "description": "A1 Diramazione Roma Sud\n veicolo fermo o in avaria dalle 18:39 del 31 maggio 2026  tra Svincolo San Cesareo e Allacciamento A1 Milano-Napoli  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:40:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 18:38 del 31 maggio 2026  tra Svincolo Torrimpietra e Svincolo Cerveteri-Ladispoli  in direzione S.s. 1 Aurelia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:40:00 GMT"
+    },
+    {
+        "title": "Verona Vicolo Volto Cittadella",
+        "description": "Verona Vicolo Volto Cittadella\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:40:00 GMT"
+    },
+    {
+        "title": "Verona Vicolo Ghiaia",
+        "description": "Verona Vicolo Ghiaia\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:37:00 GMT"
+    },
+    {
+        "title": "SS42 Del Tonale E Della Mendola",
+        "description": "SS42 Del Tonale E Della Mendola\n tratto chiuso causa incidente  a Incrocio Breno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:36:00 GMT"
+    },
+    {
+        "title": "SP15a(RM) Tiberina",
+        "description": "SP15a(RM) Tiberina\n incidente con code a tratti  tra Incrocio Belvedere e Incrocio SS3 SP35b-Labaro   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:36:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n veicolo fermo o in avaria dalle 18:34 del 31 maggio 2026  tra Svincolo Corso Malta e Svincolo Capodimonte  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:35:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n incidente dalle 18:34 del 31 maggio 2026  tra Svincolo San Miniato Basso e Svincolo Empoli Ovest  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:35:00 GMT"
+    },
+    {
+        "title": "Verona Via dei Mutilati",
+        "description": "Verona Via dei Mutilati\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:35:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 18:32 del 31 maggio 2026  tra Svincolo Capannori e Svincolo Lucca  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:34:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n pioggia dalle 16:40 del 31 maggio 2026  tra Allacciamento A57 Torino-Trieste\/Raccordo Per Tessera e Allacciamento A28 Venezia-Belluno   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:34:00 GMT"
+    },
+    {
+        "title": "Verona Via degli Alpini",
+        "description": "Verona Via degli Alpini\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:33:00 GMT"
+    },
+    {
+        "title": "SS18 Tirrena Inferiore",
+        "description": "SS18 Tirrena Inferiore\n traffico rallentato  a Incrocio Policastro Bussentino - SS562  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:33:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n traffico rallentato causa traffico intenso dalle 18:31 del 31 maggio 2026  tra Svincolo Recco e Svincolo Genova Nervi  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:33:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n traffico rallentato causa traffico intenso dalle 18:32 del 31 maggio 2026  tra Svincolo Masone e Svincolo Ovada  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:33:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n code a tratti per 3 km causa traffico intenso  tra 5,005 km prima di Svincolo Spotorno e Allacciamento A10 - A06 al Km 45  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:33:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Nord",
+        "description": "A1 Diramazione Roma Nord\n personale su strada causa ripristino incidente dalle 18:30 del 31 maggio 2026  tra Allacciamento A1 Milano-Napoli e Barriera Di Roma Nord  in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:32:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Nord",
+        "description": "A1 Diramazione Roma Nord\n ripristino incidente causa incidente dalle 18:30 del 31 maggio 2026  tra Allacciamento A1 Milano-Napoli e Barriera Di Roma Nord  in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:32:00 GMT"
+    },
+    {
+        "title": "A14 Ramo Casalecchio",
+        "description": "A14 Ramo Casalecchio\n code causa traffico intenso dalle 18:30 del 31 maggio 2026  a Svincolo Bologna Casalecchio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:31:00 GMT"
+    },
+    {
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n veicolo in avaria  a Allacciamento A4 Torino-Trieste: V.Le Certosa in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:29:00 GMT"
+    },
+    {
+        "title": "A34 Villesse-Gorizia",
+        "description": "A34 Villesse-Gorizia\n code causa traffico intenso  tra 7,328 km dopo Svincolo Gradisca d Isonzo e Svincolo Gorizia  in direzione Gorizia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:29:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n code a tratti causa traffico intenso dalle 18:27 del 31 maggio 2026  tra Svincolo Faenza e Svincolo Imola  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:28:00 GMT"
+    },
+    {
+        "title": "A3 Napoli-Salerno",
+        "description": "A3 Napoli-Salerno\n code causa incidente dalle 17:47 del 31 maggio 2026  tra Svincolo Torre Del Greco e Svincolo Ponticelli  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:28:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 18:04 del 31 maggio 2026  tra Svincolo Cocullo e Svincolo Pescina  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:27:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 16:56 del 31 maggio 2026  tra Svincolo Pontebba e Svincolo Carnia  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:27:00 GMT"
+    },
+    {
+        "title": "A55 Tangenziale Sud Di Torino",
+        "description": "A55 Tangenziale Sud Di Torino\n veicolo in avaria  a Svincolo Corso Francia-Cascine Vica in direzione Svincolo Santena - A21 Torino-Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "A55 Tangenziale Sud Di Torino",
+        "description": "A55 Tangenziale Sud Di Torino\n veicolo in avaria  a Svincolo Corso Francia-Cascine Vica in direzione Svincolo Santena - A21 Torino-Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "A55 Diramazione Per Pinerolo",
+        "description": "A55 Diramazione Per Pinerolo\n materiali dispersi  a Svincolo None in direzione Svincolo S.R. 23  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 17:52 del 31 maggio 2026  tra Svincolo Colledara-San Gabriele e Svincolo Assergi  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 18:19 del 31 maggio 2026  tra Svincolo Avezzano e Svincolo Celano  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 18:17 del 31 maggio 2026  tra Svincolo Tagliacozzo e Svincolo Carsoli-Oricola  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 18:19 del 31 maggio 2026  a Barriera Di Ugovizza-Tarvisio in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 17:42 del 31 maggio 2026  a Barriera Di Ugovizza-Tarvisio in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "A51 Tangenziale Est Di Milano",
+        "description": "A51 Tangenziale Est Di Milano\n veicolo in avaria  tra Svincolo Gobba: Treviglio-Vimodrone e Allacciamento Tangenziale Nord Milano  in direzione Svincolo Lecco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "Verona Via Cesare Battisti",
+        "description": "Verona Via Cesare Battisti\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:26:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 18:22 del 31 maggio 2026  tra Svincolo San Vittore e Svincolo Caianello  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:25:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n perdita di carico dalle 18:09 del 31 maggio 2026  tra Svincolo Val Di Sangro e Svincolo Vasto Nord-Casalbordino  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:25:00 GMT"
+    },
+    {
+        "title": "Verona Via Antonio Locatelli",
+        "description": "Verona Via Antonio Locatelli\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:23:00 GMT"
+    },
+    {
+        "title": "Verona Via Andrea Paglieri",
+        "description": "Verona Via Andrea Paglieri\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:21:00 GMT"
+    },
+    {
+        "title": "Bologna Via Torino",
+        "description": "Bologna Via Torino\n incidente  a Via degli Orti  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:21:00 GMT"
+    },
+    {
+        "title": "Verona Piazzale Porta Nuova",
+        "description": "Verona Piazzale Porta Nuova\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:19:00 GMT"
+    },
+    {
+        "title": "Verona Piazza Pradaval",
+        "description": "Verona Piazza Pradaval\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:16:00 GMT"
+    },
+    {
+        "title": "Verona Interrato Torre Pentagona",
+        "description": "Verona Interrato Torre Pentagona\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:13:00 GMT"
+    },
+    {
+        "title": "Verona Circonvallazione Raggio di Sole",
+        "description": "Verona Circonvallazione Raggio di Sole\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:11:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n perdita di carico causa perdita accidentale dalle 18:06 del 31 maggio 2026  tra Allacciamento Tangenziale Est Di Milano e Svincolo Monza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:08:00 GMT"
+    },
+    {
+        "title": "Verona Circonvallazione Alfredo Oriani",
+        "description": "Verona Circonvallazione Alfredo Oriani\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Corso Porta Nuova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:08:00 GMT"
+    },
+    {
+        "title": "Bologna Via Donato Creti",
+        "description": "Bologna Via Donato Creti\n incidente  a Via Marcantonio Franceschini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:07:00 GMT"
+    },
+    {
+        "title": "Bologna Via Pietro Mengoli",
+        "description": "Bologna Via Pietro Mengoli\n incidente  a Via Pompeo Vizzani  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:06:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 18:01 del 31 maggio 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Magliano Sabina  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:03:00 GMT"
+    },
+    {
+        "title": "Verona Corso Porta Nuova",
+        "description": "Verona Corso Porta Nuova\n strada chiusa causa manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  tra Via dei Mutilati e Piazza Brà   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 16:03:00 GMT"
+    },
+    {
+        "title": "A24 Tratto Urbano",
+        "description": "A24 Tratto Urbano\n code causa viabilità esterna non riceve dalle 17:57 del 31 maggio 2026  tra Svincolo Portonaccio - Galla Placidia e Svincolo Tangenziale Est  in direzione tangenziale Est  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:59:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 17:57 del 31 maggio 2026  tra Svincolo Treviso Nord e Allacciamento A28 Venezia-Belluno   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:59:00 GMT"
+    },
+    {
+        "title": "Verona Corso Porta Nuova",
+        "description": "Verona Corso Porta Nuova\n strada chiusa causa manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  tra Via Andrea Paglieri e Via dei Mutilati   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:57:00 GMT"
+    },
+    {
+        "title": "Verona Vicolo Borella",
+        "description": "Verona Vicolo Borella\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Piazzetta Municipio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:53:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 17:48 del 31 maggio 2026  tra Svincolo L aquila Ovest e Svincolo Tornimparte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:50:00 GMT"
     },
     {
@@ -15,23 +370,8 @@
         "pubDate": "Sun, 31 May 2026 15:50:00 GMT"
     },
     {
-        "title": "A3 Napoli-Salerno",
-        "description": "A3 Napoli-Salerno\n code causa incidente dalle 17:47 del 31 maggio 2026  tra Svincolo Portici-Bellavista e Svincolo Ponticelli  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:49:00 GMT"
-    },
-    {
         "title": "A1 Diramazione Roma Nord",
         "description": "A1 Diramazione Roma Nord\n ripristino incidente causa incidente dalle 17:47 del 31 maggio 2026  tra Barriera Di Roma Nord e Allacciamento A1 Milano-Napoli  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:49:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 17:47 del 31 maggio 2026  tra Svincolo Pedaso e Svincolo Grottammare  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:49:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 17:47 del 31 maggio 2026  tra Svincolo Lavagna e Svincolo Chiavari  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:49:00 GMT"
     },
     {
@@ -40,34 +380,9 @@
         "pubDate": "Sun, 31 May 2026 15:48:00 GMT"
     },
     {
-        "title": "A3 Napoli-Salerno",
-        "description": "A3 Napoli-Salerno\n incidente dalle 17:46 del 31 maggio 2026  tra Svincolo Ponticelli e Svincolo San Giorgio A Cremano  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:48:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n pedoni  a Svincolo Diramazione Lucca-Viareggio in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:47:00 GMT"
-    },
-    {
-        "title": "Roma Circonvallazione Gianicolense",
-        "description": "Roma Circonvallazione Gianicolense\n incidente  a Via Luigi Zambarelli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:47:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n incidente dalle 17:44 del 31 maggio 2026  tra Svincolo Anagni - Fiuggi e Svincolo Colleferro  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:46:00 GMT"
-    },
-    {
         "title": "Verona Piazzetta Municipio",
         "description": "Verona Piazzetta Municipio\n strada chiusa causa manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  tra Via Leoncino e Via degli Alpini   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:45:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 17:42 del 31 maggio 2026  a Barriera Di Ugovizza-Tarvisio in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:44:00 GMT"
     },
     {
         "title": "A34 Villesse-Gorizia",
@@ -75,39 +390,9 @@
         "pubDate": "Sun, 31 May 2026 15:44:00 GMT"
     },
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code a tratti per 979 m causa traffico intenso  tra 7,005 km prima di Svincolo Spotorno e Allacciamento A10 - A06 al Km 45  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:43:00 GMT"
-    },
-    {
         "title": "Verona Vicolo Borella",
         "description": "Verona Vicolo Borella\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:41:00 GMT"
-    },
-    {
-        "title": "Bologna Via Santo Stefano",
-        "description": "Bologna Via Santo Stefano\n rottura nelle condutture d acqua dalle 13:54 del 31 maggio 2026  tra Via de  Buttieri e Via Remorsella  in direzione Via Farini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:40:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 17:38 del 31 maggio 2026  tra Allacciamento Diramazione Gallarate-Gattico e Svincolo Borgomanero  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:40:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 17:38 del 31 maggio 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:40:00 GMT"
-    },
-    {
-        "title": "Bologna Via Tommaso Martelli",
-        "description": "Bologna Via Tommaso Martelli\n incidente, avvicinarsi con attenzione  a Via Tommaso Martelli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:40:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Berceto in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:40:00 GMT"
     },
     {
         "title": "Verona Via don Enrico Tazzoli",
@@ -115,54 +400,9 @@
         "pubDate": "Sun, 31 May 2026 15:37:00 GMT"
     },
     {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n code causa traffico intenso dalle 17:33 del 31 maggio 2026  a Svincolo Sulmona-Pratola Peligna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:36:00 GMT"
-    },
-    {
         "title": "Verona Via San Cosimo",
         "description": "Verona Via San Cosimo\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:35:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 17:32 del 31 maggio 2026  tra Svincolo Vasto Sud e Svincolo Termoli-Molise  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:34:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 17:32 del 31 maggio 2026  tra Svincolo Ortona e Svincolo Pescara Sud-Francavilla  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:34:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo fermo o in avaria dalle 17:31 del 31 maggio 2026  tra Svincolo Empoli Est e Svincolo Empoli  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:33:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 17:31 del 31 maggio 2026  tra Svincolo Carsoli-Oricola e Svincolo Tagliacozzo  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:33:00 GMT"
-    },
-    {
-        "title": "A51 Tangenziale Est Di Milano",
-        "description": "A51 Tangenziale Est Di Milano\n veicolo in avaria  a Svincolo Via Mecenate: Ponte Lambro in direzione Svincolo Lecco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:33:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 17:30 del 31 maggio 2026  tra Svincolo Bussi-Popoli e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:32:00 GMT"
-    },
-    {
-        "title": "Milano Via Giulio Natta",
-        "description": "Milano Via Giulio Natta\n incidente  a Via Giulio Natta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:32:00 GMT"
-    },
-    {
-        "title": "SS148 Pontina",
-        "description": "SS148 Pontina\n incidente con code a tratti  tra Incrocio Pratica Di Mare\/Torvajanica e Incrocio Tor De  Cenci  in direzione Via Cristoforo Colombo (Roma)  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:32:00 GMT"
     },
     {
         "title": "Verona Via Rocche",
@@ -170,34 +410,9 @@
         "pubDate": "Sun, 31 May 2026 15:32:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 17:29 del 31 maggio 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Ponzano Romano-Soratte  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:31:00 GMT"
-    },
-    {
-        "title": "Milano Viale Zara",
-        "description": "Milano Viale Zara\n incidente  a Viale Zara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:31:00 GMT"
-    },
-    {
-        "title": "Costa Masnaga Via Michelangelo Buonarroti",
-        "description": "Costa Masnaga Via Michelangelo Buonarroti\n scontro con ostacolo fisso  a Via Michelangelo Buonarroti  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:30:00 GMT"
-    },
-    {
         "title": "Verona Via Pietro Frattini",
         "description": "Verona Via Pietro Frattini\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:30:00 GMT"
-    },
-    {
-        "title": "SS3bis Bis tiberina (e45)",
-        "description": "SS3bis Bis tiberina (e45)\n traffico rallentato causa veicolo in avaria  a Incrocio Madonnuccia Poggiolino in direzione Incrocio Ravenna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:29:00 GMT"
-    },
-    {
-        "title": "Spino d Adda Via Madonna del Bosco",
-        "description": "Spino d Adda Via Madonna del Bosco\n incidente che coinvolge ciclisti  a Via Madonna del Bosco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:29:00 GMT"
     },
     {
         "title": "Verona Via Orti Manara",
@@ -210,44 +425,14 @@
         "pubDate": "Sun, 31 May 2026 15:26:00 GMT"
     },
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 17:25 del 31 maggio 2026  tra Allacciamento A14 Bologna-Taranto e Svincolo Bologna Arcoveggio-Raccordo Per La Tangenziale  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:26:00 GMT"
-    },
-    {
-        "title": "Cerchia Dei Bastioni(MI)",
-        "description": "Cerchia Dei Bastioni(MI)\n veicolo fermo o in avaria dalle 17:25 del 31 maggio 2026  tra Svincolo Rimini Nord e Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:26:00 GMT"
-    },
-    {
-        "title": "A4 Raccordo Sistiana-Trieste",
-        "description": "A4 Raccordo Sistiana-Trieste\n veicolo in avaria  a Svincolo Sgonico in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:25:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 17:24 del 31 maggio 2026  tra Svincolo Attigliano e Svincolo Orte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:25:00 GMT"
-    },
-    {
         "title": "Verona Via Leoni",
         "description": "Verona Via Leoni\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:25:00 GMT"
     },
     {
-        "title": "Curno Via Enrico Fermi",
-        "description": "Curno Via Enrico Fermi\n incidente con persone  a Via Enrico Fermi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:24:00 GMT"
-    },
-    {
         "title": "Verona Via Gian Battista Malenza",
         "description": "Verona Via Gian Battista Malenza\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:23:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n pioggia dalle 16:40 del 31 maggio 2026  tra Allacciamento A57 Torino-Trieste\/Raccordo Per Tessera e Svincolo Fadalto-Lago Di S.Croce   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:21:00 GMT"
     },
     {
         "title": "Verona Via Domenico Frangini",
@@ -258,16 +443,6 @@
         "title": "Verona Via Amanti",
         "description": "Verona Via Amanti\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:19:00 GMT"
-    },
-    {
-        "title": "A34 Villesse-Gorizia",
-        "description": "A34 Villesse-Gorizia\n code causa traffico intenso  tra 9,278 km dopo Svincolo Gradisca d Isonzo e Svincolo Gorizia  in direzione Gorizia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:19:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 17:17 del 31 maggio 2026  tra Svincolo Pistoia e Svincolo Prato Ovest  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:18:00 GMT"
     },
     {
         "title": "SS36 Del Lago Di Como E Dello Spluga",
@@ -285,44 +460,14 @@
         "pubDate": "Sun, 31 May 2026 15:13:00 GMT"
     },
     {
-        "title": "Ostiglia Via Canali",
-        "description": "Ostiglia Via Canali\n incidente  a Via Canali  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:09:00 GMT"
-    },
-    {
         "title": "Verona Largo Divisione Pasubio",
         "description": "Verona Largo Divisione Pasubio\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:07:00 GMT"
     },
     {
-        "title": "Tavernole sul Mella Via John Fitzgerald Kennedy",
-        "description": "Tavernole sul Mella Via John Fitzgerald Kennedy\n incidente  a Via John Fitzgerald Kennedy  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:07:00 GMT"
-    },
-    {
-        "title": "Chiari Via Lunghe",
-        "description": "Chiari Via Lunghe\n incidente che coinvolge ciclisti  a Via Lunghe  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:06:00 GMT"
-    },
-    {
-        "title": "SS148 Pontina",
-        "description": "SS148 Pontina\n code causa incidente  a Incrocio Via Decima-Castel Porziano (direzione Rm) in direzione Incrocio Via Cristoforo Colombo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:05:00 GMT"
-    },
-    {
         "title": "Verona Corticella Leoni",
         "description": "Verona Corticella Leoni\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:05:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n veicolo in avaria  tra Svincolo SS.412 Della Val Tidone: Pavia-Opera e Allacciamento A1 Milano-Napoli  in direzione Allacciamento A1 Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:05:00 GMT"
-    },
-    {
-        "title": "A32 Torino-Bardonecchia",
-        "description": "A32 Torino-Bardonecchia\n traffico rallentato causa traffico intenso  tra Svincolo Susa-Autoporto e Svincolo Chianocco-Bussoleno  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 15:03:00 GMT"
     },
     {
         "title": "Verona Via Leoncino",
@@ -340,19 +485,9 @@
         "pubDate": "Sun, 31 May 2026 14:58:00 GMT"
     },
     {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 16:56 del 31 maggio 2026  tra Svincolo Pontebba e Svincolo Carnia  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:58:00 GMT"
-    },
-    {
         "title": "Verona Via Pietro Frattini",
         "description": "Verona Via Pietro Frattini\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 14:55:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n code causa traffico intenso dalle 16:53 del 31 maggio 2026  a Svincolo Cocullo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:54:00 GMT"
     },
     {
         "title": "Verona Via Leoncino",
@@ -360,143 +495,8 @@
         "pubDate": "Sun, 31 May 2026 14:53:00 GMT"
     },
     {
-        "title": "SS42 Del Tonale E Della Mendola",
-        "description": "SS42 Del Tonale E Della Mendola\n tratto chiuso causa incidente  a Incrocio Breno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:53:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 16:52 del 31 maggio 2026  tra Svincolo Assergi e Svincolo L aquila Est  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:53:00 GMT"
-    },
-    {
         "title": "SS106 Jonica",
         "description": "SS106 Jonica\n corsia chiusa causa lavori di manutenzione  tra 3,31 km dopo Incrocio S.Anna e 260 m prima di Incrocio Staz. Di Isola Capo Rizzuto  in direzione Incrocio Taranto  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 14:51:00 GMT"
-    },
-    {
-        "title": "Verona Via Fabio Filzi",
-        "description": "Verona Via Fabio Filzi\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:50:00 GMT"
-    },
-    {
-        "title": "A1 Diramazione Roma Nord",
-        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 16:47 del 31 maggio 2026  tra Allacciamento A90-GRA e Svincolo Settebagni  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:48:00 GMT"
-    },
-    {
-        "title": "Verona Piazza San Nicolò",
-        "description": "Verona Piazza San Nicolò\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:48:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 16:45 del 31 maggio 2026  tra Svincolo Lanciano e Svincolo Val Di Sangro  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:47:00 GMT"
-    },
-    {
-        "title": "Verona Piazza Mura Gallieno",
-        "description": "Verona Piazza Mura Gallieno\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:46:00 GMT"
-    },
-    {
-        "title": "Gallarate Viale Vittorio Veneto",
-        "description": "Gallarate Viale Vittorio Veneto\n incidente  a Viale Vittorio Veneto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:46:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Nord Di Torino",
-        "description": "A55 Tangenziale Nord Di Torino\n veicolo in avaria  a Allacciamento Interconnessione Tangenziale Sud in direzione Allacciamento A32 Torino-Bardonecchia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:44:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Nord Di Torino",
-        "description": "A55 Tangenziale Nord Di Torino\n veicolo in avaria  a Allacciamento Interconnessione Tangenziale Sud in direzione Allacciamento A32 Torino-Bardonecchia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:44:00 GMT"
-    },
-    {
-        "title": "Verona Via Leone Gaetano Patuzzi",
-        "description": "Verona Via Leone Gaetano Patuzzi\n strada chiusa causa manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  tra Piazza Mura Gallieno e Vicolo Conventino   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:42:00 GMT"
-    },
-    {
-        "title": "Verona Vicolo Borella",
-        "description": "Verona Vicolo Borella\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via degli Alpini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:39:00 GMT"
-    },
-    {
-        "title": "Verona Via Ponte Cittadella",
-        "description": "Verona Via Ponte Cittadella\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via degli Alpini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:37:00 GMT"
-    },
-    {
-        "title": "Verona Via Adigetto",
-        "description": "Verona Via Adigetto\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via degli Alpini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:32:00 GMT"
-    },
-    {
-        "title": "Verona Piazzetta Municipio",
-        "description": "Verona Piazzetta Municipio\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via degli Alpini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:30:00 GMT"
-    },
-    {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n corsia chiusa causa veicolo in avaria  a Incrocio Bellano in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:29:00 GMT"
-    },
-    {
-        "title": "Alzano Lombardo SP35",
-        "description": "Alzano Lombardo SP35\n incidente  a SP35  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:28:00 GMT"
-    },
-    {
-        "title": "Verona Largo Divisione Pasubio",
-        "description": "Verona Largo Divisione Pasubio\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via degli Alpini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:27:00 GMT"
-    },
-    {
-        "title": "SS113 Settentrionale Sicula",
-        "description": "SS113 Settentrionale Sicula\n presenza di alberi sulla carreggiata  a Incrocio Finale in direzione Incrocio Messina  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:25:00 GMT"
-    },
-    {
-        "title": "Verona Interrato Torre Pentagona",
-        "description": "Verona Interrato Torre Pentagona\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via degli Alpini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:25:00 GMT"
-    },
-    {
-        "title": "SS115 Sud Occidentale Sicula",
-        "description": "SS115 Sud Occidentale Sicula\n materiali dispersi  a Incrocio Porto Empedocle - SS115ter Sud Occ. Sicula in direzione Incrocio Siracusa - SS114 Or.Sicula E SS124 Siracusana  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:21:00 GMT"
-    },
-    {
-        "title": "PIAZZA CITTADELLA",
-        "description": "PIAZZA CITTADELLA \n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via degli Alpini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:21:00 GMT"
-    },
-    {
-        "title": "Verona Via degli Alpini",
-        "description": "Verona Via degli Alpini\n strada chiusa causa manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  tra Piazza Brà e Vicolo Borella   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:17:00 GMT"
-    },
-    {
-        "title": "Verona Piazzetta Municipio",
-        "description": "Verona Piazzetta Municipio\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Piazza Brà  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:12:00 GMT"
-    },
-    {
-        "title": "Verona Via Leoncino",
-        "description": "Verona Via Leoncino\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Piazza Brà  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:10:00 GMT"
-    },
-    {
-        "title": "Verona Via Roma",
-        "description": "Verona Via Roma\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Piazza Brà  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:07:00 GMT"
-    },
-    {
-        "title": "Verona Via dietro Anfiteatro",
-        "description": "Verona Via dietro Anfiteatro\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Piazza Brà  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 14:04:00 GMT"
     }
 ]
