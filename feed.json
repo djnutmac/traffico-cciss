@@ -1,8 +1,13 @@
 [
     {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 23:41 del 31 maggio 2026  a Area di servizio  Irpinia in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:42:00 GMT"
+        "title": "SS26 Della Valle D aosta",
+        "description": "SS26 Della Valle D aosta\n lavori di manutenzione  tra 4,15 km dopo Incrocio Casello Morgex A5 Torino-Courmayeur e 379 m prima di Incrocio Pre  St Didier - SS26 Diramazione Della Valle D aosta   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 21:59:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 21:48:00 GMT"
     },
     {
         "title": "A16 Napoli-Canosa",
@@ -10,9 +15,14 @@
         "pubDate": "Sun, 31 May 2026 21:42:00 GMT"
     },
     {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n incendio dalle 20:49 del 31 maggio 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Canosa  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:35:00 GMT"
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 23:41 del 31 maggio 2026  a Area di servizio  Irpinia in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 21:42:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n materiali dispersi al casello  a Barriera Di Aosta Monte Bianco in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 21:42:00 GMT"
     },
     {
         "title": "A12 Roma-Civitavecchia",
@@ -25,11 +35,6 @@
         "pubDate": "Sun, 31 May 2026 21:32:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n animali sulla strada dalle 23:28 del 31 maggio 2026  tra Svincolo Casale Monferrato Sud e Allacciamento A21 Torino-Piacenza-Brescia  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:29:00 GMT"
-    },
-    {
         "title": "A52 Tangenziale Nord Di Milano",
         "description": "A52 Tangenziale Nord Di Milano\n pioggia  tra Allacciamento Tangenziale Est Di Milano e Svincolo SP44 Milano-Meda: Lentate-Bruzzano   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 21:27:00 GMT"
@@ -40,49 +45,9 @@
         "pubDate": "Sun, 31 May 2026 21:27:00 GMT"
     },
     {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n pioggia  tra Allacciamento A8 Milano-Varese e Allacciamento A4 Torino-Trieste: V.Le Certosa   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:26:00 GMT"
-    },
-    {
-        "title": "A12 Roma-Civitavecchia",
-        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 23:19 del 31 maggio 2026  tra Svincolo Cerveteri-Ladispoli e Svincolo Torrimpietra  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:21:00 GMT"
-    },
-    {
-        "title": "A1 Diramazione Roma Sud",
-        "description": "A1 Diramazione Roma Sud\n veicolo fermo o in avaria dalle 22:09 del 31 maggio 2026  tra Allacciamento A90-GRA e Svincolo Torrenova  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:16:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n incidente  tra 277 m dopo Svincolo Campagna e 256 m prima di Svincolo Contursi  in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:13:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 23:09 del 31 maggio 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo Masone  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:12:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 23:01 del 31 maggio 2026  tra Allacciamento A4 Torino-Trieste e Svincolo Vercelli Est  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:05:00 GMT"
-    },
-    {
         "title": "SS613 Brindisi-Lecce",
         "description": "SS613 Brindisi-Lecce\n riduzione di carreggiata causa lavori dalle 06:00 del 18 maggio 2026 alle 16:00 del 23 giugno 2026  a Incrocio Trepuzzi - Surbo in direzione Incrocio Brindisi - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 21:05:00 GMT"
-    },
-    {
-        "title": "SS18 Tirrena Inferiore",
-        "description": "SS18 Tirrena Inferiore\n incidente  a Incrocio Scilla\/Svincolo Per A3 Salerno-Reggio C.  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:03:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n veicolo fermo o in avaria dalle 22:44 del 31 maggio 2026  tra Svincolo Ronco Scrivia e Svincolo Isola Del Cantone  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 21:00:00 GMT"
     },
     {
         "title": "SS5 Via Tiburtina Valeria",
@@ -110,11 +75,6 @@
         "pubDate": "Sun, 31 May 2026 20:51:00 GMT"
     },
     {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 22:49 del 31 maggio 2026  tra Allacciamento A14 Bologna-Taranto e Svincolo Cerignola  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 20:51:00 GMT"
-    },
-    {
         "title": "A19 Palermo-Catania",
         "description": "A19 Palermo-Catania\n veicolo in avaria  a Svincolo Catenanuova in direzione Palermo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 20:47:00 GMT"
@@ -125,24 +85,9 @@
         "pubDate": "Sun, 31 May 2026 20:39:00 GMT"
     },
     {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n pioggia dalle 22:34 del 31 maggio 2026  tra Allacciamento A8 Milano-Varese e Svincolo Lago di Como   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 20:35:00 GMT"
-    },
-    {
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n problemi in area di servizio causa guasto impianto dalle 22:25 del 31 maggio 2026  a Area di servizio  San Nicola in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 20:27:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 22:24 del 31 maggio 2026  tra Svincolo Ronco Scrivia e Svincolo Genova Bolzaneto   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 20:26:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n incidente dalle 22:22 del 31 maggio 2026  tra Svincolo Firenze e Svincolo Firenze Viadotto Indiano  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 20:24:00 GMT"
     },
     {
         "title": "A33 Asti - Cuneo",
@@ -155,11 +100,6 @@
         "pubDate": "Sun, 31 May 2026 20:11:00 GMT"
     },
     {
-        "title": "SS71 Umbro Casentinese Romagnola",
-        "description": "SS71 Umbro Casentinese Romagnola\n corsia chiusa causa lavori  tra 906 m dopo Incrocio Orvieto Scalo e 902 m prima di Incrocio Staz. Orvieto - SS205 Amerina   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 20:07:00 GMT"
-    },
-    {
         "title": "RA02 Raccordo Autostradale Salerno-Avellino",
         "description": "RA02 Raccordo Autostradale Salerno-Avellino\n traffico rallentato  tra 3,635 km dopo Svincolo Serino e 1,441 km prima di Svincolo Avellino-SS7bis Terra Di Lavoro   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 20:05:00 GMT"
@@ -168,16 +108,6 @@
         "title": "A24 Roma-Teramo",
         "description": "A24 Roma-Teramo\n impianto di distribuzione carburante chiuso dalle 22:03 del 31 maggio 2026  a Area di servizio  Valle Aterno in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 20:05:00 GMT"
-    },
-    {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n pioggia dalle 21:59 del 31 maggio 2026  tra Allacciamento Fiorenza-Allacciamento A4 (milano V.Le Certosa) e Svincolo Varese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 20:02:00 GMT"
-    },
-    {
-        "title": "A8 Diramazione Per Gallarate-Gattico",
-        "description": "A8 Diramazione Per Gallarate-Gattico\n pioggia dalle 21:59 del 31 maggio 2026  tra Allacciamento A8 Milano-Varese e Svincolo Castelletto Ticino   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 20:01:00 GMT"
     },
     {
         "title": "A16 Napoli-Canosa",
@@ -200,59 +130,9 @@
         "pubDate": "Sun, 31 May 2026 19:54:00 GMT"
     },
     {
-        "title": "SS4 Via Salaria",
-        "description": "SS4 Via Salaria\n senso unico alternato causa lavori dalle 07:00 del 10 marzo 2025 alle 23:55 del 31 maggio 2026  a Incrocio Acquasanta Terme  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:52:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n riduzione di carreggiata causa lavori dalle 00:01 del 20 febbraio alle 23:59 del 31 maggio 2026  tra Svincolo Rogliano-Grimaldi e Svincolo Cosenza  in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:51:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n riduzione di carreggiata causa lavori dalle 00:01 del 20 febbraio alle 23:59 del 31 maggio 2026  tra Svincolo Cosenza e Svincolo Rogliano-Grimaldi  in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:51:00 GMT"
-    },
-    {
-        "title": "SS65 Della Futa",
-        "description": "SS65 Della Futa\n senso unico alternato causa lavori dalle 18:36 del 13 aprile 2026 alle 23:59 del 31 maggio 2026  tra Incrocio Liverniano e Incrocio Pianoro Vecchio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:50:00 GMT"
-    },
-    {
-        "title": "SS423 Urbinate",
-        "description": "SS423 Urbinate\n senso unico alternato causa lavori dalle 00:01 del 8 aprile alle 23:59 del 31 maggio 2026  tra Incrocio Trasanni e Incrocio Urbino - SS73bis Di Bocca Trabaria   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:50:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n riduzione di carreggiata causa lavori dalle 15:00 del 27 marzo 2026 alle 23:59 del 31 maggio 2026  tra Svincolo Morano-Castrovillari e Svincolo Frascineto-Castrovillari   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:50:00 GMT"
-    },
-    {
-        "title": "SS7 Via Appia",
-        "description": "SS7 Via Appia\n senso unico alternato causa lavori dalle 00:01 del 12 marzo alle 23:59 del 31 maggio 2026  tra Incrocio Taranto - SS106 Jonica - Raccordo Ta-Grottaglie e Incrocio SS106   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:50:00 GMT"
-    },
-    {
-        "title": "R07 Raccordo Ascoli P.-Porto D ascoli",
-        "description": "R07 Raccordo Ascoli P.-Porto D ascoli\n riduzione di carreggiata causa lavori dalle 00:00 del 8 aprile alle 23:59 del 31 maggio 2026  tra Svincolo Ancarano-Castel Di Lama e Svincolo Spinetoli   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:49:00 GMT"
-    },
-    {
-        "title": "SS106 Jonica",
-        "description": "SS106 Jonica\n senso unico alternato causa lavori dalle 12:00 del 15 aprile 2026 alle 23:59 del 31 maggio 2026  tra Incrocio Ferruzzano Marina e Incrocio Bianco   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:49:00 GMT"
-    },
-    {
         "title": "SS55 Dell isonzo",
         "description": "SS55 Dell isonzo\n tratto chiuso causa concerto dalle 14:00 del 31 maggio 2026 alle 05:00 del 1 giugno 2026  tra Incrocio Jamiano - SS519 Di Jamiano e Incrocio Gorizia - Confine Con La Slovenia   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 19:48:00 GMT"
-    },
-    {
-        "title": "SS 737 DI SCILLA",
-        "description": "SS 737 DI SCILLA\n senso unico alternato causa lavori dalle 07:00 del 14 alle 23:59 del 31 maggio 2026  tra viadotto Cappuccini e .   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 19:46:00 GMT"
     },
     {
         "title": "A1 Bologna-Firenze",
@@ -263,11 +143,6 @@
         "title": "Verona Vicolo Conventino",
         "description": "Verona Vicolo Conventino\n manifestazione dalle 20:00 alle 23:59 del 25 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 18:54:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n fumo causa incendio dalle 20:49 del 31 maggio 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Canosa   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 31 May 2026 18:51:00 GMT"
     },
     {
         "title": "SS16 Adriatica",
@@ -498,5 +373,130 @@
         "title": "Verona Piazzetta Municipio",
         "description": "Verona Piazzetta Municipio\n strada chiusa causa manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  tra Via Leoncino e Via degli Alpini   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 31 May 2026 15:45:00 GMT"
+    },
+    {
+        "title": "Verona Vicolo Borella",
+        "description": "Verona Vicolo Borella\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:41:00 GMT"
+    },
+    {
+        "title": "Verona Via don Enrico Tazzoli",
+        "description": "Verona Via don Enrico Tazzoli\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:37:00 GMT"
+    },
+    {
+        "title": "Verona Via San Cosimo",
+        "description": "Verona Via San Cosimo\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:35:00 GMT"
+    },
+    {
+        "title": "Verona Via Rocche",
+        "description": "Verona Via Rocche\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:32:00 GMT"
+    },
+    {
+        "title": "Verona Via Pietro Frattini",
+        "description": "Verona Via Pietro Frattini\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:30:00 GMT"
+    },
+    {
+        "title": "Verona Via Orti Manara",
+        "description": "Verona Via Orti Manara\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:27:00 GMT"
+    },
+    {
+        "title": "Verona Via Leoni",
+        "description": "Verona Via Leoni\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:25:00 GMT"
+    },
+    {
+        "title": "Verona Via Gian Battista Malenza",
+        "description": "Verona Via Gian Battista Malenza\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:23:00 GMT"
+    },
+    {
+        "title": "Verona Via Domenico Frangini",
+        "description": "Verona Via Domenico Frangini\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:21:00 GMT"
+    },
+    {
+        "title": "Verona Via Amanti",
+        "description": "Verona Via Amanti\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:19:00 GMT"
+    },
+    {
+        "title": "Verona Piazzetta Municipio",
+        "description": "Verona Piazzetta Municipio\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:16:00 GMT"
+    },
+    {
+        "title": "Verona Piazza Mura Gallieno",
+        "description": "Verona Piazza Mura Gallieno\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:13:00 GMT"
+    },
+    {
+        "title": "Verona Largo Divisione Pasubio",
+        "description": "Verona Largo Divisione Pasubio\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:07:00 GMT"
+    },
+    {
+        "title": "Verona Corticella Leoni",
+        "description": "Verona Corticella Leoni\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leoncino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:05:00 GMT"
+    },
+    {
+        "title": "Verona Via Leoncino",
+        "description": "Verona Via Leoncino\n strada chiusa causa manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  tra Via don Enrico Tazzoli e Piazza Brà   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 15:02:00 GMT"
+    },
+    {
+        "title": "Verona Vicolo Conventino",
+        "description": "Verona Vicolo Conventino\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 14:58:00 GMT"
+    },
+    {
+        "title": "Verona Via Pietro Frattini",
+        "description": "Verona Via Pietro Frattini\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 14:55:00 GMT"
+    },
+    {
+        "title": "Verona Via Leoncino",
+        "description": "Verona Via Leoncino\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 14:53:00 GMT"
+    },
+    {
+        "title": "Verona Via Fabio Filzi",
+        "description": "Verona Via Fabio Filzi\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 14:50:00 GMT"
+    },
+    {
+        "title": "Verona Piazza San Nicolò",
+        "description": "Verona Piazza San Nicolò\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 14:48:00 GMT"
+    },
+    {
+        "title": "Verona Piazza Mura Gallieno",
+        "description": "Verona Piazza Mura Gallieno\n manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  a Via Leone Gaetano Patuzzi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 14:46:00 GMT"
+    },
+    {
+        "title": "Verona Via Leone Gaetano Patuzzi",
+        "description": "Verona Via Leone Gaetano Patuzzi\n strada chiusa causa manifestazione dalle 20:00 alle 23:59 del 20 giugno 2026  tra Piazza Mura Gallieno e Vicolo Conventino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 14:42:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n incendio dalle 00:37 del 1 giugno 2026  tra Svincolo Bologna San Lazzaro e Svincolo Bologna Fiera  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 22:39:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n incidente dalle 23:46 del 31 maggio 2026  tra Allacciamento A25 Torano-Pescara e Svincolo Tagliacozzo  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 22:18:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada dalle 00:04 del 1 giugno 2026  a Svincolo Termoli-Molise  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 31 May 2026 22:05:00 GMT"
     }
 ]
