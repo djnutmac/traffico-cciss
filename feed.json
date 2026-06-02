@@ -1,18 +1,483 @@
 [
     {
-        "title": "SS106radd Radd Jonica",
-        "description": "SS106radd Radd Jonica\n animali morti  a Incrocio SS534 in direzione Incrocio Amica - SS106 Jonica  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 02:05:00 GMT"
+        "title": "A24 Tratto Urbano",
+        "description": "A24 Tratto Urbano\n veicolo fermo o in avaria dalle 08:52 del 2 giugno 2026  tra Svincolo Portonaccio - Galla Placidia e Svincolo Via Fiorentini  in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:54:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n incidente dalle 03:47 del 2 giugno 2026  tra Allacciamento Diramazione Roma Sud e Allacciamento A24 Roma-Teramo  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:54:00 GMT"
+    },
+    {
+        "title": "Cinisello Balsamo Viale Fulvio Testi",
+        "description": "Cinisello Balsamo Viale Fulvio Testi\n incidente  a Viale Fulvio Testi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:54:00 GMT"
+    },
+    {
+        "title": "Siracusa Piazza della Vittoria",
+        "description": "Siracusa Piazza della Vittoria\n strada chiusa causa processione dalle 19:16 alle 21:00 del 7 giugno 2026  tra Via Giuseppe Di Natale e Corso Timoleonte   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:54:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n veicoli scortati per maltempo causa incidente dalle 08:51 del 2 giugno 2026  tra Svincolo Terre di Canossa - Campegine e Svincolo Parma  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:53:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 14,52 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:51:00 GMT"
+    },
+    {
+        "title": "SS554 Cagliaritana",
+        "description": "SS554 Cagliaritana\n corsia chiusa causa incidente  a Incrocio Monserrato - SS387 Del Gerrei in direzione Incrocio Lungomare Di Cagliari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:51:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n lavori  a Allacciamento A4-A5  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:50:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n pioggia  tra Barriera Di Rondissone e Svincolo Carisio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:50:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n entrata chiusa causa lavori dalle 21:00 del 3 alle 05:00 del 4 giugno 2026  a Allacciamento A21 Torino-Brescia in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:50:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n uscita chiusa causa lavori dalle 21:00 del 4 alle 05:00 del 5 giugno 2026  a Allacciamento A21 Torino-Brescia in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:50:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n entrata chiusa causa lavori dalle 21:00 del 3 alle 05:00 del 4 giugno 2026  a Allacciamento A21 Torino-Brescia in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:50:00 GMT"
+    },
+    {
+        "title": "A21 Torino-Brescia",
+        "description": "A21 Torino-Brescia\n chiusura area di servizio causa lavori  a Area di servizio  Nure in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:50:00 GMT"
+    },
+    {
+        "title": "A55 Tangenziale Nord Di Torino",
+        "description": "A55 Tangenziale Nord Di Torino\n materiali dispersi  tra Svincolo Valli Di Lanzo-Borgaro e Allacciamento Caselle  in direzione Torino Nord - A5 To-Aosta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:50:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n perdita di carico dalle 08:41 del 2 giugno 2026  tra Svincolo Faenza e Svincolo Forli   in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:44:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 07:57 del 2 giugno 2026  tra Svincolo Guidonia - Montecelio e Allacciamento Diramazione Roma Nord  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:43:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 07:56 del 2 giugno 2026  tra Svincolo Arezzo e Svincolo Valdarno  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:42:00 GMT"
+    },
+    {
+        "title": "Roma Via Capo Spartivento",
+        "description": "Roma Via Capo Spartivento\n strada chiusa causa rimozione ramo pericolante dalle 08:30 del 2 giugno 2026  tra Via Alessandro Piola Caselli e Viadotto Attico Tabacchi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:41:00 GMT"
+    },
+    {
+        "title": "Genova Via Antonio Cantore",
+        "description": "Genova Via Antonio Cantore\n incidente  a Via Antonio Cantore  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:37:00 GMT"
+    },
+    {
+        "title": "Piacenza largo Rudolfo Morandi",
+        "description": "Piacenza largo Rudolfo Morandi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Strada Gragnana  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:36:00 GMT"
+    },
+    {
+        "title": "TG-PV Tangenziale Di Pavia",
+        "description": "TG-PV Tangenziale Di Pavia\n pioggia  tra Svincolo Pavia Sud - SS35 Dei Giovi (direzione Genova) e Svincolo SS35 Dei Giovi (direzione Milano)   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:35:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 08:34 del 2 giugno 2026  tra Svincolo Valle Del Salto e Svincolo Tornimparte  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:35:00 GMT"
+    },
+    {
+        "title": "A7 Raccordo Bereguardo-Pavia",
+        "description": "A7 Raccordo Bereguardo-Pavia\n pioggia  tra Allacciamento A7 Milano-Genova e Allacciamento Tangenziale Di Pavia   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:34:00 GMT"
+    },
+    {
+        "title": "A52 Tangenziale Nord Di Milano",
+        "description": "A52 Tangenziale Nord Di Milano\n incidente  a Svincolo SS36 Del Lago Di Como: Lecco-Monza in direzione Allacciamento Tangenziale Est Di Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:33:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n pioggia  tra Allacciamento Bereguardo - Allacciamento Raccordo Bereguardo-Pv e Svincolo Serravalle Scrivia   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:32:00 GMT"
+    },
+    {
+        "title": "Piacenza Strada della Veggioletta",
+        "description": "Piacenza Strada della Veggioletta\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Strada Gragnana  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:28:00 GMT"
+    },
+    {
+        "title": "SS36 Del Lago Di Como E Dello Spluga",
+        "description": "SS36 Del Lago Di Como E Dello Spluga\n traffico rallentato causa incidente  a Incrocio Desio in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:27:00 GMT"
+    },
+    {
+        "title": "Piacenza Strada della Raffalda",
+        "description": "Piacenza Strada della Raffalda\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Strada Gragnana  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:25:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 08:06 del 2 giugno 2026  tra Svincolo Meina e Svincolo Carpugnino  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:23:00 GMT"
+    },
+    {
+        "title": "Bologna Via Santa Margherita",
+        "description": "Bologna Via Santa Margherita\n rottura nelle condutture d acqua  a Via Val D Aposa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:22:00 GMT"
+    },
+    {
+        "title": "Piacenza Strada della Maganza",
+        "description": "Piacenza Strada della Maganza\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Strada Gragnana  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:22:00 GMT"
+    },
+    {
+        "title": "Piacenza Strada della Biasina",
+        "description": "Piacenza Strada della Biasina\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Strada Gragnana  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:19:00 GMT"
+    },
+    {
+        "title": "Piacenza Strada al Rio Chiappone",
+        "description": "Piacenza Strada al Rio Chiappone\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Strada Gragnana  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:16:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n pioggia dalle 02:36 del 2 giugno 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo SS33 Del Sempione   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:12:00 GMT"
+    },
+    {
+        "title": "Piacenza Strada Gragnana",
+        "description": "Piacenza Strada Gragnana\n strada chiusa causa corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  tra Via Pietro Cella e Strada al Rio Chiappone   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:12:00 GMT"
+    },
+    {
+        "title": "Piacenza largo Rudolfo Morandi",
+        "description": "Piacenza largo Rudolfo Morandi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:09:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n pioggia dalle 08:06 del 2 giugno 2026  tra Svincolo Genova Bolzaneto e Svincolo Genova   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:08:00 GMT"
+    },
+    {
+        "title": "Castelverde Via Cura Affaitati",
+        "description": "Castelverde Via Cura Affaitati\n incidente  a Via Cura Affaitati  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:07:00 GMT"
+    },
+    {
+        "title": "Roma Piazza dei Santi Apostoli",
+        "description": "Roma Piazza dei Santi Apostoli\n manifestazione dalle 14:00 alle 16:00 del 4 giugno 2026  a Piazza dei Santi Apostoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:07:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Vittorio Veneto",
+        "description": "Piacenza Via Vittorio Veneto\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:06:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Vittorio Gadolini",
+        "description": "Piacenza Via Vittorio Gadolini\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:03:00 GMT"
+    },
+    {
+        "title": "Bologna Via Raffaello Sanzio",
+        "description": "Bologna Via Raffaello Sanzio\n evento sportivo  a Via Jodiche Naldi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:02:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Stradella",
+        "description": "Piacenza Via Stradella\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 06:00:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Primo Maggio",
+        "description": "Piacenza Via Primo Maggio\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:58:00 GMT"
+    },
+    {
+        "title": "SS680-E78 SGC Grosseto-Fano",
+        "description": "SS680-E78 SGC Grosseto-Fano\n lavori di manutenzione  tra 1,238 km prima di Svincolo Tegoleto e Svincolo Lucignano-Sp19 Dei Procacci  in direzione SGC Grosseto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:55:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Paolo Tibaldi",
+        "description": "Piacenza Via Paolo Tibaldi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:55:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Nino Di Giovanni",
+        "description": "Piacenza Via Nino Di Giovanni\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:53:00 GMT"
+    },
+    {
+        "title": "SS3bis Bis tiberina (e45)",
+        "description": "SS3bis Bis tiberina (e45)\n lavori di manutenzione  a Incrocio S.Piero In Bagno in direzione Incrocio Ravenna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:51:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n problemi in area di servizio causa guasto impianto dalle 07:50 del 2 giugno 2026  a Area di servizio  Conero in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:51:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Marco Boscarelli",
+        "description": "Piacenza Via Marco Boscarelli\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:50:00 GMT"
+    },
+    {
+        "title": "Roma Via Mazzarino",
+        "description": "Roma Via Mazzarino\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  tra Via Nazionale e Via 24 Maggio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:49:00 GMT"
     },
     {
         "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n animali morti  a Svincolo San Bartolomeo in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 02:05:00 GMT"
+        "description": "A10 Genova-Ventimiglia\n pioggia dalle 07:46 del 2 giugno 2026  tra Allacciamento A7 Milano-Genova e Svincolo Celle Ligure   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:47:00 GMT"
     },
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 04:00 del 2 giugno 2026  tra Svincolo A10 - A06 al Km 44 e Svincolo Albisola  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 02:02:00 GMT"
+        "title": "A1 Diramazione Roma Sud",
+        "description": "A1 Diramazione Roma Sud\n veicolo fermo o in avaria dalle 07:43 del 2 giugno 2026  tra Barriera Di Roma Sud e Svincolo Monteporzio  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:47:00 GMT"
+    },
+    {
+        "title": "Roma Via 24 Maggio",
+        "description": "Roma Via 24 Maggio\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  a Via 24 Maggio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:47:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Luigi Scapuzzi",
+        "description": "Piacenza Via Luigi Scapuzzi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:47:00 GMT"
+    },
+    {
+        "title": "Roma Via Ferrara",
+        "description": "Roma Via Ferrara\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  a Via Ferrara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:46:00 GMT"
+    },
+    {
+        "title": "Roma Via Piacenza",
+        "description": "Roma Via Piacenza\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  a Via Piacenza  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:45:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Luigi Calabresi",
+        "description": "Piacenza Via Luigi Calabresi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:45:00 GMT"
+    },
+    {
+        "title": "A52 Tangenziale Nord Di Milano",
+        "description": "A52 Tangenziale Nord Di Milano\n pioggia  tra Allacciamento Tangenziale Est Di Milano e Svincolo SP44 Milano-Meda: Lentate-Bruzzano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:45:00 GMT"
+    },
+    {
+        "title": "Bologna Via Liguria",
+        "description": "Bologna Via Liguria\n rottura nelle condutture d acqua  a Via Molise  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:44:00 GMT"
+    },
+    {
+        "title": "A51 Tangenziale Est Di Milano",
+        "description": "A51 Tangenziale Est Di Milano\n pioggia  tra Allacciamento A1 Milano-Napoli e Svincolo Lecco   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:44:00 GMT"
+    },
+    {
+        "title": "SS125 Orientale Sarda",
+        "description": "SS125 Orientale Sarda\n corsia chiusa  tra 3,253 km dopo Incrocio Urzulei e 18,916 km prima di Incrocio Dorgali   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:43:00 GMT"
+    },
+    {
+        "title": "Roma Via Parma",
+        "description": "Roma Via Parma\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  a Via Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:43:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Luigi Arrigoni",
+        "description": "Piacenza Via Luigi Arrigoni\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:42:00 GMT"
+    },
+    {
+        "title": "Roma Via della Consulta",
+        "description": "Roma Via della Consulta\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  a Via della Consulta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:42:00 GMT"
+    },
+    {
+        "title": "Roma Via del Quirinale",
+        "description": "Roma Via del Quirinale\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  a Via del Quirinale  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:41:00 GMT"
+    },
+    {
+        "title": "Roma Salita di Montecavallo",
+        "description": "Roma Salita di Montecavallo\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  a Salita di Montecavallo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:40:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa ripristino incidente dalle 07:37 del 2 giugno 2026  tra Svincolo Valmontone e Allacciamento Diramazione Roma Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:39:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Guglielmo De Meis",
+        "description": "Piacenza Via Guglielmo De Meis\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:39:00 GMT"
+    },
+    {
+        "title": "Roma Via della Dataria",
+        "description": "Roma Via della Dataria\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  a Via della Dataria  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:38:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Giovanni Campesio",
+        "description": "Piacenza Via Giovanni Campesio\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:37:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Giacomo Puccini",
+        "description": "Piacenza Via Giacomo Puccini\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:35:00 GMT"
+    },
+    {
+        "title": "SS73 Bis Di Bocca Trabaria",
+        "description": "SS73 Bis Di Bocca Trabaria\n corsia chiusa causa lavori di manutenzione  tra 1,462 km dopo Svincolo Fossombrone Est e 164 m prima di Svincolo S.Ippolito  in direzione Svincolo SP92 - Fano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:35:00 GMT"
+    },
+    {
+        "title": "SS125 Orientale Sarda",
+        "description": "SS125 Orientale Sarda\n traffico rallentato  tra 3,253 km dopo Incrocio Urzulei e 316 m prima di Incrocio Valico Di Genna Silana   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:33:00 GMT"
+    },
+    {
+        "title": "Roma Piazza del Quirinale",
+        "description": "Roma Piazza del Quirinale\n strada chiusa causa cerimonia pubblica dalle 08:00 del 2 giugno 2026  a Piazza del Quirinale  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:33:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 07:29 del 2 giugno 2026  a Svincolo Guidonia - Montecelio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:31:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Giacomo Morigi",
+        "description": "Piacenza Via Giacomo Morigi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:30:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Giacomo Crollalanza",
+        "description": "Piacenza Via Giacomo Crollalanza\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:27:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Fratelli Daturi",
+        "description": "Piacenza Via Fratelli Daturi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:25:00 GMT"
+    },
+    {
+        "title": "Roma Piazza Venezia",
+        "description": "Roma Piazza Venezia\n manifestazione possibili rallentamenti dalle 05:00 alle 16:00 del 2 giugno 2026  a Via dei Fori Imperiali  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:23:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Francesco Maria Rezzi",
+        "description": "Piacenza Via Francesco Maria Rezzi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:22:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Carlo Uttini",
+        "description": "Piacenza Via Carlo Uttini\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:20:00 GMT"
+    },
+    {
+        "title": "LS\/SP16",
+        "description": "LS\/SP16 \n chiusura al traffico causa manifestazione dalle 15:00 alle 19:00 del 2 giugno 2026  a LS\/SP16  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:17:00 GMT"
+    },
+    {
+        "title": "Bologna Viale Zagabria",
+        "description": "Bologna Viale Zagabria\n rottura nelle condutture d acqua  a Via Francoforte  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:16:00 GMT"
+    },
+    {
+        "title": "Piacenza Strada della Raffalda",
+        "description": "Piacenza Strada della Raffalda\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:14:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 07:10 del 2 giugno 2026  tra Svincolo Valmontone e Allacciamento Diramazione Roma Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:12:00 GMT"
+    },
+    {
+        "title": "Piacenza Strada Malchioda",
+        "description": "Piacenza Strada Malchioda\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:11:00 GMT"
+    },
+    {
+        "title": "A13 Raccordo Porto Garibaldi",
+        "description": "A13 Raccordo Porto Garibaldi\n lavori di manutenzione  a Svincolo Cona in direzione Svincolo A8 - Porto Garibaldi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:09:00 GMT"
+    },
+    {
+        "title": "Piacenza Strada Gragnana",
+        "description": "Piacenza Strada Gragnana\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Pietro Cella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:08:00 GMT"
+    },
+    {
+        "title": "Piacenza Via Pietro Cella",
+        "description": "Piacenza Via Pietro Cella\n strada chiusa causa corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  tra Via Francesco Saverio Bianchi e Strada Gragnana   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:04:00 GMT"
+    },
+    {
+        "title": "A3 Raccordo SS106 Ter",
+        "description": "A3 Raccordo SS106 Ter\n lavori  tra 21 m dopo Svincolo Modena e 590 m prima di Svincolo Reggio Arangea   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 05:03:00 GMT"
+    },
+    {
+        "title": "SS197 Di San Gavino E Del Flumini",
+        "description": "SS197 Di San Gavino E Del Flumini\n traffico rallentato causa lavori di manutenzione  tra 350 m dopo Incrocio Gesturi e 466 m prima di Incrocio Nurallao - SS128 Centrale Sarda   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 04:31:00 GMT"
+    },
+    {
+        "title": "SS547 Di Guasila",
+        "description": "SS547 Di Guasila\n traffico rallentato causa lavori di manutenzione  tra 3 km dopo Incrocio Furtei - SS197 Di S. Gavino E Del Flumini e 3,461 km prima di Incrocio Senorbi  - SS128 Centrale Sarda   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 04:27:00 GMT"
+    },
+    {
+        "title": "SS2 Via Cassia",
+        "description": "SS2 Via Cassia\n corsia chiusa  tra 57 m dopo Incrocio Abbadia S.Salvatore e 72 m prima di Incrocio La Bisarca - SS478 Di Sarteano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 04:17:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n perdita di carico dalle 05:47 del 2 giugno 2026  a Svincolo Romagnano Sesia-Ghemme in direzione da Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 03:49:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n pioggia  tra Svincolo Altare e Allacciamento Savona-Zinola-Vado-Allacciamento A10 Ge-Ventimiglia   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 02 Jun 2026 02:56:00 GMT"
     },
     {
         "title": "Costa di Serina SP28",
@@ -20,49 +485,9 @@
         "pubDate": "Tue, 02 Jun 2026 02:01:00 GMT"
     },
     {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n personale su strada causa lavori dalle 03:59 del 2 giugno 2026  tra Svincolo Udine Nord e Svincolo Carnia  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 02:00:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 03:58 del 2 giugno 2026  tra Svincolo Terme Euganee e Svincolo Monselice  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 02:00:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicoli scortati per maltempo causa incidente dalle 03:54 del 2 giugno 2026  tra Allacciamento Diramazione Roma Sud e Allacciamento A24 Roma-Teramo  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 01:56:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n pioggia  tra Svincolo Santhia  e Svincolo Biandrate Vicolungo   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 01:48:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n incidente dalle 03:47 del 2 giugno 2026  tra Allacciamento Diramazione Roma Sud e Allacciamento A24 Roma-Teramo  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 01:48:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 03:38 del 2 giugno 2026  tra Svincolo A10 - A06 al Km 44 e Svincolo Varazze  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 01:40:00 GMT"
-    },
-    {
         "title": "SS498 Soncinese",
         "description": "SS498 Soncinese\n senso unico alternato causa lavori dalle 00:00 del 1 alle 23:59 del 30 giugno 2026  tra Incrocio Fontanella e Incrocio Soncino - SS235 Di Orzinuovi   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 02 Jun 2026 01:29:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n animali sulla strada dalle 03:27 del 2 giugno 2026  tra Svincolo Varazze e Svincolo Arenzano  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 01:29:00 GMT"
-    },
-    {
-        "title": "SS18 Tirrena Inferiore",
-        "description": "SS18 Tirrena Inferiore\n terremoto  tra 22,289 km dopo Incrocio Fiumefreddo Bruzio e 16 m prima di Incrocio Francavilla A. - SS110   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 01:27:00 GMT"
     },
     {
         "title": "SP184BIS Via Abele Crespi",
@@ -70,433 +495,8 @@
         "pubDate": "Tue, 02 Jun 2026 01:22:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 03:01 del 2 giugno 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo Masone  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 01:03:00 GMT"
-    },
-    {
         "title": "Parma Borgo della Pace",
         "description": "Parma Borgo della Pace\n senso unico alternato causa manifestazione dalle 07:00 del 5 alle 01:00 del 8 giugno 2026  tra Borgo delle Colonne e Via Carissimi   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 02 Jun 2026 01:01:00 GMT"
-    },
-    {
-        "title": "Parma Borgo delle Colonne",
-        "description": "Parma Borgo delle Colonne\n strada chiusa causa manifestazione dalle 05:00 del 7 alle 01:00 del 8 giugno 2026  tra Piazzale Salvo d Acquisto e Strada Aurelio Saffi   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:58:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Nord Di Torino",
-        "description": "A55 Tangenziale Nord Di Torino\n veicolo in avaria  a Allacciamento Interconnessione Tangenziale Sud in direzione Allacciamento A32 Torino-Bardonecchia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:58:00 GMT"
-    },
-    {
-        "title": "SS18 Tirrena Inferiore",
-        "description": "SS18 Tirrena Inferiore\n incidente  a Incrocio S.Lucido in direzione Incrocio Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:53:00 GMT"
-    },
-    {
-        "title": "Parma Piazzale San Francesco",
-        "description": "Parma Piazzale San Francesco\n strada chiusa causa manifestazione dalle 11:00 del 4 alle 01:00 del 8 giugno 2026  a Piazzale Salvo D Acquisto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:51:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 02:44 del 2 giugno 2026  tra Svincolo Casale Monferrato Nord e Allacciamento A21 Torino-Piacenza-Brescia  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:45:00 GMT"
-    },
-    {
-        "title": "Parma Strada Sant Anna",
-        "description": "Parma Strada Sant Anna\n strada chiusa causa manifestazione dalle 11:00 del 4 alle 01:00 del 8 giugno 2026  tra Borgo Retto e Borgo degli Studi   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:45:00 GMT"
-    },
-    {
-        "title": "Parma Borgo degli Studi",
-        "description": "Parma Borgo degli Studi\n strada chiusa causa manifestazione dalle 11:00 del 4 alle 01:00 del 8 giugno 2026  tra Piazzale Salvo d Acquisto e Strada Sant Anna   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:43:00 GMT"
-    },
-    {
-        "title": "Parma Piazzale Salvo d Acquisto",
-        "description": "Parma Piazzale Salvo d Acquisto\n strada chiusa causa manifestazione dalle 11:00 del 4 alle 01:00 del 8 giugno 2026  tra Strada Sant Anna e Strada del Prato   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:39:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n pioggia dalle 02:36 del 2 giugno 2026  tra Barriera Lago Maggiore e Svincolo SS33 Del Sempione   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:38:00 GMT"
-    },
-    {
-        "title": "Magione Via dell Arco",
-        "description": "Magione Via dell Arco\n processione dalle 09:30 alle 12:30 del 7 giugno 2026  tra Via Solatia e Via XX Settembre   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:17:00 GMT"
-    },
-    {
-        "title": "Magione Via XX Settembre",
-        "description": "Magione Via XX Settembre\n transito temporaneamente sospeso causa processione dalle 09:30 alle 12:30 del 7 giugno 2026  tra Viale Dante Alighieri e Via Memorabile   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 02 Jun 2026 00:13:00 GMT"
-    },
-    {
-        "title": "Magione Viale Dante Alighieri",
-        "description": "Magione Viale Dante Alighieri\n transito temporaneamente sospeso causa processione dalle 09:30 alle 12:30 del 7 giugno 2026  tra Viale Risorgimento e Via XX Settembre   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 23:58:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n incidente dalle 00:54 del 2 giugno 2026  tra Svincolo Carsoli-Oricola e Svincolo Vicovaro-Mandela  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 23:55:00 GMT"
-    },
-    {
-        "title": "Magione Via dei Platani",
-        "description": "Magione Via dei Platani\n processione dalle 09:30 alle 12:30 del 7 giugno 2026  tra Via del Pozzino e Viale Risorgimento   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 23:55:00 GMT"
-    },
-    {
-        "title": "Magione Via Martiri di Belfiore",
-        "description": "Magione Via Martiri di Belfiore\n processione dalle 09:30 alle 12:30 del 7 giugno 2026  a Viale Risorgimento  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 23:52:00 GMT"
-    },
-    {
-        "title": "Magione Via Padre Camillo Torres",
-        "description": "Magione Via Padre Camillo Torres\n processione dalle 09:30 alle 12:30 del 7 giugno 2026  tra Via del Pozzino e Viale Risorgimento   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 23:48:00 GMT"
-    },
-    {
-        "title": "Magione Via Carlo Pisacane",
-        "description": "Magione Via Carlo Pisacane\n processione dalle 09:30 alle 12:30 del 7 giugno 2026  tra Via del Pozzino e Viale Risorgimento   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 23:45:00 GMT"
-    },
-    {
-        "title": "Cervia Via Campania",
-        "description": "Cervia Via Campania\n manifestazione dalle 16:00 alle 23:59 del 24 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 22:41:00 GMT"
-    },
-    {
-        "title": "Cervia Via Liguria",
-        "description": "Cervia Via Liguria\n manifestazione dalle 16:00 alle 23:59 del 24 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 22:39:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Emilia",
-        "description": "Cervia Viale Emilia\n strada chiusa causa manifestazione dalle 16:00 alle 23:59 del 24 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 22:29:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Italia",
-        "description": "Cervia Viale Italia\n strada chiusa causa manifestazione dalle 16:00 alle 23:59 del 24 giugno 2026  tra Via Umbria e Via Lucania   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 22:21:00 GMT"
-    },
-    {
-        "title": "Cervia Via Campania",
-        "description": "Cervia Via Campania\n manifestazione dalle 16:00 alle 23:59 del 17 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 22:18:00 GMT"
-    },
-    {
-        "title": "Cervia Via Liguria",
-        "description": "Cervia Via Liguria\n manifestazione dalle 16:00 alle 23:59 del 17 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:59:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Emilia",
-        "description": "Cervia Viale Emilia\n strada chiusa causa manifestazione dalle 16:00 alle 23:59 del 17 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:51:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:50:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 12,95 km prima di Svincolo Pontremoli e 7,3 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:50:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Italia",
-        "description": "Cervia Viale Italia\n strada chiusa causa manifestazione dalle 16:00 alle 23:59 del 17 giugno 2026  tra Via Umbria e Via Lucania   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:48:00 GMT"
-    },
-    {
-        "title": "SS130 Iglesiente",
-        "description": "SS130 Iglesiente\n riduzione di carreggiata causa lavori dalle 07:00 del 14 aprile 2026 alle 19:00 del 30 giugno 2026  tra Incrocio Cagliari Nord - SS554 Cagliaritana e Incrocio Iglesias - SS126 Sud Occidentale Sarda   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:34:00 GMT"
-    },
-    {
-        "title": "Cervia Via Campania",
-        "description": "Cervia Via Campania\n manifestazione dalle 16:00 alle 23:59 del 10 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:29:00 GMT"
-    },
-    {
-        "title": "Cervia Via Liguria",
-        "description": "Cervia Via Liguria\n manifestazione dalle 16:00 alle 23:59 del 10 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:26:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Emilia",
-        "description": "Cervia Viale Emilia\n strada chiusa causa manifestazione dalle 16:00 alle 23:59 del 10 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:23:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Italia",
-        "description": "Cervia Viale Italia\n strada chiusa causa manifestazione dalle 16:00 alle 23:59 del 10 giugno 2026  tra Via Umbria e Via Lucania   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 21:06:00 GMT"
-    },
-    {
-        "title": "A32 Torino-Bardonecchia",
-        "description": "A32 Torino-Bardonecchia\n scambio di carreggiata causa lavori dalle 16:52 del 29 maggio 2026 alle 23:59 del 22 giugno 2026  tra Svincolo Oulx Est e Svincolo Susa Ovest-Venaus  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 20:57:00 GMT"
-    },
-    {
-        "title": "Cervia Via Campania",
-        "description": "Cervia Via Campania\n manifestazione dalle 16:00 alle 23:59 del 3 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 20:51:00 GMT"
-    },
-    {
-        "title": "Cervia Via Liguria",
-        "description": "Cervia Via Liguria\n manifestazione dalle 16:00 alle 23:59 del 3 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 20:46:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Emilia",
-        "description": "Cervia Viale Emilia\n strada chiusa causa manifestazione dalle 16:00 alle 23:59 del 3 giugno 2026  tra Viale Titano e Viale Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 20:42:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n impianto di distribuzione carburante chiuso causa guasto impianto dalle 21:28 del 1 giugno 2026  a Area di servizio  San Pelagio in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 20:41:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Italia",
-        "description": "Cervia Viale Italia\n strada chiusa causa manifestazione dalle 16:00 alle 23:59 del 3 giugno 2026  tra Via Umbria e Via Lucania   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 20:32:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n tratto chiuso causa lavori dalle 22:08 del 1 alle 04:00 del 2 giugno 2026  tra Svincolo Gemona-Osoppo e Svincolo Carnia  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 20:09:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n problemi in area di servizio causa guasto impianto dalle 22:04 del 1 giugno 2026  a Area di servizio  Arda in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 20:05:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 21:57 del 1 alle 06:00 del 2 giugno 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 19:58:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 21:57 del 1 alle 06:00 del 2 giugno 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 19:58:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n pioggia dalle 14:16 del 1 giugno 2026  tra Svincolo Ancona Sud e Svincolo Pescara Sud-Francavilla   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 19:49:00 GMT"
-    },
-    {
-        "title": "SS280 Dei Due Mari",
-        "description": "SS280 Dei Due Mari\n corsia chiusa causa lavori di manutenzione  tra 6,509 km prima di Incrocio Marcellinara e 4,862 km dopo Incrocio Nicastro  in direzione Incrocio S.Eufemia Lamezia - SS18 Tirrena Inferiore  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 19:29:00 GMT"
-    },
-    {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n corsia chiusa  tra 17,26 km dopo Incrocio Abbadia Lariana e 171 m prima di Incrocio Piona  in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 19:19:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n pioggia dalle 15:45 del 1 giugno 2026  tra Svincolo Assergi e Svincolo S.G.C. per Giulianova   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 18:59:00 GMT"
-    },
-    {
-        "title": "R24 Raccordo Torino-Aeroporto Caselle",
-        "description": "R24 Raccordo Torino-Aeroporto Caselle\n riduzione di carreggiata causa lavori dalle 22:00 del 15 alle 06:00 del 19 giugno 2026  tra Svincolo S.Benigno - SS460 e Svincolo Caselle Torinese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 18:57:00 GMT"
-    },
-    {
-        "title": "SS16 Adriatica",
-        "description": "SS16 Adriatica\n frana  a Incrocio Battaglia Terme  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 18:45:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Vittorio Gadolini",
-        "description": "Piacenza Via Vittorio Gadolini\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Francesco Saverio Bianchi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 17:54:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Vittorio Veneto",
-        "description": "Piacenza Via Vittorio Veneto\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Francesco Saverio Bianchi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 17:43:00 GMT"
-    },
-    {
-        "title": "Roma Via Giuseppe Revere",
-        "description": "Roma Via Giuseppe Revere\n strada chiusa causa fondo stradale dissestato dalle 18:50 del 1 giugno 2026  a Via Giuseppe Revere  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 17:37:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Vincenzo Buzzetti",
-        "description": "Piacenza Via Vincenzo Buzzetti\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Francesco Saverio Bianchi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 17:35:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Pietro Cella",
-        "description": "Piacenza Via Pietro Cella\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Francesco Saverio Bianchi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 17:27:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n vento forte dalle 19:23 del 1 giugno 2026  tra Svincolo Sulmona-Pratola Peligna e Svincolo Casauria-Torre De  Passeri   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 17:25:00 GMT"
-    },
-    {
-        "title": "SS1 Via Aurelia",
-        "description": "SS1 Via Aurelia\n tratto chiuso, chiusura notturna causa lavori dalle 21:00 del 3 alle 06:00 del 5 giugno 2026  tra Incrocio Finale Ligure e Incrocio Borgio Verezzi   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 17:24:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Giuseppe Manfredi",
-        "description": "Piacenza Via Giuseppe Manfredi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Francesco Saverio Bianchi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 17:15:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Giuseppe Calda",
-        "description": "Piacenza Via Giuseppe Calda\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Francesco Saverio Bianchi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 17:05:00 GMT"
-    },
-    {
-        "title": "Roma Via Francesco Saverio Sprovieri",
-        "description": "Roma Via Francesco Saverio Sprovieri\n strada chiusa causa voragine dalle 13:20 del 1 giugno 2026  a Viale dei Quattro Venti in direzione Via Giacinto Carini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:54:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Francesco Crotti",
-        "description": "Piacenza Via Francesco Crotti\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Via Francesco Saverio Bianchi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:51:00 GMT"
-    },
-    {
-        "title": "Roma Via Conca d Oro",
-        "description": "Roma Via Conca d Oro\n manifestazione dalle 17:30 alle 23:59 del 2 giugno 2026  a Via Conca d Oro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:50:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Francesco Saverio Bianchi",
-        "description": "Piacenza Via Francesco Saverio Bianchi\n strada chiusa causa corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  tra Viale Dante Alighieri e Via Pietro Cella   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:42:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Vincenzo Porri",
-        "description": "Piacenza Via Vincenzo Porri\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:36:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Vincenzo Benedetto Bissi",
-        "description": "Piacenza Via Vincenzo Benedetto Bissi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:32:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Sebastiano Nasolini",
-        "description": "Piacenza Via Sebastiano Nasolini\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:26:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Raffaele Fulgosio",
-        "description": "Piacenza Via Raffaele Fulgosio\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:23:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Pier Maria Campi",
-        "description": "Piacenza Via Pier Maria Campi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:21:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Luciano Scarabelli",
-        "description": "Piacenza Via Luciano Scarabelli\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:19:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Lorenzo Valla",
-        "description": "Piacenza Via Lorenzo Valla\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:16:00 GMT"
-    },
-    {
-        "title": "Genova Piazza del Portello",
-        "description": "Genova Piazza del Portello\n incidente  a Piazza del Portello  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:16:00 GMT"
-    },
-    {
-        "title": "Roma Via Ancona",
-        "description": "Roma Via Ancona\n strada chiusa causa lavori dalle 00:01 del 4 alle 05:00 del 5 giugno 2026  a Via Ancona in direzione Piazzale di Porta Pia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:10:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Lodovico Domenichi",
-        "description": "Piacenza Via Lodovico Domenichi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:04:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Giuseppe Ricci Oddi",
-        "description": "Piacenza Via Giuseppe Ricci Oddi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:02:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n ripristino incidente causa veicolo in fiamme dalle 16:52 del 29 maggio 2026  tra Svincolo Macerata e Svincolo Loreto-Porto Recanati  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 16:00:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Giuseppe Poggi",
-        "description": "Piacenza Via Giuseppe Poggi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:59:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Giuseppe Manfredi",
-        "description": "Piacenza Via Giuseppe Manfredi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:57:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Giovanni Antonio da Pordenone",
-        "description": "Piacenza Via Giovanni Antonio da Pordenone\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:55:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Gian Maria Damiani",
-        "description": "Piacenza Via Gian Maria Damiani\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:53:00 GMT"
-    },
-    {
-        "title": "SS116 Randazzo - Capo D orlando",
-        "description": "SS116 Randazzo - Capo D orlando\n tratto chiuso causa lavori dalle 22:00 del 3 alle 05:00 del 6 giugno 2026  a Incrocio Randazzo - SS120 Dell etna E Delle Madonie  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:49:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Francesco Durante",
-        "description": "Piacenza Via Francesco Durante\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:48:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Filippo Grandi",
-        "description": "Piacenza Via Filippo Grandi\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:46:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Cornegliana",
-        "description": "Piacenza Via Cornegliana\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:44:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Carlo Maria Viganoni",
-        "description": "Piacenza Via Carlo Maria Viganoni\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:41:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Camillo Piatti",
-        "description": "Piacenza Via Camillo Piatti\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:39:00 GMT"
-    },
-    {
-        "title": "Piacenza Via Bartolomeo Baderna",
-        "description": "Piacenza Via Bartolomeo Baderna\n corsa ciclistica dalle 13:00 alle 16:00 del 5 giugno 2026  a Viale Dante Alighieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 01 Jun 2026 15:37:00 GMT"
     }
 ]
