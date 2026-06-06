@@ -1,253 +1,383 @@
 [
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 03:29 del 6 giugno 2026  tra Svincolo Genova Voltri e Svincolo Genova Aeroporto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:31:00 GMT"
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 07:34 del 6 giugno 2026  tra Svincolo Pistoia e Svincolo Montecatini  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:36:00 GMT"
     },
     {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 03:28 del 6 giugno 2026  tra Svincolo San Severo e Svincolo Foggia  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:30:00 GMT"
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n perdita di carico causa perdita accidentale dalle 07:34 del 6 giugno 2026  tra Svincolo Frosinone e Svincolo Ceprano  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:36:00 GMT"
+    },
+    {
+        "title": "Taranto Via Giuseppe Mazzini",
+        "description": "Taranto Via Giuseppe Mazzini\n processione dalle 17:30 alle 22:15 del 7 giugno 2026  tra Via Duca degli Abruzzi e Via regina Elena   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:36:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 07:33 del 6 giugno 2026  tra Svincolo Tivoli e Svincolo Castel Madama  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:35:00 GMT"
     },
     {
         "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 03:28 del 6 giugno 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:29:00 GMT"
+        "description": "A7 Milano-Genova\n chiusura notturna, chiusura area di servizio causa lavori di manutenzione dalle 22:00 del 12 alle 06:00 del 13 giugno 2026  a Area di servizio  Bettole Di Novi Ligure in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:35:00 GMT"
     },
     {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n incidente dalle 03:20 del 6 giugno 2026  a Svincolo Solbiate Arno in direzione da Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:23:00 GMT"
+        "title": "SS655 Bradanica",
+        "description": "SS655 Bradanica\n corsia chiusa causa fondo stradale dissestato  a Incrocio Rendina  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:33:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n personale su strada causa lavori dalle 03:20 del 6 giugno 2026  tra Svincolo Recco e Svincolo Genova Nervi  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:22:00 GMT"
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 07:30 del 6 giugno 2026  tra Svincolo Tagliacozzo e Svincolo Carsoli-Oricola  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:33:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 03:18 del 6 giugno 2026  tra Svincolo Sasso Marconi e Allacciamento Ramo Casalecchio  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:20:00 GMT"
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 07:30 del 6 giugno 2026  tra Allacciamento A21 Torino-Piacenza-Brescia e Svincolo Casale Monferrato Nord  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:32:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n personale su strada causa lavori dalle 03:18 del 6 giugno 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:20:00 GMT"
+        "title": "SS16 Adriatica",
+        "description": "SS16 Adriatica\n traffico rallentato causa lavori di manutenzione  tra 772 m prima di Incrocio Martignano e 161 m dopo Incrocio Galatina  in direzione Incrocio Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:31:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 03:16 del 6 giugno 2026  tra Svincolo Attigliano e Svincolo Magliano Sabina   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:19:00 GMT"
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 07:29 del 6 giugno 2026  tra Svincolo Altedo e Svincolo Ferrara Sud  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:31:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 03:17 del 6 giugno 2026  tra Svincolo Marotta-Mondolfo e Svincolo Senigallia  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:19:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 03:15 del 6 giugno 2026  tra Svincolo Grottaminarda e Svincolo Vallata  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:17:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 03:12 del 6 giugno 2026  tra Allacciamento A30 Caserta-Salerno e Svincolo Santa Maria Capua Vetere  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:16:00 GMT"
-    },
-    {
-        "title": "A22 Brennero-Modena",
-        "description": "A22 Brennero-Modena\n code causa traffico intenso dalle 00:47 del 6 giugno 2026  tra Svincolo Vipiteno e Svincolo Brennero - Confine Di Stato  in direzione Brennero  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:16:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 03:12 del 6 giugno 2026  tra Svincolo Arezzo e Svincolo Monte San Savino   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:13:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 03:11 del 6 giugno 2026  tra Svincolo Ferentino e Svincolo Frosinone  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:13:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 03:09 del 6 giugno 2026  tra Svincolo Lacedonia e Svincolo Candela   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:11:00 GMT"
-    },
-    {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n personale su strada causa lavori dalle 03:08 del 6 giugno 2026  tra Allacciamento A9 Lainate-Como Chiasso e Svincolo Legnano  in direzione Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:11:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 03:07 del 6 giugno 2026  tra Allacciamento A15 Parma-La Spezia e Svincolo Fidenza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:09:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n personale su strada causa lavori dalle 03:03 del 6 giugno 2026  tra Svincolo Sestri Levante e Svincolo Lavagna  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:05:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 03:03 del 6 giugno 2026  tra Svincolo Colleferro e Svincolo Ferentino  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:05:00 GMT"
+        "title": "Taranto Via Giuseppe Mazzini",
+        "description": "Taranto Via Giuseppe Mazzini\n processione dalle 17:30 alle 22:15 del 7 giugno 2026  tra Via Duca di Genova e Via Duca degli Abruzzi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:30:00 GMT"
     },
     {
         "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 03:02 del 6 giugno 2026  tra Svincolo Vignole Borbera e Svincolo Serravalle Scrivia  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 01:04:00 GMT"
+        "description": "A7 Milano-Genova\n chiusura notturna, chiusura area di servizio causa lavori di manutenzione dalle 22:00 del 11 alle 06:00 del 12 giugno 2026  a Area di servizio  Castelnuovo Scrivia in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:30:00 GMT"
     },
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 02:57 del 6 giugno 2026  tra Svincolo A10 - A06 al Km 44 e Svincolo Varazze  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:59:00 GMT"
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n chiusura notturna, chiusura area di servizio causa lavori di manutenzione dalle 22:00 del 10 alle 06:00 del 11 giugno 2026  a Area di servizio  Dorno in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:29:00 GMT"
     },
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 02:57 del 6 giugno 2026  tra Svincolo Celle Ligure e Svincolo Albisola  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:59:00 GMT"
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 07:27 del 6 giugno 2026  tra Svincolo Torrimpietra e Barriera Di Roma Ovest  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:29:00 GMT"
     },
     {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n corsia chiusa causa incidente  a Incrocio Bellano in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:57:00 GMT"
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 07:27 del 6 giugno 2026  tra Allacciamento A7 Milano-Genova e Svincolo Genova Est  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:29:00 GMT"
     },
     {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n pioggia  tra 550 m dopo Svincolo Rho e Svincolo Pero - Diramazione Molino Dorino   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:55:00 GMT"
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo in avaria  a Svincolo Brugnato-Borghetto Vara in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:27:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n incidente dalle 02:44 del 6 giugno 2026  a Svincolo Dalmine  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:53:00 GMT"
+        "title": "Taranto Via Principe Amedeo",
+        "description": "Taranto Via Principe Amedeo\n processione dalle 17:30 alle 22:15 del 7 giugno 2026  tra Via Duca degli Abruzzi e Via regina Elena   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:27:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 02:45 del 6 giugno 2026  tra Svincolo Capua e Svincolo Caserta Nord  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:48:00 GMT"
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n perdita di carico causa perdita accidentale dalle 07:25 del 6 giugno 2026  tra Svincolo Altedo e Svincolo Ferrara Sud  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:27:00 GMT"
     },
     {
         "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n personale su strada causa lavori dalle 02:46 del 6 giugno 2026  tra Svincolo Nocera Pagani e Barriera Di Salerno M.S.Severino   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:48:00 GMT"
+        "description": "A30 Caserta-Salerno\n incidente dalle 07:25 del 6 giugno 2026  tra Svincolo Palma Campania e Svincolo Sarno  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:27:00 GMT"
     },
     {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 02:41 del 6 giugno 2026  tra Svincolo Pontebba e Barriera Di Ugovizza-Tarvisio  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:44:00 GMT"
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n veicolo fermo o in avaria dalle 07:23 del 6 giugno 2026  tra Svincolo Castel S. Giorgio e Barriera Di Salerno M.S.Severino  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:26:00 GMT"
     },
     {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 02:40 del 6 giugno 2026  tra Svincolo Grottammare e Svincolo San Benedetto Del Tronto   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:41:00 GMT"
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n veicolo fermo o in avaria dalle 07:23 del 6 giugno 2026  tra Svincolo Nocera Pagani e Svincolo Sarno  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:26:00 GMT"
+    },
+    {
+        "title": "Taranto Via Principe Amedeo",
+        "description": "Taranto Via Principe Amedeo\n processione dalle 17:30 alle 22:15 del 7 giugno 2026  tra Via Duca di Genova e Via Duca degli Abruzzi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:24:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n chiusura notturna, chiusura area di servizio causa lavori di manutenzione dalle 22:00 del 9 alle 06:00 del 10 giugno 2026  a Area di servizio  Dorno in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:24:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n perdita di carico dalle 06:55 del 6 giugno 2026  tra Svincolo Celle Ligure e Svincolo Varazze  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:22:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n chiusura notturna, chiusura area di servizio causa lavori di manutenzione dalle 22:00 del 8 alle 06:00 del 9 giugno 2026  a Area di servizio  Castelnuovo Scrivia in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:22:00 GMT"
+    },
+    {
+        "title": "SS7 Via Appia",
+        "description": "SS7 Via Appia\n tratto chiuso causa incidente con persone  a Incrocio Masseria Mole Perito in direzione Incrocio Brindisi - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:21:00 GMT"
+    },
+    {
+        "title": "Taranto Piazza della Vittoria",
+        "description": "Taranto Piazza della Vittoria\n strada chiusa causa processione dalle 19:45 alle 22:15 del 7 giugno 2026  tra Via Savino e Via Mulino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:21:00 GMT"
+    },
+    {
+        "title": "A35 BreBeMi",
+        "description": "A35 BreBeMi\n chiusura notturna, chiusura nodo causa lavori dalle 22:00 del 18 alle 05:00 del 19 giugno 2026  a Allacciamento SP11 (BS) in direzione A58 da Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:19:00 GMT"
+    },
+    {
+        "title": "Taranto Via Tommaso D Aquino",
+        "description": "Taranto Via Tommaso D Aquino\n strada chiusa causa processione dalle 19:45 alle 22:15 del 7 giugno 2026  tra Corso Due Mari e Via Cavour   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:19:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n pioggia dalle 07:17 del 6 giugno 2026  tra Svincolo Capriate e Svincolo Grumello   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:18:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n pioggia dalle 07:15 del 6 giugno 2026  tra Barriera Lago Maggiore e Svincolo SS33 Del Sempione   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:16:00 GMT"
+    },
+    {
+        "title": "A35 BreBeMi",
+        "description": "A35 BreBeMi\n chiusura notturna, uscita chiusa causa lavori dalle 22:00 del 18 alle 05:00 del 19 giugno 2026  a Svincolo Travagliato Est in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:16:00 GMT"
+    },
+    {
+        "title": "Taranto Via Di Palma",
+        "description": "Taranto Via Di Palma\n strada chiusa causa lavori dalle 19:45 alle 22:15 del 7 giugno 2026  tra Via Duca degli Abruzzi e Via Leonida   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:15:00 GMT"
+    },
+    {
+        "title": "A19 Palermo-Catania",
+        "description": "A19 Palermo-Catania\n traffico rallentato causa lavori di manutenzione  a Area di servizio  Gelso Bianco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:13:00 GMT"
     },
     {
         "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 02:38 del 6 giugno 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Asse Supporto  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:39:00 GMT"
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 07:08 del 6 giugno 2026  tra Allacciamento A30 Caserta-Salerno e Svincolo Napoli-Caserta Sud  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:12:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 02:36 del 6 giugno 2026  tra Svincolo Guidonia - Montecelio e Allacciamento Diramazione Roma Nord  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:37:00 GMT"
+        "title": "Taranto Via Duca degli Abruzzi",
+        "description": "Taranto Via Duca degli Abruzzi\n strada chiusa causa processione dalle 19:45 alle 22:15 del 7 giugno 2026  tra Via Pitagora e Viale Virgilio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:12:00 GMT"
     },
     {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n personale su strada causa lavori dalle 02:34 del 6 giugno 2026  tra Svincolo Castronno e Svincolo Solbiate Arno  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:36:00 GMT"
-    },
-    {
-        "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n entrata chiusa causa allagamento  a Svincolo SP9 Vecchia Valassina in direzione nord (A8) da Vecchia Vallassina  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:35:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n tratto chiuso causa ripristino incidente dalle 22:45 del 5 giugno 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:33:00 GMT"
-    },
-    {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n pioggia dalle 02:21 del 6 giugno 2026  tra Barriera Di Como Grandate e Svincolo Lago di Como   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:22:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 01:53 del 6 giugno 2026  tra Svincolo Casauria-Torre De  Passeri e Svincolo Scafa-Alanno  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:21:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 19:24 del 5 giugno 2026  tra Svincolo Guidonia - Montecelio e Allacciamento Diramazione Roma Nord  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:17:00 GMT"
+        "title": "SR11(VE) Raccordo Venezia",
+        "description": "SR11(VE) Raccordo Venezia\n chiusura nodo causa lavori dalle 07:10 alle 16:00 del 6 giugno 2026  a Incrocio Tangenziale di Mestre in direzione Marghera provenendo da Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:11:00 GMT"
     },
     {
         "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n entrata chiusa causa allagamento  a Svincolo Monza-S.Alessandro in direzione nord (A8) da Monza S.Alessandro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:13:00 GMT"
+        "description": "A52 Tangenziale Nord Di Milano\n entrata chiusa causa allagamento  a Svincolo Monza-S.Alessandro in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:10:00 GMT"
     },
     {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n personale su strada causa lavori dalle 02:09 del 6 giugno 2026  tra Allacciamento A12 - Pisa e Allacciamento A12 - Lucca  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:11:00 GMT"
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 07:04 del 6 giugno 2026  tra Svincolo Celle Ligure e Svincolo Varazze  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:10:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n perdita di carico causa perdita accidentale dalle 07:03 del 6 giugno 2026  tra Svincolo Palma Campania e Svincolo Sarno  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:10:00 GMT"
+    },
+    {
+        "title": "SS14Var Variante di Portogruaro",
+        "description": "SS14Var Variante di Portogruaro\n lavori di manutenzione  tra SS14 - Portogruaro Ovest - Via Levada e Rotatoria Via Stadio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:09:00 GMT"
+    },
+    {
+        "title": "Taranto Via Alessandro Criscuolo",
+        "description": "Taranto Via Alessandro Criscuolo\n strada chiusa causa processione dalle 17:30 alle 22:15 del 7 giugno 2026  tra Via Duca degli Abruzzi e Via Regina Elena   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:09:00 GMT"
     },
     {
         "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n uscita chiusa causa smottamento  a Svincolo SP9 Vecchia Valassina in direzione nord (A8) per vecchia Valassina  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:08:00 GMT"
+        "description": "A52 Tangenziale Nord Di Milano\n veicolo in avaria  tra Allacciamento Tangenziale Est Di Milano e Svincolo Sesto S.Giovanni Sud: Cologno M.  in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:09:00 GMT"
     },
     {
-        "title": "TG-BO Tangenziale Di Bologna",
-        "description": "TG-BO Tangenziale Di Bologna\n personale su strada causa lavori dalle 02:03 del 6 giugno 2026  tra Svincolo 8 Bis Viale Europa e Svincolo 12 Quartiere Mazzini - SS 65  Delle Futa  in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:04:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 02:02 del 6 giugno 2026  tra Svincolo Teramo-Giulianova-Mosciano e Svincolo Roseto Degli Abruzzi  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:03:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n ripristino incidente causa incidente dalle 20:06 del 5 giugno 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 06 Jun 2026 00:00:00 GMT"
-    },
-    {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n corsia chiusa causa allagamento  a Incrocio Lissone in direzione Incrocio Monza - SS527 Bustese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 23:43:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 01:37 del 6 giugno 2026  tra Svincolo Poggio Imperiale e Svincolo San Severo  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 23:39:00 GMT"
-    },
-    {
-        "title": "R07 Raccordo Ascoli P.-Porto D ascoli",
-        "description": "R07 Raccordo Ascoli P.-Porto D ascoli\n lavori di manutenzione  tra 4,628 km prima di Svincolo Ancarano-Castel Di Lama e 2,84 km dopo Svincolo Marino Del Tronto  in direzione Raccordo Ascoli P.  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 23:37:00 GMT"
+        "title": "A35 BreBeMi",
+        "description": "A35 BreBeMi\n veicolo in panne  a Svincolo Caravaggio in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:08:00 GMT"
     },
     {
         "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n incidente dalle 01:00 del 6 giugno 2026  tra Svincolo Faenza e Svincolo Forli   in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 23:31:00 GMT"
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 05:20 del 6 giugno 2026  tra Allacciamento Fano - Raccordo Per Fossombrone e Svincolo Senigallia  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:06:00 GMT"
     },
     {
-        "title": "SS131 Carlo Felice",
-        "description": "SS131 Carlo Felice\n traffico rallentato  a Incrocio S.Giusta - SS292 Nord Occ. Sarda in direzione Incrocio Porto Torres  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 23:23:00 GMT"
+        "title": "Taranto Via Duca degli Abruzzi",
+        "description": "Taranto Via Duca degli Abruzzi\n strada chiusa, processione dalle 17:30 alle 22:15 del 7 giugno 2026  tra Via Francesco Bruno e Via Alessandro Criscuolo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:06:00 GMT"
+    },
+    {
+        "title": "SS73 Senese Aretina",
+        "description": "SS73 Senese Aretina\n traffico rallentato causa lavori di manutenzione  tra 65 m dopo Incrocio Le Ville - SS221 Di Monterchi e 1,61 km prima di Incrocio S.Leo  in direzione Incrocio Sansepolcro - SS3 Bis Tiberina  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:03:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 06:54 del 6 giugno 2026  tra Svincolo Molfetta e Svincolo Bitonto  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 05:01:00 GMT"
+    },
+    {
+        "title": "SS20 Del Colle Di Tenda E Di Valle Roja",
+        "description": "SS20 Del Colle Di Tenda E Di Valle Roja\n corsia chiusa  a Incrocio Airole  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:55:00 GMT"
+    },
+    {
+        "title": "SS73 Senese Aretina",
+        "description": "SS73 Senese Aretina\n traffico rallentato causa lavori di manutenzione  tra 1,701 km prima di Incrocio Arezzo e 638 m dopo Incrocio Pieve Al Toppo - SS327 Di Foiano  in direzione Incrocio Montepescali - SS1 Aurelia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:55:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n problemi in area di servizio dalle 06:53 del 6 giugno 2026  a Area di servizio  Chienti in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:55:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n personale su strada dalle 06:51 del 6 giugno 2026  tra Svincolo Modena Sud e Allacciamento A14 Bologna Borgo Panigale  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:52:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n lavori in uscita  a Area di servizio  Bordighera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:52:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n lavori in ingresso  a Area di servizio  Bordighera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:52:00 GMT"
+    },
+    {
+        "title": "SS35 Dei Giovi",
+        "description": "SS35 Dei Giovi\n corsia chiusa  tra 1,548 km dopo Incrocio Borgo Fornari Pieve e 1,544 km prima di Incrocio Casello Ronco Scrivia A7 Milano-Genova   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:49:00 GMT"
+    },
+    {
+        "title": "SS12 Dell abetone E Del Brennero",
+        "description": "SS12 Dell abetone E Del Brennero\n lavori di manutenzione  tra 16,803 km dopo Incrocio Medolla - SS468 Di Correggio e 4,662 km prima di Incrocio Roncanova   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:47:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Sud",
+        "description": "A1 Diramazione Roma Sud\n veicolo fermo o in avaria dalle 06:45 del 6 giugno 2026  a Svincolo San Cesareo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:47:00 GMT"
+    },
+    {
+        "title": "SS586 Della Valle Dell aveto",
+        "description": "SS586 Della Valle Dell aveto\n corsia chiusa  tra 1,761 km dopo Incrocio Prati Di Mezzanego e 2,96 km prima di Incrocio Carasco - SS225 Della Fontanabuona   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:45:00 GMT"
+    },
+    {
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n uscita chiusa causa smottamento  a Svincolo SS494 Vigevanese Nuova: Lorenteggio in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:45:00 GMT"
+    },
+    {
+        "title": "SS586 Della Valle Dell aveto",
+        "description": "SS586 Della Valle Dell aveto\n corsia chiusa  a Incrocio Borzonasca  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:43:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 06:38 del 6 giugno 2026  tra Svincolo Termoli-Molise e Svincolo Vasto Sud  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:42:00 GMT"
+    },
+    {
+        "title": "A21 Torino-Brescia",
+        "description": "A21 Torino-Brescia\n veicolo in fiamme  a Svincolo Broni-Stradella in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:39:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n lavori  tra 1,765 km prima di Svincolo Chivasso e 564 m dopo Svincolo Brandizzo  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:39:00 GMT"
+    },
+    {
+        "title": "A29 Diramazione Alcamo-Trapani",
+        "description": "A29 Diramazione Alcamo-Trapani\n corsia chiusa causa fondo stradale dissestato  tra 1,28 km prima di Svincolo Fulgatore e 10,88 km dopo Svincolo Segesta  in direzione Diramazione Alcamo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:15:00 GMT"
+    },
+    {
+        "title": "SS547 Di Guasila",
+        "description": "SS547 Di Guasila\n traffico rallentato causa lavori di manutenzione  tra 1,058 km dopo Incrocio Segariu e 3,461 km prima di Incrocio Senorbi  - SS128 Centrale Sarda   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:13:00 GMT"
+    },
+    {
+        "title": "SS18 Tirrena Inferiore",
+        "description": "SS18 Tirrena Inferiore\n senso unico alternato causa lavori dalle 18:00 del 6 giugno 2025 alle 18:00 del 18 giugno 2026  a Incrocio Variante Di Capitello  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 04:11:00 GMT"
+    },
+    {
+        "title": "SS101 Salentina Di Gallipoli",
+        "description": "SS101 Salentina Di Gallipoli\n traffico rallentato causa lavori di manutenzione  tra 2,16 km dopo Incrocio Lequile e 2,142 km prima di Incrocio Sannicola Sud   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 03:45:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n tratto chiuso causa lavori dalle 22:00 del 8 alle 05:00 del 9 giugno 2026  tra Svincolo Aosta Gran S. Bernardo e Svincolo Aosta Est-Autoporto  in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 03:29:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 05:22 del 6 giugno 2026  tra Svincolo Val Vibrata e Svincolo Roseto Degli Abruzzi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 03:24:00 GMT"
+    },
+    {
+        "title": "A22 Brennero-Modena",
+        "description": "A22 Brennero-Modena\n code causa lavori  a Svincolo Brennero - Confine Di Stato in direzione Brennero  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 03:23:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n ripristino incidente dalle 05:15 del 6 giugno 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 03:19:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 05:07 del 6 giugno 2026  tra Svincolo Trani e Svincolo Molfetta   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 03:08:00 GMT"
+    },
+    {
+        "title": "SS42 Del Tonale E Della Mendola",
+        "description": "SS42 Del Tonale E Della Mendola\n tratto chiuso  tra 2,029 km dopo Incrocio Cogno e 668 m prima di Incrocio Niardo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 03:05:00 GMT"
+    },
+    {
+        "title": "SS45bis Bis Gardesana Occidentale",
+        "description": "SS45bis Bis Gardesana Occidentale\n traffico rallentato causa perdita di liquido sull asfalto  a Incrocio Limone Sul Garda  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 02:23:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n riduzione di carreggiata causa lavori di rifacimento del manto stradale dalle 21:00 del 5 alle 06:00 del 8 giugno 2026  tra Svincolo Peschiera e Svincolo Sirmione  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 06 Jun 2026 02:02:00 GMT"
     },
     {
         "title": "SS71 Umbro Casentinese Romagnola",
         "description": "SS71 Umbro Casentinese Romagnola\n corsia chiusa causa lavori  tra Incrocio S.Lorenzo e Incrocio Madonna Sanita  - SS220 Pievaiola   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 05 Jun 2026 23:17:00 GMT"
-    },
-    {
-        "title": "SS71 Umbro Casentinese Romagnola",
-        "description": "SS71 Umbro Casentinese Romagnola\n corsia chiusa  tra 2,908 km dopo Incrocio S.Lorenzo e 5,289 km prima di Incrocio Madonna Sanita  - SS220 Pievaiola   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 23:03:00 GMT"
     },
     {
         "title": "A52 Tangenziale Nord Di Milano",
@@ -260,46 +390,6 @@
         "pubDate": "Fri, 05 Jun 2026 22:31:00 GMT"
     },
     {
-        "title": "A90-GRA Aurelia-Salaria",
-        "description": "A90-GRA Aurelia-Salaria\n corsia chiusa  a Svincolo 2a: Trionfale in direzione Salaria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:25:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n personale su strada dalle 00:21 del 6 giugno 2026  tra Svincolo Altopascio e Svincolo Chiesina Uzzanese  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:22:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n lavori  tra 50 m dopo Allacciamento Nodo di Pero e Svincolo Pero - Diramazione Molino Dorino  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:20:00 GMT"
-    },
-    {
-        "title": "SS653 Della Valle Del Sinni",
-        "description": "SS653 Della Valle Del Sinni\n incidente  a Incrocio Masseria Schianchetta in direzione Incrocio Guardamarina - SS106 Jonica  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:17:00 GMT"
-    },
-    {
-        "title": "SS12 Dell abetone E Del Brennero",
-        "description": "SS12 Dell abetone E Del Brennero\n tratto chiuso  a Incrocio Roncanova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:13:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n area di servizio chiusa causa lavori dalle 00:09 alle 06:00 del 6 giugno 2026  a Area di servizio  San Nicola in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:10:00 GMT"
-    },
-    {
-        "title": "A56 Tangenziale Di Napoli",
-        "description": "A56 Tangenziale Di Napoli\n rampa di accesso chiusa causa lavori dalle 00:08 alle 06:00 del 6 giugno 2026  a Svincolo Corso Malta in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:09:00 GMT"
-    },
-    {
-        "title": "A56 Tangenziale Di Napoli",
-        "description": "A56 Tangenziale Di Napoli\n rampa di accesso chiusa causa lavori dalle 00:08 alle 06:00 del 6 giugno 2026  a Svincolo Viale Maddalena in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:09:00 GMT"
-    },
-    {
         "title": "Siena Via Bernardo Tolomei",
         "description": "Siena Via Bernardo Tolomei\n strada chiusa causa manifestazione dalle 19:00 del 12 alle 20:00 del 14 giugno 2026  tra Via Ambrogio Sansedoni e Via Celso Cittadini   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 05 Jun 2026 22:09:00 GMT"
@@ -310,54 +400,14 @@
         "pubDate": "Fri, 05 Jun 2026 22:08:00 GMT"
     },
     {
-        "title": "A56 Tangenziale Di Napoli",
-        "description": "A56 Tangenziale Di Napoli\n tratto chiuso causa lavori dalle 00:05 alle 06:00 del 6 giugno 2026  tra Svincolo Secondigliano-Raccordo A1 Capodichino e Svincolo Capodimonte  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:07:00 GMT"
-    },
-    {
-        "title": "A1 Diramazione Per Capodichino",
-        "description": "A1 Diramazione Per Capodichino\n tratto chiuso causa lavori dalle 00:01 alle 06:00 del 6 giugno 2026  tra Svincolo Capodichino e Allacciamento Tangenziale Di Napoli  in direzione tangenziale  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:02:00 GMT"
-    },
-    {
         "title": "Siena Via del Fosso",
         "description": "Siena Via del Fosso\n strada chiusa causa manifestazione dalle 07:00 del 10 alle 18:00 del 14 giugno 2026  tra Via dei Baroncelli e Via delle Vergini   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 05 Jun 2026 22:01:00 GMT"
     },
     {
-        "title": "R06 Raccordo Bettolle-Perugia",
-        "description": "R06 Raccordo Bettolle-Perugia\n tratto chiuso, chiusura notturna causa lavori dalle 22:00 del 5 alle 06:00 del 6 giugno 2026  tra Svincolo Perugia Est-Piscille e Svincolo Perugia Staz.-San Faustino  in direzione E45 Orte-Cesena  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 22:00:00 GMT"
-    },
-    {
         "title": "Siena Via dei Baroncelli",
         "description": "Siena Via dei Baroncelli\n strada chiusa causa manifestazione dalle 07:00 del 10 alle 18:00 del 14 giugno 2026  tra Via del Giglio e Via del Fosso   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 05 Jun 2026 21:58:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n pioggia  tra Allacciamento A8 Milano-Varese e Allacciamento A1 Milano-Napoli   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:53:00 GMT"
-    },
-    {
-        "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n code per 7 km causa pioggia  tra Svincolo SP44 Milano-Meda: Lentate-Bruzzano e Svincolo SS36 Del Lago Di Como: Lecco-Monza  in direzione Allacciamento Tangenziale Est Di Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:52:00 GMT"
-    },
-    {
-        "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n code per 7 km causa pioggia  tra Svincolo SS36 Del Lago Di Como: Lecco-Monza e Svincolo SP44 Milano-Meda: Lentate-Bruzzano  in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:51:00 GMT"
-    },
-    {
-        "title": "A35 BreBeMi",
-        "description": "A35 BreBeMi\n chiusura notturna, uscita chiusa causa lavori dalle 23:45 del 5 alle 04:00 del 6 giugno 2026  a Svincolo Caravaggio in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:49:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n temporale  tra Allacciamento A8 Milano-Varese e Allacciamento A7 Milano-Genova   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:48:00 GMT"
     },
     {
         "title": "Siena Piazzetta della Giraffa",
@@ -370,104 +420,9 @@
         "pubDate": "Fri, 05 Jun 2026 21:46:00 GMT"
     },
     {
-        "title": "A35 BreBeMi",
-        "description": "A35 BreBeMi\n lavori  tra Allacciamento Bariano e Svincolo Caravaggio  in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:36:00 GMT"
-    },
-    {
-        "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n allagamento  tra Svincolo SP9 Vecchia Valassina e Svincolo SP44 Milano-Meda: Lentate-Bruzzano   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:27:00 GMT"
-    },
-    {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n chiusura nodo causa lavori dalle 23:19 del 5 alle 06:00 del 6 giugno 2026  a Svincolo Fiera Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:20:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n area di servizio chiusa causa tratto chiuso dalle 23:17 del 5 alle 06:00 del 6 giugno 2026  a Area di servizio  Stura in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:19:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n rampa di accesso chiusa causa ripristino incidente dalle 22:46 del 5 giugno 2026  a Svincolo Busalla in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:18:00 GMT"
-    },
-    {
-        "title": "A1 Raccordo Tangenziale Est Di Milano",
-        "description": "A1 Raccordo Tangenziale Est Di Milano\n tratto chiuso causa lavori dalle 23:16 del 5 alle 06:00 del 6 giugno 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Tangenziale Est Mi-Raccordo P.Le Corvetto  in direzione tangenziale Est di Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:18:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n area di servizio chiusa causa tratto chiuso dalle 23:16 del 5 alle 06:00 del 6 giugno 2026  a Area di servizio  Turchino in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:18:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n tratto chiuso causa lavori dalle 23:15 del 5 alle 06:00 del 6 giugno 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo Ovada  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:17:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n pioggia  tra Svincolo Milano e Svincolo Gropello Cairoli   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:14:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n area di servizio chiusa causa lavori dalle 23:11 del 5 alle 06:00 del 6 giugno 2026  a Area di servizio  Metauro in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:12:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 23:08 del 5 giugno 2026  tra Svincolo Incisa - Reggello e Svincolo Valdarno  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 21:09:00 GMT"
-    },
-    {
         "title": "SS482 Alto Polesana",
         "description": "SS482 Alto Polesana\n senso unico alternato causa lavori dalle 07:00 del 8 giugno 2026 alle 18:00 del 7 agosto 2026  tra Incrocio Correggioli e Incrocio Badia Polesine - SS434 Transpolesana   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 05 Jun 2026 21:04:00 GMT"
-    },
-    {
-        "title": "A29 Diramazione Alcamo-Trapani",
-        "description": "A29 Diramazione Alcamo-Trapani\n lavori  tra 10,28 km dopo Svincolo Segesta e 1,38 km prima di Svincolo Fulgatore  in direzione Trapani  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:57:00 GMT"
-    },
-    {
-        "title": "A51 Tangenziale Est Di Milano",
-        "description": "A51 Tangenziale Est Di Milano\n lavori  tra Svincolo Via Mecenate: Ponte Lambro e Allacciamento A1 Milano-Napoli  in direzione Allacciamento A1 Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:56:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n tratto chiuso causa lavori dalle 22:49 del 5 alle 06:00 del 6 giugno 2026  tra Allacciamento A12 Genova-Rosignano e Allacciamento A10 Genova-Ventimiglia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:50:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 22:32 del 5 giugno 2026  tra Svincolo Valmontone e Allacciamento Diramazione Roma Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:43:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n rampa di accesso chiusa causa lavori dalle 22:16 del 5 alle 06:00 del 6 giugno 2026  a Svincolo Orte in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:22:00 GMT"
-    },
-    {
-        "title": "SS195RACC",
-        "description": "SS195RACC \n riduzione di carreggiata, uscita chiusa causa lavori di manutenzione dalle 21:00 del 3 alle 05:00 del 6 giugno 2026  tra SS554 e Viale Pula  in direzione  Porto\/Cagliari Centro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:18:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n tratto chiuso causa lavori dalle 22:12 del 5 alle 06:00 del 6 giugno 2026  tra Svincolo Pescara Ovest-Chieti e Svincolo Pescara Sud-Francavilla  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:17:00 GMT"
-    },
-    {
-        "title": "SS116 Randazzo - Capo D orlando",
-        "description": "SS116 Randazzo - Capo D orlando\n tratto chiuso causa lavori dalle 22:00 del 3 alle 05:00 del 6 giugno 2026  a Incrocio Randazzo - SS120 Dell etna E Delle Madonie  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:17:00 GMT"
     },
     {
         "title": "A24 Roma-Teramo",
@@ -475,28 +430,73 @@
         "pubDate": "Fri, 05 Jun 2026 20:16:00 GMT"
     },
     {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n tratto chiuso causa lavori dalle 22:01 del 5 alle 06:00 del 6 giugno 2026  tra Svincolo A05-SS26DIR e Svincolo Aosta Ovest-Aymavilles  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:14:00 GMT"
-    },
-    {
-        "title": "SS470 Della Valle Brembana",
-        "description": "SS470 Della Valle Brembana\n traffico rallentato causa lavori  a Incrocio Zogno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:13:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n tratto chiuso causa lavori dalle 22:11 del 5 alle 06:00 del 6 giugno 2026  tra Allacciamento A14 Bologna Borgo Panigale e Allacciamento Ramo Casalecchio  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:13:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n tratto chiuso causa lavori dalle 22:11 del 5 alle 06:00 del 6 giugno 2026  tra Svincolo Pontebba e Svincolo Carnia  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 05 Jun 2026 20:12:00 GMT"
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n rampa di accesso chiusa causa lavori dalle 22:05 del 5 alle 06:00 del 6 giugno 2026  a Svincolo Frosinone in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 20:07:00 GMT"
     },
     {
         "title": "SS131d-CN Dir\/Centr. Nuorese",
         "description": "SS131d-CN Dir\/Centr. Nuorese\n riduzione di carreggiata causa lavori dalle 18:00 del 6 alle 19:00 del 26 giugno 2026  tra Incrocio Nuoro\/Incrocio SS389 Del Correboi e Incrocio Ponte Marreri  in direzione Olbia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 05 Jun 2026 20:07:00 GMT"
+    },
+    {
+        "title": "SS3 Via Flaminia",
+        "description": "SS3 Via Flaminia\n senso unico alternato causa lavori dalle 07:00 del 15 giugno 2026 alle 19:00 del 31 luglio 2026  tra Incrocio S.Oreste e Incrocio Civita Castellana - SS311 Nepesina   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 20:04:00 GMT"
+    },
+    {
+        "title": "A18 Messina-Catania",
+        "description": "A18 Messina-Catania\n uscita chiusa causa lavori di manutenzione  a Svincolo Giardini Naxos in direzione Catania  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:40:00 GMT"
+    },
+    {
+        "title": "Pistoia Via di Pupigliana",
+        "description": "Pistoia Via di Pupigliana\n senso unico alternato causa frana  tra Ponte dell Agnolo e Via di Sarripoli e Brocchi di Paolone   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:35:00 GMT"
+    },
+    {
+        "title": "Pistoia Via di Pupigliana",
+        "description": "Pistoia Via di Pupigliana\n strada chiusa causa corsa podistica dalle 17:45 alle 18:45 del 13 giugno 2026  tra Ponte dell Agnolo e Via di Sarripoli e Brocchi di Paolone   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:31:00 GMT"
+    },
+    {
+        "title": "SP15(AT) Torrazzo-Tiglione",
+        "description": "SP15(AT) Torrazzo-Tiglione\n tratto chiuso causa lavori dalle 08:00 alle 17:00 del 9 giugno 2026  tra Incrocio Torrazzo e Incrocio Serra d Asti   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:21:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori in uscita  a Allacciamento A1 Milano-Napoli in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:20:00 GMT"
+    },
+    {
+        "title": "SP105",
+        "description": "SP105 \n tratto chiuso causa lavori dalle 18:00 del 5 alle 18:00 del 9 giugno 2026  tra SP105 e Via Martiri di Biagasco   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:16:00 GMT"
+    },
+    {
+        "title": "SS158 Della Valle Del Volturno",
+        "description": "SS158 Della Valle Del Volturno\n senso unico alternato causa lavori dalle 07:00 del 8 alle 17:00 del 13 giugno 2026  tra Incrocio Caiazzo - SS87 Sannitica e Incrocio Alvignano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:13:00 GMT"
+    },
+    {
+        "title": "SS5 Via Tiburtina Valeria",
+        "description": "SS5 Via Tiburtina Valeria\n corsia chiusa causa frana  tra 1,643 km dopo Incrocio Casello Scafa\/Alanno A25 Torano-Pescara e 2,203 km prima di Incrocio Manoppello - SS539 Di Manoppello   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:12:00 GMT"
+    },
+    {
+        "title": "SS122 Agrigentina",
+        "description": "SS122 Agrigentina\n senso unico alternato causa fondo stradale dissestato  tra Incrocio Terra Pelata e Incrocio Ponte Capodarso - SS560 Di Marcatobianco   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:12:00 GMT"
+    },
+    {
+        "title": "SS553 Di Atri",
+        "description": "SS553 Di Atri\n tratto chiuso causa frana  a Incrocio Silvi Marina - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:11:00 GMT"
+    },
+    {
+        "title": "SS12 Dell abetone E Del Brennero",
+        "description": "SS12 Dell abetone E Del Brennero\n senso unico alternato causa frana  tra Incrocio Giardinetto e Incrocio Astracaccio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 05 Jun 2026 19:10:00 GMT"
     }
 ]
