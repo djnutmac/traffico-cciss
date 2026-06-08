@@ -1,8 +1,63 @@
 [
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 01:01 del 8 giugno 2026  tra Svincolo Altedo e Svincolo Ferrara Sud  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 23:03:00 GMT"
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 01:46 del 8 giugno 2026  tra Allacciamento A4 Torino-Trieste e Svincolo Romagnano Sesia-Ghemme  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 08 Jun 2026 00:15:00 GMT"
+    },
+    {
+        "title": "TG-BO Tangenziale Di Bologna",
+        "description": "TG-BO Tangenziale Di Bologna\n veicolo fermo o in avaria dalle 01:56 del 8 giugno 2026  tra Svincolo 7 Bologna Centro-V.Stalingrado e Svincolo 7 Bis Per Ferrara  in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 08 Jun 2026 00:13:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 02:01 del 8 giugno 2026  tra Svincolo Frosinone e Svincolo Ceprano  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 08 Jun 2026 00:12:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 02:09 del 8 giugno 2026  tra Svincolo Caserta Nord e Svincolo Caserta Sud  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 08 Jun 2026 00:11:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada causa lavori dalle 02:06 del 8 giugno 2026  tra Barriera Di Belluno e Svincolo Fadalto-Lago Di S.Croce  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 08 Jun 2026 00:08:00 GMT"
+    },
+    {
+        "title": "SS10 Padana Inferiore",
+        "description": "SS10 Padana Inferiore\n incidente  a Incrocio Alessandria - SS30 Di Val Bormida in direzione Incrocio Monselice - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 08 Jun 2026 00:07:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada dalle 01:54 del 8 giugno 2026  tra Svincolo Vittorio Veneto Sud e Svincolo Fadalto-Lago Di S.Croce  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 23:56:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada dalle 01:52 del 8 giugno 2026  tra Svincolo Fadalto-Lago Di S.Croce e Barriera Di Belluno  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 23:54:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n lavori  tra 50 m dopo Allacciamento Nodo di Pero e 100 m prima di Svincolo Pero - Diramazione Molino Dorino  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 23:52:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n uscita chiusa causa lavori dalle 01:27 alle 05:00 del 8 giugno 2026  a Svincolo Macerata in direzione da Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 23:28:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 01:24 del 8 giugno 2026  tra Svincolo Macerata e Svincolo Ancona Sud  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 23:27:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Nord",
+        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 01:14 del 8 giugno 2026  tra Svincolo Settebagni e Svincolo Castelnuovo di Porto  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 23:20:00 GMT"
     },
     {
         "title": "SS10 Padana Inferiore",
@@ -15,29 +70,9 @@
         "pubDate": "Sun, 07 Jun 2026 22:59:00 GMT"
     },
     {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 00:56 del 8 giugno 2026  tra Svincolo Ancona Sud e Svincolo Loreto-Porto Recanati  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:57:00 GMT"
-    },
-    {
         "title": "A50 Tangenziale Ovest Di Milano",
         "description": "A50 Tangenziale Ovest Di Milano\n veicolo in avaria  tra Svincolo Settimo Milanese-SS11: S.Siro-Fiera e Svincolo SS11 Padana Superiore E SS33: Molino Dorino  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 07 Jun 2026 22:55:00 GMT"
-    },
-    {
-        "title": "SS10 Padana Inferiore",
-        "description": "SS10 Padana Inferiore\n incidente  a Incrocio Spinetta Marengo - SS35 Bis Dei Giovi in direzione Incrocio Monselice - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:51:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n incidente dalle 00:49 del 8 giugno 2026  tra Allacciamento A15 Parma-La Spezia e Svincolo Fidenza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:50:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo fermo o in avaria dalle 00:48 del 8 giugno 2026  tra Svincolo Empoli Est e Svincolo Montelupo Fiorentino  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:49:00 GMT"
     },
     {
         "title": "SS1 Via Aurelia",
@@ -45,24 +80,9 @@
         "pubDate": "Sun, 07 Jun 2026 22:45:00 GMT"
     },
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 00:35 del 8 giugno 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:37:00 GMT"
-    },
-    {
-        "title": "A5 Raccordo A4",
-        "description": "A5 Raccordo A4\n incidente causa imprecisate  a Svincolo Albiano in direzione Allacciamento A4 Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:35:00 GMT"
-    },
-    {
         "title": "SS146 Di Chianciano",
         "description": "SS146 Di Chianciano\n perdita di liquido sull asfalto  a Incrocio Montepulciano in direzione Incrocio S.Quirico D orcia - SS2 Cassia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 07 Jun 2026 22:31:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 00:26 del 8 giugno 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Guidonia - Montecelio  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:30:00 GMT"
     },
     {
         "title": "SS145 Sorrentina",
@@ -75,34 +95,9 @@
         "pubDate": "Sun, 07 Jun 2026 22:23:00 GMT"
     },
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 00:13 del 8 giugno 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:22:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 00:16 del 8 giugno 2026  tra Allacciamento A24 Roma-Teramo e Svincolo Guidonia - Montecelio  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:22:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 00:11 del 8 giugno 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:22:00 GMT"
-    },
-    {
-        "title": "SS16 Adriatica",
-        "description": "SS16 Adriatica\n pulizia del manto stradale  a Incrocio Fano-Madonna del Ponte in direzione Incrocio Otranto - SS173 Delle Terme Salentine  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:21:00 GMT"
-    },
-    {
         "title": "A27 Mestre-Belluno",
         "description": "A27 Mestre-Belluno\n personale su strada dalle 00:13 del 8 giugno 2026  tra Svincolo Fadalto-Lago Di S.Croce e Barriera Di Belluno   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 07 Jun 2026 22:14:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n perdita di carico dalle 00:12 del 8 giugno 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:13:00 GMT"
     },
     {
         "title": "SS25 Del Moncenisio",
@@ -110,19 +105,9 @@
         "pubDate": "Sun, 07 Jun 2026 22:11:00 GMT"
     },
     {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n incidente  a Allacciamento Nodo di Pero in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:10:00 GMT"
-    },
-    {
         "title": "A56 Tangenziale Di Napoli",
         "description": "A56 Tangenziale Di Napoli\n tratto chiuso causa lavori dalle 00:07 alle 06:00 del 8 giugno 2026  tra Svincolo Zona Ospedaliera e Svincolo Camaldoli  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 07 Jun 2026 22:09:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 00:07 del 8 giugno 2026  tra Svincolo Porto Sant Elpidio e Svincolo Macerata  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 22:08:00 GMT"
     },
     {
         "title": "A55 Tangenziale Sud Di Torino",
@@ -155,11 +140,6 @@
         "pubDate": "Sun, 07 Jun 2026 21:43:00 GMT"
     },
     {
-        "title": "A1 Diramazione Roma Sud",
-        "description": "A1 Diramazione Roma Sud\n veicolo fermo o in avaria dalle 23:34 del 7 giugno 2026  tra Svincolo San Cesareo e Allacciamento A1 Milano-Napoli  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 21:36:00 GMT"
-    },
-    {
         "title": "SS1 Via Aurelia",
         "description": "SS1 Via Aurelia\n divieto di circolazione dei mezzi  con peso superiore a 7,5 tonnellate causa misure di sicurezza dalle 00:01 del 16 aprile alle 23:59 del 15 dicembre 2026  tra Incrocio Montenero e Incrocio Quercianella - SS1 Var   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 07 Jun 2026 21:29:00 GMT"
@@ -183,11 +163,6 @@
         "title": "A25 Torano-Pescara",
         "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 23:06 del 7 giugno 2026  tra Svincolo Pescina e Svincolo Cocullo  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 07 Jun 2026 21:08:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n code a tratti causa lavori  tra 250 m dopo Allacciamento Nodo di Pero e Svincolo Pero - Diramazione Molino Dorino  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 21:02:00 GMT"
     },
     {
         "title": "SS26 Della Valle D aosta",
@@ -230,11 +205,6 @@
         "pubDate": "Sun, 07 Jun 2026 20:06:00 GMT"
     },
     {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 22:03 del 7 giugno 2026  tra Svincolo Fermo-Porto S.Giorgio e Svincolo Pedaso   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 20:05:00 GMT"
-    },
-    {
         "title": "A26 Genova-Gravellona Toce",
         "description": "A26 Genova-Gravellona Toce\n area di servizio chiusa causa tratto chiuso dalle 22:03 del 7 alle 06:00 del 8 giugno 2026  a Area di servizio  Bormida in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 07 Jun 2026 20:05:00 GMT"
@@ -263,11 +233,6 @@
         "title": "A55 Tangenziale Sud Di Torino",
         "description": "A55 Tangenziale Sud Di Torino\n lavori  tra 600 m prima di Svincolo Corso Allamano e 2,355 km dopo Allacciamento Interscambio Diramazione per Moncalieri  in direzione Svincolo Santena - A21 Torino-Brescia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 07 Jun 2026 19:28:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n lavori  tra 50 m dopo Allacciamento Nodo di Pero e 100 m prima di Svincolo Pero - Diramazione Molino Dorino  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 07 Jun 2026 18:49:00 GMT"
     },
     {
         "title": "A19 Palermo-Catania",
@@ -498,5 +463,40 @@
         "title": "Padova Via Pietro Danieletti",
         "description": "Padova Via Pietro Danieletti\n gara automobilistica dalle 19:00 del 9 alle 01:00 del 10 giugno 2026  a Via Tiziano Aspetti  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 07 Jun 2026 14:40:00 GMT"
+    },
+    {
+        "title": "Padova Via Giuseppe Furlanetto",
+        "description": "Padova Via Giuseppe Furlanetto\n gara automobilistica dalle 19:00 del 9 alle 01:00 del 10 giugno 2026  a Via Tiziano Aspetti  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 14:39:00 GMT"
+    },
+    {
+        "title": "Padova Via Bono da Ferrara",
+        "description": "Padova Via Bono da Ferrara\n gara automobilistica dalle 19:00 del 9 alle 01:00 del 10 giugno 2026  a Via Tiziano Aspetti  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 14:37:00 GMT"
+    },
+    {
+        "title": "Padova Via Giovanni Maria Mosca",
+        "description": "Padova Via Giovanni Maria Mosca\n gara automobilistica dalle 19:00 del 9 alle 01:00 del 10 giugno 2026  a Via Tiziano Aspetti  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 14:34:00 GMT"
+    },
+    {
+        "title": "Padova Via Antonio Bonazza",
+        "description": "Padova Via Antonio Bonazza\n gara automobilistica dalle 19:00 del 9 alle 01:00 del 10 giugno 2026  a Via Tiziano Aspetti  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 14:33:00 GMT"
+    },
+    {
+        "title": "Padova Via Andrea Palladio",
+        "description": "Padova Via Andrea Palladio\n gara automobilistica dalle 19:00 del 9 alle 01:00 del 10 giugno 2026  a Via Tiziano Aspetti  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 14:32:00 GMT"
+    },
+    {
+        "title": "Padova Via Niccolò Machiavelli",
+        "description": "Padova Via Niccolò Machiavelli\n gara automobilistica dalle 19:00 del 9 alle 01:00 del 10 giugno 2026  a Via Tiziano Aspetti  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 14:31:00 GMT"
+    },
+    {
+        "title": "Ferrara Via Porta Catena",
+        "description": "Ferrara Via Porta Catena\n manifestazione dalle 06:00 alle 14:00 del 10 giugno 2026  a Viale Po  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 07 Jun 2026 14:30:00 GMT"
     }
 ]
