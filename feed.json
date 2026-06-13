@@ -1,48 +1,298 @@
 [
     {
+        "title": "Mazara del Vallo Via del Mare",
+        "description": "Mazara del Vallo Via del Mare\n strada chiusa causa corsa podistica dalle 11:00 alle 13:00 del 14 giugno 2026  tra Lungomare Fata Morgana Ovest e Strada Statale 115 Sud Occidentale Sicula   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:06:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n perdita di carico dalle 22:39 del 13 giugno 2026  tra Svincolo Masone e Svincolo Ovada  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:05:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n perdita di carico causa perdita accidentale dalle 23:03 del 13 giugno 2026  tra Svincolo San Vittore e Svincolo Caianello  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:04:00 GMT"
+    },
+    {
+        "title": "SS16 Adriatica",
+        "description": "SS16 Adriatica\n incidente  a Incrocio Variante Di Torre A Mare in direzione Incrocio Otranto - SS173 Delle Terme Salentine  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:03:00 GMT"
+    },
+    {
+        "title": "SS3bis Bis tiberina (e45)",
+        "description": "SS3bis Bis tiberina (e45)\n corsia chiusa causa lavori di manutenzione  a Incrocio Sarsina Nord in direzione Incrocio Viterbo-Terni  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:03:00 GMT"
+    },
+    {
+        "title": "A2 Autostrada del Mediterraneo",
+        "description": "A2 Autostrada del Mediterraneo\n veicolo in avaria  a Svincolo Cosenza in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:03:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n uscita chiusa causa manifestazione dalle 23:02 del 13 alle 02:00 del 14 giugno 2026  a Svincolo Fuorigrotta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:03:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 23:03 del 13 giugno 2026  tra Svincolo San Vittore e Svincolo Caianello  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:03:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 23:01 del 13 giugno 2026  tra Svincolo Castel S.Pietro e Svincolo Imola  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:01:00 GMT"
+    },
+    {
+        "title": "Mazara del Vallo Lungomare Fata Morgana Ovest",
+        "description": "Mazara del Vallo Lungomare Fata Morgana Ovest\n strada chiusa causa corsa podistica dalle 11:00 alle 13:00 del 14 giugno 2026  tra Via Madonna di Loreto e Via del Mare   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 21:01:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n veicolo fermo o in avaria dalle 22:57 del 13 giugno 2026  tra Svincolo Nola e Allacciamento A16 Napoli-Canosa  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:59:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n incendio dalle 22:57 del 13 giugno 2026  tra Svincolo Palma Campania e Allacciamento A16 Napoli-Canosa  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:58:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 22:50 del 13 giugno 2026  tra Svincolo Cerveteri-Ladispoli e Svincolo Torrimpietra  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:58:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n problemi in area di servizio causa lavori dalle 22:55 del 13 giugno 2026  a Area di servizio  Serravalle in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:57:00 GMT"
+    },
+    {
+        "title": "A51 Tangenziale Est Di Milano",
+        "description": "A51 Tangenziale Est Di Milano\n veicolo in avaria  tra Svincolo SP41 Cascina Morosina: Burago e Svincolo Vimercate Sud: Torri Bianche  in direzione Svincolo Lecco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:57:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n problemi in area di servizio causa lavori dalle 22:55 del 13 giugno 2026  a Area di servizio  Serravalle in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:56:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n problemi in area di servizio causa lavori dalle 22:55 del 13 giugno 2026  a Area di servizio  Serravalle in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:56:00 GMT"
+    },
+    {
+        "title": "A8 Milano-Varese",
+        "description": "A8 Milano-Varese\n veicolo contromano dalle 22:55 del 13 giugno 2026  tra Svincolo Gallarate e Svincolo A60 - Gazzada-Lago Di Varese  in direzione Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:56:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n incidente  tra Svincolo Assago e Allacciamento Tangenziale Ovest Di Milano  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:56:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n problemi in area di servizio causa lavori dalle 22:55 del 13 giugno 2026  a Area di servizio  Serravalle in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:55:00 GMT"
+    },
+    {
+        "title": "A11 Diramazione Lucca-Viareggio",
+        "description": "A11 Diramazione Lucca-Viareggio\n veicolo in avaria  a Svincolo Massarosa in direzione Viareggio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:54:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo in fiamme dalle 22:52 del 13 giugno 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Guidonia - Montecelio  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:53:00 GMT"
+    },
+    {
         "title": "R06 Raccordo Bettolle-Perugia",
         "description": "R06 Raccordo Bettolle-Perugia\n traffico rallentato causa incidente  a Svincolo Pietraia in direzione Perugia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:49:00 GMT"
+        "pubDate": "Sat, 13 Jun 2026 20:47:00 GMT"
     },
     {
-        "title": "R18 Raccordo Per Benevento",
-        "description": "R18 Raccordo Per Benevento\n veicolo in avaria  a Svincolo Benevento Sud - SS7 Appia in direzione Svincolo Benevento-A16 Napoli-Canosa-Castello Del Lago  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:47:00 GMT"
+        "title": "Bologna Via Antonio Francesco Ghiselli",
+        "description": "Bologna Via Antonio Francesco Ghiselli\n strada chiusa causa concerto dalle 17:00 alle 23:59 del 14 giugno 2026  tra Via Andrea Costa e Via di Villa Pardo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:45:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n code causa veicolo fermo o in avaria dalle 21:45 del 13 giugno 2026  tra Svincolo Agrate e Svincolo Trezzo  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:46:00 GMT"
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 22:43 del 13 giugno 2026  tra Svincolo Lavagna e Svincolo Sestri Levante  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:45:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 22:40 del 13 giugno 2026  tra Svincolo Chiavari e Svincolo Rapallo  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:45:00 GMT"
+    },
+    {
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n pedoni  tra Svincolo SS.412 Della Val Tidone: Pavia-Opera e Svincolo Uscita 7bis: Quinto De Stampi  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:43:00 GMT"
+    },
+    {
+        "title": "Bologna Via di Villa Pardo",
+        "description": "Bologna Via di Villa Pardo\n strada chiusa causa concerto dalle 17:00 alle 23:59 del 14 giugno 2026  tra Via Andrea Costa e Via Antonio Francesco Ghiselli   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:39:00 GMT"
+    },
+    {
+        "title": "Bologna Via Brigate Partigiane",
+        "description": "Bologna Via Brigate Partigiane\n strada chiusa causa concerto dalle 17:00 alle 23:59 del 14 giugno 2026  tra Via Volontari della Libertà e Via dal Lino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:38:00 GMT"
+    },
+    {
+        "title": "Bologna Via Volontari della Libertà",
+        "description": "Bologna Via Volontari della Libertà\n strada chiusa causa concerto dalle 17:00 alle 23:59 del 14 giugno 2026  tra Via Porrettana e Via Brigate Partigiane   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:37:00 GMT"
+    },
+    {
+        "title": "SS598 Di Fondo Valle D agri",
+        "description": "SS598 Di Fondo Valle D agri\n traffico rallentato causa incidente  a Incrocio Brienza Sud - SS95 Di Brienza in direzione Incrocio Atena Lucana A3 Sa-Rc - SS95 Di Brienza  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:35:00 GMT"
+    },
+    {
+        "title": "Bologna Via XXI aprile 1945",
+        "description": "Bologna Via XXI aprile 1945\n strada chiusa causa concerto dalle 17:00 alle 23:59 del 14 giugno 2026  tra Piazza della Pace e Via Giovanni Paolo Martini   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:33:00 GMT"
+    },
+    {
+        "title": "Bologna Via Don Luigi Sturzo",
+        "description": "Bologna Via Don Luigi Sturzo\n strada chiusa causa concerto dalle 17:00 alle 23:59 del 14 giugno 2026  tra Via Anna Frank e Via Andrea Costa   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:29:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 22:25 del 13 giugno 2026  tra Incrocio Via Ludovico il Moro corrispondenza Cavalcavia Don Lorenzo Milani e Allacciamento A30 Caserta-Salerno  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:28:00 GMT"
+    },
+    {
+        "title": "Bologna Via delle Tofane",
+        "description": "Bologna Via delle Tofane\n strada chiusa causa concerto dalle 17:00 alle 23:59 del 14 giugno 2026  tra Via della Certosa e Via Sacco e Vanzetti   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:27:00 GMT"
+    },
+    {
+        "title": "Bologna Via della Certosa",
+        "description": "Bologna Via della Certosa\n strada chiusa causa manifestazione dalle 17:00 alle 23:59 del 14 giugno 2026  tra Via Andrea Costa e Via Pietro De Coubertin   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:25:00 GMT"
+    },
+    {
+        "title": "Bologna Via De Coubertin",
+        "description": "Bologna Via De Coubertin\n strada chiusa causa concerto dalle 17:00 alle 23:59 del 14 giugno 2026  tra Via Pietro De Coubertin e Via Eugenio Curiel   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:23:00 GMT"
+    },
+    {
+        "title": "Bologna Via Andrea Costa",
+        "description": "Bologna Via Andrea Costa\n strada chiusa causa concerto dalle 17:00 alle 23:59 del 14 giugno 2026  tra Via Pietro De Coubertin e Via dal Lino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:21:00 GMT"
+    },
+    {
+        "title": "Pesaro Via Alfredo Faggi",
+        "description": "Pesaro Via Alfredo Faggi\n strada chiusa causa manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  tra Via Carlo Pisacane e Via del Miralfiore   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:15:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n area di servizio chiusa causa lavori dalle 22:12 del 13 alle 06:00 del 14 giugno 2026  a Area di servizio  Adige in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:13:00 GMT"
+    },
+    {
+        "title": "Pesaro Via Fabio Filzi",
+        "description": "Pesaro Via Fabio Filzi\n manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  a Via Carlo Pisacane  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:13:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n tratto chiuso causa lavori dalle 22:07 del 13 alle 06:00 del 14 giugno 2026  tra Svincolo Rovigo e Svincolo Rovigo Sud - Villa Marzana  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:12:00 GMT"
+    },
+    {
+        "title": "Pesaro Via Carlo Pisacane",
+        "description": "Pesaro Via Carlo Pisacane\n strada chiusa causa manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  tra Via Pietro Maroncelli e Via Alfredo Faggi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:11:00 GMT"
+    },
+    {
+        "title": "Pesaro Via Pietro Maroncelli",
+        "description": "Pesaro Via Pietro Maroncelli\n strada chiusa causa manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  tra Via Vincenzo Rossi e Via Carlo Pisacane   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:09:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 22:08 del 13 giugno 2026  tra Svincolo Termoli-Molise e Svincolo Vasto Sud  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:09:00 GMT"
+    },
+    {
+        "title": "Pesaro Via Luciano Manara",
+        "description": "Pesaro Via Luciano Manara\n manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  a Via Vincenzo Rossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:07:00 GMT"
+    },
+    {
+        "title": "Pesaro Via della Fonderia",
+        "description": "Pesaro Via della Fonderia\n manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  a Via Vincenzo Rossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:06:00 GMT"
+    },
+    {
+        "title": "Pesaro Via Fratelli Tesei",
+        "description": "Pesaro Via Fratelli Tesei\n manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  a Via Vincenzo Rossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:04:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n rampa di accesso chiusa causa lavori dalle 22:03 del 13 alle 06:00 del 14 giugno 2026  a Svincolo Alessandria Sud in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:04:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n uscita chiusa causa lavori dalle 22:02 del 13 alle 06:00 del 14 giugno 2026  a Svincolo Alessandria Sud in direzione da Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:03:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n uscita chiusa causa lavori  a Svincolo Biandrate Vicolungo in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:02:00 GMT"
     },
     {
         "title": "A24 Roma-Teramo",
         "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 21:44 del 13 giugno 2026  tra Svincolo Vicovaro-Mandela e Svincolo Carsoli-Oricola  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:45:00 GMT"
+        "pubDate": "Sat, 13 Jun 2026 20:02:00 GMT"
     },
     {
-        "title": "SS16 Adriatica",
-        "description": "SS16 Adriatica\n traffico rallentato causa incidente  a Incrocio Variante Di Torre A Mare in direzione Incrocio Otranto - SS173 Delle Terme Salentine  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:43:00 GMT"
+        "title": "Pesaro Via Tito Speri",
+        "description": "Pesaro Via Tito Speri\n manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  a Via Vincenzo Rossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:01:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n pedoni dalle 21:40 del 13 giugno 2026  tra Svincolo Santa Maria Capua Vetere e Svincolo Capua  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:41:00 GMT"
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:00 del 13 alle 06:00 del 14 giugno 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:01:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:00 del 13 alle 06:00 del 14 giugno 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 20:01:00 GMT"
+    },
+    {
+        "title": "Pesaro Via Vincenzo Rossi",
+        "description": "Pesaro Via Vincenzo Rossi\n strada chiusa causa manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  tra Via Cardinal Guglielmo Massaia e Via Pietro Maroncelli   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 19:59:00 GMT"
+    },
+    {
+        "title": "Pesaro Via Cardinal Guglielmo Massaia",
+        "description": "Pesaro Via Cardinal Guglielmo Massaia\n strada chiusa causa manifestazione dalle 21:00 alle 22:00 del 14 giugno 2026  tra Via Montegrappa e Via Vincenzo Rossi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 19:57:00 GMT"
+    },
+    {
+        "title": "TG-BO Tangenziale Di Bologna",
+        "description": "TG-BO Tangenziale Di Bologna\n veicolo fermo o in avaria dalle 21:53 del 13 giugno 2026  tra Svincolo 7 Bologna Centro-V.Stalingrado e Svincolo 7 Bis Per Ferrara  in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 13 Jun 2026 19:55:00 GMT"
     },
     {
         "title": "R06 Raccordo Bettolle-Perugia",
         "description": "R06 Raccordo Bettolle-Perugia\n scambio di carreggiata, entrata chiusa causa lavori dalle 06:00 del 10 giugno 2026 alle 23:59 del 13 agosto 2026  tra Svincolo Perugia Stadio-Madonna Alta e Svincolo Perugia Staz.-San Faustino  in direzione Svincolo Ponte S.Giovanni-SS3 Bis-Raccordo Orte-Ra  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 19:41:00 GMT"
-    },
-    {
-        "title": "RA02 Raccordo Autostradale Salerno-Avellino",
-        "description": "RA02 Raccordo Autostradale Salerno-Avellino\n traffico rallentato causa veicolo in avaria  a Svincolo Torchiati in direzione Avellino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:39:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 21:35 del 13 giugno 2026  tra Svincolo Arenzano e Svincolo Varazze  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:38:00 GMT"
     },
     {
         "title": "A8 Milano-Varese",
@@ -55,36 +305,6 @@
         "pubDate": "Sat, 13 Jun 2026 19:36:00 GMT"
     },
     {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n pedoni dalle 21:33 del 13 giugno 2026  a Svincolo Pescara-Villanova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:35:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n pedoni dalle 21:31 del 13 giugno 2026  tra Svincolo Casale Monferrato Sud e Allacciamento A21 Torino-Piacenza-Brescia  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:34:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 21:30 del 13 giugno 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:32:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 21:10 del 13 giugno 2026  tra Svincolo Cavenago e Svincolo Trezzo  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:32:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 21:28 del 13 giugno 2026  tra Svincolo Magliano Sabina e Svincolo Ponzano Romano-Soratte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:29:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 21:25 del 13 giugno 2026  tra Svincolo Occhiobello e Svincolo Rovigo Sud - Villa Marzana  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:28:00 GMT"
-    },
-    {
         "title": "A90-GRA Aurelia-Salaria",
         "description": "A90-GRA Aurelia-Salaria\n non funzionante impianto di illuminazione tunnel  a Svincolo 3: SS2 Via Cassia in direzione Salaria  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 19:27:00 GMT"
@@ -95,24 +315,9 @@
         "pubDate": "Sat, 13 Jun 2026 19:27:00 GMT"
     },
     {
-        "title": "A1 Diramazione Roma Nord",
-        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 21:25 del 13 giugno 2026  tra Svincolo Settebagni e Svincolo Castelnuovo di Porto  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:27:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 21:21 del 13 giugno 2026  tra Svincolo Vercelli Est e Allacciamento Diramazione Stroppiana-Santhia   in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:27:00 GMT"
-    },
-    {
         "title": "A8 Milano-Varese",
         "description": "A8 Milano-Varese\n tratto chiuso causa lavori dalle 21:25 del 13 alle 05:00 del 14 giugno 2026  tra Svincolo Solbiate Arno e Allacciamento Diramazione Gallarate-Gattico  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 19:26:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 21:19 del 13 giugno 2026  tra Svincolo Fadalto-Lago Di S.Croce e Barriera Di Belluno  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:22:00 GMT"
     },
     {
         "title": "A4 Torino-Milano",
@@ -120,19 +325,9 @@
         "pubDate": "Sat, 13 Jun 2026 19:11:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 21:06 del 13 giugno 2026  tra Allacciamento A21 Torino-Piacenza-Brescia e Allacciamento Diram. Predosa-Bettole  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:06:00 GMT"
-    },
-    {
         "title": "SS76 Della Val D esino",
         "description": "SS76 Della Val D esino\n tratto chiuso causa lavori dalle 20:30 del 13 alle 20:30 del 14 giugno 2026  tra Incrocio Serra S. Quirico e Incrocio Valtreara  in direzione Perugia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 19:04:00 GMT"
-    },
-    {
-        "title": "A90-GRA Casilina-Appia",
-        "description": "A90-GRA Casilina-Appia\n code causa incidente  a Svincolo 21: SS215 Via Tuscolana in direzione Casilina  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 19:03:00 GMT"
     },
     {
         "title": "SS120 Dell etna E Delle Madonie",
@@ -145,11 +340,6 @@
         "pubDate": "Sat, 13 Jun 2026 19:01:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n perdita di carico dalle 20:36 del 13 giugno 2026  tra Svincolo Caianello e Svincolo San Vittore  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 18:59:00 GMT"
-    },
-    {
         "title": "SS3bis Bis tiberina (e45)",
         "description": "SS3bis Bis tiberina (e45)\n materiali dispersi  a Incrocio Pieve S.Stefano Sud in direzione Incrocio Viterbo-Terni  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 18:57:00 GMT"
@@ -158,11 +348,6 @@
         "title": "A27 Mestre-Belluno",
         "description": "A27 Mestre-Belluno\n personale su strada dalle 20:50 del 13 giugno 2026  tra Svincolo Vittorio Veneto Sud e Svincolo Fadalto-Lago Di S.Croce  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 18:51:00 GMT"
-    },
-    {
-        "title": "A12 Roma-Civitavecchia",
-        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 20:32 del 13 giugno 2026  tra Svincolo Civitavecchia Nord e Barriera Aurelia  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 18:35:00 GMT"
     },
     {
         "title": "A13 Bologna-Padova",
@@ -180,11 +365,6 @@
         "pubDate": "Sat, 13 Jun 2026 18:17:00 GMT"
     },
     {
-        "title": "SS162 Della Valle Caudina",
-        "description": "SS162 Della Valle Caudina\n traffico rallentato causa incidente  a Incrocio Melito Di Napoli - SS7 Bis in direzione Incrocio Arienzo - SS7 Appia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 18:09:00 GMT"
-    },
-    {
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n personale su strada dalle 20:07 del 13 giugno 2026  tra Svincolo Monte San Savino e Svincolo Valdichiana  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 18:08:00 GMT"
@@ -193,11 +373,6 @@
         "title": "SS101 Salentina Di Gallipoli",
         "description": "SS101 Salentina Di Gallipoli\n incendio  a Incrocio Galatone - SS174 Salentina Di Manduria\/SS497 in direzione Incrocio Gallipoli - SS274 Salentina Di Patu   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 18:07:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 20:01 del 13 giugno 2026  tra Svincolo Pedaso e Svincolo San Benedetto Del Tronto   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 18:03:00 GMT"
     },
     {
         "title": "A4 Brescia-Padova",
@@ -235,11 +410,6 @@
         "pubDate": "Sat, 13 Jun 2026 16:28:00 GMT"
     },
     {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n code a tratti  tra 1,25 km dopo Allacciamento Nodo di Pero e Svincolo Pero - Diramazione Molino Dorino  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 15:34:00 GMT"
-    },
-    {
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 14:55:00 GMT"
@@ -248,11 +418,6 @@
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 14:55:00 GMT"
-    },
-    {
-        "title": "RA02 Raccordo Autostradale Salerno-Avellino",
-        "description": "RA02 Raccordo Autostradale Salerno-Avellino\n incendio  a Svincolo Montoro in direzione Avellino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 14:53:00 GMT"
     },
     {
         "title": "Torino Corso Orbassano",
@@ -330,173 +495,8 @@
         "pubDate": "Sat, 13 Jun 2026 13:55:00 GMT"
     },
     {
-        "title": "Ferrara Via del Sostegno",
-        "description": "Ferrara Via del Sostegno\n corsa podistica dalle 07:30 alle 11:00 del 14 giugno 2026  a Via Trigaboli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:54:00 GMT"
-    },
-    {
-        "title": "Torino Via Barnaba Panizza",
-        "description": "Torino Via Barnaba Panizza\n manifestazione dalle 06:30 alle 13:00 del 14 giugno 2026  a Via Guido Reni  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:54:00 GMT"
-    },
-    {
-        "title": "Parma Via Giosuè Carducci (già Borgo del Voltone)",
-        "description": "Parma Via Giosuè Carducci (già Borgo del Voltone)\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Strada Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:54:00 GMT"
-    },
-    {
         "title": "SS7 Via Appia",
         "description": "SS7 Via Appia\n senso unico alternato causa lavori di taglio erba dalle 07:00 del 13 giugno 2026 alle 19:00 del 30 settembre 2026  tra Incrocio Ciampino - SS217 Via Dei Laghi e Incrocio Variante Formia-Gariglano   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 13 Jun 2026 13:54:00 GMT"
-    },
-    {
-        "title": "Parma Strada Giuseppe Mazzini",
-        "description": "Parma Strada Giuseppe Mazzini\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Ponte di Mezzo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:50:00 GMT"
-    },
-    {
-        "title": "Ferrara Via Trigaboli",
-        "description": "Ferrara Via Trigaboli\n strada chiusa causa corsa podistica dalle 07:00 alle 11:00 del 14 giugno 2026  tra Via Comacchio e Via della Ginestra   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:48:00 GMT"
-    },
-    {
-        "title": "SS6 Via Casilina",
-        "description": "SS6 Via Casilina\n senso unico alternato causa lavori di taglio erba dalle 07:00 del 15 giugno 2026 alle 19:00 del 30 settembre 2026  tra Incrocio S. Cesareo - SS155 Di Fiuggi e Incrocio Anagni - SS155 Racc Di Fiuggi   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:47:00 GMT"
-    },
-    {
-        "title": "SS749DIR. SORA - CASSINO - DIRAMAZIONE PER CASSINO",
-        "description": "SS749DIR. SORA - CASSINO - DIRAMAZIONE PER CASSINO\n senso unico alternato causa lavori di taglio erba dalle 07:00 del 15 giugno 2026 alle 19:00 del 30 settembre 2026  tra km 0+000 e km 1+055   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:43:00 GMT"
-    },
-    {
-        "title": "Ferrara Via Luigi Fano",
-        "description": "Ferrara Via Luigi Fano\n corsa podistica dalle 07:30 alle 11:00 del 14 giugno 2026  a Via Golena  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:42:00 GMT"
-    },
-    {
-        "title": "Torino Via Baltimora",
-        "description": "Torino Via Baltimora\n manifestazione dalle 06:30 alle 13:00 del 14 giugno 2026  a Via Guido Reni  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:40:00 GMT"
-    },
-    {
-        "title": "Parma Piazzale Antonio Barezzi",
-        "description": "Parma Piazzale Antonio Barezzi\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Strada Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:40:00 GMT"
-    },
-    {
-        "title": "SS690 AVEZZANO SORA",
-        "description": "SS690 AVEZZANO SORA\n senso unico alternato causa lavori di taglio erba dalle 07:00 del 15 giugno 2026 alle 19:00 del 30 settembre 2026  tra km 39+350 e km 63+827   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:39:00 GMT"
-    },
-    {
-        "title": "Ferrara Via Golena",
-        "description": "Ferrara Via Golena\n strada chiusa causa corsa podistica dalle 07:30 alle 11:00 del 14 giugno 2026  tra Via Comacchio e Via della Ginestra   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:37:00 GMT"
-    },
-    {
-        "title": "Parma Borgo Santa Brigida",
-        "description": "Parma Borgo Santa Brigida\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Strada Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:37:00 GMT"
-    },
-    {
-        "title": "Torino Via Arbe",
-        "description": "Torino Via Arbe\n manifestazione dalle 06:30 alle 13:00 del 14 giugno 2026  a Via Guido Reni  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:36:00 GMT"
-    },
-    {
-        "title": "SS749 SORA - CASSINO",
-        "description": "SS749 SORA - CASSINO\n senso unico alternato causa lavori di taglio erba dalle 07:00 del 15 giugno 2026 alle 19:00 del 30 settembre 2026  tra km 21+400 e km 42+850   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:36:00 GMT"
-    },
-    {
-        "title": "Ferrara Via Aurelio Zamboni",
-        "description": "Ferrara Via Aurelio Zamboni\n corsa podistica dalle 07:30 alle 11:00 del 14 giugno 2026  a Via Portomaggiore  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:34:00 GMT"
-    },
-    {
-        "title": "Parma Strada Carlo Pisacane",
-        "description": "Parma Strada Carlo Pisacane\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Strada Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:32:00 GMT"
-    },
-    {
-        "title": "Ferrara Via Tambellina",
-        "description": "Ferrara Via Tambellina\n corsa podistica dalle 07:30 alle 11:30 del 14 giugno 2026  a Via Aurelio Zamboni  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:31:00 GMT"
-    },
-    {
-        "title": "Torino Via Alfonso Nallino",
-        "description": "Torino Via Alfonso Nallino\n manifestazione dalle 06:30 alle 13:00 del 14 giugno 2026  a Via Guido Reni  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:30:00 GMT"
-    },
-    {
-        "title": "Ferrara Via Aldo Moro",
-        "description": "Ferrara Via Aldo Moro\n corsa podistica dalle 07:30 alle 11:00 del 14 giugno 2026  a Via Comacchio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:28:00 GMT"
-    },
-    {
-        "title": "Ferrara Via Comacchio",
-        "description": "Ferrara Via Comacchio\n strada chiusa causa corsa podistica dalle 07:30 alle 11:00 del 14 giugno 2026  tra Via Tambellina e Via Val Giralda   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:27:00 GMT"
-    },
-    {
-        "title": "Parma Strada Macedonio Melloni",
-        "description": "Parma Strada Macedonio Melloni\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Strada Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:26:00 GMT"
-    },
-    {
-        "title": "Parma Strada Giuseppe Garibaldi",
-        "description": "Parma Strada Giuseppe Garibaldi\n strada chiusa causa manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Via Giambattista Bodoni  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:23:00 GMT"
-    },
-    {
-        "title": "Parma Via Giambattista Bodoni",
-        "description": "Parma Via Giambattista Bodoni\n strada chiusa causa manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  tra Via Giuseppe Verdi e Strada Giuseppe Garibaldi   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:21:00 GMT"
-    },
-    {
-        "title": "Torino Via Alfonso Balzico",
-        "description": "Torino Via Alfonso Balzico\n manifestazione dalle 06:30 alle 13:00 del 14 giugno 2026  a Via Guido Reni  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:21:00 GMT"
-    },
-    {
-        "title": "Parma Via Ireneo Affo",
-        "description": "Parma Via Ireneo Affo \n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Via Giuseppe Verdi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:18:00 GMT"
-    },
-    {
-        "title": "Ferrara Via della Ginestra",
-        "description": "Ferrara Via della Ginestra\n strada chiusa causa corsa podistica dalle 07:30 alle 11:00 del 14 giugno 2026  tra Via Aurelio Zamboni e Via Golena   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:17:00 GMT"
-    },
-    {
-        "title": "Parma Via Paolo Maria Paciaudi",
-        "description": "Parma Via Paolo Maria Paciaudi\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Via Giuseppe Verdi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:16:00 GMT"
-    },
-    {
-        "title": "Parma Borgo Giambattista Borghesi",
-        "description": "Parma Borgo Giambattista Borghesi\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Via Giuseppe Verdi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:14:00 GMT"
-    },
-    {
-        "title": "Parma Via Girolamo Magnani",
-        "description": "Parma Via Girolamo Magnani\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Via Giuseppe Verdi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:13:00 GMT"
-    },
-    {
-        "title": "SS131 Carlo Felice",
-        "description": "SS131 Carlo Felice\n riduzione di carreggiata causa lavori dalle 22:00 del 16 alle 06:00 del 24 giugno 2026  a Incrocio Abbasanta\/Ghilarza in direzione Sassari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:12:00 GMT"
-    },
-    {
-        "title": "Torino Piazzetta della Chiesa",
-        "description": "Torino Piazzetta della Chiesa\n manifestazione dalle 06:30 alle 13:00 del 14 giugno 2026  a Via Guido Reni  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:10:00 GMT"
-    },
-    {
-        "title": "Parma Strada Guido e Pilo Albertelli",
-        "description": "Parma Strada Guido e Pilo Albertelli\n manifestazione con corteo dalle 17:00 alle 20:00 del 20 giugno 2026  a Via Giuseppe Verdi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 13 Jun 2026 13:10:00 GMT"
     }
 ]
