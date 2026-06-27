@@ -1,28 +1,258 @@
 [
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 17:43 del 27 giugno 2026  tra Svincolo Castel S.Pietro e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:44:00 GMT"
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 18:46 del 27 giugno 2026  tra Svincolo Avellino Ovest e Svincolo Baiano  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:48:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 17:43 del 27 giugno 2026  tra Svincolo Castel S.Pietro e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:44:00 GMT"
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 18:45 del 27 giugno 2026  tra Allacciamento A26 Ge Voltri-Gravellona T. e Svincolo Arenzano  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:47:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicolo in avaria in uscita  a Svincolo San Bartolomeo in direzione In Uscita  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:47:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 18:44 del 27 giugno 2026  tra Svincolo Treviso Nord e Allacciamento A28 Venezia-Belluno  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:46:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo contromano dalle 18:44 del 27 giugno 2026  tra Svincolo Darsena - Toscana Est e Svincolo SS1 Aurelia  Per Pisa  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:46:00 GMT"
     },
     {
         "title": "SS73 Bis Di Bocca Trabaria",
-        "description": "SS73 Bis Di Bocca Trabaria\n carreggiata chiusa causa incidente  tra 238 m prima di Svincolo Fossombrone Est e 262 m dopo Svincolo Fossombrone Ovest  in direzione Incrocio S.Giustino Umbro - SS3 Bis Tiberina  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:43:00 GMT"
+        "description": "SS73 Bis Di Bocca Trabaria\n carreggiata chiusa causa incidente  a Svincolo Fossombrone Est in direzione Incrocio S.Giustino Umbro - SS3 Bis Tiberina  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:43:00 GMT"
     },
     {
-        "title": "A3 Napoli-Salerno",
-        "description": "A3 Napoli-Salerno\n veicolo fermo o in avaria dalle 17:31 del 27 giugno 2026  tra Svincolo Castellammare Di Stabia e Svincolo Pompei  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:43:00 GMT"
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n traffico rallentato causa traffico intenso dalle 18:41 del 27 giugno 2026  tra Svincolo Ovada e Svincolo Masone  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:43:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 18:41 del 27 giugno 2026  tra Svincolo Magliano Sabina e Svincolo Ponzano Romano-Soratte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:43:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Pontremoli in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:43:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n incendio dalle 18:40 del 27 giugno 2026  tra Svincolo Molfetta e Svincolo Trani  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:42:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n fumo causa incendio dalle 18:40 del 27 giugno 2026  tra Svincolo Trani e Svincolo Molfetta   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:42:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n code causa traffico intenso dalle 17:45 del 27 giugno 2026  a Svincolo Fuorigrotta in direzione da allacciamento diramazione Capodichino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:41:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Per Capodichino",
+        "description": "A1 Diramazione Per Capodichino\n veicolo fermo o in avaria dalle 18:39 del 27 giugno 2026  tra Svincolo Capodichino e Allacciamento Tangenziale Di Napoli  in direzione tangenziale  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:41:00 GMT"
+    },
+    {
+        "title": "Roma Viale delle Repubbliche Marinare",
+        "description": "Roma Viale delle Repubbliche Marinare\n incidente  a Via Marcello Pucci Boncambi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:39:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n code causa traffico intenso dalle 18:37 del 27 giugno 2026  tra Svincolo Vomero e Svincolo Fuorigrotta  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:39:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n code causa veicolo in fiamme dalle 18:37 del 27 giugno 2026  tra Svincolo Vittorio Veneto Sud e Svincolo Vittorio Veneto Nord  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:39:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n code causa veicolo in fiamme dalle 18:34 del 27 giugno 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:36:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 18:30 del 27 giugno 2026  tra Svincolo San Severo e Svincolo Foggia  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:33:00 GMT"
+    },
+    {
+        "title": "A24 Tratto Urbano",
+        "description": "A24 Tratto Urbano\n code causa viabilità esterna non riceve dalle 18:29 del 27 giugno 2026  tra Svincolo Portonaccio - Galla Placidia e Svincolo Tangenziale Est  in direzione tangenziale Est  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:31:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n perdita di carico dalle 18:27 del 27 giugno 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:30:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 18:27 del 27 giugno 2026  tra Svincolo Ponte Oglio e Svincolo Palazzolo  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:28:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 18:23 del 27 giugno 2026  tra Svincolo Baiano e Svincolo Avellino Ovest  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:24:00 GMT"
+    },
+    {
+        "title": "SP9(SO) della Val Masino",
+        "description": "SP9(SO) della Val Masino\n incidente  tra Incrocio SP10-Localita  Ponte del Baffo e Incrocio San Martino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:21:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n tratto chiuso causa veicolo in fiamme dalle 18:19 del 27 giugno 2026  tra Svincolo Vittorio Veneto Sud e Svincolo Vittorio Veneto Nord  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:20:00 GMT"
+    },
+    {
+        "title": "Pescate Via Roma",
+        "description": "Pescate Via Roma\n incidente  a Via Alessandro Manzoni  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:19:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n veicolo in avaria  tra Svincolo Castelnuovo Scrivia e Allacciamento A21 Torino-Piacenza-Brescia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:19:00 GMT"
+    },
+    {
+        "title": "R06 Raccordo Bettolle-Perugia",
+        "description": "R06 Raccordo Bettolle-Perugia\n veicolo in avaria  tra 4,939 km prima di Svincolo Cortona e 2,966 km dopo Svincolo Foiano della Chiana  in direzione Raccordo Bettolle  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:19:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 18:17 del 27 giugno 2026  tra Svincolo Dalmine e Svincolo Bergamo  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:18:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n ripristino incidente dalle 08:28 del 26 giugno 2026  tra Svincolo Reggio Emilia e Allacciamento A22 Modena-Brennero  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:17:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n tratto chiuso causa veicolo fermo o in avaria dalle 18:09 alle 19:00 del 27 giugno 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:17:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n veicolo in avaria  a Svincolo Carru  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:16:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n traffico bloccato causa veicolo fermo o in avaria dalle 18:15 del 27 giugno 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:16:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 18:15 del 27 giugno 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:16:00 GMT"
+    },
+    {
+        "title": "Roma Piazza Vittorio Emanuele II",
+        "description": "Roma Piazza Vittorio Emanuele II\n strada chiusa causa veicolo in fiamme  tra Via Conte Verde e Via Principe Eugenio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:16:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n perdita di carico dalle 18:13 del 27 giugno 2026  tra Svincolo Vicovaro-Mandela e Svincolo Carsoli-Oricola  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:14:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 17:31 del 27 giugno 2026  tra Svincolo Vallata e Svincolo Grottaminarda  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:11:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 18:08 del 27 giugno 2026  tra Allacciamento A12 - Lucca e Allacciamento A12 - Pisa  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:09:00 GMT"
     },
     {
         "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n perdita di carico dalle 17:39 del 27 giugno 2026  tra Svincolo Caianello e Svincolo San Vittore  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:43:00 GMT"
+        "description": "A1 Roma-Napoli\n perdita di carico causa perdita accidentale dalle 18:04 del 27 giugno 2026  tra Allacciamento Diramazione Roma Sud e Allacciamento A24 Roma-Teramo  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:09:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n veicolo in fiamme causa veicolo fermo o in avaria dalle 18:03 del 27 giugno 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:09:00 GMT"
+    },
+    {
+        "title": "Piacenza Piazzale della Libertà",
+        "description": "Piacenza Piazzale della Libertà\n strada chiusa causa fiera dalle 16:00 del 3 alle 04:00 del 5 luglio 2026  a Viale Passeggio Pubblico  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:06:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n tratto chiuso causa lavori dalle 16:47 del 27 giugno 2026  tra Svincolo A05-SS26DIR e Svincolo Entrata Courmayeur Sud  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:06:00 GMT"
+    },
+    {
+        "title": "SS613 Brindisi-Lecce",
+        "description": "SS613 Brindisi-Lecce\n incidente  a Incrocio Lecce raccordo Tangenziale Ovest in direzione Lecce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:05:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 18:04 del 27 giugno 2026  tra Svincolo Poggio Imperiale e Svincolo San Severo  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:05:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 18:04 del 27 giugno 2026  tra Svincolo Civitavecchia Sud e Svincolo S.Severa-S.Marinella  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:05:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 18:02 del 27 giugno 2026  tra Svincolo Valdarno e Svincolo Arezzo  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:04:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 18:01 del 27 giugno 2026  tra Svincolo Monselice e Svincolo Boara  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:02:00 GMT"
+    },
+    {
+        "title": "R00 Raccordo Siena-Firenze",
+        "description": "R00 Raccordo Siena-Firenze\n veicolo in avaria  a Svincolo Tavarnelle (Direzione Firenze) in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:01:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 17:59 del 27 giugno 2026  tra Svincolo L aquila Ovest e Svincolo Tornimparte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 16:01:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 17:51 del 27 giugno 2026  tra Svincolo Arezzo e Svincolo Valdarno  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 15:53:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 17:46 del 27 giugno 2026  tra Svincolo Fadalto-Lago Di S.Croce e Barriera Di Belluno  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 15:50:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 17:43 del 27 giugno 2026  tra Svincolo Castel S.Pietro e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 15:44:00 GMT"
     },
     {
         "title": "A1 Roma-Napoli",
@@ -30,54 +260,9 @@
         "pubDate": "Sat, 27 Jun 2026 15:43:00 GMT"
     },
     {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n veicolo fermo o in avaria dalle 17:39 del 27 giugno 2026  tra Allacciamento A10 Genova-Ventimiglia e Allacciamento A12 Genova-Rosignano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:41:00 GMT"
-    },
-    {
         "title": "A19 Palermo-Catania",
         "description": "A19 Palermo-Catania\n veicolo in avaria  a Svincolo Villabate in direzione Catania  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 15:39:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n pedoni dalle 17:36 del 27 giugno 2026  tra Allacciamento Tangenziale Est Di Milano e Svincolo Monza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:38:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 17:35 del 27 giugno 2026  tra Svincolo Termoli-Molise e Svincolo Poggio Imperiale  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:37:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 17:32 del 27 giugno 2026  tra Svincolo Agrate e Allacciamento Tangenziale Est Di Milano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:37:00 GMT"
-    },
-    {
-        "title": "SS613 Brindisi-Lecce",
-        "description": "SS613 Brindisi-Lecce\n traffico rallentato causa incidente  a Incrocio Trepuzzi - Surbo in direzione Lecce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:35:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n veicolo in avaria  tra 14,139 km prima di Svincolo Sibari e 198 m dopo Svincolo Morano-Castrovillari  in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:35:00 GMT"
-    },
-    {
-        "title": "A35 BreBeMi",
-        "description": "A35 BreBeMi\n segnalazione ostacolo  tra Svincolo Treviglio e Allacciamento A58  in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:34:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 17:32 del 27 giugno 2026  a Svincolo Pescara Ovest-Chieti  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:34:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 17:31 del 27 giugno 2026  tra Svincolo Vallata e Svincolo Grottaminarda  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:33:00 GMT"
     },
     {
         "title": "A14 Ramo Casalecchio",
@@ -85,28 +270,8 @@
         "pubDate": "Sat, 27 Jun 2026 15:33:00 GMT"
     },
     {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 17:29 del 27 giugno 2026  tra Svincolo Prato Ovest e Svincolo Prato Est  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:31:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 17:28 del 27 giugno 2026  tra Svincolo Reggio Emilia e Allacciamento A22 Modena-Brennero  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:30:00 GMT"
-    },
-    {
-        "title": "TG-CT Tangenziale Di Catania",
-        "description": "TG-CT Tangenziale Di Catania\n code causa incidente  a Svincolo Gravina in direzione Svincolo Simeto - SS114  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:29:00 GMT"
-    },
-    {
         "title": "A26 Genova-Gravellona Toce",
         "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 17:27 del 27 giugno 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo Masone  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:29:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 17:23 del 27 giugno 2026  tra Svincolo Val Di Sangro e Svincolo Vasto Nord-Casalbordino  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 15:29:00 GMT"
     },
     {
@@ -120,34 +285,9 @@
         "pubDate": "Sat, 27 Jun 2026 15:25:00 GMT"
     },
     {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo fermo o in avaria dalle 17:22 del 27 giugno 2026  a Svincolo Empoli Est  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:24:00 GMT"
-    },
-    {
         "title": "A50 Tangenziale Ovest Di Milano",
         "description": "A50 Tangenziale Ovest Di Milano\n code per 6 km causa incidente  tra Svincolo Baggio-Cusago: Via Zurigo-Zona Ind. e Allacciamento A4 Torino-Trieste: V.Le Certosa  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 15:23:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n code a tratti causa traffico intenso dalle 17:22 del 27 giugno 2026  tra Svincolo Sesto San Giovanni-Viale Zara e Svincolo Viale Monte Ceneri incrocio Viale Certosa  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:23:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 17:20 del 27 giugno 2026  tra Svincolo Monte San Savino e Svincolo Valdichiana  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:22:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 17:06 del 27 giugno 2026  tra Svincolo Monselice e Svincolo Boara  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:20:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 17:14 del 27 giugno 2026  tra Svincolo Fadalto-Lago Di S.Croce e Barriera Di Belluno  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:18:00 GMT"
     },
     {
         "title": "SS516 Piovese",
@@ -160,44 +300,9 @@
         "pubDate": "Sat, 27 Jun 2026 15:11:00 GMT"
     },
     {
-        "title": "Roma Via di Torricola",
-        "description": "Roma Via di Torricola\n incidente possibili rallentamenti  a Vicolo di Torricola Vecchia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:10:00 GMT"
-    },
-    {
-        "title": "A29 Palermo-Mazara Del Vallo",
-        "description": "A29 Palermo-Mazara Del Vallo\n veicolo in avaria  a Svincolo Alcamo in direzione Palermo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:09:00 GMT"
-    },
-    {
-        "title": "A4 Brescia-Padova",
-        "description": "A4 Brescia-Padova\n code a tratti causa lavori  tra Svincolo Peschiera e Svincolo Sirmione  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:07:00 GMT"
-    },
-    {
         "title": "A50 Tangenziale Ovest Di Milano",
         "description": "A50 Tangenziale Ovest Di Milano\n incidente  tra Svincolo SS11 Padana Superiore E SS33: Molino Dorino e Allacciamento A4 Torino-Trieste: V.Le Certosa  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 15:07:00 GMT"
-    },
-    {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n perdita di carico causa perdita accidentale dalle 17:04 del 27 giugno 2026  tra Terminal 1 - Aeroporto Malpensa e Svincolo Legnano  in direzione Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:06:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 17:00 del 27 giugno 2026  tra Allacciamento Bari Nord - Raccordo Per La Tangenziale e Svincolo Bitonto  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:02:00 GMT"
-    },
-    {
-        "title": "A1 Diramazione Roma Sud",
-        "description": "A1 Diramazione Roma Sud\n veicolo fermo o in avaria dalle 16:57 del 27 giugno 2026  tra Barriera Di Roma Sud e Svincolo Monteporzio  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:01:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 16:59 del 27 giugno 2026  tra Svincolo Asse Supporto e Svincolo Caserta Sud  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 15:01:00 GMT"
     },
     {
         "title": "A15 Parma-La Spezia",
@@ -215,29 +320,9 @@
         "pubDate": "Sat, 27 Jun 2026 14:59:00 GMT"
     },
     {
-        "title": "Mandello del Lario Via del Viandante",
-        "description": "Mandello del Lario Via del Viandante\n incidente  tra Via Meriggio e Via Salita San Giorgio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:58:00 GMT"
-    },
-    {
-        "title": "Calvisano Via Alcide De Gasperi",
-        "description": "Calvisano Via Alcide De Gasperi\n incidente  a Via per Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:56:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 16:53 del 27 giugno 2026  tra Svincolo Pescina e Svincolo Celano  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:56:00 GMT"
-    },
-    {
         "title": "A21 Torino-Brescia",
         "description": "A21 Torino-Brescia\n GPL esaurito  a Area di servizio  Trebbia in direzione Torino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 14:53:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n tratto chiuso causa lavori dalle 16:47 del 27 giugno 2026  tra Svincolo A05-SS26DIR e Svincolo Entrata Courmayeur Sud  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:49:00 GMT"
     },
     {
         "title": "A20 Messina-Palermo",
@@ -260,44 +345,9 @@
         "pubDate": "Sat, 27 Jun 2026 14:41:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 16:03 del 27 giugno 2026  tra Svincolo Cassino e Svincolo San Vittore  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:40:00 GMT"
-    },
-    {
         "title": "A5 Torino-Courmayeur",
         "description": "A5 Torino-Courmayeur\n vento forte  tra Svincolo Quincinetto e Svincolo Aosta Est-Autoporto   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 14:39:00 GMT"
-    },
-    {
-        "title": "A8 Diramazione Per Gallarate-Gattico",
-        "description": "A8 Diramazione Per Gallarate-Gattico\n veicolo fermo o in avaria dalle 16:22 del 27 giugno 2026  tra Svincolo Besnate e Svincolo Sesto Calende-Vergiate  in direzione A26 Genova Voltri-Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:37:00 GMT"
-    },
-    {
-        "title": "A6 Torino-Savona",
-        "description": "A6 Torino-Savona\n veicolo in avaria  a Svincolo Marene - Interconnessione A33 in direzione Savona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:36:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n veicolo in fiamme  a Svincolo Greggio in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:32:00 GMT"
-    },
-    {
-        "title": "A1 Diramazione Roma Sud",
-        "description": "A1 Diramazione Roma Sud\n veicolo fermo o in avaria dalle 16:30 del 27 giugno 2026  tra Svincolo Monteporzio e Svincolo San Cesareo  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:31:00 GMT"
-    },
-    {
-        "title": "SS714 NSA343-NSA297 Tangenziale di Pescara",
-        "description": "SS714 NSA343-NSA297 Tangenziale di Pescara\n incidente  a Incrocio SS16 - Circonvallazione di Pescara in direzione NSA297 Tangenziale di Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:27:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 16:26 del 27 giugno 2026  tra Svincolo San Vittore e Svincolo Caianello  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:27:00 GMT"
     },
     {
         "title": "A8 Diramazione Per Gallarate-Gattico",
@@ -310,19 +360,9 @@
         "pubDate": "Sat, 27 Jun 2026 14:17:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 16:09 del 27 giugno 2026  tra Svincolo Ovada e Svincolo Masone  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:10:00 GMT"
-    },
-    {
         "title": "A2 Autostrada del Mediterraneo",
         "description": "A2 Autostrada del Mediterraneo\n scambio di carreggiata causa lavori dalle 06:00 del 29 giugno 2026 alle 23:59 del 17 luglio 2026  tra Svincolo Mormanno-Scalea e Svincolo Campotenese  in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 14:10:00 GMT"
-    },
-    {
-        "title": "Bologna Via Giuseppe Dozza",
-        "description": "Bologna Via Giuseppe Dozza\n incidente  a Via Alberto Dallolio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:06:00 GMT"
     },
     {
         "title": "SS106 Jonica",
@@ -350,11 +390,6 @@
         "pubDate": "Sat, 27 Jun 2026 13:51:00 GMT"
     },
     {
-        "title": "SS131 Carlo Felice",
-        "description": "SS131 Carlo Felice\n traffico rallentato  a Incrocio Villanouvaforru in direzione Incrocio Cagliari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:49:00 GMT"
-    },
-    {
         "title": "A2 Autostrada del Mediterraneo",
         "description": "A2 Autostrada del Mediterraneo\n riduzione di carreggiata causa lavori di rifacimento del manto stradale dalle 06:00 del 29 giugno 2026 alle 18:00 del 16 luglio 2026  tra Svincolo Torano Castello e Svincolo Cosenza Nord   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 13:49:00 GMT"
@@ -365,24 +400,9 @@
         "pubDate": "Sat, 27 Jun 2026 13:49:00 GMT"
     },
     {
-        "title": "SS360 Arceviese",
-        "description": "SS360 Arceviese\n corsia chiusa causa lavori  a Incrocio Vallone in direzione Incrocio Senigallia - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:47:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n code causa traffico intenso dalle 15:42 del 27 giugno 2026  a Barriera Di Milano Sud in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:44:00 GMT"
-    },
-    {
         "title": "Roma Viale di Trastevere",
         "description": "Roma Viale di Trastevere\n manifestazione con corteo dalle 19:00 alle 21:30 del 29 giugno 2026  a Viale di Trastevere  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 13:44:00 GMT"
-    },
-    {
-        "title": "SS7bis Bis\/Diramazione Di Villa Literno",
-        "description": "SS7bis Bis\/Diramazione Di Villa Literno\n traffico rallentato causa incendio  a Incrocio Villa Literno in direzione Incrocio Teverola - SS7 Bis Di Terra Di Lavoro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:39:00 GMT"
     },
     {
         "title": "A50 Tangenziale Ovest Di Milano",
@@ -395,19 +415,9 @@
         "pubDate": "Sat, 27 Jun 2026 13:33:00 GMT"
     },
     {
-        "title": "Bologna Via Ludwig Van Beethoven",
-        "description": "Bologna Via Ludwig Van Beethoven\n incidente  a Via Antonio Salieri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:28:00 GMT"
-    },
-    {
         "title": "Parma Piazza delle Barricate",
         "description": "Parma Piazza delle Barricate\n tratto chiuso causa manifestazione dalle 16:00 alle 23:30 del 22 luglio 2026  a Strada Imbriani   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 13:23:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n vento forte dalle 15:14 del 27 giugno 2026  tra Svincolo Cerignola e Allacciamento A14 Bologna-Taranto   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:17:00 GMT"
     },
     {
         "title": "Parma Piazza delle Barricate",
@@ -415,19 +425,9 @@
         "pubDate": "Sat, 27 Jun 2026 13:17:00 GMT"
     },
     {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 15:11 del 27 giugno 2026  tra Svincolo Pontebba e Svincolo Carnia  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:13:00 GMT"
-    },
-    {
         "title": "Parma Strada Matteo Renato Imbriani",
         "description": "Parma Strada Matteo Renato Imbriani\n manifestazione dalle 16:00 alle 23:30 del 9 luglio 2026  a Piazzale Daniele Bertozzi  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 13:12:00 GMT"
-    },
-    {
-        "title": "SS33 Del Sempione",
-        "description": "SS33 Del Sempione\n materiali dispersi  a Incrocio Ponte Di Masone - SS549 Di Macugnaga in direzione Rotatoria Milano - Cascina Merlata Fiera - Via Gallarate  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:11:00 GMT"
     },
     {
         "title": "Parma Piazza delle Barricate",
@@ -438,11 +438,6 @@
         "title": "Parma Piazza delle Barricate",
         "description": "Parma Piazza delle Barricate\n tratto chiuso causa manifestazione dalle 16:00 alle 23:30 del 8 luglio 2026  a Strada Imbriani   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 13:01:00 GMT"
-    },
-    {
-        "title": "Bologna Via Irnerio",
-        "description": "Bologna Via Irnerio\n impianto semaforico non funzionante correttamente possibili rallentamenti  a Via Mascarella  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:00:00 GMT"
     },
     {
         "title": "Parma Piazza delle Barricate",
@@ -498,5 +493,10 @@
         "title": "SS62 Della Cisa",
         "description": "SS62 Della Cisa\n senso unico alternato causa lavori di manutenzione dalle 07:00 del 29 giugno 2026 alle 23:59 del 31 luglio 2026  tra Incrocio Sarzana - SS1 Aurelia e Incrocio Diramazione S.Stefano Di Magra   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 12:29:00 GMT"
+    },
+    {
+        "title": "Piacenza Piazzale Genova",
+        "description": "Piacenza Piazzale Genova\n strada chiusa causa fiera dalle 20:00 del 3 alle 04:00 del 5 luglio 2026  tra Via Genova e Via Raimondo Palmerio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 27 Jun 2026 12:27:00 GMT"
     }
 ]
