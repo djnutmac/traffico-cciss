@@ -1,98 +1,373 @@
 [
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 03:46 del 28 giugno 2026  tra Svincolo Sesto San Giovanni-Viale Zara e Svincolo Cormano  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:55:00 GMT"
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n incidente dalle 08:07 del 28 giugno 2026  tra Svincolo Ovada e Svincolo Masone  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:31:00 GMT"
     },
     {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n incidente  tra Svincolo Settimo Milanese-SS11: S.Siro-Fiera e Svincolo Baggio-Cusago: Via Zurigo-Zona Ind.  in direzione Allacciamento A1 Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:46:00 GMT"
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n traffico rallentato dalle 08:26 del 28 giugno 2026  tra Svincolo Pontedera Est e Svincolo Pontedera Ovest-Ponsacco  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:27:00 GMT"
     },
     {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n corsia chiusa  a Incrocio Nibionno - SS342 Briantea in direzione Incrocio Monza - SS527 Bustese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:35:00 GMT"
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n perdita di carico causa perdita accidentale dalle 08:24 del 28 giugno 2026  tra Svincolo Aosta Ovest-Aymavilles e Svincolo Morgex (entrata Direzione Sud)  in direzione Monte Bianco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:27:00 GMT"
+    },
+    {
+        "title": "Cremona Via Palestro",
+        "description": "Cremona Via Palestro\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Corso Giuseppe Garibaldi e Via Goito   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:27:00 GMT"
     },
     {
         "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 03:32 del 28 giugno 2026  tra Svincolo Orvieto e Svincolo Attigliano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:33:00 GMT"
+        "description": "A1 Firenze-Roma\n veicoli scortati per maltempo causa lavori dalle 08:25 del 28 giugno 2026  tra Svincolo Orvieto e Svincolo Attigliano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:26:00 GMT"
+    },
+    {
+        "title": "SS11 Padana Superiore",
+        "description": "SS11 Padana Superiore\n tratto chiuso causa incidente  a Incrocio Ponte Nuovo Di Magenta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:23:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n code causa incidente dalle 07:50 del 28 giugno 2026  tra Svincolo Ovada e Svincolo Masone  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:23:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 08:17 del 28 giugno 2026  a Svincolo Sulmona-Pratola Peligna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:19:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n code a tratti causa traffico intenso dalle 07:31 del 28 giugno 2026  tra Svincolo Bologna Fiera e Svincolo Imola  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:19:00 GMT"
+    },
+    {
+        "title": "Cremona Corso 20 Settembre",
+        "description": "Cremona Corso 20 Settembre\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Largo Boccaccino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:18:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n materiali dispersi  a Svincolo Sanremo Ovest in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:18:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n veicolo in avaria  a Svincolo Millesimo in direzione Savona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:17:00 GMT"
+    },
+    {
+        "title": "Cremona Via Porta Marzia",
+        "description": "Cremona Via Porta Marzia\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Largo Boccaccino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:16:00 GMT"
+    },
+    {
+        "title": "Cremona Via Janello Torriani",
+        "description": "Cremona Via Janello Torriani\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Largo Boccaccino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:14:00 GMT"
+    },
+    {
+        "title": "Cremona Via del Cigno",
+        "description": "Cremona Via del Cigno\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Largo Boccaccino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:12:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n perdita di carico dalle 08:10 del 28 giugno 2026  tra Svincolo Occhiobello e Svincolo Ferrara Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:11:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 08:07 del 28 giugno 2026  tra Svincolo Castel S.Pietro e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:10:00 GMT"
+    },
+    {
+        "title": "A90-GRA Appia-Aurelia",
+        "description": "A90-GRA Appia-Aurelia\n materiali dispersi  a Svincolo 32: Via Della Pisana in direzione Aurelia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:07:00 GMT"
+    },
+    {
+        "title": "Cremona Largo Boccaccino",
+        "description": "Cremona Largo Boccaccino\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Corso 20 Settembre e Piazza del Comune   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:07:00 GMT"
+    },
+    {
+        "title": "A33 Asti - Cuneo",
+        "description": "A33 Asti - Cuneo\n incidente  a Svincolo Isola D asti in direzione Asti   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:04:00 GMT"
     },
     {
         "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Berceto in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:31:00 GMT"
+        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:02:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 3,64 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:02:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n incidente dalle 07:30 del 28 giugno 2026  tra Svincolo Modena Sud e Svincolo Modena Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:01:00 GMT"
+    },
+    {
+        "title": "Cremona Via Mercatello",
+        "description": "Cremona Via Mercatello\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Corso Giuseppe Mazzini e Largo Boccaccino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 06:01:00 GMT"
+    },
+    {
+        "title": "SS162 Della Valle Caudina",
+        "description": "SS162 Della Valle Caudina\n traffico rallentato causa controllo di polizia stradale  tra 2,968 km prima di Incrocio Melito Di Napoli - SS7 Bis e 4,144 km dopo Incrocio Quagliano  in direzione Incrocio Lago Di Patria - SS7 Quater Via Domiziana  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:57:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 07:52 del 28 giugno 2026  a Svincolo Riccione  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:57:00 GMT"
+    },
+    {
+        "title": "Cremona Via San Giuseppe",
+        "description": "Cremona Via San Giuseppe\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:56:00 GMT"
+    },
+    {
+        "title": "Cremona Via Gaspare Aselli",
+        "description": "Cremona Via Gaspare Aselli\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:54:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n traffico rallentato causa incidente dalle 07:51 del 28 giugno 2026  tra Svincolo Modena Sud e Svincolo Modena Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:53:00 GMT"
+    },
+    {
+        "title": "Cremona Via Mauro Macchi",
+        "description": "Cremona Via Mauro Macchi\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:52:00 GMT"
+    },
+    {
+        "title": "SS3bis Bis tiberina (e45)",
+        "description": "SS3bis Bis tiberina (e45)\n veicolo in avaria  a Incrocio Cesena Sud in direzione Incrocio Viterbo-Terni  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:49:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 07:41 del 28 giugno 2026  tra Svincolo Capannori e Svincolo Lucca  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:43:00 GMT"
+    },
+    {
+        "title": "Cremona Via Stella",
+        "description": "Cremona Via Stella\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:43:00 GMT"
+    },
+    {
+        "title": "Romanengo Via 25 Aprile",
+        "description": "Romanengo Via 25 Aprile\n scontro con ostacolo fisso  a Via 25 Aprile  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:42:00 GMT"
+    },
+    {
+        "title": "Cremona Piazza Roma",
+        "description": "Cremona Piazza Roma\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:40:00 GMT"
+    },
+    {
+        "title": "Cremona Via Solferino",
+        "description": "Cremona Via Solferino\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:38:00 GMT"
+    },
+    {
+        "title": "Cremona Corso Giuseppe Mazzini",
+        "description": "Cremona Corso Giuseppe Mazzini\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Corso Giacomo Matteotti e Piazza Roma   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:35:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 07:30 del 28 giugno 2026  tra Svincolo Valdichiana e Svincolo Chiusi-Chianciano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:33:00 GMT"
+    },
+    {
+        "title": "Cremona Piazza della Pace",
+        "description": "Cremona Piazza della Pace\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Via Claudio Monteverdi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:29:00 GMT"
+    },
+    {
+        "title": "Cremona Via Ala Ponzone",
+        "description": "Cremona Via Ala Ponzone\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Via Claudio Monteverdi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:26:00 GMT"
+    },
+    {
+        "title": "Roma Via Tuscolana",
+        "description": "Roma Via Tuscolana\n incidente traffico rallentato  a Via Giacomo Delitala in direzione Centro  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:23:00 GMT"
+    },
+    {
+        "title": "Cremona Via Claudio Monteverdi",
+        "description": "Cremona Via Claudio Monteverdi\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Corso Vittorio Emanuele II e Via Ala Ponzone   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:23:00 GMT"
+    },
+    {
+        "title": "Bologna Via Pier de  Crescenzi",
+        "description": "Bologna Via Pier de  Crescenzi\n rottura nelle condutture d acqua  a Via Pier de  Crescenzi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:21:00 GMT"
+    },
+    {
+        "title": "Cremona Via Felice Cavallotti",
+        "description": "Cremona Via Felice Cavallotti\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Giuseppe Verdi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:19:00 GMT"
+    },
+    {
+        "title": "Cremona Corso Giuseppe Verdi",
+        "description": "Cremona Corso Giuseppe Verdi\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Corso Cavour e Corso Vittorio Emanuele II   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:17:00 GMT"
+    },
+    {
+        "title": "Cremona Via Capitano del Popolo",
+        "description": "Cremona Via Capitano del Popolo\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Piazza Antonio Stradivari e Via Attilio Boldori   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:12:00 GMT"
+    },
+    {
+        "title": "SS18 Tirrena Inferiore",
+        "description": "SS18 Tirrena Inferiore\n corsia chiusa causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:09:00 GMT"
+    },
+    {
+        "title": "Cremona Corso Cavour",
+        "description": "Cremona Corso Cavour\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Corso Campi e Piazza Roma   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:09:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 07:05 del 28 giugno 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Cerignola Est  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:06:00 GMT"
+    },
+    {
+        "title": "Cremona Via Gramsci",
+        "description": "Cremona Via Gramsci\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Via Lanaioli e Piazza Roma   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:04:00 GMT"
+    },
+    {
+        "title": "Cremona Via Lanaioli",
+        "description": "Cremona Via Lanaioli\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Via Solferino e Via Gramsci   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 05:00:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n impianto di distribuzione carburante chiuso causa guasto impianto dalle 10:54 del 1 giugno 2026  a Area di servizio  San Nicola in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:56:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n problemi in area di servizio causa guasto impianto dalle 10:54 del 1 giugno 2026  a Area di servizio  San Nicola in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:56:00 GMT"
+    },
+    {
+        "title": "Cremona Piazza Roma",
+        "description": "Cremona Piazza Roma\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Via Guarnieri del Gesù  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:55:00 GMT"
+    },
+    {
+        "title": "Cremona Via Guarnieri del Gesù",
+        "description": "Cremona Via Guarnieri del Gesù\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Corso Campi e Piazza Roma   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:52:00 GMT"
+    },
+    {
+        "title": "Cremona Piazza del Comune",
+        "description": "Cremona Piazza del Comune\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  tra Via Giovanni Baldesio e Via Solferino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:48:00 GMT"
+    },
+    {
+        "title": "Cremona Via Giovanni Baldesio",
+        "description": "Cremona Via Giovanni Baldesio\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Piazza Antonio Stradivari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:44:00 GMT"
+    },
+    {
+        "title": "Cremona Piazza Antonio Stradivari",
+        "description": "Cremona Piazza Antonio Stradivari\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Piazza Antonio Stradivari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:40:00 GMT"
+    },
+    {
+        "title": "Cremona Piazza della Pace",
+        "description": "Cremona Piazza della Pace\n strada chiusa causa manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Piazza della Pace  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:36:00 GMT"
+    },
+    {
+        "title": "Cremona Via Felice Cavallotti",
+        "description": "Cremona Via Felice Cavallotti\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Campi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:34:00 GMT"
+    },
+    {
+        "title": "Cremona Via Sofonisba Anguissola",
+        "description": "Cremona Via Sofonisba Anguissola\n manifestazione dalle 18:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Campi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:30:00 GMT"
+    },
+    {
+        "title": "Cremona Via Guarnieri del Gesù",
+        "description": "Cremona Via Guarnieri del Gesù\n manifestazione dalle 19:00 del 9 alle 01:00 del 10 luglio 2026  a Corso Campi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:27:00 GMT"
+    },
+    {
+        "title": "Cremona Corso Campi",
+        "description": "Cremona Corso Campi\n strada chiusa causa manifestazione dalle 19:00 del 9 alle 01:00 del 10 luglio 2026  tra Via Sofonisba Anguissola e Corso Cavour   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:23:00 GMT"
+    },
+    {
+        "title": "Parma Piazza delle Barricate",
+        "description": "Parma Piazza delle Barricate\n tratto chiuso causa manifestazione dalle 16:00 alle 23:30 del 9 settembre 2026  a Strada Imbriani   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:14:00 GMT"
+    },
+    {
+        "title": "Parma Piazza delle Barricate",
+        "description": "Parma Piazza delle Barricate\n tratto chiuso causa manifestazione dalle 16:00 alle 23:30 del 2 settembre 2026  a Strada Imbriani  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:11:00 GMT"
+    },
+    {
+        "title": "Roma Via Cristoforo Colombo",
+        "description": "Roma Via Cristoforo Colombo\n corsia chiusa causa rottura nelle condutture d acqua dalle 13:32 del 27 giugno 2026  tra Viale Gianluigi Bonelli e Via Alfonsine  in direzione Ostia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:04:00 GMT"
+    },
+    {
+        "title": "A58 Teem Tangenziale Esterna",
+        "description": "A58 Teem Tangenziale Esterna\n chiusura nodo causa lavori dalle 22:00 del 30 giugno 2026 alle 05:00 del 1 luglio 2026  a Svincolo A35 - BreBeMi in direzione Allacciamento A4 - Torino - Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:03:00 GMT"
+    },
+    {
+        "title": "A58 Teem Tangenziale Esterna",
+        "description": "A58 Teem Tangenziale Esterna\n chiusura nodo causa lavori dalle 22:00 del 30 giugno 2026 alle 05:00 del 1 luglio 2026  a Svincolo A35 - BreBeMi in direzione Svincolo A1 - Milano - Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:03:00 GMT"
+    },
+    {
+        "title": "SS9 Via Emilia",
+        "description": "SS9 Via Emilia\n lavori di manutenzione  tra 341 m dopo Incrocio Casello Piacenza Nord A1 Milano - Napoli e 1,864 km prima di Incrocio Variante Per Fombio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:01:00 GMT"
+    },
+    {
+        "title": "SS12 Dell abetone E Del Brennero",
+        "description": "SS12 Dell abetone E Del Brennero\n lavori  tra 2,494 km dopo Incrocio Bellaria e 1,506 km prima di Incrocio Vaciglio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 04:01:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 04:27 del 28 giugno 2026  tra Svincolo Pontebba e Svincolo Carnia  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 03:11:00 GMT"
+    },
+    {
+        "title": "Siena Via del Rialto",
+        "description": "Siena Via del Rialto\n strada chiusa causa concessione suolo pubblico iniziative di sostegno alle attività produttive dalle 12:30 del 29 alle 16:00 del 30 giugno 2026  a Vicolo dell Oro  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 02:39:00 GMT"
+    },
+    {
+        "title": "Siena Vicolo Di Provenzano",
+        "description": "Siena Vicolo Di Provenzano\n strada chiusa causa lavori dalle 00:00 del 27 giugno alle 18:00 del 7 agosto 2026  tra Via delle Vergini e Via dei Baroncelli   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 28 Jun 2026 02:34:00 GMT"
     },
     {
         "title": "A32 Torino-Bardonecchia",
         "description": "A32 Torino-Bardonecchia\n chiusura notturna, tratto chiuso causa lavori dalle 22:00 del 28 alle 06:00 del 29 giugno 2026  tra Svincolo Oulx Est e Svincolo Susa Est  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 28 Jun 2026 01:30:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 03:27 del 28 giugno 2026  a Barriera Di Ugovizza-Tarvisio in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:29:00 GMT"
-    },
-    {
-        "title": "SS113dir Diramazione Settentrionale Sicula",
-        "description": "SS113dir Diramazione Settentrionale Sicula\n frana  a Incrocio Villafranca Tirrena - SS113 Sett. Sicula in direzione Incrocio Messina - SS113 Settentrionale Sicula  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:27:00 GMT"
-    },
-    {
-        "title": "NSA339 Catania-Siracusa",
-        "description": "NSA339 Catania-Siracusa\n incidente  a Svincolo Lentini-Carlentini-Ragusa in direzione Catania  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:27:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 03:21 del 28 giugno 2026  tra Svincolo Lucca e Svincolo Capannori  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:26:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n incidente dalle 03:09 del 28 giugno 2026  tra Svincolo Bologna Interporto e Svincolo Bologna Arcoveggio-Raccordo Per La Tangenziale  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:22:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 03:17 del 28 giugno 2026  tra Svincolo Ovada e Allacciamento Diram. Predosa-Bettole  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:19:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n pedoni dalle 02:59 del 28 giugno 2026  tra Svincolo Sesto San Giovanni-Viale Zara e Svincolo Cormano  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:10:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 02:59 del 28 giugno 2026  tra Allacciamento A30 Caserta-Salerno e Svincolo Caserta Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:09:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 03:06 del 28 giugno 2026  tra Svincolo Occhiobello e Svincolo Ferrara Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:08:00 GMT"
-    },
-    {
-        "title": "SS16 Adriatica",
-        "description": "SS16 Adriatica\n traffico rallentato causa perdita di liquido sull asfalto  a Incrocio Variante Di Falconara Marittima in direzione Incrocio Otranto - SS173 Delle Terme Salentine  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 01:07:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 02:51 del 28 giugno 2026  tra Svincolo Piacenza Nord e Allacciamento A21 Torino-Brescia  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 00:52:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 02:22 del 28 giugno 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 00:27:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Borgotaro in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 28 Jun 2026 00:00:00 GMT"
     },
     {
         "title": "A56 Tangenziale Di Napoli",
@@ -108,16 +383,6 @@
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n impianto di distribuzione carburante chiuso causa guasto impianto dalle 01:04 del 28 giugno 2026  a Area di servizio  Tevere in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 23:05:00 GMT"
-    },
-    {
-        "title": "SS18 Tirrena Inferiore",
-        "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 23:03:00 GMT"
-    },
-    {
-        "title": "SS12 Dell abetone E Del Brennero",
-        "description": "SS12 Dell abetone E Del Brennero\n tratto chiuso causa lavori  tra 2,494 km dopo Incrocio Bellaria e 1,506 km prima di Incrocio Vaciglio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 22:45:00 GMT"
     },
     {
         "title": "Viterbo Via Valle Piatta",
@@ -205,11 +470,6 @@
         "pubDate": "Sat, 27 Jun 2026 21:33:00 GMT"
     },
     {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 23:01 del 27 giugno 2026  tra Svincolo Castel Madama e Svincolo Tivoli  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 21:33:00 GMT"
-    },
-    {
         "title": "Mantova Piazza Seminario",
         "description": "Mantova Piazza Seminario\n concerto dalle 18:00 alle 23:59 del 11 luglio 2026  a Via Fratelli Cairoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 21:31:00 GMT"
@@ -238,265 +498,5 @@
         "title": "Mantova Vicolo Campana",
         "description": "Mantova Vicolo Campana\n concerto dalle 18:00 alle 23:59 del 11 luglio 2026  a Via San Giorgio  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 27 Jun 2026 21:17:00 GMT"
-    },
-    {
-        "title": "Mantova Via San Giorgio",
-        "description": "Mantova Via San Giorgio\n strada chiusa causa concerto dalle 18:00 alle 23:59 del 11 luglio 2026  tra SS10 e Piazza Sordello   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 21:16:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n tratto chiuso causa lavori dalle 23:04 del 27 alle 06:00 del 28 giugno 2026  tra Allacciamento Diram. Predosa-Bettole e Svincolo Masone  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 21:10:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n area di servizio chiusa causa tratto chiuso dalle 23:04 del 27 alle 06:00 del 28 giugno 2026  a Area di servizio  Stura in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 21:10:00 GMT"
-    },
-    {
-        "title": "Mantova Via Don Enrico Tazzoli",
-        "description": "Mantova Via Don Enrico Tazzoli\n strada chiusa causa concerto dalle 08:00 alle 23:59 del 11 luglio 2026  tra Piazza Sordello e Via Peter Paul Rubens   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 21:04:00 GMT"
-    },
-    {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n corsia chiusa causa lavori di manutenzione  tra 6,271 km prima di Incrocio Piona e 2,658 km dopo Incrocio Bellano  in direzione Incrocio Monza - SS527 Bustese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:59:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Antonio Toselli",
-        "description": "Cuneo Via Antonio Toselli\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Corso Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:45:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Asilo",
-        "description": "Cuneo Via Asilo\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Corso Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:44:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Alba",
-        "description": "Cuneo Via Alba\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:40:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Alba",
-        "description": "Cuneo Via Alba\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Corso Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:39:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Luigi Gallo",
-        "description": "Cuneo Via Luigi Gallo\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Corso Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:35:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Luigi Gallo",
-        "description": "Cuneo Via Luigi Gallo\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:35:00 GMT"
-    },
-    {
-        "title": "Cuneo Lungo Gesso Papa Giovanni XXIII",
-        "description": "Cuneo Lungo Gesso Papa Giovanni XXIII\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:33:00 GMT"
-    },
-    {
-        "title": "Cuneo Lungo Gesso Papa Giovanni XXIII",
-        "description": "Cuneo Lungo Gesso Papa Giovanni XXIII\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Corso Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:32:00 GMT"
-    },
-    {
-        "title": "Cuneo Corso Guglielmo Marconi",
-        "description": "Cuneo Corso Guglielmo Marconi\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Corso Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:31:00 GMT"
-    },
-    {
-        "title": "Cuneo Corso Giuseppe Garibaldi",
-        "description": "Cuneo Corso Giuseppe Garibaldi\n strada chiusa causa corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  tra Viale degli Angeli e Piazza Tancredi Galimberti   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:30:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Luigi Parola",
-        "description": "Cuneo Via Luigi Parola\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:28:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Emanuele Filiberto",
-        "description": "Cuneo Via Emanuele Filiberto\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:27:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Lelio Della Torre",
-        "description": "Cuneo Via Lelio Della Torre\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:24:00 GMT"
-    },
-    {
-        "title": "Raccordo Vetrego-Dolo Mirano",
-        "description": "Raccordo Vetrego-Dolo Mirano\n chiusura notturna, tratto chiuso causa lavori dalle 22:01 del 27 alle 07:00 del 29 giugno 2026  tra Rotatoria di Vetrego e Dolo-Mirano   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:24:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Statuto",
-        "description": "Cuneo Via Statuto\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:22:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Massimo D Azeglio",
-        "description": "Cuneo Via Massimo D Azeglio\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:20:00 GMT"
-    },
-    {
-        "title": "A4 Brescia-Padova",
-        "description": "A4 Brescia-Padova\n deviazione causa lavori in orario notturno dalle 22:10 del 27 alle 06:00 del 28 giugno 2026  a Svincolo Verona Est in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:19:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:16 del 27 giugno 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:18:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:16 del 27 giugno 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:18:00 GMT"
-    },
-    {
-        "title": "Cuneo Corso Secondo Solaro",
-        "description": "Cuneo Corso Secondo Solaro\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Corso Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:17:00 GMT"
-    },
-    {
-        "title": "Cuneo Via Monsignor Dalmazio Peano",
-        "description": "Cuneo Via Monsignor Dalmazio Peano\n corsa podistica dalle 06:00 alle 18:59 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:15:00 GMT"
-    },
-    {
-        "title": "Cuneo Via tetto Cavallo",
-        "description": "Cuneo Via tetto Cavallo\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:15:00 GMT"
-    },
-    {
-        "title": "Cuneo Corso Dante",
-        "description": "Cuneo Corso Dante\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:14:00 GMT"
-    },
-    {
-        "title": "A1 Bologna-Firenze",
-        "description": "A1 Bologna-Firenze\n uscita chiusa causa lavori dalle 22:09 del 27 alle 05:00 del 28 giugno 2026  a Svincolo Calenzano-Sesto Fiorentino in direzione da Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:10:00 GMT"
-    },
-    {
-        "title": "A1 Bologna-Firenze",
-        "description": "A1 Bologna-Firenze\n rampa di accesso chiusa causa lavori dalle 22:09 del 27 alle 05:00 del 28 giugno 2026  a Svincolo Calenzano-Sesto Fiorentino in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:10:00 GMT"
-    },
-    {
-        "title": "A1 Bologna-Firenze",
-        "description": "A1 Bologna-Firenze\n rampa di accesso chiusa causa lavori dalle 22:08 del 27 alle 05:00 del 28 giugno 2026  a Svincolo Calenzano-Sesto Fiorentino in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:09:00 GMT"
-    },
-    {
-        "title": "A1 Bologna-Firenze",
-        "description": "A1 Bologna-Firenze\n uscita chiusa causa lavori dalle 22:08 del 27 alle 05:00 del 28 giugno 2026  a Svincolo Calenzano-Sesto Fiorentino in direzione da Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:09:00 GMT"
-    },
-    {
-        "title": "Cuneo Corso Carlo Brunet",
-        "description": "Cuneo Corso Carlo Brunet\n corsa podistica dalle 06:00 alle 18:00 del 28 giugno 2026  a Viale degli Angeli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:08:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n tratto chiuso causa lavori dalle 22:02 del 27 alle 06:00 del 28 giugno 2026  tra Svincolo Ferrara Sud e Svincolo Ferrara Nord  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 20:03:00 GMT"
-    },
-    {
-        "title": "SS309 Romea",
-        "description": "SS309 Romea\n chiusura per veicoli con peso superiore a 44 tonnellate causa lavori dalle 08:00 del 1 dicembre 2025 alle 23:59 del 1 dicembre 2026  tra Incrocio Chioggia e Incrocio Conche   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 19:24:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 18:41:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 18:41:00 GMT"
-    },
-    {
-        "title": "A6 Torino-Savona",
-        "description": "A6 Torino-Savona\n lavori  tra 7,465 km dopo Svincolo Altare e 1,684 km prima di Allacciamento Savona-Zinola-Vado-Allacciamento A10 Ge-Ventimiglia  in direzione Savona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 18:11:00 GMT"
-    },
-    {
-        "title": "SS185 Di Sella Mandrazzi",
-        "description": "SS185 Di Sella Mandrazzi\n corsia chiusa causa frana  a Incrocio Valico Di Portella Pertusa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 17:19:00 GMT"
-    },
-    {
-        "title": "Piacenza Piazzale della Libertà",
-        "description": "Piacenza Piazzale della Libertà\n strada chiusa causa fiera dalle 16:00 del 3 alle 04:00 del 5 luglio 2026  a Viale Passeggio Pubblico  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 16:06:00 GMT"
-    },
-    {
-        "title": "A21 Torino-Brescia",
-        "description": "A21 Torino-Brescia\n GPL esaurito  a Area di servizio  Trebbia in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:53:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n riduzione di carreggiata causa lavori di manutenzione dalle 06:00 del 29 giugno 2026 alle 23:59 del 3 luglio 2026  tra Svincolo Mormanno-Scalea e Svincolo Rose-Montalto Uffugo  in direzione entrambe alternate  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:17:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n scambio di carreggiata causa lavori dalle 06:00 del 29 giugno 2026 alle 23:59 del 17 luglio 2026  tra Svincolo Mormanno-Scalea e Svincolo Campotenese  in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 14:10:00 GMT"
-    },
-    {
-        "title": "SS106 Jonica",
-        "description": "SS106 Jonica\n senso unico alternato causa lavori dalle 21:30 del 1 alle 06:00 del 3 luglio 2026  tra Incrocio Soverato e Incrocio Copanello   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:56:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n riduzione di carreggiata causa lavori di manutenzione dalle 08:00 del 29 giugno 2026 alle 18:00 del 3 luglio 2026  tra Svincolo Scilla e Svincolo Bagnara Calabra  in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:54:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n riduzione di carreggiata causa lavori di manutenzione dalle 08:00 del 29 giugno 2026 alle 18:00 del 3 luglio 2026  tra Svincolo Bagnara Calabra e Svincolo A2 Raccordo di Reggio Calabria  in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:52:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n riduzione di carreggiata causa lavori di rifacimento del manto stradale dalle 06:00 del 29 giugno 2026 alle 18:00 del 16 luglio 2026  tra Svincolo Torano Castello e Svincolo Cosenza Nord   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:49:00 GMT"
-    },
-    {
-        "title": "SS18 Tirrena Inferiore",
-        "description": "SS18 Tirrena Inferiore\n senso unico alternato causa lavori di rifacimento del manto stradale dalle 07:00 del 29 giugno 2026 alle 17:00 del 11 luglio 2026  tra Incrocio S.Eufemia Lamezia e Incrocio S.Eufemia Lamezia - SS280 Dei Due Mari   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:49:00 GMT"
-    },
-    {
-        "title": "Roma Viale di Trastevere",
-        "description": "Roma Viale di Trastevere\n manifestazione con corteo dalle 19:00 alle 21:30 del 29 giugno 2026  a Viale di Trastevere  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:44:00 GMT"
-    },
-    {
-        "title": "Parma Piazza delle Barricate",
-        "description": "Parma Piazza delle Barricate\n tratto chiuso causa manifestazione dalle 16:00 alle 23:30 del 22 luglio 2026  a Strada Imbriani   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:23:00 GMT"
-    },
-    {
-        "title": "Parma Piazza delle Barricate",
-        "description": "Parma Piazza delle Barricate\n tratto chiuso causa manifestazione dalle 16:00 alle 23:30 del 15 luglio 2026  a Strada Imbriani  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:17:00 GMT"
-    },
-    {
-        "title": "Parma Strada Matteo Renato Imbriani",
-        "description": "Parma Strada Matteo Renato Imbriani\n manifestazione dalle 16:00 alle 23:30 del 9 luglio 2026  a Piazzale Daniele Bertozzi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 27 Jun 2026 13:12:00 GMT"
     }
 ]
