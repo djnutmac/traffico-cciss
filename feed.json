@@ -1,38 +1,248 @@
 [
     {
-        "title": "R06 Raccordo Bettolle-Perugia",
-        "description": "R06 Raccordo Bettolle-Perugia\n traffico rallentato  a Svincolo Pietraia in direzione Raccordo Bettolle  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:41:00 GMT"
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n pedoni dalle 20:37 del 12 luglio 2026  tra Svincolo Casalpusterlengo - Ospedaletto Lodigiano e Svincolo Piacenza Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:38:00 GMT"
     },
     {
-        "title": "A3 Napoli-Salerno",
-        "description": "A3 Napoli-Salerno\n incidente dalle 19:40 del 12 luglio 2026  tra Svincolo Torre Del Greco e Svincolo Ercolano-Portici  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:40:00 GMT"
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 20:32 del 12 luglio 2026  tra Svincolo Ceprano e Svincolo Frosinone  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:37:00 GMT"
     },
     {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n veicolo fermo o in avaria dalle 19:40 del 12 luglio 2026  tra Svincolo Solbiate Arno e Svincolo Castronno  in direzione Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:40:00 GMT"
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 20:32 del 12 luglio 2026  tra Svincolo Casale Monferrato Nord e Svincolo Casale Monferrato Sud  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:36:00 GMT"
     },
     {
-        "title": "A26 Diramazione Predosa-Bettole",
-        "description": "A26 Diramazione Predosa-Bettole\n perdita di carico dalle 19:37 del 12 luglio 2026  tra Allacciamento A26 Ge Voltri-Gravellona T. e Svincolo Novi Ligure  in direzione autostrada Milano-Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:39:00 GMT"
+        "title": "A11 Diramazione Lucca-Viareggio",
+        "description": "A11 Diramazione Lucca-Viareggio\n traffico intenso&nbsp;con&nbsp;code a tratti causa traffico intenso  tra Svincolo Massarosa e Svincolo A11 Firenze-Pisa Nord  in direzione Diramazione Lucca  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:35:00 GMT"
     },
     {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n incidente  tra Allacciamento A7 Milano-Genova e Svincolo SP59 Vigevanese Vecchia: Trezzano  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:38:00 GMT"
+        "title": "A18 Messina-Catania",
+        "description": "A18 Messina-Catania\n code causa traffico intenso  a Barriera Di Catania in direzione Catania  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:35:00 GMT"
     },
     {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n code per 2 km causa incidente  tra Allacciamento A7 Milano-Genova e Svincolo SP59 Vigevanese Vecchia: Trezzano  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:38:00 GMT"
+        "title": "A5 Raccordo A4",
+        "description": "A5 Raccordo A4\n traffico rallentato&nbsp;con&nbsp;code a tratti causa lavori  tra 5,33 km dopo Svincolo Albiano e 7,125 km prima di Allacciamento A4 Torino-Trieste  in direzione Allacciamento A4 Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:35:00 GMT"
+    },
+    {
+        "title": "A8 Diramazione Per Gallarate-Gattico",
+        "description": "A8 Diramazione Per Gallarate-Gattico\n veicolo fermo o in avaria dalle 20:33 del 12 luglio 2026  tra Svincolo Sesto Calende-Vergiate e Svincolo Besnate  in direzione autostrada Milano-Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:34:00 GMT"
+    },
+    {
+        "title": "TG-BO Tangenziale Di Bologna",
+        "description": "TG-BO Tangenziale Di Bologna\n incidente dalle 20:19 del 12 luglio 2026  a Svincolo Via Triumvirato in direzione da autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:34:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 20:32 del 12 luglio 2026  tra Svincolo Ovada e Allacciamento Diram. Predosa-Bettole  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:33:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n code a tratti causa traffico intenso dalle 09:29 del 12 luglio 2026  tra Svincolo Rimini Nord e Svincolo Castel S.Pietro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:33:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 20:28 del 12 luglio 2026  tra Svincolo Castel S.Pietro e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:33:00 GMT"
+    },
+    {
+        "title": "SS647 Fondo Valle Del Biferno",
+        "description": "SS647 Fondo Valle Del Biferno\n veicolo in avaria  a Incrocio Larino E Guglionesi in direzione Incrocio Boiano - SS17 Dell app. Abruz. E Appulo Sann.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:31:00 GMT"
     },
     {
         "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n code a tratti per 6 km  tra 10,12 km prima di Svincolo Chatillon-Saint Vincent e 7,84 km dopo Svincolo Pont Saint Martin  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:38:00 GMT"
+        "description": "A5 Torino-Courmayeur\n code a tratti per 3 km  tra 1,65 km prima di Svincolo Verres e 7,84 km dopo Svincolo Pont Saint Martin  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:29:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n incidente dalle 20:27 del 12 luglio 2026  tra Svincolo Val Vomano e Svincolo Teramo Ovest  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:28:00 GMT"
+    },
+    {
+        "title": "Roma Via Aurelia",
+        "description": "Roma Via Aurelia\n code a tratti causa lavori  tra Via dei Maffei e Via Azone  in direzione Via Azone  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:24:00 GMT"
+    },
+    {
+        "title": "A7 Raccordo Milano-Genova Piazza Maggi",
+        "description": "A7 Raccordo Milano-Genova Piazza Maggi\n pedoni  a Incrocio Famagosta in direzione Milano centro  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:23:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 20:22 del 12 luglio 2026  tra Svincolo Arezzo e Svincolo Valdarno  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:23:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n incidente dalle 20:19 del 12 luglio 2026  tra Svincolo Bussi-Popoli e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:20:00 GMT"
+    },
+    {
+        "title": "SS36 Del Lago Di Como E Dello Spluga",
+        "description": "SS36 Del Lago Di Como E Dello Spluga\n traffico rallentato  tra 5,748 km dopo Incrocio Lecco (fine Ponte Kennedy) e 311 m prima di Incrocio Piona  in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:19:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n perdita di carico causa perdita accidentale dalle 20:18 del 12 luglio 2026  tra Svincolo Caianello e Svincolo Capua  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:19:00 GMT"
+    },
+    {
+        "title": "A5 Raccordo A4",
+        "description": "A5 Raccordo A4\n materiali dispersi  a Allacciamento A4 Torino-Trieste in direzione Allacciamento A4 Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:18:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n traffico rallentato causa traffico intenso  tra Svincolo Desenzano e Svincolo Brescia Centro  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:16:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 20:15 del 12 luglio 2026  tra Svincolo Val Vomano e Svincolo Teramo Ovest  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:16:00 GMT"
+    },
+    {
+        "title": "A3 Napoli-Salerno",
+        "description": "A3 Napoli-Salerno\n code causa incidente dalle 20:12 del 12 luglio 2026  tra Svincolo Castellammare Di Stabia e Svincolo Torre Annunziata Nord  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:15:00 GMT"
+    },
+    {
+        "title": "SS148 Pontina",
+        "description": "SS148 Pontina\n traffico rallentato causa traffico intenso  tra Incrocio Monte D oro e Incrocio Via Decima-Castel Porziano (direzione Rm)  in direzione ROMA  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:14:00 GMT"
+    },
+    {
+        "title": "A3 Napoli-Salerno",
+        "description": "A3 Napoli-Salerno\n incidente dalle 20:11 del 12 luglio 2026  tra Svincolo Torre Annunziata Nord e Svincolo Torre Del Greco  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:14:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n code a tratti per 14 km causa traffico intenso  tra 675 m prima di Svincolo Orco Feglino e Allacciamento A10 - A06 al Km 45  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:13:00 GMT"
+    },
+    {
+        "title": "A14 Bari-Taranto",
+        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 20:12 del 12 luglio 2026  a Svincolo Bari Sud  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:13:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 20:09 del 12 luglio 2026  tra Svincolo Pistoia e Svincolo Montecatini  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:11:00 GMT"
+    },
+    {
+        "title": "A24 Tratto Urbano",
+        "description": "A24 Tratto Urbano\n code causa viabilità esterna non riceve dalle 20:08 del 12 luglio 2026  tra Svincolo Portonaccio - Galla Placidia e Svincolo Tangenziale Est  in direzione tangenziale Est  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:09:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n code a tratti causa traffico intenso dalle 20:08 del 12 luglio 2026  tra Svincolo Vicarello e Svincolo Pontedera Ovest-Ponsacco  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:09:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n traffico rallentato causa traffico intenso dalle 17:37 del 12 luglio 2026  tra Svincolo Pontedera Ovest-Ponsacco e Svincolo Firenze  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:09:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 20:06 del 12 luglio 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:08:00 GMT"
+    },
+    {
+        "title": "SS16 Adriatica",
+        "description": "SS16 Adriatica\n traffico rallentato causa incidente  a Incrocio Ba-Villa De Lilla in direzione Incrocio Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:07:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 19:57 del 12 luglio 2026  tra Svincolo Vicovaro-Mandela e Svincolo Carsoli-Oricola  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:07:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 20:02 del 12 luglio 2026  tra Svincolo Capua e Svincolo Santa Maria Capua Vetere  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:07:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada dalle 20:05 del 12 luglio 2026  tra Svincolo Vittorio Veneto Sud e Svincolo Vittorio Veneto Nord  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:06:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n code causa traffico intenso dalle 20:04 del 12 luglio 2026  tra Svincolo Genova Est e Allacciamento A7 Milano-Genova  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:05:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n code a tratti causa traffico intenso dalle 20:02 del 12 luglio 2026  tra Svincolo Lodi e Barriera Di Milano Sud  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:03:00 GMT"
+    },
+    {
+        "title": "SP9(VC) Varallo-Fobello",
+        "description": "SP9(VC) Varallo-Fobello\n carreggiata chiusa causa instabilità dei versanti in seguito ad incendi boschivi dalle 11:14 del 9 luglio 2026  tra Incrocio SP79-Bocciolaro e Incrocio Cravagliana   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:02:00 GMT"
+    },
+    {
+        "title": "A55 Tangenziale Nord Di Torino",
+        "description": "A55 Tangenziale Nord Di Torino\n veicolo in avaria  a Svincolo Valli Di Lanzo-Borgaro in direzione Torino Nord - A5 To-Aosta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:01:00 GMT"
+    },
+    {
+        "title": "A55 Tangenziale Nord Di Torino",
+        "description": "A55 Tangenziale Nord Di Torino\n veicolo in avaria  a Svincolo Valli Di Lanzo-Borgaro in direzione Torino Nord - A5 To-Aosta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:01:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n code causa traffico intenso  tra Barriera Di Milano e Allacciamento Tangenziale Ovest Di Milano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 18:00:00 GMT"
+    },
+    {
+        "title": "SS36 Del Lago Di Como E Dello Spluga",
+        "description": "SS36 Del Lago Di Como E Dello Spluga\n corsia chiusa causa incidente  a Incrocio Abbadia Lariana in direzione Incrocio Monza - SS527 Bustese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 17:51:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 19:46 del 12 luglio 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Ponzano Romano-Soratte  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 17:50:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n code per 4 km causa incidente  tra Svincolo Grisignano e Svincolo Padova Ovest  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 17:49:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n traffico intenso&nbsp;con&nbsp;code a tratti causa traffico intenso  tra Svincolo Carrara e Allacciamento S.Stefano Di Magra-La Spezia-Allacciamento A15 Pr-Sp  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 17:44:00 GMT"
+    },
+    {
+        "title": "Bologna Via Livio Zambeccari",
+        "description": "Bologna Via Livio Zambeccari\n rottura nelle condutture d acqua  a Via Livio Zambeccari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 17:42:00 GMT"
+    },
+    {
+        "title": "R06 Raccordo Bettolle-Perugia",
+        "description": "R06 Raccordo Bettolle-Perugia\n traffico rallentato  a Svincolo Pietraia in direzione Raccordo Bettolle  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 17:41:00 GMT"
     },
     {
         "title": "A1 Roma-Napoli",
@@ -40,84 +250,14 @@
         "pubDate": "Sun, 12 Jul 2026 17:38:00 GMT"
     },
     {
-        "title": "Roma Via Aurelia",
-        "description": "Roma Via Aurelia\n traffico rallentato causa lavori  tra Via dei Maffei e Via Azone  in direzione Via Azone  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:37:00 GMT"
-    },
-    {
         "title": "A4 Brescia-Padova",
         "description": "A4 Brescia-Padova\n incidente  tra Svincolo Grisignano e Svincolo Padova Ovest  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 17:37:00 GMT"
     },
     {
-        "title": "A56 Tangenziale Di Napoli",
-        "description": "A56 Tangenziale Di Napoli\n veicolo fermo o in avaria dalle 19:27 del 12 luglio 2026  tra Svincolo Fuorigrotta e Svincolo Vomero  in direzione allacciamento diramazione Capodichino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:37:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n code causa incidente dalle 18:44 del 12 luglio 2026  tra Svincolo Casauria-Torre De  Passeri e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:37:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n traffico rallentato causa veicolo fermo o in avaria dalle 19:37 del 12 luglio 2026  tra Svincolo Anagni - Fiuggi e Svincolo Ferentino  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:37:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n perdita di carico causa perdita accidentale dalle 19:34 del 12 luglio 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:37:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n pedoni dalle 19:36 del 12 luglio 2026  tra Svincolo Modena Sud e Svincolo Modena Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:37:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n code causa traffico intenso dalle 19:35 del 12 luglio 2026  a Barriera Di Salerno M.S.Severino in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:36:00 GMT"
-    },
-    {
-        "title": "A56 Tangenziale Di Napoli",
-        "description": "A56 Tangenziale Di Napoli\n traffico rallentato causa veicolo fermo o in avaria dalle 19:34 del 12 luglio 2026  tra Svincolo Fuorigrotta e Svincolo Vomero  in direzione allacciamento diramazione Capodichino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:35:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 19:33 del 12 luglio 2026  tra Svincolo Fabro e Svincolo Chiusi-Chianciano  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:34:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa ripristino urgente fondo stradale dalle 19:33 del 12 luglio 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:34:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 19:33 del 12 luglio 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:34:00 GMT"
-    },
-    {
         "title": "SS3bis Bis tiberina (e45)",
         "description": "SS3bis Bis tiberina (e45)\n traffico rallentato  tra 3,03 km dopo Incrocio Tangenziale Di Cesena e 565 m prima di Incrocio Ravenna  in direzione Incrocio Ravenna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 17:33:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n perdita di carico causa perdita accidentale dalle 19:32 del 12 luglio 2026  tra Svincolo Cattolica e Svincolo Pesaro-Urbino  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:33:00 GMT"
-    },
-    {
-        "title": "A4 Brescia-Padova",
-        "description": "A4 Brescia-Padova\n code per 3 km causa traffico intenso  tra Svincolo Peschiera e Svincolo Desenzano  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:32:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n traffico rallentato causa traffico intenso dalle 19:01 del 12 luglio 2026  tra Svincolo Rosignano Marittimo e Svincolo Collesalvetti\/Sgc Fi-Pi-Li  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:32:00 GMT"
     },
     {
         "title": "Via Cristoforo Colombo (RM)",
@@ -130,84 +270,14 @@
         "pubDate": "Sun, 12 Jul 2026 17:29:00 GMT"
     },
     {
-        "title": "A55 Tangenziale Sud Di Torino",
-        "description": "A55 Tangenziale Sud Di Torino\n veicolo in avaria  a Svincolo Autoporto S.I.T.O. in direzione Allacciamento Interconnessione Tangenziale Nord  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:28:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Sud Di Torino",
-        "description": "A55 Tangenziale Sud Di Torino\n veicolo in avaria  a Svincolo Autoporto S.I.T.O. in direzione Allacciamento Interconnessione Tangenziale Nord  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:28:00 GMT"
-    },
-    {
         "title": "A24 Roma-Teramo",
         "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 19:27 del 12 luglio 2026  tra Svincolo L aquila Ovest e Svincolo Tornimparte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 17:28:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n traffico rallentato causa traffico intenso dalle 19:26 del 12 luglio 2026  tra Svincolo Rosignano Marittimo e Svincolo Collesalvetti\/Sgc Fi-Pi-Li  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:28:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n code causa traffico intenso dalle 19:27 del 12 luglio 2026  tra Svincolo Rosignano Marittimo e Svincolo Collesalvetti\/Sgc Fi-Pi-Li  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:28:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 19:18 del 12 luglio 2026  tra Svincolo Valdarno e Svincolo Incisa - Reggello  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:27:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 19:23 del 12 luglio 2026  tra Svincolo Modena Sud e Svincolo Modena Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:24:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n veicolo in avaria  a Allacciamento A1 Milano-Napoli in direzione Allacciamento A1 Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:23:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 19:21 del 12 luglio 2026  tra Svincolo Borgomanero e Allacciamento Diramazione Gallarate-Gattico  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:23:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 19:18 del 12 luglio 2026  tra Svincolo Altedo e Svincolo Ferrara Sud  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:23:00 GMT"
-    },
-    {
-        "title": "A7 Raccordo Milano-Genova Piazza Maggi",
-        "description": "A7 Raccordo Milano-Genova Piazza Maggi\n code causa traffico intenso  tra Incrocio Famagosta e Incrocio Piazza Gian Antonio Maggi  in direzione Genova Piazza Maggi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:23:00 GMT"
-    },
-    {
-        "title": "A21 Torino-Brescia",
-        "description": "A21 Torino-Brescia\n materiali dispersi  a Barriera Di Villanova D asti in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:22:00 GMT"
-    },
-    {
-        "title": "A4 Brescia-Padova",
-        "description": "A4 Brescia-Padova\n code per 3 km causa incidente  tra Svincolo Grisignano e Svincolo Padova Ovest  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:22:00 GMT"
-    },
-    {
         "title": "Brescia Vicolo Fontanone",
         "description": "Brescia Vicolo Fontanone\n manifestazione dalle 15:00 del 23 alle 23:59 del 26 luglio 2026  a Via dei Musei  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 17:18:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n perdita di carico dalle 19:15 del 12 luglio 2026  tra Svincolo Masone e Allacciamento A10 Genova-Ventimiglia  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:17:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 19:15 del 12 luglio 2026  tra Svincolo Melegnano e Svincolo Binasco  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:16:00 GMT"
     },
     {
         "title": "SS1 Via Aurelia",
@@ -220,44 +290,9 @@
         "pubDate": "Sun, 12 Jul 2026 17:15:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code a tratti causa traffico intenso dalle 09:29 del 12 luglio 2026  tra Svincolo Forli  e Svincolo Castel S.Pietro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:15:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n vento forte dalle 19:13 del 12 luglio 2026  tra Svincolo Grottaminarda e Svincolo Candela   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:14:00 GMT"
-    },
-    {
         "title": "A1 Milano-Bologna",
         "description": "A1 Milano-Bologna\n code a tratti causa traffico intenso dalle 15:54 del 12 luglio 2026  tra Svincolo Terre di Canossa - Campegine e Svincolo Piacenza Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 17:14:00 GMT"
-    },
-    {
-        "title": "A4 Brescia-Padova",
-        "description": "A4 Brescia-Padova\n code a tratti causa traffico intenso  tra Svincolo Sommacampagna e Svincolo Brescia Centro  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:12:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n code a tratti causa traffico intenso  tra Allacciamento A4 Torino-Trieste: V.Le Certosa e Svincolo Settimo Milanese-SS11: S.Siro-Fiera  in direzione Allacciamento A1 Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:12:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n traffico rallentato causa perdita di carico dalle 19:11 del 12 luglio 2026  tra Svincolo Montecatini e Svincolo Chiesina Uzzanese  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:12:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n incidente dalle 19:07 del 12 luglio 2026  tra Svincolo Genova Voltri e Svincolo Genova Pegli  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:12:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code causa incidente dalle 19:11 del 12 luglio 2026  tra Allacciamento A26 Ge Voltri-Gravellona T. e Svincolo Genova Pegli  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:12:00 GMT"
     },
     {
         "title": "Brescia Via Gabriele Rosa",
@@ -275,39 +310,9 @@
         "pubDate": "Sun, 12 Jul 2026 17:11:00 GMT"
     },
     {
-        "title": "Milano Piazza Sei Febbraio",
-        "description": "Milano Piazza Sei Febbraio\n incidente che coinvolge  motociclette  a Viale Cassiodoro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:11:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n code a tratti causa traffico intenso  tra Svincolo Uscita 7bis: Quinto De Stampi e Svincolo Settimo Milanese-SS11: S.Siro-Fiera  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:11:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n veicolo in avaria  a Svincolo Marcallo inizio Mesero in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:10:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n traffico rallentato&nbsp;con&nbsp;code a tratti causa traffico intenso  tra 1,55 km dopo Svincolo Rho e 113 m prima di Svincolo Ghisolfa Ovest inizio Tangenziale Ovest  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:10:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n veicolo in avaria  tra 3,321 km dopo Allacciamento Sicignano-Potenza e 7,143 km prima di Svincolo Petina  in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:09:00 GMT"
-    },
-    {
         "title": "Brescia Piazza del Foro",
         "description": "Brescia Piazza del Foro\n strada chiusa causa manifestazione dalle 15:00 del 23 alle 23:59 del 26 luglio 2026  a Piazza del Foro  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 17:09:00 GMT"
-    },
-    {
-        "title": "Roncola SP172",
-        "description": "Roncola SP172\n incidente possibili rallentamenti  a SP172  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:08:00 GMT"
     },
     {
         "title": "A25 Torano-Pescara",
@@ -325,11 +330,6 @@
         "pubDate": "Sun, 12 Jul 2026 17:07:00 GMT"
     },
     {
-        "title": "A21 Torino-Brescia",
-        "description": "A21 Torino-Brescia\n materiali dispersi  a Allacciamento A7 Milano-Genova in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:06:00 GMT"
-    },
-    {
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 17:06:00 GMT"
@@ -345,16 +345,6 @@
         "pubDate": "Sun, 12 Jul 2026 17:05:00 GMT"
     },
     {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n traffico rallentato causa traffico intenso dalle 17:37 del 12 luglio 2026  tra Svincolo Gello - Allacciamento Diramazione per Pisa e Svincolo Firenze  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:05:00 GMT"
-    },
-    {
-        "title": "Ponteranica Via 4 Novembre",
-        "description": "Ponteranica Via 4 Novembre\n incidente possibili rallentamenti  a Via 4 Novembre  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 17:04:00 GMT"
-    },
-    {
         "title": "A10 Genova-Ventimiglia",
         "description": "A10 Genova-Ventimiglia\n incidente dalle 19:02 del 12 luglio 2026  a Svincolo Genova Aeroporto  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 17:04:00 GMT"
@@ -365,29 +355,9 @@
         "pubDate": "Sun, 12 Jul 2026 16:58:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n animali sulla strada dalle 18:55 del 12 luglio 2026  tra Svincolo Faenza e Svincolo Forli    <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:57:00 GMT"
-    },
-    {
         "title": "Cervia Viale Podgora",
         "description": "Cervia Viale Podgora\n manifestazione dalle 14:00 del 31 luglio 2026 alle 01:00 del 1 agosto 2026  tra Rotonda I Maggio e Viale Romagna   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 16:56:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n code causa traffico intenso dalle 18:55 del 12 luglio 2026  a Svincolo Termoli-Molise  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:56:00 GMT"
-    },
-    {
-        "title": "SS148 Pontina",
-        "description": "SS148 Pontina\n code a tratti causa traffico intenso  tra Incrocio Castel Romano\/Trigoria e Incrocio Via Decima-Castel Porziano (direzione Rm)  in direzione ROMA  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:54:00 GMT"
-    },
-    {
-        "title": "Bologna Via Emilia Ponente",
-        "description": "Bologna Via Emilia Ponente\n fondo stradale dissestato  a Via del Triumvirato  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:53:00 GMT"
     },
     {
         "title": "Cervia Vialetto Venezia",
@@ -398,16 +368,6 @@
         "title": "A7 Milano-Genova",
         "description": "A7 Milano-Genova\n veicolo in avaria  tra Svincolo Serravalle Scrivia e Allacciamento Diramazione Predosa-Bettole  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 16:51:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 18:31 del 12 luglio 2026  tra Svincolo Albisola e Svincolo A10 - A06 al Km 44  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:51:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code a tratti per 12 km causa traffico intenso  tra 1,482 km prima di Svincolo Finale Ligure e 4,779 km dopo Allacciamento A10 - A06 al Km 45  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:49:00 GMT"
     },
     {
         "title": "Roma Via del Tempio di Dia",
@@ -430,19 +390,9 @@
         "pubDate": "Sun, 12 Jul 2026 16:41:00 GMT"
     },
     {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n incidente dalle 18:37 del 12 luglio 2026  tra Svincolo Bussi-Popoli e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:41:00 GMT"
-    },
-    {
         "title": "Cervia Viale Bologna",
         "description": "Cervia Viale Bologna\n manifestazione dalle 14:00 del 31 luglio 2026 alle 01:00 del 1 agosto 2026  tra Rotonda I Maggio e Viale Romagna   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 16:39:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n code a tratti causa traffico intenso dalle 18:08 del 12 luglio 2026  tra Svincolo Monza e Svincolo Viale Monte Ceneri incrocio Viale Certosa  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:38:00 GMT"
     },
     {
         "title": "SS36 Del Lago Di Como E Dello Spluga",
@@ -465,16 +415,6 @@
         "pubDate": "Sun, 12 Jul 2026 16:32:00 GMT"
     },
     {
-        "title": "SS407 Basentana",
-        "description": "SS407 Basentana\n traffico rallentato causa presenza di alberi sulla carreggiata  a Incrocio Staz. Di Albano Di Lucania in direzione Incrocio Staz. Di Vaglio Basilicata - SS7 Appia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:31:00 GMT"
-    },
-    {
-        "title": "A3 Napoli-Salerno",
-        "description": "A3 Napoli-Salerno\n code causa traffico intenso dalle 18:31 del 12 luglio 2026  a Barriera Di Nocera Inferiore in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:31:00 GMT"
-    },
-    {
         "title": "Cervia Vialetto Ortigara",
         "description": "Cervia Vialetto Ortigara\n manifestazione dalle 14:00 del 17 alle 01:00 del 18 luglio 2026  tra Rotonda I Maggio e Viale Romagna   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 16:28:00 GMT"
@@ -490,13 +430,73 @@
         "pubDate": "Sun, 12 Jul 2026 16:26:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 18:09 del 12 luglio 2026  tra Svincolo Firenze Impruneta e Svincolo Firenze Sud  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 12 Jul 2026 16:26:00 GMT"
+        "title": "Cervia Vialetto Venezia",
+        "description": "Cervia Vialetto Venezia\n manifestazione dalle 14:00 del 17 alle 01:00 del 18 luglio 2026  tra Viale Ravenna e Viale Milano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:24:00 GMT"
     },
     {
         "title": "A25 Torano-Pescara",
         "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 17:47 del 12 luglio 2026  tra Svincolo Bussi-Popoli e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 12 Jul 2026 16:24:00 GMT"
+    },
+    {
+        "title": "SS162 Della Valle Caudina",
+        "description": "SS162 Della Valle Caudina\n corsia chiusa causa incendio  a Incrocio Melito Di Napoli - SS7 Bis in direzione Incrocio Lago Di Patria - SS7 Quater Via Domiziana  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:23:00 GMT"
+    },
+    {
+        "title": "Cervia Viale Forlì",
+        "description": "Cervia Viale Forlì\n manifestazione dalle 14:00 del 17 alle 01:00 del 18 luglio 2026  tra Rotonda I Maggio e Viale Romagna   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:21:00 GMT"
+    },
+    {
+        "title": "Cervia Viale Milano",
+        "description": "Cervia Viale Milano\n manifestazione dalle 14:00 del 17 alle 01:00 del 18 luglio 2026  tra Rotonda I Maggio e Viale Romagna   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:19:00 GMT"
+    },
+    {
+        "title": "Cervia Viale Bologna",
+        "description": "Cervia Viale Bologna\n manifestazione dalle 14:00 del 17 alle 01:00 del 18 luglio 2026  tra Rotonda I Maggio e Viale Romagna   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:15:00 GMT"
+    },
+    {
+        "title": "A8 Milano-Varese",
+        "description": "A8 Milano-Varese\n code a tratti causa traffico intenso dalle 18:14 del 12 luglio 2026  tra Svincolo Gallarate e Svincolo Castellanza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:15:00 GMT"
+    },
+    {
+        "title": "Cervia Viale Ravenna",
+        "description": "Cervia Viale Ravenna\n manifestazione dalle 14:00 del 17 alle 01:00 del 18 luglio 2026  tra Rotonda I Maggio e Viale Romagna   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:12:00 GMT"
+    },
+    {
+        "title": "A2 Autostrada del Mediterraneo",
+        "description": "A2 Autostrada del Mediterraneo\n traffico rallentato causa traffico intenso  tra Svincolo Pontecagnano e Svincolo Baronissi  in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:12:00 GMT"
+    },
+    {
+        "title": "Cervia Viale Giacomo Matteotti",
+        "description": "Cervia Viale Giacomo Matteotti\n manifestazione dalle 14:00 del 17 alle 01:00 del 18 luglio 2026  tra Rotonda I Maggio e Viale Romagna   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:10:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 18:06 del 12 luglio 2026  tra Svincolo Lucca e Svincolo Capannori  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:08:00 GMT"
+    },
+    {
+        "title": "Cervia Via Antonio Gramsci",
+        "description": "Cervia Via Antonio Gramsci\n strada chiusa causa manifestazione dalle 14:00 del 31 luglio 2026 alle 01:00 del 1 agosto 2026  tra Viale Romagna e Piazzale Primo Maggio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:07:00 GMT"
+    },
+    {
+        "title": "A14 Ramo Casalecchio",
+        "description": "A14 Ramo Casalecchio\n code causa traffico intenso dalle 18:06 del 12 luglio 2026  a Svincolo Bologna Casalecchio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:07:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n code a tratti causa traffico intenso dalle 18:04 del 12 luglio 2026  tra Allacciamento A12 - Pisa e Svincolo Altopascio  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 12 Jul 2026 16:05:00 GMT"
     }
 ]
