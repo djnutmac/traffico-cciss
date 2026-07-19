@@ -1,68 +1,103 @@
 [
     {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 01:30 del 20 luglio 2026  tra Svincolo Tornimparte e Svincolo Valle Del Salto  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:31:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 00:29 del 20 luglio 2026  tra Allacciamento A4 Padova - Venezia e Svincolo Treviso Sud  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:26:00 GMT"
+    },
+    {
+        "title": "A7 Raccordo Bereguardo-Pavia",
+        "description": "A7 Raccordo Bereguardo-Pavia\n veicolo in avaria  a Barriera Di Bereguardo in direzione Allacciamento Tangenziale Di Pavia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:25:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 01:21 del 20 luglio 2026  tra Svincolo Grottammare e Svincolo Pedaso  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:21:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 01:19 del 20 luglio 2026  tra Svincolo San Severo e Svincolo Poggio Imperiale  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:21:00 GMT"
+    },
+    {
+        "title": "A4 Raccordo Sistiana-Trieste",
+        "description": "A4 Raccordo Sistiana-Trieste\n veicolo in avaria  a Svincolo Sgonico in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:19:00 GMT"
+    },
+    {
+        "title": "SS6 Via Casilina",
+        "description": "SS6 Via Casilina\n incidente  a Incrocio Madonna Della Neve - SS155 E SS156  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:15:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n veicolo in avaria al casello  a Barriera Di Torino in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:13:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 01:11 del 20 luglio 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Vittorio Veneto Sud  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:13:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:12:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n veicolo fermo o in avaria dalle 01:06 del 20 luglio 2026  tra Svincolo Castel S. Giorgio e Barriera Di Salerno M.S.Severino  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:07:00 GMT"
+    },
+    {
+        "title": "SS62 Della Cisa",
+        "description": "SS62 Della Cisa\n riduzione di carreggiata causa lavori dalle 00:00 del 8 luglio alle 23:59 del 30 settembre 2026  a Incrocio Passo Della Cisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 23:03:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n pedoni dalle 00:53 del 20 luglio 2026  tra Svincolo Montopoli In Val D arno e Svincolo Pontedera Est  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 22:54:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 12,95 km prima di Svincolo Pontremoli e 7,3 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 22:39:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 22:39:00 GMT"
+    },
+    {
+        "title": "SS67 Tosco Romagnola",
+        "description": "SS67 Tosco Romagnola\n senso unico alternato causa lavori dalle 09:00 del 28 novembre 2025 alle 18:00 del 31 luglio 2026  tra Incrocio S.Benedetto In Alpe e Incrocio Bocconi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 22:38:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n incidente dalle 00:32 del 20 luglio 2026  tra Svincolo Caserta Nord e Allacciamento A30 Caserta-Salerno  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 22:33:00 GMT"
+    },
+    {
+        "title": "SS623 Del Passo Brasa",
+        "description": "SS623 Del Passo Brasa\n senso unico alternato causa lavori dalle 09:00 del 22 giugno 2026 alle 18:00 del 31 luglio 2026  tra Incrocio Castel D aiano e Incrocio Iola   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 22:32:00 GMT"
+    },
+    {
         "title": "SS71 Umbro Casentinese Romagnola",
         "description": "SS71 Umbro Casentinese Romagnola\n senso unico alternato causa lavori dalle 09:00 del 16 giugno 2026 alle 18:00 del 18 settembre 2026  a Incrocio Borgostecchi  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 19 Jul 2026 22:23:00 GMT"
     },
     {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Pontremoli in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:22:00 GMT"
-    },
-    {
-        "title": "R07 Raccordo Ascoli P.-Porto D ascoli",
-        "description": "R07 Raccordo Ascoli P.-Porto D ascoli\n incidente  a Svincolo Spinetoli in direzione Porto D ascoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:19:00 GMT"
-    },
-    {
         "title": "A7 Milano-Genova",
         "description": "A7 Milano-Genova\n tratto chiuso causa lavori dalle 00:17 alle 06:00 del 20 luglio 2026  tra Allacciamento A10 Genova-Ventimiglia e Allacciamento A12 Genova-Rosignano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 19 Jul 2026 22:18:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n perdita di carico causa perdita accidentale dalle 00:15 del 20 luglio 2026  tra Svincolo Caserta Nord e Allacciamento A30 Caserta-Salerno  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:16:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n impianto di distribuzione carburante chiuso causa interruzione energia elettrica dalle 00:14 alle 03:00 del 20 luglio 2026  a Area di servizio  Tre Ponti in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:15:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n problemi in area di servizio causa interruzione energia elettrica dalle 00:14 alle 03:00 del 20 luglio 2026  a Area di servizio  Tre Ponti in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:15:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n problemi in area di servizio causa interruzione energia elettrica dalle 00:14 alle 03:00 del 20 luglio 2026  a Area di servizio  Tre Ponti in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:15:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n problemi in area di servizio causa interruzione energia elettrica dalle 00:14 alle 03:00 del 20 luglio 2026  a Area di servizio  Tre Ponti in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:15:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n problemi in area di servizio causa interruzione energia elettrica dalle 00:14 alle 03:00 del 20 luglio 2026  a Area di servizio  Tre Ponti in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:15:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n ciclisti sulla strada  tra Allacciamento A1 Milano-Napoli e Svincolo SS.412 Della Val Tidone: Pavia-Opera  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:13:00 GMT"
-    },
-    {
-        "title": "SS6 Via Casilina",
-        "description": "SS6 Via Casilina\n corsia chiusa causa incidente  a Incrocio Madonna Della Neve - SS155 E SS156  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:09:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 00:01 del 20 luglio 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Fadalto-Lago Di S.Croce  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 22:03:00 GMT"
     },
     {
         "title": "A50 Tangenziale Ovest Di Milano",
@@ -73,16 +108,6 @@
         "title": "A25 Torano-Pescara",
         "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 23:45 del 19 luglio 2026  tra Svincolo Sulmona-Pratola Peligna e Svincolo Cocullo  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 19 Jul 2026 21:47:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 23:27 del 19 luglio 2026  tra Svincolo Arezzo e Svincolo Valdarno  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 21:29:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n code causa incidente dalle 23:17 del 19 luglio 2026  tra Svincolo Carpugnino e Svincolo Baveno  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 21:18:00 GMT"
     },
     {
         "title": "SS100 Di Gioia Del Colle",
@@ -105,29 +130,9 @@
         "pubDate": "Sun, 19 Jul 2026 21:02:00 GMT"
     },
     {
-        "title": "SS3 Via Flaminia",
-        "description": "SS3 Via Flaminia\n veicolo in avaria  a Incrocio Borgo Trevi in direzione Incrocio Fano - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 20:53:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n incidente dalle 22:50 del 19 luglio 2026  tra Svincolo Carpugnino e Svincolo Baveno  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 20:53:00 GMT"
-    },
-    {
         "title": "A90-GRA Appia-Aurelia",
         "description": "A90-GRA Appia-Aurelia\n corsia chiusa causa lavori di manutenzione  tra 1,173 km prima di Svincolo 29: Parco dei Medici e 2,073 km dopo Svincolo 27: Via C.Colombo  in direzione Appia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 19 Jul 2026 20:41:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 22:38 del 19 luglio 2026  a Svincolo Pontebba in direzione da autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 20:39:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 21:49 del 19 luglio 2026  tra Svincolo Vicovaro-Mandela e Svincolo Carsoli-Oricola  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 20:38:00 GMT"
     },
     {
         "title": "A5 Torino-Courmayeur",
@@ -150,54 +155,14 @@
         "pubDate": "Sun, 19 Jul 2026 20:17:00 GMT"
     },
     {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 22:09 del 19 luglio 2026  tra Svincolo Grottaminarda e Svincolo Lacedonia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 20:10:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:03 del 19 alle 06:00 del 20 luglio 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 20:05:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:03 del 19 alle 06:00 del 20 luglio 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 20:05:00 GMT"
-    },
-    {
         "title": "A2 Autostrada del Mediterraneo",
         "description": "A2 Autostrada del Mediterraneo\n incendio  a Area di servizio  Frascineto in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 19 Jul 2026 19:47:00 GMT"
     },
     {
-        "title": "SS309 Romea",
-        "description": "SS309 Romea\n traffico in diminuzione  tra Incrocio Ravenna - SS309Diramazione Romea e 1,525 km prima di Incrocio Porto Tolle   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 19:41:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n pioggia dalle 21:40 del 19 luglio 2026  tra Svincolo Pedaso e Svincolo Teramo-Giulianova-Mosciano   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 19:40:00 GMT"
-    },
-    {
         "title": "Pordenone Piazzale Enea Ellero dei Mille",
         "description": "Pordenone Piazzale Enea Ellero dei Mille\n manifestazione dalle 20:45 alle 23:15 del 19 agosto 2026  a Via Gian Battista Bertossi  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 19 Jul 2026 19:34:00 GMT"
-    },
-    {
-        "title": "SS7 Via Appia",
-        "description": "SS7 Via Appia\n tratto chiuso causa incidente  tra Incrocio Sparanise e Incrocio Capua - A1 Milano-Napoli - SS6 Casilina   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 19:20:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 21:11 del 19 luglio 2026  tra Svincolo Pontebba e Barriera Di Ugovizza-Tarvisio  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 19:12:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n veicolo in avaria  a Svincolo Rogliano-Grimaldi in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 19:05:00 GMT"
     },
     {
         "title": "Pordenone Via Beato Odorico",
@@ -210,28 +175,8 @@
         "pubDate": "Sun, 19 Jul 2026 18:59:00 GMT"
     },
     {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n veicolo in avaria  a Svincolo Battipaglia in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 18:43:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 20:26 del 19 luglio 2026  tra Svincolo Avellino Ovest e Svincolo Baiano  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 18:28:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n problemi in area di servizio causa guasto impianto dalle 20:17 del 19 luglio 2026  a Area di servizio  Montefeltro in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 18:17:00 GMT"
-    },
-    {
         "title": "SP98(BZ) Meltina-Avelengo",
         "description": "SP98(BZ) Meltina-Avelengo\n tratto chiuso causa lavori dalle 09:00 alle 17:00 del 23 luglio 2026  tra Incrocio SP167-Avelengo e Incrocio SP8-Merano   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 19 Jul 2026 18:11:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n problemi in area di servizio dalle 20:10 del 19 luglio 2026  a Area di servizio  San Martino in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 19 Jul 2026 18:11:00 GMT"
     },
     {
@@ -495,8 +440,63 @@
         "pubDate": "Sun, 19 Jul 2026 16:42:00 GMT"
     },
     {
+        "title": "Pordenone Via Brusafiera",
+        "description": "Pordenone Via Brusafiera\n transito temporaneamente sospeso causa manifestazione dalle 20:45 alle 23:15 del 7 agosto 2026  tra Largo San Giorgio e Via Gian Battista Bertossi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:41:00 GMT"
+    },
+    {
+        "title": "Pordenone Via Gian Battista Bertossi",
+        "description": "Pordenone Via Gian Battista Bertossi\n transito temporaneamente sospeso causa manifestazione dalle 20:45 alle 23:15 del 7 agosto 2026  tra Piazzale Enea Ellero dei Mille e Viale Trento   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:39:00 GMT"
+    },
+    {
         "title": "A2 Autostrada del Mediterraneo",
         "description": "A2 Autostrada del Mediterraneo\n riduzione di carreggiata causa lavori dalle 12:00 del 20 alle 06:00 del 23 luglio 2026  tra Svincolo Campagna e Area di servizio  Campagna  in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 19 Jul 2026 16:38:00 GMT"
+    },
+    {
+        "title": "Pordenone Largo San Giorgio",
+        "description": "Pordenone Largo San Giorgio\n transito temporaneamente sospeso causa manifestazione dalle 20:45 alle 23:15 del 5 agosto 2026  tra Via Beato Odorico e Via Benedetto Cairoli   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:36:00 GMT"
+    },
+    {
+        "title": "Pordenone Via Brusafiera",
+        "description": "Pordenone Via Brusafiera\n transito temporaneamente sospeso causa manifestazione dalle 20:45 alle 23:15 del 5 agosto 2026  tra Largo San Giorgio e Via Gian Battista Bertossi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:33:00 GMT"
+    },
+    {
+        "title": "Pordenone Via Brusafiera",
+        "description": "Pordenone Via Brusafiera\n manifestazione dalle 20:45 alle 23:15 del 5 agosto 2026  a Via Gian Battista Bertossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:30:00 GMT"
+    },
+    {
+        "title": "Pordenone Via Felice Cavallotti",
+        "description": "Pordenone Via Felice Cavallotti\n manifestazione dalle 20:45 alle 23:15 del 5 agosto 2026  a Via Gian Battista Bertossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:29:00 GMT"
+    },
+    {
+        "title": "Pordenone Piazzale Venti Settembre",
+        "description": "Pordenone Piazzale Venti Settembre\n manifestazione dalle 20:45 alle 23:15 del 5 agosto 2026  a Via Gian Battista Bertossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:27:00 GMT"
+    },
+    {
+        "title": "Pordenone Viale Trento",
+        "description": "Pordenone Viale Trento\n manifestazione dalle 20:45 alle 23:15 del 5 agosto 2026  a Via Gian Battista Bertossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:26:00 GMT"
+    },
+    {
+        "title": "Pordenone Piazzale Enea Ellero dei Mille",
+        "description": "Pordenone Piazzale Enea Ellero dei Mille\n manifestazione dalle 20:45 alle 23:15 del 5 agosto 2026  a Via Gian Battista Bertossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:25:00 GMT"
+    },
+    {
+        "title": "Pordenone Via Gian Battista Bertossi",
+        "description": "Pordenone Via Gian Battista Bertossi\n transito temporaneamente sospeso causa manifestazione dalle 20:45 alle 23:15 del 5 agosto 2026  tra Piazzale Enea Ellero dei Mille e Viale Trento   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 16:24:00 GMT"
+    },
+    {
+        "title": "Pordenone Via Benedetto Cairoli",
+        "description": "Pordenone Via Benedetto Cairoli\n manifestazione dalle 20:45 alle 23:15 del 3 agosto 2026  a Largo San Giorgio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 19 Jul 2026 15:56:00 GMT"
     }
 ]
