@@ -1,12 +1,247 @@
 [
     {
+        "title": "A21 Torino-Brescia",
+        "description": "A21 Torino-Brescia\n lavori  a Svincolo Manerbio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:39:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Nord",
+        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 00:35 del 23 luglio 2026  tra Svincolo Castelnuovo di Porto e Svincolo Settebagni  in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:39:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n personale su strada causa lavori dalle 00:38 del 23 luglio 2026  tra Svincolo Castel S. Giorgio e Barriera Di Salerno M.S.Severino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:39:00 GMT"
+    },
+    {
+        "title": "A35 BreBeMi",
+        "description": "A35 BreBeMi\n chiusura notturna, uscita chiusa causa lavori dalle 22:00 del 22 alle 05:00 del 23 luglio 2026  a Svincolo Caravaggio in direzione Allacciamento SP11 (BS)  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:38:00 GMT"
+    },
+    {
+        "title": "A35 BreBeMi",
+        "description": "A35 BreBeMi\n chiusura notturna, entrata chiusa causa lavori dalle 22:00 del 22 alle 05:00 del 23 luglio 2026  a Svincolo Caravaggio in direzione Allacciamento SP11 (BS)  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:38:00 GMT"
+    },
+    {
+        "title": "A35 BreBeMi",
+        "description": "A35 BreBeMi\n chiusura notturna, entrata chiusa causa lavori dalle 22:00 del 22 alle 05:00 del 23 luglio 2026  a Svincolo Caravaggio in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:37:00 GMT"
+    },
+    {
+        "title": "A35 BreBeMi",
+        "description": "A35 BreBeMi\n chiusura notturna, uscita chiusa causa lavori dalle 22:00 del 22 alle 05:00 del 23 luglio 2026  a Svincolo Caravaggio in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:37:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada dalle 00:36 del 23 luglio 2026  tra Svincolo Treviso Nord e Svincolo Treviso Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:37:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n rampa di accesso chiusa causa lavori dalle 00:34 alle 05:00 del 23 luglio 2026  a Svincolo Nocera Pagani in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:36:00 GMT"
+    },
+    {
+        "title": "TG-BO Tangenziale Di Bologna",
+        "description": "TG-BO Tangenziale Di Bologna\n personale su strada causa lavori dalle 00:33 del 23 luglio 2026  tra Svincolo 3 Allacciamento Ramo Verde-Via Emilia e Svincolo 2 Bologna Centro-Bo Borgo Panigale  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:34:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 00:33 del 23 luglio 2026  tra Svincolo Marotta-Mondolfo e Allacciamento Fano - Raccordo Per Fossombrone  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:34:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 00:31 del 23 luglio 2026  tra Svincolo Caianello e Svincolo Capua  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:33:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 00:31 del 23 luglio 2026  tra Svincolo Vasto Nord-Casalbordino e Svincolo Termoli-Molise  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:32:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n pedoni  a Allacciamento S.Stefano Di Magra-La Spezia-Allacciamento A15 Pr-Sp in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:30:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n veicolo fermo o in avaria dalle 00:28 del 23 luglio 2026  a Svincolo Corso Malta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:30:00 GMT"
+    },
+    {
+        "title": "A4 Venezia-Trieste",
+        "description": "A4 Venezia-Trieste\n incidente  tra 7,6 km prima di Allacciamento Villesse-Allacciamento Raccordo Villesse-Gorizia e 2,6 km dopo Svincolo Palmanova  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:28:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 00:26 del 23 luglio 2026  tra Svincolo Serravalle Scrivia e Svincolo Isola Del Cantone  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:27:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n personale su strada causa lavori dalle 00:24 del 23 luglio 2026  tra Svincolo Udine Sud-Tangenziale e Svincolo Gemona-Osoppo  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:25:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:23 del 23 luglio 2026  tra Svincolo Pescara N. Citta  S.Angelo e Allacciamento A25 Torano-Pescara  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:24:00 GMT"
+    },
+    {
+        "title": "A21 Torino-Brescia",
+        "description": "A21 Torino-Brescia\n lavori  tra 9,7 km prima di Svincolo Brescia Sud e 10,6 km dopo Svincolo Pontevico Robecco  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:22:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n rampa di accesso chiusa causa lavori dalle 00:20 alle 06:00 del 23 luglio 2026  a Svincolo Chiavari in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:22:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n uscita chiusa causa lavori dalle 00:19 alle 06:00 del 23 luglio 2026  a Svincolo Chiavari in direzione da Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:21:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n incidente dalle 00:12 del 23 luglio 2026  tra Svincolo Dalmine e Svincolo Capriate  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:21:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 00:15 del 23 luglio 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:18:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 00:15 del 23 luglio 2026  tra Svincolo San Benedetto Del Tronto e Svincolo Teramo-Giulianova-Mosciano  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:17:00 GMT"
+    },
+    {
+        "title": "A60 Tangenziale Varese",
+        "description": "A60 Tangenziale Varese\n deviazione causa lavori dalle 21:00 del 22 alle 06:00 del 23 luglio 2026  a Svincolo Vedano Olona in direzione Svincolo SS 712 Tangenziale Est di Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:14:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 00:12 del 23 luglio 2026  tra Svincolo Bologna San Lazzaro e Svincolo Bologna Fiera  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:14:00 GMT"
+    },
+    {
+        "title": "A14 Bari-Taranto",
+        "description": "A14 Bari-Taranto\n personale su strada causa lavori dalle 00:11 del 23 luglio 2026  tra Barriera Di Taranto Nord e Svincolo Mottola-Castellaneta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:12:00 GMT"
+    },
+    {
+        "title": "SS3bis Bis tiberina (e45)",
+        "description": "SS3bis Bis tiberina (e45)\n veicolo in avaria  a Incrocio Valsavignone in direzione Incrocio Viterbo-Terni  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:09:00 GMT"
+    },
+    {
+        "title": "TG-BO Tangenziale Di Bologna",
+        "description": "TG-BO Tangenziale Di Bologna\n tratto chiuso causa lavori dalle 00:00 alle 05:00 del 23 luglio 2026  tra Svincolo 2 Bologna Centro-Bo Borgo Panigale e Svincolo 1 Bologna Casalecchio  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:01:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n tratto chiuso causa lavori dalle 00:00 alle 06:00 del 23 luglio 2026  tra Svincolo Secondigliano-Raccordo A1 Capodichino e Svincolo Doganella  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:01:00 GMT"
+    },
+    {
+        "title": "A1 Bologna-Firenze",
+        "description": "A1 Bologna-Firenze\n personale su strada causa lavori dalle 23:59 del 22 luglio 2026  tra Svincolo Firenze Scandicci e Allacciamento A11 Firenze-Pisa Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 22:00:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 23:56 del 22 luglio 2026  tra Allacciamento A24 Roma-Teramo e Allacciamento Diramazione Roma Sud  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:58:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n rampa di accesso chiusa causa lavori dalle 23:55 del 22 alle 06:00 del 23 luglio 2026  a Svincolo Italia  90 Comune Di Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:57:00 GMT"
+    },
+    {
+        "title": "A5 Raccordo A4",
+        "description": "A5 Raccordo A4\n incidente  a Allacciamento A4 Torino-Trieste in direzione Allacciamento A4 Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:56:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n rampa di accesso chiusa causa lavori dalle 23:54 del 22 alle 06:00 del 23 luglio 2026  a Svincolo Agnano in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:56:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 23:50 del 22 alle 06:00 del 23 luglio 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:52:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 23:50 del 22 alle 06:00 del 23 luglio 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:52:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Per Capodichino",
+        "description": "A1 Diramazione Per Capodichino\n tratto chiuso causa lavori dalle 23:48 del 22 alle 06:00 del 23 luglio 2026  tra Svincolo Capodichino e Allacciamento Tangenziale Di Napoli  in direzione tangenziale  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:50:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 23:48 del 22 luglio 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Magliano Sabina  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:49:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 23:47 del 22 luglio 2026  tra Svincolo Boara e Svincolo Monselice  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:49:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 23:47 del 22 luglio 2026  tra Svincolo Asse Supporto e Barriera Di Napoli Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:49:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 23:46 del 22 luglio 2026  tra Svincolo Terme Euganee e Svincolo Monselice  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:48:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 23:47 del 22 luglio 2026  tra Svincolo Orvieto e Svincolo Attigliano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:48:00 GMT"
+    },
+    {
+        "title": "SS9 Via Emilia",
+        "description": "SS9 Via Emilia\n incidente  a Incrocio Modena - SS255 Di S.Matteo Decima  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:47:00 GMT"
+    },
+    {
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n chiusura notturna, tratto chiuso causa lavori di rifacimento del manto stradale dalle 22:07 del 22 alle 05:00 del 24 luglio 2026  tra Allacciamento A1 Milano-Napoli e Svincolo SS.412 Della Val Tidone: Pavia-Opera  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:45:00 GMT"
+    },
+    {
+        "title": "SS30 Di Val Bormida",
+        "description": "SS30 Di Val Bormida\n uscita chiusa causa lavori dalle 06:00 del 24 alle 20:00 del 27 luglio 2026  tra Incrocio Cantalupo e Incrocio Borgoratto Alessandrino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:42:00 GMT"
+    },
+    {
         "title": "SS453 Della Valle Arroscia",
         "description": "SS453 Della Valle Arroscia\n lavori di manutenzione  a Incrocio Ortovero  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:39:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 23:32 del 22 luglio 2026  tra Allacciamento Fano - Raccordo Per Fossombrone e Svincolo Marotta-Mondolfo  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "title": "SS337 Della Val Vigezzo",
+        "description": "SS337 Della Val Vigezzo\n senso unico alternato causa lavori dalle 00:00 del 27 alle 06:00 del 28 luglio 2026  tra Incrocio Druogno e Incrocio Masera   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:39:00 GMT"
     },
     {
@@ -20,13 +255,13 @@
         "pubDate": "Wed, 22 Jul 2026 21:37:00 GMT"
     },
     {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n lavori  tra Allacciamento A8 Milano-Varese e Svincolo SS33 Del Sempione: Rho-Pero   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:36:00 GMT"
+        "title": "SS565 Di Castellamonte",
+        "description": "SS565 Di Castellamonte\n senso unico alternato causa lavori dalle 21:00 del 5 alle 06:00 del 6 agosto 2026  tra Incrocio Quagliuzzo e Incrocio Castellamonte   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 22 Jul 2026 21:37:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicoli lenti dalle 23:20 del 22 luglio 2026  tra Svincolo Terre di Canossa - Campegine e Svincolo Reggio Emilia  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n lavori  tra Allacciamento A8 Milano-Varese e Svincolo SS33 Del Sempione: Rho-Pero   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:36:00 GMT"
     },
     {
@@ -45,11 +280,6 @@
         "pubDate": "Wed, 22 Jul 2026 21:34:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 23:33 del 22 luglio 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:34:00 GMT"
-    },
-    {
         "title": "A7 Milano-Genova",
         "description": "A7 Milano-Genova\n chiusura notturna, tratto chiuso causa lavori dalle 23:25 del 22 alle 05:00 del 23 luglio 2026  tra Barriera Di Milano e Allacciamento Tangenziale Ovest Di Milano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:34:00 GMT"
@@ -58,21 +288,6 @@
         "title": "SS231 Di S.Vittoria",
         "description": "SS231 Di S.Vittoria\n tratto chiuso, entrata chiusa causa lavori dalle 08:00 del 25 alle 14:00 del 31 luglio 2026  tra Incrocio Cervere e Incrocio S.Sebastiano   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:34:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n personale su strada causa lavori dalle 23:31 del 22 luglio 2026  tra Svincolo Genova Nervi e Svincolo Recco  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:32:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 23:30 del 22 luglio 2026  tra Svincolo Atri-Pineto e Svincolo Pescara N. Citta  S.Angelo  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:31:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n perdita di carico dalle 23:29 del 22 luglio 2026  tra Svincolo Castel Madama e Svincolo Vicovaro-Mandela  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:30:00 GMT"
     },
     {
         "title": "A1 Firenze-Roma",
@@ -85,29 +300,14 @@
         "pubDate": "Wed, 22 Jul 2026 21:30:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 23:28 del 22 luglio 2026  tra Svincolo Ancona Sud e Svincolo Ancona Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:29:00 GMT"
-    },
-    {
         "title": "A35 BreBeMi",
         "description": "A35 BreBeMi\n chiusura notturna, uscita chiusa causa lavori dalle 22:22 del 22 alle 05:00 del 23 luglio 2026  a Svincolo Calcio in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:28:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n animali morti  a Svincolo Carisio in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:28:00 GMT"
     },
     {
         "title": "A26 Genova-Gravellona Toce",
         "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 23:27 del 22 luglio 2026  tra Svincolo Meina e Svincolo Baveno   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:28:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n personale su strada dalle 23:26 del 22 luglio 2026  tra Barriera Di Venezia e Allacciamento A4 Padova - Venezia  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:27:00 GMT"
     },
     {
         "title": "SS659 Di Valle Antigorio E Val Formazza",
@@ -118,16 +318,6 @@
         "title": "A35 BreBeMi",
         "description": "A35 BreBeMi\n chiusura notturna, entrata chiusa causa lavori dalle 23:22 del 22 alle 05:00 del 23 luglio 2026  a Svincolo Calcio in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:26:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 23:23 del 22 luglio 2026  tra Svincolo Terme Euganee e Svincolo Monselice  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:24:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n personale su strada causa lavori dalle 23:23 del 22 luglio 2026  tra Svincolo Capannori e Allacciamento A12 - Lucca  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:24:00 GMT"
     },
     {
         "title": "SS337 Della Val Vigezzo",
@@ -145,11 +335,6 @@
         "pubDate": "Wed, 22 Jul 2026 21:23:00 GMT"
     },
     {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n perdita di carico causa perdita accidentale dalle 23:20 del 22 luglio 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Nola  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:22:00 GMT"
-    },
-    {
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 16,45 km dopo Svincolo Pontremoli e 7,8 km prima di Allacciamento A12 Genova-Rosignano  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:21:00 GMT"
@@ -165,11 +350,6 @@
         "pubDate": "Wed, 22 Jul 2026 21:21:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 23:09 del 22 luglio 2026  tra Svincolo Terre di Canossa - Campegine e Svincolo Reggio Emilia  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:21:00 GMT"
-    },
-    {
         "title": "A30 Caserta-Salerno",
         "description": "A30 Caserta-Salerno\n personale su strada causa lavori dalle 23:20 del 22 luglio 2026  tra Svincolo Palma Campania e Svincolo Nocera Pagani  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:21:00 GMT"
@@ -178,21 +358,6 @@
         "title": "A14 Ramo Casalecchio",
         "description": "A14 Ramo Casalecchio\n personale su strada causa lavori dalle 23:18 del 22 luglio 2026  tra Allacciamento A14 Bologna-Taranto e Svincolo Bologna Casalecchio  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:20:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n personale su strada dalle 23:17 del 22 luglio 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Treviso Nord  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:18:00 GMT"
-    },
-    {
-        "title": "A1 Bologna-Firenze",
-        "description": "A1 Bologna-Firenze\n incidente dalle 23:10 del 22 luglio 2026  a Svincolo Barberino di Mugello  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:17:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 23:12 del 22 luglio 2026  tra Svincolo Caserta Sud e Svincolo Caserta Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:13:00 GMT"
     },
     {
         "title": "A1 Firenze-Roma",
@@ -230,16 +395,6 @@
         "pubDate": "Wed, 22 Jul 2026 21:07:00 GMT"
     },
     {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n personale su strada causa lavori dalle 23:06 del 22 luglio 2026  tra Svincolo Saronno e Allacciamento A8 Milano-Varese  in direzione Lainate  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:07:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 23:05 del 22 luglio 2026  tra Svincolo Ceprano e Svincolo Cassino  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:07:00 GMT"
-    },
-    {
         "title": "A12 Genova-Rosignano",
         "description": "A12 Genova-Rosignano\n lavori in uscita  a Svincolo Carrara in direzione Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:06:00 GMT"
@@ -263,16 +418,6 @@
         "title": "A11 Firenze-Pisa",
         "description": "A11 Firenze-Pisa\n uscita chiusa causa lavori dalle 23:03 del 22 alle 06:00 del 23 luglio 2026  a Svincolo Pistoia in direzione da Pisa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 21:04:00 GMT"
-    },
-    {
-        "title": "TG-BO Tangenziale Di Bologna",
-        "description": "TG-BO Tangenziale Di Bologna\n personale su strada causa lavori dalle 23:01 del 22 luglio 2026  a Svincolo 2 Bologna Centro-Bo Borgo Panigale in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:03:00 GMT"
-    },
-    {
-        "title": "TG-BO Tangenziale Di Bologna",
-        "description": "TG-BO Tangenziale Di Bologna\n personale su strada causa lavori dalle 23:01 del 22 luglio 2026  tra Svincolo 2 Bologna Centro-Bo Borgo Panigale e Svincolo 1 Bologna Casalecchio  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 21:03:00 GMT"
     },
     {
         "title": "A13 Raccordo Porto Garibaldi",
@@ -300,21 +445,6 @@
         "pubDate": "Wed, 22 Jul 2026 20:50:00 GMT"
     },
     {
-        "title": "SS223 Di Paganico",
-        "description": "SS223 Di Paganico\n perdita di liquido sull asfalto  a Incrocio Siena - SS2\/SS73\/Tangenziale Siena in direzione Rotatoria Grosseto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:49:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n incidente dalle 22:01 del 22 luglio 2026  tra Allacciamento A21 Torino-Brescia e Allacciamento Piacenza sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:47:00 GMT"
-    },
-    {
-        "title": "SS115 Sud Occidentale Sicula",
-        "description": "SS115 Sud Occidentale Sicula\n tratto chiuso causa incendio  tra 3,798 km dopo Incrocio Siculiana e 1,769 km prima di Incrocio Porto Empedocle - SS115ter Sud Occ. Sicula   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:45:00 GMT"
-    },
-    {
         "title": "A7 Milano-Genova",
         "description": "A7 Milano-Genova\n lavori  tra Svincolo Serravalle Scrivia e Allacciamento Diramazione Predosa-Bettole  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 20:44:00 GMT"
@@ -328,11 +458,6 @@
         "title": "A14 Pescara-Bari",
         "description": "A14 Pescara-Bari\n uscita chiusa causa lavori dalle 22:43 del 22 alle 06:00 del 23 luglio 2026  a Svincolo San Severo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 20:44:00 GMT"
-    },
-    {
-        "title": "A14 Diramazione Per Ravenna",
-        "description": "A14 Diramazione Per Ravenna\n code causa veicolo in fiamme dalle 22:41 del 22 luglio 2026  tra Svincolo Lugo e Svincolo Bagnacavallo  in direzione Ravenna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:43:00 GMT"
     },
     {
         "title": "A24 Roma-Teramo",
@@ -360,21 +485,6 @@
         "pubDate": "Wed, 22 Jul 2026 20:41:00 GMT"
     },
     {
-        "title": "A14 Diramazione Per Ravenna",
-        "description": "A14 Diramazione Per Ravenna\n veicolo in fiamme dalle 22:33 del 22 luglio 2026  tra Svincolo Bagnacavallo e Svincolo Ravenna - S.Vitale  in direzione Ravenna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:41:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 22:39 del 22 luglio 2026  tra Svincolo Termoli-Molise e Svincolo Vasto Nord-Casalbordino  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:41:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n code causa tratto chiuso dalle 21:38 del 22 luglio 2026  tra Svincolo Piacenza Nord e Allacciamento A21 Torino-Brescia  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:36:00 GMT"
-    },
-    {
         "title": "A30 Caserta-Salerno",
         "description": "A30 Caserta-Salerno\n personale su strada causa lavori dalle 22:33 del 22 luglio 2026  tra Allacciamento Salerno - Raccordo Salerno-Avellino e Barriera Di Salerno M.S.Severino  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 20:34:00 GMT"
@@ -385,118 +495,8 @@
         "pubDate": "Wed, 22 Jul 2026 20:33:00 GMT"
     },
     {
-        "title": "A6 Torino-Savona",
-        "description": "A6 Torino-Savona\n tratto chiuso causa lavori  tra Allacciamento Savona-Zinola-Vado-Allacciamento A10 Ge-Ventimiglia e Svincolo Altare  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:32:00 GMT"
-    },
-    {
         "title": "A10 Genova-Ventimiglia",
         "description": "A10 Genova-Ventimiglia\n tratto chiuso causa lavori dalle 22:31 del 22 alle 06:00 del 23 luglio 2026  tra Svincolo Arenzano e Svincolo Varazze  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 22 Jul 2026 20:32:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 22:29 del 22 luglio 2026  tra Svincolo Busalla e Svincolo Ronco Scrivia  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:31:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n incidente dalle 22:29 del 22 luglio 2026  a Svincolo Treviso Sud in direzione da Venezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:31:00 GMT"
-    },
-    {
-        "title": "A2 Diramazione di Napoli",
-        "description": "A2 Diramazione di Napoli\n tratto chiuso, chiusura notturna causa lavori dalle 01:00 alle 04:00 del 23 luglio 2026  tra Svincolo Salerno Centro e Svincolo Salerno Fratte   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:31:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n personale su strada dalle 22:28 del 22 luglio 2026  tra Svincolo Valdarno e Svincolo Arezzo  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:30:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n incidente  a Svincolo S.Elia in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:29:00 GMT"
-    },
-    {
-        "title": "A36 Pedemontana Lombarda",
-        "description": "A36 Pedemontana Lombarda\n chiusura notturna, chiusura nodo causa lavori dalle 22:00 del 22 alle 05:00 del 23 luglio 2026  a Allacciamento A8 Cassano - Magnago in direzione Varese provenendo da SS35  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:28:00 GMT"
-    },
-    {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n rampa di accesso chiusa causa lavori dalle 22:25 del 22 alle 05:00 del 23 luglio 2026  a Svincolo Como Centro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:27:00 GMT"
-    },
-    {
-        "title": "A35 BreBeMi",
-        "description": "A35 BreBeMi\n lavori dalle 22:18 del 22 alle 05:00 del 23 luglio 2026  tra Svincolo Chiari Ovest e Svincolo Romano di Lombardia  in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:26:00 GMT"
-    },
-    {
-        "title": "R20 Raccordo Chieti-Pescara",
-        "description": "R20 Raccordo Chieti-Pescara\n corsia chiusa causa lavori di manutenzione  tra 72 m prima di Svincolo Dragonara e Svincolo Villareia - SS5 Tiburtina  in direzione Raccordo Chieti  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:25:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 22:23 del 22 luglio 2026  a Svincolo Boara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:25:00 GMT"
-    },
-    {
-        "title": "A35 BreBeMi",
-        "description": "A35 BreBeMi\n lavori dalle 22:11 del 22 alle 05:00 del 23 luglio 2026  tra Svincolo Chiari Est e Svincolo Chiari Ovest  in direzione Allacciamento A58  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:23:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code causa tratto chiuso dalle 22:20 del 22 luglio 2026  tra Svincolo Faenza e Svincolo Forli   in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:22:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n lavori  tra 2,456 km dopo Svincolo Greggio e 6,8 km prima di Svincolo Novara Ovest  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:21:00 GMT"
-    },
-    {
-        "title": "SS24 Del Monginevro",
-        "description": "SS24 Del Monginevro\n perdita di liquido sull asfalto  a Incrocio Salbertrand  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:21:00 GMT"
-    },
-    {
-        "title": "SS410 Di Naro",
-        "description": "SS410 Di Naro\n lavori di manutenzione  tra Incrocio Sella Monello - SS122 Agrigentina e 3,48 km prima di Incrocio Naro - SS410 Diramazione Di Naro  in direzione Incrocio Palma Montechiaro - SS115 Sud Occid. Sicula  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:21:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n area di servizio chiusa causa lavori dalle 22:16 del 22 alle 06:00 del 23 luglio 2026  a Area di servizio  Fabro in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:18:00 GMT"
-    },
-    {
-        "title": "SS523 Del Colle Di Cento Croci",
-        "description": "SS523 Del Colle Di Cento Croci\n tratto chiuso  tra 154 m dopo Incrocio Torza e 6,66 km prima di Incrocio Missano   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:17:00 GMT"
-    },
-    {
-        "title": "TG-CT Tangenziale Di Catania",
-        "description": "TG-CT Tangenziale Di Catania\n lavori di manutenzione  tra Svincolo Catania Centro-S.Gregorio-A18 Diramazione e Svincolo Simeto - SS114   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:17:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n entrata chiusa causa lavori dalle 22:05 del 22 alle 05:00 del 24 luglio 2026  a Allacciamento A1 Milano-Napoli in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:16:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n lavori  tra 11,87 km prima di Svincolo Andora e 4,157 km dopo Svincolo Borghetto Santo Spirito  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:15:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n lavori  tra 1,904 km dopo Svincolo Orco Feglino e 222 m prima di Svincolo Finale Ligure  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 22 Jul 2026 20:15:00 GMT"
     }
 ]
