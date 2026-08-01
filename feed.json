@@ -1,23 +1,73 @@
 [
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 23:24 del 1 agosto 2026  tra Svincolo Altedo e Svincolo Bologna Interporto  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 21:25:00 GMT"
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicoli lenti dalle 00:29 del 2 agosto 2026  a Svincolo Firenze Scandicci in direzione da Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:30:00 GMT"
+    },
+    {
+        "title": "A1 Bologna-Firenze",
+        "description": "A1 Bologna-Firenze\n malore dalle 00:29 del 2 agosto 2026  a Area di servizio  Cantagallo in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:29:00 GMT"
     },
     {
         "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 23:19 del 1 agosto 2026  tra Svincolo San Severo e Svincolo Foggia  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 21:24:00 GMT"
+        "description": "A14 Pescara-Bari\n personale su strada dalle 00:27 del 2 agosto 2026  tra Svincolo Trani e Svincolo Molfetta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:28:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n perdita di carico dalle 00:18 del 2 agosto 2026  tra Svincolo Masone e Svincolo Ovada  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:22:00 GMT"
     },
     {
         "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 23:06 del 1 agosto 2026  tra Svincolo Fermo-Porto S.Giorgio e Svincolo Pedaso  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 21:07:00 GMT"
+        "description": "A14 Ancona-Pescara\n incidente dalle 00:14 del 2 agosto 2026  a Svincolo Porto Sant Elpidio in direzione da Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:22:00 GMT"
     },
     {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 23:06 del 1 agosto 2026  tra Svincolo Pedaso e Svincolo Fermo-Porto S.Giorgio  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 21:07:00 GMT"
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 00:17 del 2 agosto 2026  tra Svincolo Orvieto e Svincolo Attigliano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:21:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 00:18 del 2 agosto 2026  tra Allacciamento A7 Milano-Genova e Svincolo Genova Aeroporto  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:19:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Nord",
+        "description": "A1 Diramazione Roma Nord\n personale su strada causa lavori dalle 00:19 del 2 agosto 2026  tra Svincolo Castelnuovo di Porto e Svincolo Settebagni  in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:19:00 GMT"
+    },
+    {
+        "title": "A21 Torino-Brescia",
+        "description": "A21 Torino-Brescia\n lavori  tra 8,6 km dopo Svincolo Pontevico Robecco e 1,054 km prima di Svincolo Manerbio  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:04:00 GMT"
+    },
+    {
+        "title": "SS26 Della Valle D aosta",
+        "description": "SS26 Della Valle D aosta\n animali morti  a Incrocio Aymavilles - Strada Reg. 46  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:03:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n personale su strada causa lavori dalle 00:02 del 2 agosto 2026  tra Svincolo Chiavari e Svincolo Rapallo  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 22:02:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 23:44 del 1 agosto 2026  tra Svincolo Collesalvetti\/Sgc Fi-Pi-Li e Svincolo Rosignano Marittimo  in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 21:47:00 GMT"
+    },
+    {
+        "title": "A55 Diramazione Per Pinerolo",
+        "description": "A55 Diramazione Per Pinerolo\n veicolo in avaria  a Svincolo None in direzione Svincolo S.R. 23  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 21:38:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 23:24 del 1 agosto 2026  tra Svincolo Altedo e Svincolo Bologna Interporto  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 21:32:00 GMT"
     },
     {
         "title": "A1 Bologna-Firenze",
@@ -30,11 +80,6 @@
         "pubDate": "Sat, 01 Aug 2026 21:03:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 22:38 del 1 agosto 2026  tra Svincolo Palazzolo e Svincolo Ponte Oglio  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 20:59:00 GMT"
-    },
-    {
         "title": "A14 Diramazione Per Ravenna",
         "description": "A14 Diramazione Per Ravenna\n veicolo fermo o in avaria dalle 22:58 del 1 agosto 2026  tra Svincolo Ravenna - S.Vitale e Svincolo Bagnacavallo  in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 20:59:00 GMT"
@@ -45,34 +90,9 @@
         "pubDate": "Sat, 01 Aug 2026 20:58:00 GMT"
     },
     {
-        "title": "A1 Diramazione Roma Sud",
-        "description": "A1 Diramazione Roma Sud\n veicolo fermo o in avaria dalle 22:41 del 1 agosto 2026  tra Svincolo Monteporzio e Svincolo San Cesareo  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 20:55:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n problemi in area di servizio causa interruzione energia elettrica dalle 22:51 del 1 agosto 2026  a Area di servizio  San Nicola in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 20:53:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n incidente dalle 22:50 del 1 agosto 2026  tra Svincolo Palazzolo e Svincolo Rovato  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 20:53:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n problemi in area di servizio causa interruzione energia elettrica dalle 22:51 del 1 agosto 2026  a Area di servizio  San Nicola in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 20:52:00 GMT"
-    },
-    {
         "title": "A14 Bologna-Ancona",
         "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 22:50 del 1 agosto 2026  tra Svincolo Cesena e Svincolo Cesena Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 20:52:00 GMT"
-    },
-    {
-        "title": "SS1 Via Aurelia",
-        "description": "SS1 Via Aurelia\n corsia chiusa causa incidente  a Incrocio Laigueglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 20:47:00 GMT"
     },
     {
         "title": "A14 Pescara-Bari",
@@ -95,11 +115,6 @@
         "pubDate": "Sat, 01 Aug 2026 20:09:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n incidente dalle 21:54 del 1 agosto 2026  tra Svincolo Masone e Svincolo Ovada  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 20:06:00 GMT"
-    },
-    {
         "title": "A7 Milano-Genova",
         "description": "A7 Milano-Genova\n area di servizio chiusa causa lavori dalle 22:04 del 1 alle 06:00 del 2 agosto 2026  a Area di servizio  Campora Est in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 20:05:00 GMT"
@@ -107,11 +122,6 @@
     {
         "title": "A7 Milano-Genova",
         "description": "A7 Milano-Genova\n tratto chiuso causa lavori dalle 22:03 del 1 alle 06:00 del 2 agosto 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 20:04:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n uscita chiusa causa lavori dalle 22:03 del 1 alle 05:00 del 2 agosto 2026  a Svincolo Genova Aeroporto in direzione da Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 20:04:00 GMT"
     },
     {
@@ -123,11 +133,6 @@
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:00 del 1 agosto 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 20:01:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 21:53 del 1 agosto 2026  a Svincolo L aquila Ovest  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 19:53:00 GMT"
     },
     {
         "title": "A14 Bologna-Ancona",
@@ -493,10 +498,5 @@
         "title": "Belluno Piazza del Duomo",
         "description": "Belluno Piazza del Duomo\n corsa podistica dalle 19:00 alle 21:30 del 6 agosto 2026  a Via Sant Andrea  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 11:04:00 GMT"
-    },
-    {
-        "title": "Belluno Piazza Castello",
-        "description": "Belluno Piazza Castello\n corsa podistica dalle 19:00 alle 21:30 del 6 agosto 2026  a Piazza del Duomo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 11:03:00 GMT"
     }
 ]
