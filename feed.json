@@ -1,13 +1,63 @@
 [
     {
-        "title": "A4 Brescia-Padova",
-        "description": "A4 Brescia-Padova\n incidente  tra Svincolo Peschiera e Svincolo Sirmione  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 23:33:00 GMT"
+        "title": "A1 Bologna-Firenze",
+        "description": "A1 Bologna-Firenze\n veicoli scortati per maltempo causa veicolo fermo o in avaria dalle 03:07 del 2 agosto 2026  tra Allacciamento Ramo Casalecchio e Svincolo Sasso Marconi  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 02 Aug 2026 01:08:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n incidente dalle 02:33 del 2 agosto 2026  tra Svincolo Firenze Sud e Svincolo Incisa - Reggello  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 02 Aug 2026 01:05:00 GMT"
+    },
+    {
+        "title": "SS1 Via Aurelia",
+        "description": "SS1 Via Aurelia\n tratto chiuso causa incidente  a Incrocio Pisa Nord A11 Firenze-Pisa Nord  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 02 Aug 2026 01:03:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo fermo o in avaria dalle 03:01 del 2 agosto 2026  tra Svincolo Ginestra Fiorentina e Svincolo Montelupo Fiorentino  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 02 Aug 2026 01:02:00 GMT"
     },
     {
         "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 01:30 del 2 agosto 2026  tra Svincolo Canosa e Svincolo Andria-Barletta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 23:31:00 GMT"
+        "description": "A14 Pescara-Bari\n incidente dalle 02:48 del 2 agosto 2026  tra Svincolo Andria-Barletta e Svincolo Canosa  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 02 Aug 2026 01:02:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 02:49 del 2 agosto 2026  tra Svincolo Pesaro-Urbino e Allacciamento Fano - Raccordo Per Fossombrone  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 02 Aug 2026 00:50:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 02:26 del 2 agosto 2026  tra Svincolo Varazze e Svincolo Arenzano  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 02 Aug 2026 00:28:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Sud",
+        "description": "A1 Diramazione Roma Sud\n incidente dalle 02:17 del 2 agosto 2026  tra Svincolo Monteporzio e Barriera Di Roma Sud  in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 02 Aug 2026 00:20:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 02:06 del 2 agosto 2026  tra Svincolo Val Vibrata e Svincolo Teramo-Giulianova-Mosciano  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 02 Aug 2026 00:08:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 01:44 del 2 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 23:47:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n code causa veicolo in fiamme dalle 01:34 del 2 agosto 2026  tra Svincolo Ginestra Fiorentina e Svincolo Montelupo Fiorentino  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 23:35:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n incidente  tra Svincolo Peschiera e Svincolo Sirmione  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 23:33:00 GMT"
     },
     {
         "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
@@ -20,19 +70,9 @@
         "pubDate": "Sat, 01 Aug 2026 23:21:00 GMT"
     },
     {
-        "title": "A28 Portogruaro-Sacile",
-        "description": "A28 Portogruaro-Sacile\n incidente  tra 3,02 km dopo Svincolo Portogruaro e 592 m prima di Svincolo Sesto Al Reghena  in direzione Sacile  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 23:18:00 GMT"
-    },
-    {
         "title": "SS18 Tirrena Inferiore",
         "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 23:15:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n incidente  a Allacciamento S.Stefano Di Magra-La Spezia-Allacciamento A15 Pr-Sp in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 23:14:00 GMT"
     },
     {
         "title": "A14 Bologna-Ancona",
@@ -43,26 +83,6 @@
         "title": "SS194 Ragusana",
         "description": "SS194 Ragusana\n traffico rallentato causa incidente  a Incrocio Lentini Sud in direzione Incrocio Pozzallo - Sp66  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 23:07:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n perdita di carico dalle 01:06 del 2 agosto 2026  tra Svincolo Pescara Sud-Francavilla e Svincolo Pescara Ovest-Chieti  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 23:07:00 GMT"
-    },
-    {
-        "title": "A12 Roma-Civitavecchia",
-        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 00:57 del 2 agosto 2026  tra Svincolo Cerveteri-Ladispoli e Svincolo S.Severa-S.Marinella  in direzione S.s. 1 Aurelia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 23:03:00 GMT"
-    },
-    {
-        "title": "A14 Bari-Taranto",
-        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 00:49 del 2 agosto 2026  tra Incrocio SP117 - Buscate-Cuggiono e Svincolo Taranto  in direzione Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 22:51:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:41 del 2 agosto 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Cerignola Est  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 22:43:00 GMT"
     },
     {
         "title": "A14 Bologna-Ancona",
@@ -83,16 +103,6 @@
         "title": "A21 Torino-Brescia",
         "description": "A21 Torino-Brescia\n lavori  tra 8,6 km dopo Svincolo Pontevico Robecco e 1,054 km prima di Svincolo Manerbio  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 22:04:00 GMT"
-    },
-    {
-        "title": "SS26 Della Valle D aosta",
-        "description": "SS26 Della Valle D aosta\n animali morti  a Incrocio Aymavilles - Strada Reg. 46  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 22:03:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 23:24 del 1 agosto 2026  tra Svincolo Altedo e Svincolo Bologna Interporto  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 21:32:00 GMT"
     },
     {
         "title": "A1 Bologna-Firenze",
@@ -145,11 +155,6 @@
         "pubDate": "Sat, 01 Aug 2026 18:51:00 GMT"
     },
     {
-        "title": "A21 Torino-Brescia",
-        "description": "A21 Torino-Brescia\n lavori  tra 54 m prima di Svincolo Manerbio e 9,6 km dopo Svincolo Pontevico Robecco  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 18:45:00 GMT"
-    },
-    {
         "title": "Bologna Piazza delle Medaglie d Oro",
         "description": "Bologna Piazza delle Medaglie d Oro\n manifestazione dalle 07:00 alle 12:00 del 2 agosto 2026  a Piazza delle Medaglie d Oro  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 18:44:00 GMT"
@@ -187,11 +192,6 @@
     {
         "title": "Roma Via Girolamo Induno",
         "description": "Roma Via Girolamo Induno\n corsia chiusa causa lavori di manutenzione dalle 00:01 del 3 alle 23:59 del 7 agosto 2026  tra Via Jacopa de  Settesoli e Viale di Trastevere   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 16:09:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n problemi in area di servizio causa interruzione erogazione idrica dalle 18:07 del 1 agosto 2026  a Area di servizio  Dolmen Di Bisceglie in direzione Bari  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 16:09:00 GMT"
     },
     {
@@ -345,29 +345,9 @@
         "pubDate": "Sat, 01 Aug 2026 12:17:00 GMT"
     },
     {
-        "title": "Gela Via Pandino",
-        "description": "Gela Via Pandino\n strada chiusa causa manifestazione dalle 18:00 del 1 alle 02:00 del 2 agosto 2026  tra Viale Cortemaggiore e Via Sabbioncello   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 12:15:00 GMT"
-    },
-    {
-        "title": "Gela Viale Cortemaggiore",
-        "description": "Gela Viale Cortemaggiore\n strada chiusa causa manifestazione dalle 18:00 del 1 alle 02:00 del 2 agosto 2026  tra Via Caviaga e Via Ravenna   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 12:13:00 GMT"
-    },
-    {
-        "title": "Gela Viale Cortemaggiore",
-        "description": "Gela Viale Cortemaggiore\n strada chiusa causa manifestazione dalle 18:00 del 1 alle 02:00 del 2 agosto 2026  tra Via Pandino e Via Caviaga   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 12:11:00 GMT"
-    },
-    {
         "title": "A52 Tangenziale Nord Di Milano",
         "description": "A52 Tangenziale Nord Di Milano\n chiusura notturna, deviazioni sul posto causa lavori dalle 22:00 del 5 alle 06:00 del 7 agosto 2026  a A50 Tangenziale Ovest  in direzione Allacciamento Tangenziale Est Di Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 11:52:00 GMT"
-    },
-    {
-        "title": "Gela Viale Cortemaggiore",
-        "description": "Gela Viale Cortemaggiore\n strada chiusa causa manifestazione dalle 18:00 del 1 alle 02:00 del 2 agosto 2026  tra Viale Fontanarossa e Via Pandino   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 01 Aug 2026 11:48:00 GMT"
     },
     {
         "title": "A51 Tangenziale Est Di Milano",
@@ -498,5 +478,25 @@
         "title": "Belluno Piazza dei Martiri",
         "description": "Belluno Piazza dei Martiri\n corsa podistica dalle 19:00 alle 21:30 del 6 agosto 2026  a Piazza Castello  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 01 Aug 2026 11:01:00 GMT"
+    },
+    {
+        "title": "Belluno Via Giuseppe Garibaldi",
+        "description": "Belluno Via Giuseppe Garibaldi\n strada chiusa causa corsa podistica dalle 19:00 alle 21:30 del 6 agosto 2026  tra Via Giacomo Matteotti e Piazzale Marconi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 10:59:00 GMT"
+    },
+    {
+        "title": "Belluno Via Giacomo Matteotti",
+        "description": "Belluno Via Giacomo Matteotti\n strada chiusa causa corsa podistica dalle 19:00 alle 21:30 del 6 agosto 2026  tra Via Loreto e Via Giuseppe Garibaldi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 10:57:00 GMT"
+    },
+    {
+        "title": "Belluno Via Loreto",
+        "description": "Belluno Via Loreto\n strada chiusa causa corsa podistica dalle 19:00 alle 23:59 del 6 agosto 2026  tra Via Dante Alighieri e Via Giacomo Matteotti   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 10:55:00 GMT"
+    },
+    {
+        "title": "Vigevano Via Sardegna",
+        "description": "Vigevano Via Sardegna\n processione dalle 11:15 alle 13:00 del 2 agosto 2026  a Via Bruno Buozzi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 01 Aug 2026 10:45:00 GMT"
     }
 ]
