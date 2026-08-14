@@ -1,5 +1,35 @@
 [
     {
+        "title": "A55 Tangenziale Nord Di Torino",
+        "description": "A55 Tangenziale Nord Di Torino\n animali morti  a Allacciamento Interconnessione diramazione Pescarito in direzione Allacciamento A32 Torino-Bardonecchia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 23:52:00 GMT"
+    },
+    {
+        "title": "A5 Raccordo A4",
+        "description": "A5 Raccordo A4\n materiali dispersi  a Svincolo Albiano in direzione Allacciamento A4 Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 23:52:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 01:48 del 15 agosto 2026  tra Svincolo Trezzo e Svincolo Cavenago  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 23:51:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n veicolo in avaria  tra Allacciamento Tangenziale Ovest Di Milano e Barriera Di Milano  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 23:51:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 01:37 del 15 agosto 2026  tra Svincolo Molfetta e Svincolo Trani  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 23:42:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 01:36 del 15 agosto 2026  tra Allacciamento Fano - Raccordo Per Fossombrone e Svincolo Marotta-Mondolfo  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 23:38:00 GMT"
+    },
+    {
         "title": "Cerchia Dei Bastioni(MI)",
         "description": "Cerchia Dei Bastioni(MI)\n veicolo fermo o in avaria dalle 01:22 del 15 agosto 2026  tra Svincolo Ancona Nord e Incrocio Viale Gabriele D Annunzio incrocio ZTL Via Gaetano Ronzoni  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 23:28:00 GMT"
@@ -12,6 +42,11 @@
     {
         "title": "A14 Pescara-Bari",
         "description": "A14 Pescara-Bari\n personale su strada dalle 01:26 del 15 agosto 2026  tra Svincolo Termoli-Molise e Svincolo Vasto Sud  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 23:28:00 GMT"
+    },
+    {
+        "title": "SS24 Del Monginevro",
+        "description": "SS24 Del Monginevro\n lavori di manutenzione  tra 641 m dopo Incrocio Cesana Torinese - SS23 Colle Di Sestriere e 2,52 km prima di Incrocio Claviere   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 23:28:00 GMT"
     },
     {
@@ -50,31 +85,6 @@
         "pubDate": "Fri, 14 Aug 2026 23:14:00 GMT"
     },
     {
-        "title": "SS18 Tirrena Inferiore",
-        "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 23:08:00 GMT"
-    },
-    {
-        "title": "SS7 Via Appia",
-        "description": "SS7 Via Appia\n incidente  a Incrocio Confine Province Di Matera E Taranto in direzione Incrocio Brindisi - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 23:02:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n incidente  a Svincolo Pizzo Calabro in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 23:00:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 00:49 del 15 agosto 2026  tra Svincolo Dalmine e Svincolo Capriate  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 22:51:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code causa traffico intenso dalle 00:48 del 15 agosto 2026  a Svincolo Riccione  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 22:49:00 GMT"
-    },
-    {
         "title": "A13 Bologna-Padova",
         "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 00:41 del 15 agosto 2026  tra Svincolo Monselice e Svincolo Boara  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 22:42:00 GMT"
@@ -88,11 +98,6 @@
         "title": "SS9 Via Emilia",
         "description": "SS9 Via Emilia\n traffico rallentato causa incidente  a Incrocio Castel Bolognese  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 22:30:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n perdita di carico dalle 00:19 del 15 agosto 2026  a Svincolo Bitonto in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 22:21:00 GMT"
     },
     {
         "title": "A24 Roma-Teramo",
@@ -493,10 +498,5 @@
         "title": "Latina Via Sallustio",
         "description": "Latina Via Sallustio\n strada chiusa causa manifestazione dalle 06:00 del 6 alle 02:00 del 7 settembre 2026  tra Via Appiano e Via Strabone   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 13:56:00 GMT"
-    },
-    {
-        "title": "Vicenza Contra  Busa San Michele",
-        "description": "Vicenza Contra  Busa San Michele\n processione dalle 18:00 alle 21:00 del 7 settembre 2026  a Contra  Pozzetto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 13:55:00 GMT"
     }
 ]
