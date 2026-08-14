@@ -1,13 +1,68 @@
 [
     {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 23:57 del 14 agosto 2026  tra Svincolo A10 - A06 al Km 44 e Svincolo Albisola  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 22:00:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 23:55 del 14 agosto 2026  tra Svincolo Cattolica e Svincolo Riccione  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 22:00:00 GMT"
+    },
+    {
+        "title": "SS24 Del Monginevro",
+        "description": "SS24 Del Monginevro\n frana  a Incrocio Claviere  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:58:00 GMT"
+    },
+    {
+        "title": "SS45 Di Val Di Trebbia",
+        "description": "SS45 Di Val Di Trebbia\n code causa incidente  a Incrocio Piacenza - Tangenziale Di Piacenza  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:56:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 23:49 del 14 agosto 2026  tra Svincolo Frosinone e Svincolo Ceprano  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:53:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Parma Ovest in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:51:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 23:44 del 14 agosto 2026  tra Svincolo Reggio Emilia e Allacciamento A22 Modena-Brennero  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:46:00 GMT"
+    },
+    {
+        "title": "SS650 Di Fondo Valle Trigno",
+        "description": "SS650 Di Fondo Valle Trigno\n senso unico alternato causa lavori dalle 07:30 del 26 agosto 2026 alle 17:00 del 30 ottobre 2026  tra Incrocio Bagnoli Del Trigno Est e Incrocio Trivento   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:46:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n pedoni dalle 23:43 del 14 agosto 2026  tra Svincolo Cormano e Barriera Di Milano Est   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:45:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada dalle 23:40 del 14 agosto 2026  tra Svincolo Vasto Sud e Svincolo Termoli-Molise  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:45:00 GMT"
+    },
+    {
+        "title": "SS650 Di Fondo Valle Trigno",
+        "description": "SS650 Di Fondo Valle Trigno\n senso unico alternato causa lavori dalle 07:30 del 31 agosto 2026 alle 18:30 del 11 settembre 2026  tra Incrocio Pescolanciano - SS651 Di Pescolanciano e Incrocio Bagnoli Del Trigno Ovest   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:44:00 GMT"
+    },
+    {
+        "title": "SS17 Dell appennino Abruzzese E Appulo-Sannitico",
+        "description": "SS17 Dell appennino Abruzzese E Appulo-Sannitico\n uscita chiusa, entrata chiusa causa lavori dalle 17:00 del 14 agosto 2026 alle 17:00 del 11 settembre 2026  a Incrocio Bojano - SS647 Fondo Valle Del Biferno in direzione  di marcia Bojano - Isernia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 14 Aug 2026 21:42:00 GMT"
+    },
+    {
         "title": "A26 Diramazione Predosa-Bettole",
         "description": "A26 Diramazione Predosa-Bettole\n personale su strada causa lavori dalle 23:39 del 14 agosto 2026  tra Allacciamento A7 Milano-Genova e Allacciamento A26 Ge Voltri-Gravellona T.  in direzione A26 Genova Voltri-Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 21:41:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicoli scortati per maltempo causa veicolo fermo o in avaria dalle 23:37 del 14 agosto 2026  tra Svincolo Celle Ligure e Svincolo Varazze  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 21:40:00 GMT"
     },
     {
         "title": "A1 Milano-Bologna",
@@ -30,11 +85,6 @@
         "pubDate": "Fri, 14 Aug 2026 21:34:00 GMT"
     },
     {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n veicoli scortati per maltempo causa veicolo fermo o in avaria dalle 23:31 del 14 agosto 2026  tra Barriera Di Milano Nord e Allacciamento Fiorenza-Allacciamento A4 (milano V.Le Certosa)  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 21:33:00 GMT"
-    },
-    {
         "title": "Laives - Leifers Via Kennedy - Kennedystraße",
         "description": "Laives - Leifers Via Kennedy - Kennedystraße\n senso unico alternato causa lavori dalle 23:00 del 14 agosto 2026 alle 23:59 del 5 settembre 2026  tra Via Crispi - Crispistraße e Via Innerhofer - Innerhoferstraße   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 21:31:00 GMT"
@@ -45,16 +95,6 @@
         "pubDate": "Fri, 14 Aug 2026 21:30:00 GMT"
     },
     {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n code dalle 23:24 del 14 agosto 2026  tra Svincolo Como Monte Olimpino e Svincolo Lago di Como  in direzione Svizzera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 21:26:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 23:18 del 14 agosto 2026  tra Svincolo Celle Ligure e Svincolo Varazze  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 21:24:00 GMT"
-    },
-    {
         "title": "A1 Milano-Bologna",
         "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 23:17 del 14 agosto 2026  tra Allacciamento Fiorenzuola e Svincolo Fidenza  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 21:23:00 GMT"
@@ -62,11 +102,6 @@
     {
         "title": "A55 Tangenziale Sud Di Torino",
         "description": "A55 Tangenziale Sud Di Torino\n veicolo in avaria  a Svincolo Vado  in direzione Allacciamento Interconnessione Tangenziale Nord  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 21:22:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 23:20 del 14 agosto 2026  tra Allacciamento A11 Firenze-Pisa Nord e Svincolo Firenze Scandicci  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 21:22:00 GMT"
     },
     {
@@ -80,11 +115,6 @@
         "pubDate": "Fri, 14 Aug 2026 21:18:00 GMT"
     },
     {
-        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
-        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 01:09 del 15 agosto 2026  a Svincolo Piazzale Lato Italiano in direzione Chamonix  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 21:16:00 GMT"
-    },
-    {
         "title": "A7 Milano-Genova",
         "description": "A7 Milano-Genova\n veicolo in avaria  tra Svincolo Binasco e Allacciamento Bereguardo - Allacciamento Raccordo Bereguardo-Pv  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 21:11:00 GMT"
@@ -92,11 +122,6 @@
     {
         "title": "A9 Lainate-Chiasso",
         "description": "A9 Lainate-Chiasso\n veicolo fermo o in avaria dalle 23:04 del 14 agosto 2026  tra Svincolo Fino Mornasco e Svincolo Lomazzo  in direzione Lainate  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 21:09:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 22:20 del 14 agosto 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 21:09:00 GMT"
     },
     {
@@ -108,11 +133,6 @@
         "title": "Bolzano Piè di Virgolo",
         "description": "Bolzano Piè di Virgolo\n strada chiusa causa lavori di costruzione di lunga durata dalle 23:00 del 14 agosto 2026 alle 23:59 del 31 gennaio 2028  tra SS12 e Via del Virgolo   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 20:57:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n lavori  tra 6,161 km dopo Svincolo Pisa Centro e 1,263 km prima di Svincolo Livorno - Raccordo Per Livorno  in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 20:43:00 GMT"
     },
     {
         "title": "SP18 Corso Italia",
@@ -145,19 +165,9 @@
         "pubDate": "Fri, 14 Aug 2026 19:54:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 21:39 del 14 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Bologna Fiera  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 19:51:00 GMT"
-    },
-    {
         "title": "Sesto Fiorentino Piazza Edmondo De Amicis",
         "description": "Sesto Fiorentino Piazza Edmondo De Amicis\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Carlo Pisacane  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 19:50:00 GMT"
-    },
-    {
-        "title": "SS24 Del Monginevro",
-        "description": "SS24 Del Monginevro\n traffico rallentato causa frana  a Incrocio Claviere  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 19:46:00 GMT"
     },
     {
         "title": "Vicenza Viale Massimo d Azeglio",
@@ -230,11 +240,6 @@
         "pubDate": "Fri, 14 Aug 2026 18:08:00 GMT"
     },
     {
-        "title": "A12 Roma-Civitavecchia",
-        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 20:04 del 14 agosto 2026  tra Svincolo Civitavecchia Sud e Svincolo S.Severa-S.Marinella  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 18:07:00 GMT"
-    },
-    {
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 20:01 del 14 agosto 2026  tra Svincolo Anagni - Fiuggi e Svincolo Ferentino  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 18:03:00 GMT"
@@ -303,11 +308,6 @@
         "title": "Sesto Fiorentino Via Vannino Vannini",
         "description": "Sesto Fiorentino Via Vannino Vannini\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 14 Aug 2026 16:08:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 17:24 del 14 agosto 2026  tra Svincolo Frosinone e Svincolo Ceprano  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 14 Aug 2026 16:00:00 GMT"
     },
     {
         "title": "Sesto Fiorentino Via Pietro Bernini",
