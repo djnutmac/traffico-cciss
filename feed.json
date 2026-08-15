@@ -1,5 +1,110 @@
 [
     {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicolo in avaria  a Svincolo Confine Di Stato in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:51:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 13:49 del 15 agosto 2026  tra Svincolo Canosa e Svincolo Andria-Barletta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:51:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 13:47 del 15 agosto 2026  tra Allacciamento A4 Torino-Trieste e Svincolo Vercelli Est  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:49:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n incidente  a Svincolo Carrara in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:49:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 13:46 del 15 agosto 2026  tra Svincolo Ortona e Svincolo Lanciano  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:48:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 13:46 del 15 agosto 2026  tra Svincolo Valdichiana e Svincolo Chiusi-Chianciano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:48:00 GMT"
+    },
+    {
+        "title": "Sesto Fiorentino Via Guglielmo Pepe",
+        "description": "Sesto Fiorentino Via Guglielmo Pepe\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Nino Bixio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:48:00 GMT"
+    },
+    {
+        "title": "A32 Torino-Bardonecchia",
+        "description": "A32 Torino-Bardonecchia\n code per 2 km causa traffico intenso  tra Svincolo Circonvallazione Oulx e Svincolo Bardonecchia  in direzione Bardonecchia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:48:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 13:43 del 15 agosto 2026  tra Svincolo Carnia e Svincolo Gemona-Osoppo  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:47:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 13:39 del 15 agosto 2026  tra Svincolo Pescara-Villanova e Svincolo Chieti-Pescara-Raccordo Ch-Pe  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:41:00 GMT"
+    },
+    {
+        "title": "Sesto Fiorentino Via Giotto",
+        "description": "Sesto Fiorentino Via Giotto\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Nino Bixio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:41:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 13:38 del 15 agosto 2026  tra Svincolo Grottammare e Svincolo Pedaso  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:40:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n code causa viabilità esterna non riceve dalle 13:31 del 15 agosto 2026  tra Svincolo Entrata Courmayeur Sud e Svincolo A05-SS26DIR  in direzione Monte Bianco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:37:00 GMT"
+    },
+    {
+        "title": "SS28 Del Colle Di Nava",
+        "description": "SS28 Del Colle Di Nava\n traffico in diminuzione causa traffico intenso  tra 1,288 km dopo Incrocio Cosio Di Arroscia B. e 3,935 km prima di Incrocio Acquetico   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:36:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n code a tratti per 3 km causa traffico intenso  tra 3,203 km dopo Area di servizio  Bordighera e Barriera Di Ventimiglia  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:35:00 GMT"
+    },
+    {
+        "title": "Sesto Fiorentino Via Cesare Abba",
+        "description": "Sesto Fiorentino Via Cesare Abba\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Nino Bixio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:34:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 14,52 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:34:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 16,1 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:34:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n code a tratti per 2 km causa lavori e traffico intenso  tra 1,64 km dopo Svincolo Berceto e 19,76 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:34:00 GMT"
+    },
+    {
+        "title": "R03 Raccordo Sicignano-Potenza",
+        "description": "R03 Raccordo Sicignano-Potenza\n traffico rallentato causa carichi dispersi  a Svincolo Picerno in direzione Raccordo Sicignano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:32:00 GMT"
+    },
+    {
+        "title": "SS586 Della Valle Dell aveto",
+        "description": "SS586 Della Valle Dell aveto\n traffico in diminuzione causa traffico intenso  tra 1,155 km dopo Incrocio Rezzoaglio - SS654 Di Val Nure e 9,356 km prima di Incrocio Passo Della Forcella   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 11:32:00 GMT"
+    },
+    {
         "title": "A26 Genova-Gravellona Toce",
         "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 13:27 del 15 agosto 2026  tra Svincolo Casale Monferrato Sud e Allacciamento A21 Torino-Piacenza-Brescia  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 11:31:00 GMT"
@@ -15,11 +120,6 @@
         "pubDate": "Sat, 15 Aug 2026 11:30:00 GMT"
     },
     {
-        "title": "SS586 Della Valle Dell aveto",
-        "description": "SS586 Della Valle Dell aveto\n traffico intenso  tra 1,155 km dopo Incrocio Rezzoaglio - SS654 Di Val Nure e 9,356 km prima di Incrocio Passo Della Forcella   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:30:00 GMT"
-    },
-    {
         "title": "A24 Roma-Teramo",
         "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 13:04 del 15 agosto 2026  tra Svincolo Carsoli-Oricola e Svincolo Tagliacozzo  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 11:29:00 GMT"
@@ -30,24 +130,9 @@
         "pubDate": "Sat, 15 Aug 2026 11:29:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n traffico rallentato causa traffico intenso dalle 13:20 del 15 agosto 2026  tra Svincolo Incisa - Reggello e Svincolo Firenze Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:29:00 GMT"
-    },
-    {
         "title": "A23 Palmanova-Tarvisio",
         "description": "A23 Palmanova-Tarvisio\n code causa incidente dalle 13:26 del 15 agosto 2026  tra Svincolo Udine Nord e Svincolo Gemona-Osoppo  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 11:29:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n traffico rallentato causa incidente dalle 13:25 del 15 agosto 2026  tra Svincolo Montecatini e Svincolo Pistoia  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:28:00 GMT"
-    },
-    {
-        "title": "A32 Torino-Bardonecchia",
-        "description": "A32 Torino-Bardonecchia\n code per 1 km causa traffico intenso  tra Svincolo Circonvallazione Oulx e Svincolo Bardonecchia  in direzione Bardonecchia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:28:00 GMT"
     },
     {
         "title": "A24 Roma-Teramo",
@@ -63,11 +148,6 @@
         "title": "A10 Genova-Ventimiglia",
         "description": "A10 Genova-Ventimiglia\n incidente dalle 13:19 del 15 agosto 2026  tra Svincolo Arenzano e Allacciamento A26 Ge Voltri-Gravellona T.  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 11:26:00 GMT"
-    },
-    {
-        "title": "A4 Venezia-Trieste",
-        "description": "A4 Venezia-Trieste\n code causa traffico intenso  tra 6,6 km dopo Svincolo Palmanova e Allacciamento Villesse-Allacciamento Raccordo Villesse-Gorizia  in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:25:00 GMT"
     },
     {
         "title": "A2 Autostrada del Mediterraneo",
@@ -91,28 +171,8 @@
     },
     {
         "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n pedoni dalle 13:19 del 15 agosto 2026  tra Svincolo Altedo e Svincolo Bologna Interporto  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:21:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
         "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 13:19 del 15 agosto 2026  tra Svincolo Altedo e Svincolo Bologna Interporto  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 11:21:00 GMT"
-    },
-    {
-        "title": "SS11Dir Raccordo Falchera-SS11(diram. Per Mi)",
-        "description": "SS11Dir Raccordo Falchera-SS11(diram. Per Mi)\n veicolo in avaria  a Allacciamento A4 Torino-Trieste in direzione Raccordo Falchera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:20:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n code a tratti per 1 km causa incidente  tra 4,411 km prima di Svincolo Massa e 925 m dopo Svincolo Carrara  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:19:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n incidente  a Svincolo Carrara in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:19:00 GMT"
     },
     {
         "title": "A15 Parma-La Spezia",
@@ -125,24 +185,9 @@
         "pubDate": "Sat, 15 Aug 2026 11:19:00 GMT"
     },
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n traffico rallentato&nbsp;con&nbsp;code a tratti causa traffico intenso  tra 4,26 km prima di Svincolo Confine Di Stato e Barriera Di Ventimiglia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:19:00 GMT"
-    },
-    {
-        "title": "SS33 Del Sempione",
-        "description": "SS33 Del Sempione\n traffico rallentato  a Incrocio Iselle  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:18:00 GMT"
-    },
-    {
         "title": "Sesto Fiorentino Via Nino Bixio",
         "description": "Sesto Fiorentino Via Nino Bixio\n strada chiusa causa corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  tra Via delle Porcellane e Via Carlo Cattaneo   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 11:15:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n traffico rallentato causa traffico intenso dalle 13:08 del 15 agosto 2026  tra Svincolo Udine Nord e Svincolo Gemona-Osoppo  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:13:00 GMT"
     },
     {
         "title": "Roma Via del Mare",
@@ -175,16 +220,6 @@
         "pubDate": "Sat, 15 Aug 2026 11:04:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 13:01 del 15 agosto 2026  tra Svincolo Collesalvetti\/Sgc Fi-Pi-Li e Svincolo Rosignano Marittimo  in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:04:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 13:03 del 15 agosto 2026  a Svincolo Pistoia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:04:00 GMT"
-    },
-    {
         "title": "Sesto Fiorentino Via Nino Bixio",
         "description": "Sesto Fiorentino Via Nino Bixio\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via delle Porcellane  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 11:04:00 GMT"
@@ -198,11 +233,6 @@
         "title": "A12 Roma-Civitavecchia",
         "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 12:49 del 15 agosto 2026  tra Svincolo Maccarese-Fregene e Allacciamento A91 Roma-Fiumicino  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 11:02:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 12:58 del 15 agosto 2026  tra Svincolo Trezzo e Svincolo Cavenago  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 11:00:00 GMT"
     },
     {
         "title": "Sesto Fiorentino Via L. della Robbia",
@@ -260,24 +290,9 @@
         "pubDate": "Sat, 15 Aug 2026 10:49:00 GMT"
     },
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code a tratti per 2 km causa traffico intenso  tra 4,203 km dopo Area di servizio  Bordighera e Barriera Di Ventimiglia  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:44:00 GMT"
-    },
-    {
         "title": "SS64 Porrettana",
         "description": "SS64 Porrettana\n incidente  a Incrocio Montalbano in direzione Incrocio Ferrara  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 10:44:00 GMT"
-    },
-    {
-        "title": "A1 Diramazione Roma Nord",
-        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 12:41 del 15 agosto 2026  tra Svincolo Castelnuovo di Porto e Svincolo Settebagni  in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:43:00 GMT"
-    },
-    {
-        "title": "A14 Bari-Taranto",
-        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 12:40 del 15 agosto 2026  tra Svincolo Bari Sud e Svincolo Acquaviva Delle Fonti  in direzione Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:42:00 GMT"
     },
     {
         "title": "Sesto Fiorentino Via della Cristallina",
@@ -335,29 +350,9 @@
         "pubDate": "Sat, 15 Aug 2026 10:33:00 GMT"
     },
     {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 12:28 del 15 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:32:00 GMT"
-    },
-    {
         "title": "Sesto Fiorentino Via di Fontemezzina",
         "description": "Sesto Fiorentino Via di Fontemezzina\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via di Doccia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 10:30:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 14,52 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:28:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 16,1 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:28:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n code a tratti per 3 km causa lavori e incidente  tra 640 m dopo Svincolo Berceto e 19,76 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:28:00 GMT"
     },
     {
         "title": "Sesto Fiorentino Via dei Molini",
@@ -370,19 +365,9 @@
         "pubDate": "Sat, 15 Aug 2026 10:25:00 GMT"
     },
     {
-        "title": "A12 Roma-Civitavecchia",
-        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 12:18 del 15 agosto 2026  tra Allacciamento A91 Roma-Fiumicino e Svincolo Maccarese-Fregene  in direzione S.s. 1 Aurelia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:22:00 GMT"
-    },
-    {
         "title": "Sesto Fiorentino Via di Doccia",
         "description": "Sesto Fiorentino Via di Doccia\n strada chiusa causa corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  tra Via dei Chiavacci e Via della Fabbrica   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 10:22:00 GMT"
-    },
-    {
-        "title": "SS28 Del Colle Di Nava",
-        "description": "SS28 Del Colle Di Nava\n traffico rallentato causa traffico intenso  tra 1,288 km dopo Incrocio Cosio Di Arroscia B. e 3,935 km prima di Incrocio Acquetico   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:18:00 GMT"
     },
     {
         "title": "Sesto Fiorentino Via dei Molini",
@@ -393,11 +378,6 @@
         "title": "Sesto Fiorentino Via Giovan Battista Pergolesi",
         "description": "Sesto Fiorentino Via Giovan Battista Pergolesi\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via dei Chiavacci  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 10:13:00 GMT"
-    },
-    {
-        "title": "SS309 Romea",
-        "description": "SS309 Romea\n traffico rallentato  tra Incrocio Ravenna - SS309Diramazione Romea e 1,525 km prima di Incrocio Porto Tolle   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 10:12:00 GMT"
     },
     {
         "title": "A15 Parma-La Spezia",
@@ -490,13 +470,33 @@
         "pubDate": "Sat, 15 Aug 2026 09:24:00 GMT"
     },
     {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n traffico rallentato causa traffico intenso dalle 10:03 del 15 agosto 2026  tra Svincolo Gemona-Osoppo e Svincolo Carnia  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 09:23:00 GMT"
-    },
-    {
         "title": "Sesto Fiorentino Via Padre Egidio Bortolotti",
         "description": "Sesto Fiorentino Via Padre Egidio Bortolotti\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via del Ghirlandaio  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 09:23:00 GMT"
+    },
+    {
+        "title": "Sesto Fiorentino Via del Ghirlandaio",
+        "description": "Sesto Fiorentino Via del Ghirlandaio\n strada chiusa causa corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  tra Via Lino Biancalani e Via dei Capponi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 09:18:00 GMT"
+    },
+    {
+        "title": "Sesto Fiorentino Via Venezia",
+        "description": "Sesto Fiorentino Via Venezia\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Lino Biancalani  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 09:15:00 GMT"
+    },
+    {
+        "title": "Sesto Fiorentino Via Messina",
+        "description": "Sesto Fiorentino Via Messina\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Lino Biancalani  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 09:10:00 GMT"
+    },
+    {
+        "title": "Sesto Fiorentino Via Genova",
+        "description": "Sesto Fiorentino Via Genova\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Lino Biancalani  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 09:08:00 GMT"
+    },
+    {
+        "title": "Sesto Fiorentino Via Fabio Pasqui",
+        "description": "Sesto Fiorentino Via Fabio Pasqui\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Lino Biancalani  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 09:05:00 GMT"
     }
 ]
