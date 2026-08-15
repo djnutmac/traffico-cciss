@@ -1,23 +1,43 @@
 [
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 22:40 del 15 agosto 2026  tra Svincolo Alessandria Sud e Allacciamento Diram. Predosa-Bettole  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 20:51:00 GMT"
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n pedoni dalle 23:07 del 15 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 21:08:00 GMT"
     },
     {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 22:48 del 15 agosto 2026  tra Svincolo Pedaso e Svincolo Fermo-Porto S.Giorgio  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 20:49:00 GMT"
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 21:02:00 GMT"
     },
     {
-        "title": "T4-TRF Fre Traforo Del Frejus",
-        "description": "T4-TRF Fre Traforo Del Frejus\n galleria chiusa causa verifiche tecniche dalle 22:45 del 15 agosto 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 20:49:00 GMT"
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 21:02:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 12,95 km prima di Svincolo Pontremoli e 7,3 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 21:02:00 GMT"
     },
     {
         "title": "A25 Torano-Pescara",
         "description": "A25 Torano-Pescara\n code causa incidente dalle 22:32 del 15 agosto 2026  tra Svincolo Bussi-Popoli e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 20:47:00 GMT"
+        "pubDate": "Sat, 15 Aug 2026 20:57:00 GMT"
+    },
+    {
+        "title": "A24 Tratto Urbano",
+        "description": "A24 Tratto Urbano\n veicolo fermo o in avaria dalle 22:54 del 15 agosto 2026  a Svincolo Via Fiorentini in direzione da G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 20:55:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n incidente dalle 22:22 del 15 agosto 2026  tra Svincolo Bussi-Popoli e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 20:54:00 GMT"
+    },
+    {
+        "title": "T4-TRF Fre Traforo Del Frejus",
+        "description": "T4-TRF Fre Traforo Del Frejus\n galleria chiusa causa verifiche tecniche dalle 23:00 alle 23:45 del 15 agosto 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 20:53:00 GMT"
     },
     {
         "title": "A16 Napoli-Canosa",
@@ -40,11 +60,6 @@
         "pubDate": "Sat, 15 Aug 2026 20:40:00 GMT"
     },
     {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n incidente dalle 22:22 del 15 agosto 2026  tra Svincolo Bussi-Popoli e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 20:38:00 GMT"
-    },
-    {
         "title": "A27 Mestre-Belluno",
         "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 22:35 del 15 agosto 2026  tra Barriera Di Belluno e Svincolo Fadalto-Lago Di S.Croce  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 20:37:00 GMT"
@@ -57,11 +72,6 @@
     {
         "title": "A5 Torino-Courmayeur",
         "description": "A5 Torino-Courmayeur\n lavori  tra 5,41 km dopo Svincolo Pont Saint Martin e 4,78 km prima di Svincolo Verres  in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 20:35:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n temporale  tra Svincolo Verres e Svincolo Aosta Gran S. Bernardo   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 20:35:00 GMT"
     },
     {
@@ -118,11 +128,6 @@
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:03 del 15 alle 06:00 del 16 agosto 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 20:05:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 21:50 del 15 agosto 2026  tra Svincolo Pontecorvo e Svincolo Cassino  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 19:51:00 GMT"
     },
     {
         "title": "A25 Torano-Pescara",
@@ -293,16 +298,6 @@
         "title": "Sesto Fiorentino Viale XX Settembre",
         "description": "Sesto Fiorentino Viale XX Settembre\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Ugo Bassi  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 13:27:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 16,1 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 13:15:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 14,52 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 13:15:00 GMT"
     },
     {
         "title": "Sesto Fiorentino Viale I Maggio",
@@ -498,5 +493,10 @@
         "title": "Sesto Fiorentino Via dei Redini",
         "description": "Sesto Fiorentino Via dei Redini\n strada chiusa causa corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  tra Via dei Capponi e Via A.Vivaldi   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 09:48:00 GMT"
+    },
+    {
+        "title": "Sesto Fiorentino Via di Valiversi",
+        "description": "Sesto Fiorentino Via di Valiversi\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via dei Capponi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 09:43:00 GMT"
     }
 ]
