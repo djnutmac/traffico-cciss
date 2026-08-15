@@ -1,8 +1,48 @@
 [
     {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 00:45 del 16 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 22:47:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n perdita di carico dalle 00:45 del 16 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 22:46:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 00:32 del 16 agosto 2026  tra Allacciamento A14 Bologna-Taranto e Svincolo Cerignola  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 22:34:00 GMT"
+    },
+    {
+        "title": "SS114 Orientale Sicula",
+        "description": "SS114 Orientale Sicula\n veicolo in avaria  a Zona Industriale in direzione Incrocio Messina  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 22:32:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa rimozione ostacolo dalle 00:29 del 16 agosto 2026  a Svincolo Vasto Nord-Casalbordino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 22:31:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa rimozione ostacolo dalle 00:30 del 16 agosto 2026  a Svincolo Vasto Nord-Casalbordino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 22:31:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 00:29 del 16 agosto 2026  tra Svincolo Benevento - Raccordo Di Benevento e Svincolo Grottaminarda  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 22:31:00 GMT"
+    },
+    {
         "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 00:22 del 16 agosto 2026  tra Allacciamento Diram. Predosa-Bettole e Svincolo Ovada  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 22:29:00 GMT"
+        "description": "A26 Genova-Gravellona Toce\n incidente dalle 00:28 del 16 agosto 2026  tra Allacciamento Diram. Predosa-Bettole e Svincolo Ovada  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 22:30:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n perdita di carico dalle 00:29 del 16 agosto 2026  a Svincolo Vasto Nord-Casalbordino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 15 Aug 2026 22:30:00 GMT"
     },
     {
         "title": "A1 Roma-Napoli",
@@ -26,18 +66,8 @@
     },
     {
         "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 23:59 del 15 agosto 2026  a Svincolo Varazze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 22:16:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
         "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 23:36 del 15 agosto 2026  a Svincolo Genova Voltri  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 22:15:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Parma Ovest in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 21:35:00 GMT"
     },
     {
         "title": "A1 Roma-Napoli",
@@ -92,11 +122,6 @@
     {
         "title": "Sesto Fiorentino Via Carlo Cafiero",
         "description": "Sesto Fiorentino Via Carlo Cafiero\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Francesco Baracca  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 17:26:00 GMT"
-    },
-    {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n traffico rallentato causa incidente  a Incrocio Civate in direzione Incrocio Monza - SS527 Bustese  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 17:26:00 GMT"
     },
     {
@@ -473,30 +498,5 @@
         "title": "Sesto Fiorentino Via Genova",
         "description": "Sesto Fiorentino Via Genova\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Lino Biancalani  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 15 Aug 2026 09:08:00 GMT"
-    },
-    {
-        "title": "Sesto Fiorentino Via Fabio Pasqui",
-        "description": "Sesto Fiorentino Via Fabio Pasqui\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Lino Biancalani  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 09:05:00 GMT"
-    },
-    {
-        "title": "Sesto Fiorentino Via Fabio Filzi",
-        "description": "Sesto Fiorentino Via Fabio Filzi\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via Lino Biancalani  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 09:00:00 GMT"
-    },
-    {
-        "title": "Sesto Fiorentino Via Lino Biancalani",
-        "description": "Sesto Fiorentino Via Lino Biancalani\n strada chiusa causa corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  tra Via del Cuoco e Via del Ghirlandaio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 08:58:00 GMT"
-    },
-    {
-        "title": "Sesto Fiorentino Via delle Torri",
-        "description": "Sesto Fiorentino Via delle Torri\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via del Cuoco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 08:56:00 GMT"
-    },
-    {
-        "title": "Sesto Fiorentino Via dell Olmo",
-        "description": "Sesto Fiorentino Via dell Olmo\n corsa podistica dalle 20:00 alle 21:30 del 31 agosto 2026  a Via del Cuoco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 15 Aug 2026 08:53:00 GMT"
     }
 ]
