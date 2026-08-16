@@ -1,8 +1,38 @@
 [
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 00:05 del 17 agosto 2026  tra Svincolo Capriate e Svincolo Trezzo  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:08:00 GMT"
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 00:34 del 17 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:36:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n vento forte dalle 00:33 del 17 agosto 2026  tra Svincolo Parma e Svincolo Modena Nord   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:35:00 GMT"
+    },
+    {
+        "title": "SS120 Dell etna E Delle Madonie",
+        "description": "SS120 Dell etna E Delle Madonie\n traffico bloccato causa incidente  a Incrocio Randazzo - SS284 Occidentale Etnea in direzione Incrocio Fiumefreddo - SS114 Orientale Sicula  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:34:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 00:24 del 17 agosto 2026  tra Svincolo Modena Nord e Svincolo Modena Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:26:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:20 del 17 agosto 2026  tra Svincolo Canosa e Svincolo Andria-Barletta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:22:00 GMT"
+    },
+    {
+        "title": "A21 Torino-Brescia",
+        "description": "A21 Torino-Brescia\n pioggia  tra Svincolo Caorso e Allacciamento A4 Torino-Trieste   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:21:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n veicolo in avaria  a Svincolo Ivrea in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:11:00 GMT"
     },
     {
         "title": "A15 Parma-La Spezia",
@@ -35,11 +65,6 @@
         "pubDate": "Sun, 16 Aug 2026 21:58:00 GMT"
     },
     {
-        "title": "SS120 Dell etna E Delle Madonie",
-        "description": "SS120 Dell etna E Delle Madonie\n traffico rallentato causa incidente  a Incrocio Randazzo - SS284 Occidentale Etnea in direzione Incrocio Fiumefreddo - SS114 Orientale Sicula  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 21:56:00 GMT"
-    },
-    {
         "title": "A5 Torino-Courmayeur",
         "description": "A5 Torino-Courmayeur\n pioggia dalle 23:53 del 16 agosto 2026  tra Svincolo Entrata Courmayeur Sud e Svincolo A05-SS26DIR   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 21:55:00 GMT"
@@ -63,11 +88,6 @@
         "title": "A12 Diramazione Per Viareggio",
         "description": "A12 Diramazione Per Viareggio\n veicolo in avaria  a Svincolo A12-A11 in direzione Svincolo A12-A11  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 21:33:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 23:20 del 16 agosto 2026  tra Svincolo Val Vomano e Svincolo Basciano-Villa Vomano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 21:23:00 GMT"
     },
     {
         "title": "A7 Milano-Genova",
@@ -100,11 +120,6 @@
         "pubDate": "Sun, 16 Aug 2026 20:58:00 GMT"
     },
     {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 22:51 del 16 agosto 2026  tra Svincolo Vicovaro-Mandela e Svincolo Castel Madama  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 20:53:00 GMT"
-    },
-    {
         "title": "A32 Torino-Bardonecchia",
         "description": "A32 Torino-Bardonecchia\n vento forte  tra Svincolo Rivoli-Rosta e Svincolo Avigliana Ovest   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 20:52:00 GMT"
@@ -128,11 +143,6 @@
         "title": "TG-NO Tangenziale Di Novara",
         "description": "TG-NO Tangenziale Di Novara\n non funzionante impianto di illuminazione tunnel  a Svincolo SS11 Padana Superiore-Novara-Trecate  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 20:16:00 GMT"
-    },
-    {
-        "title": "SS24 Del Monginevro",
-        "description": "SS24 Del Monginevro\n traffico rallentato causa incidente  a Incrocio Cesana Torinese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 20:10:00 GMT"
     },
     {
         "title": "A30 Caserta-Salerno",
@@ -488,15 +498,5 @@
         "title": "Prato Via Ferdinando Paolieri",
         "description": "Prato Via Ferdinando Paolieri\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Enrico Bensa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 08:36:00 GMT"
-    },
-    {
-        "title": "Prato Ponte Francesco di Marco Datini",
-        "description": "Prato Ponte Francesco di Marco Datini\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Mozza sul Gorone  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 08:32:00 GMT"
-    },
-    {
-        "title": "Prato Ponte Mercatale",
-        "description": "Prato Ponte Mercatale\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Sant Antonio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 08:29:00 GMT"
     }
 ]
