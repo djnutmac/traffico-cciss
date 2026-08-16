@@ -1,8 +1,28 @@
 [
     {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n veicolo fermo o in avaria dalle 23:15 del 16 agosto 2026  tra Svincolo Aosta Ovest-Aymavilles e Svincolo Morgex (entrata Direzione Sud)  in direzione Monte Bianco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 21:26:00 GMT"
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n temporale  tra Svincolo Parma Ovest e 6,6 km prima di Svincolo Fornovo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 21:49:00 GMT"
+    },
+    {
+        "title": "SS340 Regina",
+        "description": "SS340 Regina\n traffico rallentato causa materiali dispersi  a Incrocio Brienno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 21:48:00 GMT"
+    },
+    {
+        "title": "SS67 Tosco Romagnola",
+        "description": "SS67 Tosco Romagnola\n allagamento  a Incrocio S.Ruffillo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 21:34:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 23:28 del 16 agosto 2026  a Svincolo Agrate in direzione da Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 21:33:00 GMT"
+    },
+    {
+        "title": "A12 Diramazione Per Viareggio",
+        "description": "A12 Diramazione Per Viareggio\n veicolo in avaria  a Svincolo A12-A11 in direzione Svincolo A12-A11  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 21:33:00 GMT"
     },
     {
         "title": "A24 Roma-Teramo",
@@ -18,16 +38,6 @@
         "title": "A14 Bologna-Ancona",
         "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 23:15 del 16 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 21:19:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo in avaria  a Allacciamento A11 Firenze-Pisa Nord in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 21:17:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicolo in avaria in uscita  a Svincolo Finale Ligure in direzione In Uscita  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 21:15:00 GMT"
     },
     {
         "title": "A7 Milano-Genova",
@@ -68,11 +78,6 @@
         "title": "A32 Torino-Bardonecchia",
         "description": "A32 Torino-Bardonecchia\n vento forte  tra Svincolo Rivoli-Rosta e Svincolo Avigliana Ovest   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 20:52:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n veicolo in avaria  tra Barriera Di Terrazzano e Allacciamento A8 Milano-Varese  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 20:51:00 GMT"
     },
     {
         "title": "A27 Mestre-Belluno",
@@ -130,11 +135,6 @@
         "pubDate": "Sun, 16 Aug 2026 19:59:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n pedoni dalle 21:55 del 16 agosto 2026  tra Svincolo Caserta Sud e Svincolo Asse Supporto  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 19:57:00 GMT"
-    },
-    {
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 21:42 del 16 agosto 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 19:49:00 GMT"
@@ -153,11 +153,6 @@
         "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
         "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n personale su strada causa lavori dalle 21:43 del 16 agosto 2026  tra Svincolo Tirrenia e Svincolo Darsena - Toscana Est  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 19:45:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 21:38 del 16 agosto 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 19:40:00 GMT"
     },
     {
         "title": "A51 Tangenziale Est Di Milano",
@@ -188,11 +183,6 @@
         "title": "A50 Tangenziale Ovest Di Milano",
         "description": "A50 Tangenziale Ovest Di Milano\n pioggia  tra Allacciamento A8 Milano-Varese e Allacciamento A1 Milano-Napoli   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 19:19:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 21:13 del 16 agosto 2026  tra Svincolo Vicovaro-Mandela e Svincolo Castel Madama  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 19:17:00 GMT"
     },
     {
         "title": "A19 Palermo-Catania",
@@ -498,5 +488,15 @@
         "title": "Prato Via Dino Campana",
         "description": "Prato Via Dino Campana\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Edmondo De Amicis  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 08:40:00 GMT"
+    },
+    {
+        "title": "Prato Via Edmondo De Amicis",
+        "description": "Prato Via Edmondo De Amicis\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Enrico Bensa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 08:38:00 GMT"
+    },
+    {
+        "title": "Prato Via Ferdinando Paolieri",
+        "description": "Prato Via Ferdinando Paolieri\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Enrico Bensa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 08:36:00 GMT"
     }
 ]
