@@ -1,5 +1,40 @@
 [
     {
+        "title": "A1 Diramazione Roma Nord",
+        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 01:46 del 17 agosto 2026  a Svincolo Castelnuovo di Porto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:48:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n code causa incidente dalle 01:44 del 17 agosto 2026  tra Svincolo Piacenza Nord e Svincolo Casalpusterlengo - Ospedaletto Lodigiano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:48:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n incidente dalle 01:28 del 17 agosto 2026  tra Svincolo Piacenza Nord e Svincolo Casalpusterlengo - Ospedaletto Lodigiano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:46:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n perdita di carico dalle 01:43 del 17 agosto 2026  tra Svincolo Modena Nord e Allacciamento A22 Modena-Brennero  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:46:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n veicolo in avaria  a Svincolo Chatillon-Saint Vincent in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:37:00 GMT"
+    },
+    {
+        "title": "A55 Tangenziale Nord Di Torino",
+        "description": "A55 Tangenziale Nord Di Torino\n chiusura nodo  a Svincolo Regina Margherita in direzione Torino Nord - A5 To-Aosta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:35:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 01:26 del 17 agosto 2026  tra Svincolo Pescara N. Citta  S.Angelo e Svincolo Atri-Pineto  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:27:00 GMT"
+    },
+    {
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 01:21 del 17 agosto 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 23:25:00 GMT"
@@ -45,16 +80,6 @@
         "pubDate": "Sun, 16 Aug 2026 22:58:00 GMT"
     },
     {
-        "title": "A1 Diramazione Roma Nord",
-        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 00:53 del 17 agosto 2026  a Svincolo Castelnuovo di Porto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:57:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 00:52 del 17 agosto 2026  tra Svincolo Albisola e Svincolo Celle Ligure  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:57:00 GMT"
-    },
-    {
         "title": "A1 Milano-Bologna",
         "description": "A1 Milano-Bologna\n vento forte dalle 00:33 del 17 agosto 2026  tra Svincolo Parma e Svincolo Modena Sud   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 22:49:00 GMT"
@@ -68,11 +93,6 @@
         "title": "A14 Bologna-Ancona",
         "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 00:34 del 17 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 22:36:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:20 del 17 agosto 2026  tra Svincolo Canosa e Svincolo Andria-Barletta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:22:00 GMT"
     },
     {
         "title": "A21 Torino-Brescia",
@@ -93,11 +113,6 @@
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 22:05:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 23:57 del 16 agosto 2026  tra Svincolo Riccione e Svincolo Rimini Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:03:00 GMT"
     },
     {
         "title": "A5 Torino-Courmayeur",
@@ -483,20 +498,5 @@
         "title": "Prato Piazza San Marco",
         "description": "Prato Piazza San Marco\n transito temporaneamente sospeso causa corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  tra Via Giuseppe Mazzini e Piazzale Porta Fiorentina   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 08:19:00 GMT"
-    },
-    {
-        "title": "Prato Via San Silvestro",
-        "description": "Prato Via San Silvestro\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Piazza San Marco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 08:17:00 GMT"
-    },
-    {
-        "title": "Prato Via del Carmine",
-        "description": "Prato Via del Carmine\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 08:13:00 GMT"
-    },
-    {
-        "title": "Prato Via San Giovanni",
-        "description": "Prato Via San Giovanni\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 08:10:00 GMT"
     }
 ]
