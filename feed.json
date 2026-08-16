@@ -1,23 +1,28 @@
 [
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 00:34 del 17 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:36:00 GMT"
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 00:52 del 17 agosto 2026  tra Svincolo Albisola e Svincolo Celle Ligure  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:55:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Nord",
+        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 00:53 del 17 agosto 2026  a Svincolo Castelnuovo di Porto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:55:00 GMT"
     },
     {
         "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n vento forte dalle 00:33 del 17 agosto 2026  tra Svincolo Parma e Svincolo Modena Nord   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:35:00 GMT"
+        "description": "A1 Milano-Bologna\n vento forte dalle 00:33 del 17 agosto 2026  tra Svincolo Parma e Svincolo Modena Sud   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:49:00 GMT"
     },
     {
         "title": "SS120 Dell etna E Delle Madonie",
-        "description": "SS120 Dell etna E Delle Madonie\n traffico bloccato causa incidente  a Incrocio Randazzo - SS284 Occidentale Etnea in direzione Incrocio Fiumefreddo - SS114 Orientale Sicula  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:34:00 GMT"
+        "description": "SS120 Dell etna E Delle Madonie\n traffico bloccato causa incidente  a Incrocio Randazzo - SS284 Occidentale Etnea  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:38:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 00:24 del 17 agosto 2026  tra Svincolo Modena Nord e Svincolo Modena Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:26:00 GMT"
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 00:34 del 17 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 22:36:00 GMT"
     },
     {
         "title": "A14 Pescara-Bari",
@@ -42,11 +47,6 @@
     {
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:05:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Berceto in direzione Parma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 22:05:00 GMT"
     },
     {
@@ -128,11 +128,6 @@
         "title": "A5 Torino-Courmayeur",
         "description": "A5 Torino-Courmayeur\n lavori  tra 5,41 km dopo Svincolo Pont Saint Martin e 4,78 km prima di Svincolo Verres  in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 20:49:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n perdita di carico causa perdita accidentale dalle 22:17 del 16 agosto 2026  a Svincolo S. Giuliano in direzione da Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 20:25:00 GMT"
     },
     {
         "title": "SS36 Del Lago Di Como E Dello Spluga",
@@ -498,5 +493,10 @@
         "title": "Prato Via Ferdinando Paolieri",
         "description": "Prato Via Ferdinando Paolieri\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Enrico Bensa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 08:36:00 GMT"
+    },
+    {
+        "title": "Prato Ponte Francesco di Marco Datini",
+        "description": "Prato Ponte Francesco di Marco Datini\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Mozza sul Gorone  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 08:32:00 GMT"
     }
 ]
