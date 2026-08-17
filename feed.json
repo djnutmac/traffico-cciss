@@ -1,8 +1,53 @@
 [
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 03:50 del 17 agosto 2026  tra Allacciamento Diramazione Roma Sud e Allacciamento A24 Roma-Teramo  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 01:57:00 GMT"
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n traffico rallentato causa incidente dalle 04:58 del 17 agosto 2026  tra Allacciamento A22 Modena-Brennero e Svincolo Modena Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:04:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 05:01 del 17 agosto 2026  tra Svincolo Carsoli-Oricola e Svincolo Vicovaro-Mandela  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:04:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n incidente dalle 04:33 del 17 agosto 2026  tra Allacciamento A22 Modena-Brennero e Svincolo Modena Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:04:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n lavori  tra 300 m dopo Svincolo Carru  e 3,1 km prima di Svincolo Mondovi   in direzione Savona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:03:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 04:55 del 17 agosto 2026  tra Svincolo Cerveteri-Ladispoli e Svincolo Torrimpietra  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 02:59:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Allacciamento A12 Genova-Rosignano in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 02:54:00 GMT"
+    },
+    {
+        "title": "SS120 Dell etna E Delle Madonie",
+        "description": "SS120 Dell etna E Delle Madonie\n incidente  a Incrocio Randazzo - SS284 Occidentale Etnea  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 02:46:00 GMT"
+    },
+    {
+        "title": "A2 Autostrada del Mediterraneo",
+        "description": "A2 Autostrada del Mediterraneo\n veicolo in fiamme  tra 80 m dopo Svincolo Lamezia Terme e 18,082 km prima di Svincolo Pizzo Calabro   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 02:42:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 04:21 del 17 agosto 2026  tra Svincolo Orvieto e Svincolo Attigliano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 02:37:00 GMT"
+    },
+    {
+        "title": "T4-TRF Fre Traforo Del Frejus",
+        "description": "T4-TRF Fre Traforo Del Frejus\n chiusura notturna, galleria chiusa causa rimozione del cantiere dalle 04:31 del 17 alle 05:15 del 22 agosto 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 02:30:00 GMT"
     },
     {
         "title": "A6 Torino-Savona",
@@ -10,44 +55,14 @@
         "pubDate": "Mon, 17 Aug 2026 01:47:00 GMT"
     },
     {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 03:44 del 17 agosto 2026  tra Svincolo Pescina e Svincolo Celano  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 01:45:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 03:29 del 17 agosto 2026  tra Svincolo Termoli-Molise e Svincolo Vasto Sud  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 01:32:00 GMT"
-    },
-    {
         "title": "SS294 Della Val Di Scalve",
         "description": "SS294 Della Val Di Scalve\n traffico rallentato causa materiali dispersi  a Incrocio Dezzo Di Scalve  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Mon, 17 Aug 2026 01:14:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 03:09 del 17 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 01:12:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 03:08 del 17 agosto 2026  tra Svincolo Gemona-Osoppo e Svincolo Udine Nord  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 01:10:00 GMT"
-    },
-    {
         "title": "SS28 Del Colle Di Nava",
         "description": "SS28 Del Colle Di Nava\n corsia chiusa  tra 1,288 km dopo Incrocio Cosio Di Arroscia B. e 3,935 km prima di Incrocio Acquetico   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Mon, 17 Aug 2026 01:10:00 GMT"
-    },
-    {
-        "title": "SS131 Carlo Felice",
-        "description": "SS131 Carlo Felice\n traffico rallentato causa incidente  a Incrocio Cabu Abbas - SS131 Bis Carlo Felice in direzione Incrocio Porto Torres  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 01:08:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 02:40 del 17 agosto 2026  tra Svincolo San Severo e Svincolo Foggia  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 00:42:00 GMT"
     },
     {
         "title": "R03 Raccordo Sicignano-Potenza",
@@ -63,11 +78,6 @@
         "title": "SS36 Del Lago Di Como E Dello Spluga",
         "description": "SS36 Del Lago Di Como E Dello Spluga\n traffico rallentato causa materiali dispersi  a Incrocio Nibionno - SS342 Briantea in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 22:58:00 GMT"
-    },
-    {
-        "title": "SS120 Dell etna E Delle Madonie",
-        "description": "SS120 Dell etna E Delle Madonie\n traffico bloccato causa incidente  a Incrocio Randazzo - SS284 Occidentale Etnea  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:38:00 GMT"
     },
     {
         "title": "A15 Parma-La Spezia",
@@ -98,11 +108,6 @@
         "title": "SS20 Del Colle Di Tenda E Di Valle Roja",
         "description": "SS20 Del Colle Di Tenda E Di Valle Roja\n tratto chiuso  tra 6,465 km dopo Incrocio Limone e 22,679 km prima di Incrocio Fanghetto\/Confine Con La Francia   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 21:04:00 GMT"
-    },
-    {
-        "title": "A32 Torino-Bardonecchia",
-        "description": "A32 Torino-Bardonecchia\n vento forte  tra Svincolo Rivoli-Rosta e Svincolo Avigliana Ovest   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 20:52:00 GMT"
     },
     {
         "title": "A5 Torino-Courmayeur",
@@ -143,11 +148,6 @@
         "title": "A19 Palermo-Catania",
         "description": "A19 Palermo-Catania\n traffico rallentato  a Svincolo SP138 in direzione Catania  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 19:08:00 GMT"
-    },
-    {
-        "title": "T4-TRF Fre Traforo Del Frejus",
-        "description": "T4-TRF Fre Traforo Del Frejus\n chiusura notturna, galleria chiusa causa rimozione del cantiere dalle 04:30 del 17 alle 05:15 del 22 agosto 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 19:03:00 GMT"
     },
     {
         "title": "A27 Mestre-Belluno",
