@@ -1,18 +1,58 @@
 [
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n traffico rallentato causa incidente dalle 04:58 del 17 agosto 2026  tra Allacciamento A22 Modena-Brennero e Svincolo Modena Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 03:04:00 GMT"
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 06:01 del 17 agosto 2026  tra Svincolo Ferentino e Svincolo Frosinone  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 04:03:00 GMT"
     },
     {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 05:01 del 17 agosto 2026  tra Svincolo Carsoli-Oricola e Svincolo Vicovaro-Mandela  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 03:04:00 GMT"
+        "title": "A1 Diramazione Roma Nord",
+        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 05:49 del 17 agosto 2026  tra Svincolo Castelnuovo di Porto e Svincolo Fiano Romano  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 04:01:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n incidente dalle 04:33 del 17 agosto 2026  tra Allacciamento A22 Modena-Brennero e Svincolo Modena Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 03:04:00 GMT"
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n materiali dispersi  a Svincolo Santhia  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 04:01:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 05:56 del 17 agosto 2026  tra Svincolo Albisola e Svincolo A10 - A06 al Km 44  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 04:00:00 GMT"
+    },
+    {
+        "title": "A24 Tratto Urbano",
+        "description": "A24 Tratto Urbano\n tratto chiuso causa lavori dalle 22:00 del 2 alle 23:00 del 28 agosto 2026  tra Svincolo Tangenziale Est e Svincolo Portonaccio - Galla Placidia  in direzione Allacciamento G.R.A.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:56:00 GMT"
+    },
+    {
+        "title": "A2 Autostrada del Mediterraneo",
+        "description": "A2 Autostrada del Mediterraneo\n traffico rallentato causa incidente  a Area di servizio  Rogliano in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:54:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n pedoni dalle 05:49 del 17 agosto 2026  tra Svincolo Pistoia e Svincolo Montecatini  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:50:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n lavori  tra 6,4 km dopo Svincolo Carmagnola e 14,7 km prima di Svincolo Marene - Interconnessione A33  in direzione Savona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:44:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 05:21 del 17 agosto 2026  tra Svincolo Genova Est e Allacciamento A7 Milano-Genova  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:34:00 GMT"
+    },
+    {
+        "title": "T4-TRF Fre Traforo Del Frejus",
+        "description": "T4-TRF Fre Traforo Del Frejus\n chiusura notturna, galleria chiusa causa rimozione del cantiere dalle 04:31 del 18 alle 05:15 del 22 agosto 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:24:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n perdita di carico dalle 05:18 del 17 agosto 2026  tra Allacciamento A21 Torino-Piacenza-Brescia e Svincolo Casale Monferrato Sud  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 03:20:00 GMT"
     },
     {
         "title": "A6 Torino-Savona",
@@ -20,44 +60,9 @@
         "pubDate": "Mon, 17 Aug 2026 03:03:00 GMT"
     },
     {
-        "title": "A12 Roma-Civitavecchia",
-        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 04:55 del 17 agosto 2026  tra Svincolo Cerveteri-Ladispoli e Svincolo Torrimpietra  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 02:59:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Allacciamento A12 Genova-Rosignano in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 02:54:00 GMT"
-    },
-    {
-        "title": "SS120 Dell etna E Delle Madonie",
-        "description": "SS120 Dell etna E Delle Madonie\n incidente  a Incrocio Randazzo - SS284 Occidentale Etnea  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 02:46:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n veicolo in fiamme  tra 80 m dopo Svincolo Lamezia Terme e 18,082 km prima di Svincolo Pizzo Calabro   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 02:42:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 04:21 del 17 agosto 2026  tra Svincolo Orvieto e Svincolo Attigliano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 02:37:00 GMT"
-    },
-    {
-        "title": "T4-TRF Fre Traforo Del Frejus",
-        "description": "T4-TRF Fre Traforo Del Frejus\n chiusura notturna, galleria chiusa causa rimozione del cantiere dalle 04:31 del 17 alle 05:15 del 22 agosto 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 02:30:00 GMT"
-    },
-    {
         "title": "A6 Torino-Savona",
         "description": "A6 Torino-Savona\n mancanza di carburante  a Area di servizio  Rio Ghidone in direzione Savona  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Mon, 17 Aug 2026 01:47:00 GMT"
-    },
-    {
-        "title": "SS294 Della Val Di Scalve",
-        "description": "SS294 Della Val Di Scalve\n traffico rallentato causa materiali dispersi  a Incrocio Dezzo Di Scalve  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Mon, 17 Aug 2026 01:14:00 GMT"
     },
     {
         "title": "SS28 Del Colle Di Nava",
@@ -75,11 +80,6 @@
         "pubDate": "Sun, 16 Aug 2026 23:10:00 GMT"
     },
     {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n traffico rallentato causa materiali dispersi  a Incrocio Nibionno - SS342 Briantea in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:58:00 GMT"
-    },
-    {
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 12,95 km prima di Svincolo Pontremoli e 7,3 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 22:05:00 GMT"
@@ -93,16 +93,6 @@
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 22:05:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n pioggia dalle 23:53 del 16 agosto 2026  tra Svincolo Entrata Courmayeur Sud e Svincolo A05-SS26DIR   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 21:55:00 GMT"
-    },
-    {
-        "title": "SS67 Tosco Romagnola",
-        "description": "SS67 Tosco Romagnola\n allagamento  a Incrocio S.Ruffillo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 21:34:00 GMT"
     },
     {
         "title": "SS20 Del Colle Di Tenda E Di Valle Roja",
@@ -120,16 +110,6 @@
         "pubDate": "Sun, 16 Aug 2026 20:16:00 GMT"
     },
     {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 21:57 del 16 agosto 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 19:59:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 21:57 del 16 agosto 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 19:59:00 GMT"
-    },
-    {
         "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
         "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n personale su strada causa lavori dalle 21:43 del 16 agosto 2026  tra Svincolo Tirrenia e Svincolo Darsena - Toscana Est  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 19:45:00 GMT"
@@ -138,16 +118,6 @@
         "title": "Italia",
         "description": "Italia \n maltempo dalle 09:00 del 17 alle 09:00 del 18 agosto 2026  a LOMBARDIA, PROV. AUT. TRENTO, PROV. AUT. BOLZANO, VENETO, EMILIA-ROMAGNA,  TOSCANA, UMBRIA, MARCHE ED ABRUZZO.  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 19:25:00 GMT"
-    },
-    {
-        "title": "A19 Palermo-Catania",
-        "description": "A19 Palermo-Catania\n presenza di alberi sulla carreggiata  a Svincolo Enna in direzione Catania  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 19:24:00 GMT"
-    },
-    {
-        "title": "A19 Palermo-Catania",
-        "description": "A19 Palermo-Catania\n traffico rallentato  a Svincolo SP138 in direzione Catania  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 19:08:00 GMT"
     },
     {
         "title": "A27 Mestre-Belluno",
@@ -165,11 +135,6 @@
         "pubDate": "Sun, 16 Aug 2026 17:52:00 GMT"
     },
     {
-        "title": "SS340dir Diramazione Regina",
-        "description": "SS340dir Diramazione Regina\n non funzionante impianto di illuminazione tunnel  a Incrocio Acquaseria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 16:52:00 GMT"
-    },
-    {
         "title": "A27 Mestre-Belluno",
         "description": "A27 Mestre-Belluno\n vento forte dalle 08:34 del 16 agosto 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Pian Di Vedoia-SS51 Di Alemagna   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 16:49:00 GMT"
@@ -178,11 +143,6 @@
         "title": "SS142 Biellese",
         "description": "SS142 Biellese\n corsia chiusa  a Incrocio Cureggio  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 16:36:00 GMT"
-    },
-    {
-        "title": "A3 Napoli-Salerno",
-        "description": "A3 Napoli-Salerno\n code causa traffico intenso dalle 14:56 del 16 agosto 2026  tra Svincolo Cava De  Tirreni e Barriera Di Nocera Inferiore  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 15:46:00 GMT"
     },
     {
         "title": "SS28 Del Colle Di Nava",
@@ -288,11 +248,6 @@
         "title": "Prato Via Pomeria",
         "description": "Prato Via Pomeria\n transito temporaneamente sospeso causa corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  tra Piazza San Marco e Viale Piave   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 09:58:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n animali sulla strada dalle 08:32 del 16 agosto 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 09:50:00 GMT"
     },
     {
         "title": "Prato Via Francesco Ferrucci",
@@ -498,5 +453,50 @@
         "title": "Messina Via Sacro Cuore di Gesù",
         "description": "Messina Via Sacro Cuore di Gesù\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 06:43:00 GMT"
+    },
+    {
+        "title": "Messina Via Peculio Frumentario",
+        "description": "Messina Via Peculio Frumentario\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 06:41:00 GMT"
+    },
+    {
+        "title": "Messina Via Malvizzi",
+        "description": "Messina Via Malvizzi\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 06:40:00 GMT"
+    },
+    {
+        "title": "Messina Via Dina e Clarenza",
+        "description": "Messina Via Dina e Clarenza\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 06:39:00 GMT"
+    },
+    {
+        "title": "Messina Via Felice Bisazza",
+        "description": "Messina Via Felice Bisazza\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 06:39:00 GMT"
+    },
+    {
+        "title": "Messina Via Cavalluccio",
+        "description": "Messina Via Cavalluccio\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 06:37:00 GMT"
+    },
+    {
+        "title": "Messina Via Belvedere",
+        "description": "Messina Via Belvedere\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 06:36:00 GMT"
+    },
+    {
+        "title": "Messina Via Alaimo di Leontino",
+        "description": "Messina Via Alaimo di Leontino\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 06:35:00 GMT"
+    },
+    {
+        "title": "Messina Via degli Amici",
+        "description": "Messina Via degli Amici\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 06:34:00 GMT"
+    },
+    {
+        "title": "Messina Piazza Anna Maria Arduino",
+        "description": "Messina Piazza Anna Maria Arduino\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via San Sebastiano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 06:33:00 GMT"
     }
 ]
