@@ -1,8 +1,33 @@
 [
     {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n veicoli scortati per maltempo causa perdita di carico dalle 02:10 del 17 agosto 2026  tra Svincolo Modena Sud e Allacciamento A22 Modena-Brennero  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 00:12:00 GMT"
+    },
+    {
         "title": "A1 Diramazione Roma Nord",
-        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 01:46 del 17 agosto 2026  a Svincolo Castelnuovo di Porto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 23:48:00 GMT"
+        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 01:47 del 17 agosto 2026  tra Svincolo Settebagni e Svincolo Castelnuovo di Porto  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 00:09:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n incendio dalle 01:22 del 17 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 17 Aug 2026 00:04:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n perdita di carico dalle 01:43 del 17 agosto 2026  tra Svincolo Modena Nord e Allacciamento A22 Modena-Brennero  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:52:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n fumo causa incendio dalle 01:48 del 17 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:51:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n incendio dalle 01:47 del 17 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 23:50:00 GMT"
     },
     {
         "title": "A1 Milano-Bologna",
@@ -15,24 +40,9 @@
         "pubDate": "Sun, 16 Aug 2026 23:46:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n perdita di carico dalle 01:43 del 17 agosto 2026  tra Svincolo Modena Nord e Allacciamento A22 Modena-Brennero  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 23:46:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n veicolo in avaria  a Svincolo Chatillon-Saint Vincent in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 23:37:00 GMT"
-    },
-    {
         "title": "A55 Tangenziale Nord Di Torino",
         "description": "A55 Tangenziale Nord Di Torino\n chiusura nodo  a Svincolo Regina Margherita in direzione Torino Nord - A5 To-Aosta  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 23:35:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 01:26 del 17 agosto 2026  tra Svincolo Pescara N. Citta  S.Angelo e Svincolo Atri-Pineto  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 23:27:00 GMT"
     },
     {
         "title": "A1 Firenze-Roma",
@@ -40,34 +50,9 @@
         "pubDate": "Sun, 16 Aug 2026 23:25:00 GMT"
     },
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 01:20 del 17 agosto 2026  tra Svincolo Genova Pegli e Svincolo Genova Voltri  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 23:24:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n incendio dalle 01:22 del 17 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 23:24:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n perdita di carico causa perdita accidentale dalle 01:22 del 17 agosto 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 23:23:00 GMT"
-    },
-    {
         "title": "A14 Pescara-Bari",
         "description": "A14 Pescara-Bari\n fumo dalle 01:19 del 17 agosto 2026  tra Svincolo Termoli-Molise e Svincolo Poggio Imperiale   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 23:21:00 GMT"
-    },
-    {
-        "title": "A18 Messina-Catania",
-        "description": "A18 Messina-Catania\n code per 200 m causa traffico intenso  a Barriera Di Catania in direzione Catania  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 23:20:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n veicolo in avaria  a Svincolo Verres in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 23:19:00 GMT"
     },
     {
         "title": "SS18 Tirrena Inferiore",
@@ -80,19 +65,9 @@
         "pubDate": "Sun, 16 Aug 2026 22:58:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n vento forte dalle 00:33 del 17 agosto 2026  tra Svincolo Parma e Svincolo Modena Sud   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:49:00 GMT"
-    },
-    {
         "title": "SS120 Dell etna E Delle Madonie",
         "description": "SS120 Dell etna E Delle Madonie\n traffico bloccato causa incidente  a Incrocio Randazzo - SS284 Occidentale Etnea  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 22:38:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 00:34 del 17 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 22:36:00 GMT"
     },
     {
         "title": "A21 Torino-Brescia",
@@ -195,11 +170,6 @@
         "pubDate": "Sun, 16 Aug 2026 19:24:00 GMT"
     },
     {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n pioggia dalle 20:37 del 16 agosto 2026  tra Allacciamento Fiorenza-Allacciamento A4 (milano V.Le Certosa) e Svincolo Varese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 19:19:00 GMT"
-    },
-    {
         "title": "A50 Tangenziale Ovest Di Milano",
         "description": "A50 Tangenziale Ovest Di Milano\n pioggia  tra Allacciamento A8 Milano-Varese e Allacciamento A1 Milano-Napoli   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 19:19:00 GMT"
@@ -213,16 +183,6 @@
         "title": "T4-TRF Fre Traforo Del Frejus",
         "description": "T4-TRF Fre Traforo Del Frejus\n chiusura notturna, galleria chiusa causa rimozione del cantiere dalle 04:30 del 17 alle 05:15 del 22 agosto 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 19:03:00 GMT"
-    },
-    {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n pioggia dalle 20:55 del 16 agosto 2026  tra Allacciamento A8 Milano-Varese e Svincolo Lago di Como   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 18:59:00 GMT"
-    },
-    {
-        "title": "A8 Diramazione Per Gallarate-Gattico",
-        "description": "A8 Diramazione Per Gallarate-Gattico\n pioggia dalle 20:37 del 16 agosto 2026  tra Allacciamento A8 Milano-Varese e Svincolo Castelletto Ticino   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 16 Aug 2026 18:39:00 GMT"
     },
     {
         "title": "A27 Mestre-Belluno",
@@ -498,5 +458,45 @@
         "title": "Prato Piazza San Marco",
         "description": "Prato Piazza San Marco\n transito temporaneamente sospeso causa corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  tra Via Giuseppe Mazzini e Piazzale Porta Fiorentina   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 16 Aug 2026 08:19:00 GMT"
+    },
+    {
+        "title": "Prato Via San Silvestro",
+        "description": "Prato Via San Silvestro\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Piazza San Marco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 08:17:00 GMT"
+    },
+    {
+        "title": "Prato Via del Carmine",
+        "description": "Prato Via del Carmine\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 08:13:00 GMT"
+    },
+    {
+        "title": "Prato Via San Giovanni",
+        "description": "Prato Via San Giovanni\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 08:10:00 GMT"
+    },
+    {
+        "title": "Prato Via Giuseppe Mazzini",
+        "description": "Prato Via Giuseppe Mazzini\n transito temporaneamente sospeso causa corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  tra Via Benedetto Cairoli e Piazza San Marco   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 08:08:00 GMT"
+    },
+    {
+        "title": "Prato Via Giuseppe Verdi",
+        "description": "Prato Via Giuseppe Verdi\n corsa podistica dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 08:05:00 GMT"
+    },
+    {
+        "title": "Prato Via Pugliesi",
+        "description": "Prato Via Pugliesi\n transito temporaneamente sospeso causa  camminata ludico-motoria\n dalle 19:30 alle 23:00 del 7 settembre 2026  a Via Benedetto Cairoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 08:02:00 GMT"
+    },
+    {
+        "title": "Messina Via Annibale",
+        "description": "Messina Via Annibale\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via Forte Petrazza  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 07:19:00 GMT"
+    },
+    {
+        "title": "Messina Via Consolare Valeria",
+        "description": "Messina Via Consolare Valeria\n processione dalle 05:00 alle 15:00 del 6 settembre 2026  a Via Comunale Larderia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 16 Aug 2026 07:17:00 GMT"
     }
 ]
