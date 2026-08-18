@@ -1,23 +1,48 @@
 [
     {
         "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 01:33 del 19 agosto 2026  tra Allacciamento Diramazione Roma Sud e Svincolo Valmontone  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 23:34:00 GMT"
+    },
+    {
+        "title": "TG-BO Tangenziale Di Bologna",
+        "description": "TG-BO Tangenziale Di Bologna\n veicolo fermo o in avaria dalle 01:26 del 19 agosto 2026  tra Svincolo 4 Aeroporto Bologna Borgo Panigale e Svincolo 5 Bologna Quartiere Lame  in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 23:33:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n pedoni dalle 01:23 del 19 agosto 2026  tra Svincolo Valmontone e Svincolo Colleferro  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 23:24:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 01:19 del 19 agosto 2026  tra Svincolo Masone e Svincolo Ovada  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 23:20:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n incidente  a Svincolo Mondovi  in direzione Savona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 23:13:00 GMT"
+    },
+    {
+        "title": "A9 Lainate-Chiasso",
+        "description": "A9 Lainate-Chiasso\n personale su strada causa lavori dalle 01:07 del 19 agosto 2026  tra Svincolo Como Centro e Svincolo Como Monte Olimpino  in direzione Svizzera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 23:11:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 01:07 del 19 agosto 2026  tra Svincolo Colleferro e Svincolo Anagni - Fiuggi  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 23:08:00 GMT"
+    },
+    {
+        "title": "SS18 Tirrena Inferiore",
+        "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 23:08:00 GMT"
     },
     {
         "title": "SS18 Tirrena Inferiore",
         "description": "SS18 Tirrena Inferiore\n traffico rallentato causa materiali dispersi  a Incrocio Favazzina  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 23:05:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 01:02 del 19 agosto 2026  tra Svincolo Casale Monferrato Sud e Svincolo Casale Monferrato Nord  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 23:04:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n veicolo in avaria  a Svincolo Milano in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 22:56:00 GMT"
     },
     {
         "title": "A90-GRA Salaria-Casilina",
@@ -28,16 +53,6 @@
         "title": "SS407 Basentana",
         "description": "SS407 Basentana\n traffico rallentato causa lavori di manutenzione  a Incrocio Calciano in direzione Incrocio Staz. Di Vaglio Basilicata - SS7 Appia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 22:44:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 00:39 del 19 agosto 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo Masone  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 22:41:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 00:34 del 19 agosto 2026  tra Svincolo Foggia e Svincolo San Severo  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 22:36:00 GMT"
     },
     {
         "title": "TG-BO Tangenziale Di Bologna",
@@ -55,11 +70,6 @@
         "pubDate": "Tue, 18 Aug 2026 22:27:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 00:16 del 19 agosto 2026  tra Svincolo Masone e Allacciamento A10 Genova-Ventimiglia  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 22:18:00 GMT"
-    },
-    {
         "title": "A25 Torano-Pescara",
         "description": "A25 Torano-Pescara\n animali sulla strada dalle 00:15 del 19 agosto 2026  a Svincolo Magliano De  Marsi  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 22:18:00 GMT"
@@ -68,16 +78,6 @@
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n tratto chiuso causa lavori dalle 00:08 alle 06:00 del 19 agosto 2026  tra Svincolo Orte e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 22:10:00 GMT"
-    },
-    {
-        "title": "A12 Roma-Civitavecchia",
-        "description": "A12 Roma-Civitavecchia\n personale su strada causa lavori dalle 00:07 del 19 agosto 2026  tra Svincolo S.Severa-S.Marinella e Svincolo Civitavecchia Sud  in direzione S.s. 1 Aurelia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 22:09:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n veicolo fermo o in avaria dalle 00:01 del 19 agosto 2026  tra Svincolo Nocera Pagani e Svincolo Sarno  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 22:04:00 GMT"
     },
     {
         "title": "SS336dir dell Aeroporto della Malpensa",
