@@ -2,17 +2,12 @@
     {
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 01:33 del 19 agosto 2026  tra Allacciamento Diramazione Roma Sud e Svincolo Valmontone  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 23:34:00 GMT"
+        "pubDate": "Tue, 18 Aug 2026 23:46:00 GMT"
     },
     {
-        "title": "TG-BO Tangenziale Di Bologna",
-        "description": "TG-BO Tangenziale Di Bologna\n veicolo fermo o in avaria dalle 01:26 del 19 agosto 2026  tra Svincolo 4 Aeroporto Bologna Borgo Panigale e Svincolo 5 Bologna Quartiere Lame  in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 23:33:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n pedoni dalle 01:23 del 19 agosto 2026  tra Svincolo Valmontone e Svincolo Colleferro  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 23:24:00 GMT"
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 01:44 del 19 agosto 2026  tra Allacciamento Fano - Raccordo Per Fossombrone e Svincolo Marotta-Mondolfo  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 23:45:00 GMT"
     },
     {
         "title": "A26 Genova-Gravellona Toce",
@@ -28,11 +23,6 @@
         "title": "A9 Lainate-Chiasso",
         "description": "A9 Lainate-Chiasso\n personale su strada causa lavori dalle 01:07 del 19 agosto 2026  tra Svincolo Como Centro e Svincolo Como Monte Olimpino  in direzione Svizzera  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 23:11:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 01:07 del 19 agosto 2026  tra Svincolo Colleferro e Svincolo Anagni - Fiuggi  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 23:08:00 GMT"
     },
     {
         "title": "SS18 Tirrena Inferiore",
@@ -68,11 +58,6 @@
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 00:25 del 19 agosto 2026  tra Svincolo Magliano Sabina e Svincolo Orte  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 22:27:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n animali sulla strada dalle 00:15 del 19 agosto 2026  a Svincolo Magliano De  Marsi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 22:18:00 GMT"
     },
     {
         "title": "A1 Firenze-Roma",
@@ -198,11 +183,6 @@
         "title": "A1 Diramazione Roma Sud",
         "description": "A1 Diramazione Roma Sud\n rampa di accesso chiusa causa lavori dalle 22:40 del 18 alle 06:00 del 19 agosto 2026  a Svincolo San Cesareo in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 20:42:00 GMT"
-    },
-    {
-        "title": "A14 Bari-Taranto",
-        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 22:32 del 18 agosto 2026  tra Barriera Di Taranto Nord e Svincolo Mottola-Castellaneta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 20:34:00 GMT"
     },
     {
         "title": "A12 Genova-Rosignano",
@@ -498,5 +478,25 @@
         "title": "Taranto Via Erasmo Iacovone",
         "description": "Taranto Via Erasmo Iacovone\n strada chiusa causa manifestazione dalle 13:00 alle 23:59 del 21 agosto 2026  tra Via Lago di Como e Via Lago Maggiore   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 14:39:00 GMT"
+    },
+    {
+        "title": "Taranto Viale Maestri del Lavoro",
+        "description": "Taranto Viale Maestri del Lavoro\n strada chiusa causa manifestazione dalle 13:00 alle 23:59 del 21 agosto 2026  tra Via Ancona e Via Erasmo Iacovone   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 14:36:00 GMT"
+    },
+    {
+        "title": "Taranto Via Ancona",
+        "description": "Taranto Via Ancona\n strada chiusa causa manifestazione dalle 13:00 alle 23:59 del 21 agosto 2026  tra Viale Unità d Italia e Viale Trentino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 14:34:00 GMT"
+    },
+    {
+        "title": "Taranto Via Lago Maggiore",
+        "description": "Taranto Via Lago Maggiore\n strada chiusa causa manifestazione dalle 06:00 alle 23:59 del 21 agosto 2026  tra Via Lago di Como e Via Erasmo Iacovone   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 14:31:00 GMT"
+    },
+    {
+        "title": "Taranto Via Erasmo Iacovone",
+        "description": "Taranto Via Erasmo Iacovone\n strada chiusa causa manifestazione dalle 06:00 alle 23:59 del 21 agosto 2026  tra Viale Maestri del Lavoro e Via Lago di Como   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 18 Aug 2026 14:29:00 GMT"
     }
 ]
