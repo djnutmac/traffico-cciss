@@ -1,22 +1,312 @@
 [
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 16:33 del 19 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Bologna Fiera  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:36:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 16:34 del 19 agosto 2026  tra Svincolo Teramo-Giulianova-Mosciano e Svincolo Val Vibrata  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:36:00 GMT"
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n incendio dalle 17:04 del 19 agosto 2026  tra Svincolo San Severo e Svincolo Poggio Imperiale  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 15:05:00 GMT"
     },
     {
         "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo in fiamme dalle 16:24 del 19 agosto 2026  tra Svincolo Lanciano e Svincolo Val Di Sangro  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:36:00 GMT"
+        "description": "A14 Pescara-Bari\n fumo causa incendio dalle 17:04 del 19 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo San Severo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 15:05:00 GMT"
+    },
+    {
+        "title": "Latina Via Lorenzo de  Medici",
+        "description": "Latina Via Lorenzo de  Medici\n partita di calcio dalle 15:00 alle 23:00 del 23 agosto 2026  a Via Calatafimi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 15:04:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n incendio dalle 17:01 del 19 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 15:03:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n fumo causa incendio dalle 17:01 del 19 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 15:03:00 GMT"
+    },
+    {
+        "title": "Caserta Via Sossietta Scialla",
+        "description": "Caserta Via Sossietta Scialla\n tratto chiuso causa processione dalle 07:30 alle 10:00 del 6 settembre 2026  tra Viale Lincoln e Via di Basso   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 15:00:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 16:57 del 19 agosto 2026  tra Allacciamento Diramazione Roma Sud e Allacciamento A24 Roma-Teramo  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:59:00 GMT"
+    },
+    {
+        "title": "A52 Tangenziale Nord Di Milano",
+        "description": "A52 Tangenziale Nord Di Milano\n veicolo in panne  a Svincolo Monza-S.Alessandro in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:59:00 GMT"
+    },
+    {
+        "title": "Viterbo Via Tintoretto",
+        "description": "Viterbo Via Tintoretto\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 27 agosto 2026  tra Piazza Michelangelo e Via dei Tarquini   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:58:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 16:56 del 19 agosto 2026  a Svincolo Reggio Emilia in direzione da Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:57:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 16:54 del 19 agosto 2026  tra Svincolo Pistoia e Svincolo Prato Ovest  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:57:00 GMT"
+    },
+    {
+        "title": "Latina Via Calatafimi",
+        "description": "Latina Via Calatafimi\n strada chiusa causa partita di calcio dalle 15:00 alle 23:00 del 23 agosto 2026  tra Via Garigliano e Via Amaseno   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:57:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 16:54 del 19 agosto 2026  tra Svincolo Cesena Nord e Svincolo Cesena  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:56:00 GMT"
+    },
+    {
+        "title": "Viterbo Via del Ghirlandaio",
+        "description": "Viterbo Via del Ghirlandaio\n processione dalle 17:00 alle 20:00 del 27 agosto 2026  a Piazza Michelangelo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:56:00 GMT"
+    },
+    {
+        "title": "Scanzorosciate Via Monte Negrone",
+        "description": "Scanzorosciate Via Monte Negrone\n incidente  a Via Monte Negrone  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:56:00 GMT"
+    },
+    {
+        "title": "Caserta Viale delle Industrie",
+        "description": "Caserta Viale delle Industrie\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Via Carcas  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:55:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n perdita di carico causa perdita accidentale dalle 16:53 del 19 agosto 2026  tra Svincolo Cesena Nord e Svincolo Cesena  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:55:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n traffico rallentato&nbsp;con&nbsp;code a tratti  tra 13,1 km prima di Svincolo Pontremoli e 9,8 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:54:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n incidente  a Svincolo Berceto in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:54:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Parma Ovest in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:54:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 16:16 del 19 agosto 2026  tra Svincolo Magliano De  Marsi e Svincolo Avezzano  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:54:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n incidente dalle 16:02 del 19 agosto 2026  tra Svincolo Canosa e Allacciamento A16 Napoli-Canosa  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:54:00 GMT"
+    },
+    {
+        "title": "LS\/SP146",
+        "description": "LS\/SP146 \n senso unico alternato causa lavori dalle 00:01 del 19 agosto alle 23:59 del 23 ottobre 2026  tra LS\/SP63 e Leonharder Straße - via S. Leonardo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:54:00 GMT"
+    },
+    {
+        "title": "A58 Teem Tangenziale Esterna",
+        "description": "A58 Teem Tangenziale Esterna\n materiali dispersi  a Svincolo Gessate in direzione Svincolo A1 - Milano - Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:54:00 GMT"
+    },
+    {
+        "title": "Latina Via Duca del Mare",
+        "description": "Latina Via Duca del Mare\n strada chiusa causa partita di calcio dalle 15:00 alle 23:00 del 23 agosto 2026  tra Via Giuseppe Garibaldi e Piazzale Natale Prampolini   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:54:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 16:49 del 19 agosto 2026  tra Allacciamento A1 Nord\/Diramazione Capodichino e Svincolo Casoria  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:53:00 GMT"
+    },
+    {
+        "title": "Viterbo Piazza Michelangelo",
+        "description": "Viterbo Piazza Michelangelo\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 27 agosto 2026  tra Via Andrea Mantegna e Via Tintoretto   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:53:00 GMT"
+    },
+    {
+        "title": "Latina Largo Torre Acquedotto",
+        "description": "Latina Largo Torre Acquedotto\n strada chiusa causa manifestazione dalle 15:00 alle 23:00 del 23 agosto 2026  tra Via Calatafimi e Via Aspromonte   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:52:00 GMT"
+    },
+    {
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n veicolo in panne  tra Svincolo Baggio-Cusago: Via Zurigo-Zona Ind. e Svincolo Settimo Milanese-SS11: S.Siro-Fiera  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:51:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 16:47 del 19 agosto 2026  tra Svincolo Canosa e Svincolo Andria-Barletta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:50:00 GMT"
+    },
+    {
+        "title": "Genova Ponte Umberto Pini",
+        "description": "Genova Ponte Umberto Pini\n fondo stradale dissestato  a Ponte Umberto Pini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:50:00 GMT"
+    },
+    {
+        "title": "Latina Via Aspromonte",
+        "description": "Latina Via Aspromonte\n strada chiusa causa manifestazione dalle 15:00 alle 23:00 del 23 agosto 2026  tra Via Volturno e Via Amaseno   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:50:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 16:46 del 19 agosto 2026  tra Svincolo Civitavecchia Sud e Svincolo S.Severa-S.Marinella  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:49:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n code causa veicolo fermo o in avaria dalle 16:44 del 19 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Bologna Fiera  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:49:00 GMT"
+    },
+    {
+        "title": "Genova Via Angelo Carrara",
+        "description": "Genova Via Angelo Carrara\n incidente  a Via Angelo Carrara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:49:00 GMT"
+    },
+    {
+        "title": "Caserta Via San Nicola",
+        "description": "Caserta Via San Nicola\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Via Carcas  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:49:00 GMT"
+    },
+    {
+        "title": "Latina Piazzale Natale Prampolini",
+        "description": "Latina Piazzale Natale Prampolini\n strada chiusa causa partita di calcio dalle 15:00 alle 23:59 del 23 agosto 2026  a Via dei Mille  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:48:00 GMT"
+    },
+    {
+        "title": "Viterbo Via Andrea Mantegna",
+        "description": "Viterbo Via Andrea Mantegna\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 27 agosto 2026  tra Via Raffaello e Piazza Michelangelo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:48:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 16:45 del 19 agosto 2026  tra Svincolo Baiano e Svincolo Avellino Ovest  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:47:00 GMT"
+    },
+    {
+        "title": "Firenze Via dei Coverelli",
+        "description": "Firenze Via dei Coverelli\n strada chiusa causa lavori dalle 09:00 del 21 alle 18:30 del 22 settembre 2026  tra Lungarno Guicciardini e Via di Santo Spirito   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:46:00 GMT"
+    },
+    {
+        "title": "Latina Via dei Mille",
+        "description": "Latina Via dei Mille\n strada chiusa causa partita di calcio dalle 15:00 alle 23:00 del 23 agosto 2026  tra Via Ippolito Nievo e Piazzale Natale Prampolini   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:45:00 GMT"
+    },
+    {
+        "title": "Caserta Via Carcas",
+        "description": "Caserta Via Carcas\n strada chiusa causa processione dalle 07:30 alle 10:00 del 6 settembre 2026  tra Viale Lincoln e Via San Nicola   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:45:00 GMT"
+    },
+    {
+        "title": "Viterbo Via Piero della Francesca",
+        "description": "Viterbo Via Piero della Francesca\n processione dalle 17:00 alle 20:00 del 27 agosto 2026  a Via Raffaello  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:45:00 GMT"
+    },
+    {
+        "title": "SS39 Del Passo Di Aprica",
+        "description": "SS39 Del Passo Di Aprica\n senso unico alternato causa incidente  a Incrocio Motta - SS550 Di Villa Di Tirano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:43:00 GMT"
+    },
+    {
+        "title": "Viterbo Via del Pinturicchio",
+        "description": "Viterbo Via del Pinturicchio\n processione dalle 17:00 alle 20:00 del 27 agosto 2026  a Via Raffaello  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:43:00 GMT"
+    },
+    {
+        "title": "Latina Via Ippolito Nievo",
+        "description": "Latina Via Ippolito Nievo\n strada chiusa causa partita di calcio dalle 15:00 alle 23:00 del 23 agosto 2026  tra Via Volturno e Via Giovanni Cena   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:42:00 GMT"
+    },
+    {
+        "title": "SP71(TN) SS47-Civezzano-SS612-Stramentizzo",
+        "description": "SP71(TN) SS47-Civezzano-SS612-Stramentizzo\n code causa lavori  a Incrocio SP76-Lases  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:42:00 GMT"
+    },
+    {
+        "title": "A24 Tratto Urbano",
+        "description": "A24 Tratto Urbano\n code causa lavori dalle 16:39 del 19 agosto 2026  tra Svincolo Via Fiorentini e Svincolo Portonaccio - Galla Placidia  in direzione tangenziale Est  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:41:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 16:38 del 19 agosto 2026  tra Svincolo Valmontone e Allacciamento Diramazione Roma Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:41:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 16:32 del 19 agosto 2026  tra Svincolo Lanciano e Svincolo Val Di Sangro  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:41:00 GMT"
+    },
+    {
+        "title": "Caserta Vicolo Papa Giovanni XXIII",
+        "description": "Caserta Vicolo Papa Giovanni XXIII\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:40:00 GMT"
+    },
+    {
+        "title": "Firenze Via della Ninna",
+        "description": "Firenze Via della Ninna\n strada chiusa causa lavori dalle 09:00 del 24 alle 18:00 del 28 agosto 2026  tra Piazza del Grano e Piazzale degli Uffizi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:40:00 GMT"
+    },
+    {
+        "title": "SS12 Dell abetone E Del Brennero",
+        "description": "SS12 Dell abetone E Del Brennero\n code causa lavori  tra Incrocio S.Michele All adige - SS43 Della Val Di Non e Incrocio Lavis - SS612 Della Val Di Cembra   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:40:00 GMT"
+    },
+    {
+        "title": "Viterbo Via Filippo Lippi",
+        "description": "Viterbo Via Filippo Lippi\n processione dalle 17:00 alle 20:00 del 27 agosto 2026  a Via Raffaello  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:40:00 GMT"
+    },
+    {
+        "title": "Latina Via Volturno",
+        "description": "Latina Via Volturno\n strada chiusa causa partita di calcio dalle 15:00 alle 23:00 del 23 agosto 2026  tra Piazzale Natale Prampolini e Via Ippolito Nievo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:39:00 GMT"
     },
     {
         "title": "T1-TRF.Bia Traforo Del Monte Bianco",
         "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 18:30 del 19 agosto 2026  a Svincolo Piazzale Lato Italiano in direzione Chamonix  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:38:00 GMT"
+    },
+    {
+        "title": "Viterbo Via Raffaello",
+        "description": "Viterbo Via Raffaello\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 27 agosto 2026  tra Strada Santa Barbara e Via Andrea Mantegna   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:38:00 GMT"
+    },
+    {
+        "title": "Firenze Via di Santo Spirito",
+        "description": "Firenze Via di Santo Spirito\n strada chiusa causa lavori dalle 09:00 del 28 alle 18:30 del 29 settembre 2026  a Via del Presto di San Martino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:37:00 GMT"
+    },
+    {
+        "title": "Caserta Vicolo M. Palermo",
+        "description": "Caserta Vicolo M. Palermo\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:37:00 GMT"
+    },
+    {
+        "title": "SS42 Del Tonale E Della Mendola",
+        "description": "SS42 Del Tonale E Della Mendola\n code causa incidente  a Incrocio Revo  - SP28  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:37:00 GMT"
+    },
+    {
+        "title": "Roma Ponte della Magliana",
+        "description": "Roma Ponte della Magliana\n strada chiusa causa incendio di fogliame dalle 16:10 del 19 agosto 2026  a Viale Isacco Newton  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:37:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 16:33 del 19 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Bologna Fiera  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 14:36:00 GMT"
     },
     {
@@ -30,19 +320,19 @@
         "pubDate": "Wed, 19 Aug 2026 14:36:00 GMT"
     },
     {
+        "title": "Viterbo Strada Santa Barbara",
+        "description": "Viterbo Strada Santa Barbara\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 27 agosto 2026  tra Via dei Buccheri e Via Raffaello   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:36:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n chiusura nodo causa mezzo pesante in avaria  a Allacciamento A21 Torino-Piacenza-Brescia in direzione Torino provenendo da Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 14:36:00 GMT"
+    },
+    {
         "title": "Caserta Vicolo Davide Ancillotto",
         "description": "Caserta Vicolo Davide Ancillotto\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 14:35:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n perdita di carico causa perdita accidentale dalle 16:31 del 19 agosto 2026  tra Svincolo Pontecorvo e Svincolo Cassino  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:34:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 16:32 del 19 agosto 2026  tra Svincolo Lanciano e Svincolo Val Di Sangro  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:34:00 GMT"
     },
     {
         "title": "A16 Napoli-Canosa",
@@ -63,16 +353,6 @@
         "title": "Firenze Via del Pianerottolo",
         "description": "Firenze Via del Pianerottolo\n strada chiusa causa lavori dalle 07:00 del 9 settembre 2026 alle 23:59 del 5 novembre 2026  tra Via della Capponcina e Via di San Romano   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 14:33:00 GMT"
-    },
-    {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n veicoli scortati per maltempo causa perdita di carico dalle 16:30 del 19 agosto 2026  tra Svincolo Busto Arsizio e Svincolo Castellanza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:32:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 16:16 del 19 agosto 2026  tra Svincolo Avezzano e Svincolo Magliano De  Marsi  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:31:00 GMT"
     },
     {
         "title": "A1 Firenze-Roma",
@@ -115,16 +395,6 @@
         "pubDate": "Wed, 19 Aug 2026 14:28:00 GMT"
     },
     {
-        "title": "A8 Milano-Varese",
-        "description": "A8 Milano-Varese\n perdita di carico causa perdita accidentale dalle 16:25 del 19 agosto 2026  tra Svincolo Busto Arsizio e Svincolo Castellanza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:27:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n perdita di carico dalle 16:24 del 19 agosto 2026  tra Svincolo Pontedera Ovest-Ponsacco e Svincolo Gello - Allacciamento Diramazione per Pisa  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:26:00 GMT"
-    },
-    {
         "title": "Corigliano-Rossano Via Genova",
         "description": "Corigliano-Rossano Via Genova\n tratto chiuso causa manifestazione dalle 00:00 del 22 alle 23:59 del 23 agosto 2026  tra Via Imperia e Viale Salerno   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 14:26:00 GMT"
@@ -147,11 +417,6 @@
     {
         "title": "Corigliano-Rossano Via Imperia",
         "description": "Corigliano-Rossano Via Imperia\n tratto chiuso causa manifestazione dalle 00:00 del 22 alle 23:59 del 23 agosto 2026  tra Via Napoli e Via Genova   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:24:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n code causa veicolo in panne  a Allacciamento A21 Torino-Piacenza-Brescia in direzione Torino provenendo da Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 14:24:00 GMT"
     },
     {
@@ -200,16 +465,6 @@
         "pubDate": "Wed, 19 Aug 2026 14:19:00 GMT"
     },
     {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n perdita di carico dalle 16:15 del 19 agosto 2026  tra Svincolo Chieti-Pescara-Raccordo Ch-Pe e Svincolo Pescara-Villanova  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:18:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 16:16 del 19 agosto 2026  tra Incrocio Via Ludovico il Moro corrispondenza Cavalcavia Don Lorenzo Milani e Allacciamento A30 Caserta-Salerno  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:18:00 GMT"
-    },
-    {
         "title": "Viterbo Via Tarconte",
         "description": "Viterbo Via Tarconte\n processione dalle 18:00 alle 20:00 del 27 agosto 2026  a Via Lega dei 12 Popoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 14:18:00 GMT"
@@ -217,16 +472,6 @@
     {
         "title": "A13 Bologna-Padova",
         "description": "A13 Bologna-Padova\n problemi in area di servizio causa guasto impianto dalle 16:15 del 19 agosto 2026 alle 17:00 del 19 settembre 2026  a Area di servizio  Adige in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:17:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 15:53 del 19 agosto 2026  tra Allacciamento A25 Torano-Pescara e Svincolo Tagliacozzo  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:17:00 GMT"
-    },
-    {
-        "title": "Roma Ponte della Magliana",
-        "description": "Roma Ponte della Magliana\n strada chiusa causa incendio di fogliame dalle 16:10 del 19 agosto 2026  a Viale Isacco Newton  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 14:17:00 GMT"
     },
     {
@@ -245,258 +490,13 @@
         "pubDate": "Wed, 19 Aug 2026 14:15:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n perdita di carico causa perdita accidentale dalle 16:13 del 19 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:15:00 GMT"
-    },
-    {
         "title": "Corigliano-Rossano Via Cattolica",
         "description": "Corigliano-Rossano Via Cattolica\n tratto chiuso causa manifestazione dalle 18:00 alle 23:59 del 21 agosto 2026  tra Via Genova e Via Marsala   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 14:15:00 GMT"
     },
     {
-        "title": "Caserta Via Lamberti",
-        "description": "Caserta Via Lamberti\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:13:00 GMT"
-    },
-    {
         "title": "Viterbo Via Santa Rosa",
         "description": "Viterbo Via Santa Rosa\n manifestazione dalle 14:30 alle 18:30 del 27 agosto 2026  tra Via Fratelli Rosselli e Via Guglielmo Marconi   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 14:13:00 GMT"
-    },
-    {
-        "title": "Caserta Via Isonzo",
-        "description": "Caserta Via Isonzo\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:11:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 16:07 del 19 agosto 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Guidonia - Montecelio  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:11:00 GMT"
-    },
-    {
-        "title": "Corigliano-Rossano Via Alassio",
-        "description": "Corigliano-Rossano Via Alassio\n tratto chiuso causa manifestazione dalle 18:00 alle 23:59 del 21 agosto 2026  tra Via Livorno e Via Marsala   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:10:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n perdita di carico dalle 16:07 del 19 agosto 2026  tra Svincolo Centro Intermodale Ovest e Svincolo SGC Fi-Pi-Li  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:09:00 GMT"
-    },
-    {
-        "title": "A1 Bologna-Firenze",
-        "description": "A1 Bologna-Firenze\n traffico rallentato causa traffico intenso dalle 16:06 del 19 agosto 2026  tra Svincolo Barberino di Mugello e Svincolo Calenzano-Sesto Fiorentino  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:08:00 GMT"
-    },
-    {
-        "title": "Caserta Via I. Silone",
-        "description": "Caserta Via I. Silone\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:08:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Sud Di Torino",
-        "description": "A55 Tangenziale Sud Di Torino\n veicolo in avaria  a Allacciamento Interscambio Drosso in direzione Allacciamento Interconnessione Tangenziale Nord  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:06:00 GMT"
-    },
-    {
-        "title": "Corigliano-Rossano Via Genova",
-        "description": "Corigliano-Rossano Via Genova\n tratto chiuso causa manifestazione dalle 18:00 alle 23:59 del 21 agosto 2026  tra Via Imperia e Viale Salerno   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:06:00 GMT"
-    },
-    {
-        "title": "Caserta Via Guglielmo Marconi",
-        "description": "Caserta Via Guglielmo Marconi\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:06:00 GMT"
-    },
-    {
-        "title": "Viterbo Via Tarconte",
-        "description": "Viterbo Via Tarconte\n manifestazione dalle 06:00 del 22 agosto 2026 alle 23:59 del 2 settembre 2026  a Via Lega dei 12 Popoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:06:00 GMT"
-    },
-    {
-        "title": "LS\/SP9",
-        "description": "LS\/SP9 \n senso unico alternato causa lavori dalle 07:30 del 24 alle 17:30 del 29 agosto 2026  tra 141 e Unterpichl   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:05:00 GMT"
-    },
-    {
-        "title": "A21 Torino-Brescia",
-        "description": "A21 Torino-Brescia\n materiali dispersi  a Svincolo Asti Ovest in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:03:00 GMT"
-    },
-    {
-        "title": "A21 Torino-Brescia",
-        "description": "A21 Torino-Brescia\n incendio  a Allacciamento A21-A1 in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:03:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n incidente dalle 16:02 del 19 agosto 2026  tra Svincolo Canosa e Allacciamento A16 Napoli-Canosa  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:03:00 GMT"
-    },
-    {
-        "title": "Caserta Via Feudo di San Martino",
-        "description": "Caserta Via Feudo di San Martino\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:03:00 GMT"
-    },
-    {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 16:01 del 19 agosto 2026  tra Svincolo Trezzo e Svincolo Capriate  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:02:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 15:30 del 19 agosto 2026  tra Svincolo Boara e Svincolo Rovigo  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:02:00 GMT"
-    },
-    {
-        "title": "Corigliano-Rossano Via Imperia",
-        "description": "Corigliano-Rossano Via Imperia\n tratto chiuso causa manifestazione dalle 18:00 alle 23:59 del 21 agosto 2026  tra Via Napoli e Via Genova   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:02:00 GMT"
-    },
-    {
-        "title": "Caserta Via Eugenio Montale",
-        "description": "Caserta Via Eugenio Montale\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:00:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n code causa viabilità esterna non riceve dalle 15:59 del 19 agosto 2026  tra Svincolo Entrata Courmayeur Sud e Svincolo A05-SS26DIR  in direzione Monte Bianco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:00:00 GMT"
-    },
-    {
-        "title": "Venezia Via Angelo Toffoli",
-        "description": "Venezia Via Angelo Toffoli\n riduzione di carreggiata causa lavori dalle 00:01 del 24 alle 23:59 del 27 agosto 2026  a Via Francesco Da Mula  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 14:00:00 GMT"
-    },
-    {
-        "title": "Caserta Via Eduardo De Filippo",
-        "description": "Caserta Via Eduardo De Filippo\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:58:00 GMT"
-    },
-    {
-        "title": "Venezia Via Isacco Pesaro",
-        "description": "Venezia Via Isacco Pesaro\n riduzione di carreggiata dalle 00:01 del 24 alle 23:59 del 27 agosto 2026  a Via Odoardo Zen  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:58:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 15:55 del 19 agosto 2026  tra Svincolo Canosa e Allacciamento A16 Napoli-Canosa  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:57:00 GMT"
-    },
-    {
-        "title": "A56 Tangenziale Di Napoli",
-        "description": "A56 Tangenziale Di Napoli\n pedoni dalle 15:55 del 19 agosto 2026  a Barriera Napoli Est in direzione allacciamento diramazione Capodichino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:56:00 GMT"
-    },
-    {
-        "title": "Venezia Via Nicolò Tommaseo",
-        "description": "Venezia Via Nicolò Tommaseo\n riduzione di carreggiata causa lavori dalle 00:01 del 24 alle 23:59 del 27 agosto 2026  a Via Camillo Benso Conte di Cavour  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:56:00 GMT"
-    },
-    {
-        "title": "Caserta Via Claudio",
-        "description": "Caserta Via Claudio\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:56:00 GMT"
-    },
-    {
-        "title": "Venezia Via Pietro Paleocapa",
-        "description": "Venezia Via Pietro Paleocapa\n riduzione di carreggiata causa lavori dalle 00:01 del 24 alle 23:59 del 27 agosto 2026  tra Piazzale Guido e Bruno Parmesan e Via Vittorio Fossombroni   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:55:00 GMT"
-    },
-    {
-        "title": "Corigliano-Rossano Via Napoli",
-        "description": "Corigliano-Rossano Via Napoli\n tratto chiuso causa manifestazione dalle 18:00 alle 23:59 del 21 agosto 2026  tra Viale Salerno e Via Imperia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:55:00 GMT"
-    },
-    {
-        "title": "Caserta Via Carcas",
-        "description": "Caserta Via Carcas\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:54:00 GMT"
-    },
-    {
-        "title": "Caserta Via Campania",
-        "description": "Caserta Via Campania\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:52:00 GMT"
-    },
-    {
-        "title": "Poggio Rusco Via Abetone Brennero",
-        "description": "Poggio Rusco Via Abetone Brennero\n incidente  a Via Abetone Brennero  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:52:00 GMT"
-    },
-    {
-        "title": "Caserta Via Avellino",
-        "description": "Caserta Via Avellino\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:49:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code a tratti per 860 m causa traffico intenso  tra 5,203 km dopo Area di servizio  Bordighera e Barriera Di Ventimiglia  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:47:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code a tratti per 0 m causa traffico intenso  a Svincolo Ventimiglia in direzione In Entrata  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:47:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 15:44 del 19 agosto 2026  tra Svincolo Guidonia - Montecelio e Allacciamento Diramazione Roma Nord  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:47:00 GMT"
-    },
-    {
-        "title": "Caserta Via Assunta",
-        "description": "Caserta Via Assunta\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:47:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 15:42 del 19 agosto 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:46:00 GMT"
-    },
-    {
-        "title": "Caserta Via Antonio De Curtis",
-        "description": "Caserta Via Antonio De Curtis\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:45:00 GMT"
-    },
-    {
-        "title": "SP470(PG) di Poggiodomo",
-        "description": "SP470(PG) di Poggiodomo\n tratto chiuso causa manifestazione dalle 10:30 alle 11:30 del 23 agosto 2026  a Incrocio Poggiodomo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:44:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n personale su strada causa lavori dalle 15:41 del 19 agosto 2026  tra Svincolo Carnia e Svincolo Gemona-Osoppo  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:43:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n personale su strada causa lavori dalle 15:41 del 19 agosto 2026  tra Svincolo Gemona-Osoppo e Svincolo Carnia  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:43:00 GMT"
-    },
-    {
-        "title": "Caserta Via Acquaviva",
-        "description": "Caserta Via Acquaviva\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:43:00 GMT"
-    },
-    {
-        "title": "SS39 Del Passo Di Aprica",
-        "description": "SS39 Del Passo Di Aprica\n traffico bloccato causa incidente  a Incrocio Motta - SS550 Di Villa Di Tirano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:42:00 GMT"
-    },
-    {
-        "title": "SP58(CN) Cherasco-Novello",
-        "description": "SP58(CN) Cherasco-Novello\n senso unico alternato causa lavori dalle 00:01 del 24 agosto alle 23:59 del 6 ottobre 2026  tra Incrocio La Morra e Incrocio Novello   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:41:00 GMT"
-    },
-    {
-        "title": "Caserta Sottovia V. Nardelli",
-        "description": "Caserta Sottovia V. Nardelli\n processione dalle 07:30 alle 10:00 del 6 settembre 2026  a Viale Lincoln  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:40:00 GMT"
-    },
-    {
-        "title": "SP86(FI) Reggello-Tosi",
-        "description": "SP86(FI) Reggello-Tosi\n tratto chiuso causa lavori dalle 15:37 del 19 agosto 2026 alle 23:59 del 31 dicembre 2026  tra Incrocio SP88-Donnini e Incrocio SP85-Tosi   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 13:39:00 GMT"
     }
 ]
