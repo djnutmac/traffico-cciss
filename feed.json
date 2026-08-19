@@ -1,13 +1,223 @@
 [
     {
-        "title": "A33 Asti - Cuneo",
-        "description": "A33 Asti - Cuneo \n lavori  a Svincolo Cuneo Centro in direzione Asti   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 04:18:00 GMT"
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n perdita di carico causa perdita accidentale dalle 06:53 del 19 agosto 2026  tra Svincolo Candela e Svincolo Lacedonia  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:57:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n personale su strada causa rimozione ostacolo dalle 06:53 del 19 agosto 2026  tra Svincolo Candela e Svincolo Lacedonia  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:56:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n veicolo contromano dalle 06:53 del 19 agosto 2026  tra Svincolo Pontebba e Svincolo Malborghetto-Valbruna  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:56:00 GMT"
+    },
+    {
+        "title": "SS63 Del Valico Del Cerreto",
+        "description": "SS63 Del Valico Del Cerreto\n lavori di manutenzione  tra 169 m dopo Incrocio Rometta - SS446 Di Fosdinovo e 4,889 km prima di Incrocio Fivizzano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:56:00 GMT"
+    },
+    {
+        "title": "R32 Raccordo Viterbo-Terni (rato)",
+        "description": "R32 Raccordo Viterbo-Terni (rato)\n lavori di manutenzione  a Svincolo SS3 Ter Di Narni E S.Gemini in direzione Terni (rato)  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:56:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n perdita di carico dalle 06:51 del 19 agosto 2026  tra Svincolo Ronco Scrivia e Svincolo Isola Del Cantone  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:54:00 GMT"
+    },
+    {
+        "title": "Trento Via Andrea Pozzo",
+        "description": "Trento Via Andrea Pozzo\n transito temporaneamente sospeso causa manifestazione dalle 09:00 alle 16:00 del 23 agosto 2026  tra Via Roma e Via San Lorenzo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:54:00 GMT"
+    },
+    {
+        "title": "Trento Via Roma",
+        "description": "Trento Via Roma\n transito temporaneamente sospeso causa manifestazione dalle 09:00 alle 16:00 del 23 agosto 2026  tra Via Rodolfo Belenzani e Via Andrea Pozzo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:51:00 GMT"
+    },
+    {
+        "title": "Trento Via Rodolfo Belenzani",
+        "description": "Trento Via Rodolfo Belenzani\n transito temporaneamente sospeso causa manifestazione dalle 09:00 alle 16:00 del 23 agosto 2026  tra Piazza del Duomo e Via Roma   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:50:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n personale su strada causa lavori dalle 06:48 del 19 agosto 2026  tra Svincolo Sulmona-Pratola Peligna e Svincolo Pescina  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:49:00 GMT"
+    },
+    {
+        "title": "A1 Bologna-Firenze",
+        "description": "A1 Bologna-Firenze\n personale su strada causa lavori dalle 06:46 del 19 agosto 2026  a Svincolo Sasso Marconi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:49:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 06:08 del 19 agosto 2026  tra Svincolo Sesto San Giovanni-Viale Zara e Svincolo Cormano  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:49:00 GMT"
+    },
+    {
+        "title": "Roma Via del Teatro Marcello",
+        "description": "Roma Via del Teatro Marcello\n incidente possibili rallentamenti  a Via del Foro Olitorio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:48:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n personale su strada causa lavori dalle 06:45 del 19 agosto 2026  tra Barriera Di Teramo e Svincolo Colledara-San Gabriele  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:48:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 06:42 del 19 agosto 2026  tra Svincolo Collesalvetti\/Sgc Fi-Pi-Li e Svincolo Rosignano Marittimo  in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:48:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 06:45 del 19 agosto 2026  tra Svincolo Casale Monferrato Sud e Svincolo Alessandria Sud  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:47:00 GMT"
+    },
+    {
+        "title": "A1 Bologna-Firenze",
+        "description": "A1 Bologna-Firenze\n personale su strada causa lavori dalle 06:45 del 19 agosto 2026  a Svincolo Sasso Marconi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:47:00 GMT"
+    },
+    {
+        "title": "A24 Tratto Urbano",
+        "description": "A24 Tratto Urbano\n tratto chiuso causa lavori dalle 22:00 del 2 alle 23:00 del 28 agosto 2026  tra Svincolo Tangenziale Est e Svincolo Portonaccio - Galla Placidia  in direzione Allacciamento G.R.A.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:46:00 GMT"
+    },
+    {
+        "title": "A13 Raccordo Porto Garibaldi",
+        "description": "A13 Raccordo Porto Garibaldi\n veicolo fermo o in avaria dalle 06:42 del 19 agosto 2026  tra Svincolo A13 Bologna-Padova e Svincolo Ferrara-SS 16 Adriatica  in direzione Strada Statale 16 Adriatica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:46:00 GMT"
+    },
+    {
+        "title": "SS114 Orientale Sicula",
+        "description": "SS114 Orientale Sicula\n traffico rallentato causa lavori di manutenzione  a Incrocio Torre S.Anna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:46:00 GMT"
+    },
+    {
+        "title": "Trento Piazza del Duomo",
+        "description": "Trento Piazza del Duomo\n transito temporaneamente sospeso causa manifestazione dalle 09:00 alle 16:00 del 23 agosto 2026  tra Via Camillo Cavour e Via Rodolfo Belenzani   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:45:00 GMT"
+    },
+    {
+        "title": "TG-CT Tangenziale Di Catania",
+        "description": "TG-CT Tangenziale Di Catania\n lavori di manutenzione  a Svincolo Simeto - SS114 in direzione Svincolo Simeto - SS114  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:42:00 GMT"
+    },
+    {
+        "title": "SS268 Del Vesuvio",
+        "description": "SS268 Del Vesuvio\n traffico rallentato causa lavori di manutenzione  tra 2,213 km dopo Incrocio Sant Anastasia e 3,882 km prima di Incrocio Ottaviano  in direzione Incrocio Scafati  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:42:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 05:39 del 19 agosto 2026  tra Svincolo Vercelli Est e Allacciamento Diramazione Stroppiana-Santhia   in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:41:00 GMT"
+    },
+    {
+        "title": "Trento Via Rodolfo Belenzani",
+        "description": "Trento Via Rodolfo Belenzani\n transito temporaneamente sospeso causa manifestazione dalle 15:00 alle 16:15 del 22 agosto 2026  tra Via Giannantonio Manci e Piazza del Duomo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:41:00 GMT"
+    },
+    {
+        "title": "Trento Via Giannantonio Manci",
+        "description": "Trento Via Giannantonio Manci\n transito temporaneamente sospeso causa manifestazione dalle 15:00 alle 16:15 del 22 agosto 2026  a Via Rodolfo Belenzani  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:40:00 GMT"
     },
     {
         "title": "A24 Tratto Urbano",
         "description": "A24 Tratto Urbano\n code causa lavori dalle 06:14 del 19 agosto 2026  tra Svincolo Via Fiorentini e Svincolo Tangenziale Est  in direzione tangenziale Est  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 04:15:00 GMT"
+        "pubDate": "Wed, 19 Aug 2026 04:40:00 GMT"
+    },
+    {
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n veicolo in avaria  a Allacciamento A7 Milano-Genova in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:40:00 GMT"
+    },
+    {
+        "title": "Trento Piazza Cesare Battisti",
+        "description": "Trento Piazza Cesare Battisti\n transito temporaneamente sospeso causa manifestazione dalle 15:00 alle 16:15 del 22 agosto 2026  a Via Giannantonio Manci  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:38:00 GMT"
+    },
+    {
+        "title": "A35 BreBeMi",
+        "description": "A35 BreBeMi\n chiusura notturna, entrata chiusa causa tratto chiuso dalle 22:00 del 25 alle 05:00 del 27 agosto 2026  a Svincolo Calcio in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:38:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 06:33 del 19 agosto 2026  tra Allacciamento A4 Torino-Trieste e Svincolo Romagnano Sesia-Ghemme  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:36:00 GMT"
+    },
+    {
+        "title": "A58 Teem Tangenziale Esterna",
+        "description": "A58 Teem Tangenziale Esterna\n incidente causa imprecisate  a Svincolo A1 - Milano - Napoli in direzione Allacciamento A4 - Torino - Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:36:00 GMT"
+    },
+    {
+        "title": "Trento Via del Simonino",
+        "description": "Trento Via del Simonino\n transito temporaneamente sospeso causa manifestazione dalle 15:00 alle 16:15 del 22 agosto 2026  tra Via Oriola e Piazza Cesare Battisti   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:36:00 GMT"
+    },
+    {
+        "title": "A51 Tangenziale Est Di Milano",
+        "description": "A51 Tangenziale Est Di Milano\n veicolo in avaria  a Svincolo Via Mecenate: Ponte Lambro in direzione Svincolo Lecco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:36:00 GMT"
+    },
+    {
+        "title": "Trento Via Oriola",
+        "description": "Trento Via Oriola\n transito temporaneamente sospeso causa manifestazione dalle 15:00 alle 16:15 del 22 agosto 2026  a Via del Simonino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:34:00 GMT"
+    },
+    {
+        "title": "Trento Via Paolo Oss Mazzurana",
+        "description": "Trento Via Paolo Oss Mazzurana\n transito temporaneamente sospeso causa manifestazione dalle 15:00 alle 16:15 del 22 agosto 2026  a Via Oriola  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:32:00 GMT"
+    },
+    {
+        "title": "Trento Piazza Mario Pasi",
+        "description": "Trento Piazza Mario Pasi\n transito temporaneamente sospeso causa manifestazione dalle 15:00 alle 16:15 del 22 agosto 2026  tra Piazza del Duomo e Via Paolo Oss Mazzurana   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:30:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n personale su strada dalle 06:27 del 19 agosto 2026  tra Svincolo Entrata Courmayeur Sud e Svincolo Morgex (entrata Direzione Sud)  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:28:00 GMT"
+    },
+    {
+        "title": "SS292 Nord Occidentale Sarda",
+        "description": "SS292 Nord Occidentale Sarda\n traffico rallentato causa lavori di manutenzione  tra 18,743 km dopo Incrocio Padria - SS292Diramazione Nord Occ.Le Sarda e 14,047 km prima di Incrocio S.Caterina Di Pittinuri   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:28:00 GMT"
+    },
+    {
+        "title": "Trento Piazza del Duomo",
+        "description": "Trento Piazza del Duomo\n transito temporaneamente sospeso causa manifestazione dalle 15:00 alle 16:15 del 22 agosto 2026  tra Via Camillo Cavour e Via Rodolfo Belenzani   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:28:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n animali sulla strada dalle 06:25 del 19 agosto 2026  tra Svincolo L aquila Est e Svincolo Assergi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:27:00 GMT"
+    },
+    {
+        "title": "Trento Via Brescia",
+        "description": "Trento Via Brescia\n transito temporaneamente sospeso causa manifestazione dalle 20:00 alle 21:00 del 21 agosto 2026  tra Ponte di San Lorenzo e Lungadige Marco Apuleio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:25:00 GMT"
+    },
+    {
+        "title": "A14 Bari-Taranto",
+        "description": "A14 Bari-Taranto\n personale su strada causa lavori dalle 06:18 del 19 agosto 2026  tra Allacciamento Bari Nord - Raccordo Per La Tangenziale e Svincolo Bari Sud  in direzione Taranto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:20:00 GMT"
+    },
+    {
+        "title": "A33 Asti - Cuneo",
+        "description": "A33 Asti - Cuneo \n lavori  a Svincolo Cuneo Centro in direzione Asti   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Wed, 19 Aug 2026 04:18:00 GMT"
     },
     {
         "title": "SS10 Padana Inferiore",
@@ -25,19 +235,9 @@
         "pubDate": "Wed, 19 Aug 2026 04:10:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 06:08 del 19 agosto 2026  tra Svincolo Sesto San Giovanni-Viale Zara e Svincolo Cormano  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 04:09:00 GMT"
-    },
-    {
         "title": "A14 Pescara-Bari",
         "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 06:08 del 19 agosto 2026  tra Svincolo Foggia e Svincolo San Severo  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 04:09:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 06:07 del 19 agosto 2026  tra Svincolo Vasto Nord-Casalbordino e Svincolo Val Di Sangro  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 04:08:00 GMT"
     },
     {
         "title": "A1 Roma-Napoli",
@@ -60,21 +260,6 @@
         "pubDate": "Wed, 19 Aug 2026 04:06:00 GMT"
     },
     {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n perdita di carico dalle 06:05 del 19 agosto 2026  tra Svincolo San Miniato Basso e Svincolo Empoli Ovest  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 04:06:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n perdita di carico causa perdita accidentale dalle 05:48 del 19 agosto 2026  tra Svincolo Lacedonia e Svincolo Candela  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 04:06:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n perdita di carico dalle 05:57 del 19 agosto 2026  tra Svincolo Altedo e Svincolo Ferrara Sud  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 04:05:00 GMT"
-    },
-    {
         "title": "SS244 Di Val Badia",
         "description": "SS244 Di Val Badia\n senso unico alternato causa lavori dalle 08:00 del 24 agosto 2026 alle 18:00 del 25 settembre 2026  tra Incrocio Passo Di Campolongo e Incrocio Arabba - SS48 Delle Dolomiti   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 04:03:00 GMT"
@@ -88,11 +273,6 @@
         "title": "SS162 Della Valle Caudina",
         "description": "SS162 Della Valle Caudina\n traffico rallentato causa lavori di manutenzione  a Incrocio Frattamaggiore  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 03:58:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 05:56 del 19 agosto 2026  tra Svincolo Vignole Borbera e Svincolo Isola Del Cantone  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 03:57:00 GMT"
     },
     {
         "title": "SS162 Della Valle Caudina",
@@ -115,19 +295,9 @@
         "pubDate": "Wed, 19 Aug 2026 03:47:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 05:39 del 19 agosto 2026  tra Svincolo Vercelli Est e Allacciamento Diramazione Stroppiana-Santhia   in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 03:43:00 GMT"
-    },
-    {
         "title": "T4-TRF Fre Traforo Del Frejus",
         "description": "T4-TRF Fre Traforo Del Frejus\n chiusura notturna, galleria chiusa causa rimozione del cantiere dalle 04:30 del 20 alle 05:15 del 22 agosto 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 03:43:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 05:15 del 19 agosto 2026  tra Svincolo Valdichiana e Svincolo Monte San Savino  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 03:21:00 GMT"
     },
     {
         "title": "A26 Genova-Gravellona Toce",
@@ -135,19 +305,9 @@
         "pubDate": "Wed, 19 Aug 2026 02:59:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n ripristino incidente causa incidente dalle 04:50 del 19 agosto 2026  tra Svincolo Imola e Svincolo Castel S.Pietro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 02:52:00 GMT"
-    },
-    {
         "title": "A6 Torino-Savona",
         "description": "A6 Torino-Savona\n lavori  tra 3,9 km dopo Svincolo Niella Tanaro e 5,55 km prima di Svincolo Ceva  in direzione Savona  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Wed, 19 Aug 2026 02:06:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n incidente dalle 03:55 del 19 agosto 2026  tra Svincolo Imola e Svincolo Castel S.Pietro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Wed, 19 Aug 2026 02:04:00 GMT"
     },
     {
         "title": "A13 Bologna-Padova",
@@ -163,11 +323,6 @@
         "title": "SS18 Tirrena Inferiore",
         "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 23:08:00 GMT"
-    },
-    {
-        "title": "SS336dir dell Aeroporto della Malpensa",
-        "description": "SS336dir dell Aeroporto della Malpensa\n ripristino incidente causa incidente dalle 08:14 del 8 agosto 2026  a Terminal 1 - Aeroporto Malpensa in direzione da Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 22:00:00 GMT"
     },
     {
         "title": "T4-TRF Fre Traforo Del Frejus",
@@ -238,11 +393,6 @@
         "title": "SS1 Via Aurelia",
         "description": "SS1 Via Aurelia\n divieto di circolazione dei mezzi  con peso superiore a 7,5 tonnellate causa misure di sicurezza dalle 00:01 del 16 aprile alle 23:59 del 15 dicembre 2026  tra Incrocio Montenero e Incrocio Quercianella - SS1 Var   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 17:13:00 GMT"
-    },
-    {
-        "title": "A24 Tratto Urbano",
-        "description": "A24 Tratto Urbano\n tratto chiuso causa lavori dalle 22:00 del 2 alle 23:00 del 28 agosto 2026  tra Svincolo Tangenziale Est e Svincolo Portonaccio - Galla Placidia  in direzione Allacciamento G.R.A.  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 16:57:00 GMT"
     },
     {
         "title": "A15 Parma-La Spezia",
@@ -348,155 +498,5 @@
         "title": "SP213dir",
         "description": "SP213dir\n tratto chiuso causa lavori dalle 06:00 del 24 agosto 2026 alle 16:00 del 4 settembre 2026  a Comano Terme  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 18 Aug 2026 14:48:00 GMT"
-    },
-    {
-        "title": "Taranto Via Lago Maggiore",
-        "description": "Taranto Via Lago Maggiore\n strada chiusa causa manifestazione dalle 13:00 alle 23:59 del 21 agosto 2026  tra Rondò Anna Fougez e Via Erasmo Iacovone   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:46:00 GMT"
-    },
-    {
-        "title": "Taranto Via Lago Maggiore",
-        "description": "Taranto Via Lago Maggiore\n strada chiusa causa manifestazione dalle 13:00 alle 23:59 del 21 agosto 2026  tra Via Lago di Como e Via Golfo di Taranto   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:44:00 GMT"
-    },
-    {
-        "title": "SP79(TN) Imer-Castello Tesino",
-        "description": "SP79(TN) Imer-Castello Tesino\n tratto chiuso causa lavori dalle 17:30 del 22 alle 23:59 del 23 agosto 2026  tra Incrocio SP80-Lausen Galleria Totogna e Incrocio Canal San Bovo   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:42:00 GMT"
-    },
-    {
-        "title": "Taranto Via Giuseppe Scotti",
-        "description": "Taranto Via Giuseppe Scotti\n strada chiusa causa manifestazione dalle 13:00 alle 23:59 del 21 agosto 2026  tra Via Erasmo Iacovone e Via Lago Maggiore   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:41:00 GMT"
-    },
-    {
-        "title": "LS\/SP9",
-        "description": "LS\/SP9 \n senso unico alternato causa lavori dalle 07:00 del 24 alle 19:00 del 25 agosto 2026  tra LS\/SP41 e Unterpichl   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:40:00 GMT"
-    },
-    {
-        "title": "Taranto Via Erasmo Iacovone",
-        "description": "Taranto Via Erasmo Iacovone\n strada chiusa causa manifestazione dalle 13:00 alle 23:59 del 21 agosto 2026  tra Via Lago di Como e Via Lago Maggiore   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:39:00 GMT"
-    },
-    {
-        "title": "Taranto Viale Maestri del Lavoro",
-        "description": "Taranto Viale Maestri del Lavoro\n strada chiusa causa manifestazione dalle 13:00 alle 23:59 del 21 agosto 2026  tra Via Ancona e Via Erasmo Iacovone   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:36:00 GMT"
-    },
-    {
-        "title": "Taranto Via Ancona",
-        "description": "Taranto Via Ancona\n strada chiusa causa manifestazione dalle 13:00 alle 23:59 del 21 agosto 2026  tra Viale Unità d Italia e Viale Trentino   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:34:00 GMT"
-    },
-    {
-        "title": "Taranto Via Lago Maggiore",
-        "description": "Taranto Via Lago Maggiore\n strada chiusa causa manifestazione dalle 06:00 alle 23:59 del 21 agosto 2026  tra Via Lago di Como e Via Erasmo Iacovone   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:31:00 GMT"
-    },
-    {
-        "title": "Taranto Via Erasmo Iacovone",
-        "description": "Taranto Via Erasmo Iacovone\n strada chiusa causa manifestazione dalle 06:00 alle 23:59 del 21 agosto 2026  tra Viale Maestri del Lavoro e Via Lago di Como   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:29:00 GMT"
-    },
-    {
-        "title": "Taranto Ponte San Francesco Da Paola",
-        "description": "Taranto Ponte San Francesco Da Paola\n strada chiusa causa manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  a Piazza Fontana  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:27:00 GMT"
-    },
-    {
-        "title": "Taranto Piazza Fontana",
-        "description": "Taranto Piazza Fontana\n strada chiusa causa manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  tra Via Cariati e Ponte San Francesco Da Paola   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:24:00 GMT"
-    },
-    {
-        "title": "Taranto Via Cariati",
-        "description": "Taranto Via Cariati\n strada chiusa causa manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  tra Via Garibaldi e Piazza Fontana   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:21:00 GMT"
-    },
-    {
-        "title": "Taranto Via Garibaldi",
-        "description": "Taranto Via Garibaldi\n strada chiusa causa manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  tra Scesa Vasto e Via Cariati   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:16:00 GMT"
-    },
-    {
-        "title": "Taranto Scesa Vasto",
-        "description": "Taranto Scesa Vasto\n strada chiusa causa manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  tra Piazza Castello e Via Garibaldi   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:13:00 GMT"
-    },
-    {
-        "title": "A6 Torino-Savona",
-        "description": "A6 Torino-Savona\n lavori  tra 1,7 km prima di Allacciamento A06 - A33 e 3,7 km dopo Svincolo Fossano  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:07:00 GMT"
-    },
-    {
-        "title": "Taranto Piazza Municipio",
-        "description": "Taranto Piazza Municipio\n manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  a Piazza Castello  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:04:00 GMT"
-    },
-    {
-        "title": "Taranto Piazza Castello",
-        "description": "Taranto Piazza Castello\n strada chiusa causa manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  tra Piazza Municipio e Scesa Vasto   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:02:00 GMT"
-    },
-    {
-        "title": "Ravenna Via Armando Diaz",
-        "description": "Ravenna Via Armando Diaz\n manifestazione dalle 20:00 alle 21:30 del 25 agosto 2026  a Piazza Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:01:00 GMT"
-    },
-    {
-        "title": "Ravenna Piazza Giuseppe Garibaldi",
-        "description": "Ravenna Piazza Giuseppe Garibaldi\n strada chiusa causa manifestazione dalle 20:00 alle 21:30 del 25 agosto 2026  tra Via Armando Diaz e Piazza del Popolo   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:00:00 GMT"
-    },
-    {
-        "title": "Taranto Vico Municipio",
-        "description": "Taranto Vico Municipio\n manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  a Corso Vittorio Emanuele II  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 14:00:00 GMT"
-    },
-    {
-        "title": "Taranto Via San Francesco",
-        "description": "Taranto Via San Francesco\n manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  a Corso Vittorio Emanuele II  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 13:58:00 GMT"
-    },
-    {
-        "title": "Taranto Arco Giovanni Paisiello",
-        "description": "Taranto Arco Giovanni Paisiello\n manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  a Corso Vittorio Emanuele II  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 13:56:00 GMT"
-    },
-    {
-        "title": "Taranto Vico San Pietro",
-        "description": "Taranto Vico San Pietro\n manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  a Corso Vittorio Emanuele II  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 13:54:00 GMT"
-    },
-    {
-        "title": "SS49 Della Pusteria",
-        "description": "SS49 Della Pusteria\n chiusura notturna, tratto chiuso causa lavori dalle 20:00 del 9 alle 06:00 del 25 settembre 2026  tra Incrocio Sciaves - SS49 Bis Della Pusteria e Incrocio Vandoies Di Sopra   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 13:54:00 GMT"
-    },
-    {
-        "title": "Taranto Via Porto",
-        "description": "Taranto Via Porto\n manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  a Corso Vittorio Emanuele II  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 13:52:00 GMT"
-    },
-    {
-        "title": "Taranto Arco Cito",
-        "description": "Taranto Arco Cito\n manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  a Corso Vittorio Emanuele II  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 13:49:00 GMT"
-    },
-    {
-        "title": "Taranto Corso Vittorio Emanuele II",
-        "description": "Taranto Corso Vittorio Emanuele II\n strada chiusa causa manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  tra Ponte di Pietra e Piazza Municipio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 13:47:00 GMT"
-    },
-    {
-        "title": "Trento Ponte di San Lorenzo",
-        "description": "Trento Ponte di San Lorenzo\n transito temporaneamente sospeso causa manifestazione dalle 20:00 alle 21:00 del 21 agosto 2026  tra Via San Lorenzo e Via Brescia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 13:45:00 GMT"
-    },
-    {
-        "title": "Taranto Piazza Fontana",
-        "description": "Taranto Piazza Fontana\n manifestazione dalle 16:00 alle 20:00 del 21 agosto 2026  a Ponte di Pietra  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 18 Aug 2026 13:44:00 GMT"
     }
 ]
