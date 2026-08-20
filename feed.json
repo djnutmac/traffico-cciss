@@ -1,5 +1,50 @@
 [
     {
+        "title": "A8 Milano-Varese",
+        "description": "A8 Milano-Varese\n personale su strada causa lavori dalle 01:54 del 21 agosto 2026  tra Svincolo Lainate e Svincolo Legnano  in direzione Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 23:56:00 GMT"
+    },
+    {
+        "title": "SP57\/A  CASTELL ALFERO (AT)",
+        "description": "SP57\/A  CASTELL ALFERO (AT)\n senso unico alternato causa lavori dalle 07:00 del 24 agosto 2026  a Via Asti  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 23:54:00 GMT"
+    },
+    {
+        "title": "SS166 Degli Alburni",
+        "description": "SS166 Degli Alburni\n traffico rallentato causa materiali dispersi  a Incrocio Rocca D aspide - SS488 Di Rocca D aspide  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 23:54:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 01:48 del 21 agosto 2026  tra Svincolo Guidonia - Montecelio e Allacciamento A24 Roma-Teramo  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 23:50:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n pedoni dalle 01:43 del 21 agosto 2026  tra Allacciamento A24 Roma-Teramo e Allacciamento Diramazione Roma Sud  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 23:44:00 GMT"
+    },
+    {
+        "title": "SP38(AT) Asti-Casorzo",
+        "description": "SP38(AT) Asti-Casorzo\n senso unico alternato causa lavori dalle 07:00 del 24 agosto 2026  tra Incrocio SP29-Grana e Incrocio SP30-Casorzo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 23:42:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n incidente dalle 01:37 del 21 agosto 2026  tra Svincolo Isola Del Cantone e Svincolo Vignole Borbera  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 23:38:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 01:35 del 21 agosto 2026  tra Svincolo Val Di Sangro e Svincolo Vasto Nord-Casalbordino  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 23:37:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 01:29 del 21 agosto 2026  tra Svincolo San Vittore e Svincolo Caianello  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 23:36:00 GMT"
+    },
+    {
         "title": "A14 Bologna-Ancona",
         "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 01:31 del 21 agosto 2026  tra Allacciamento Ramo Casalecchio e Svincolo Bologna Borgo Panigale  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 23:33:00 GMT"
@@ -8,11 +53,6 @@
         "title": "A14 Bologna-Ancona",
         "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 01:31 del 21 agosto 2026  tra Svincolo Bologna Fiera e Allacciamento Ramo Casalecchio  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 23:32:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 01:29 del 21 agosto 2026  tra Svincolo San Vittore e Svincolo Caianello  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 23:31:00 GMT"
     },
     {
         "title": "SS454 Di Pozzuolo",
@@ -30,11 +70,6 @@
         "pubDate": "Thu, 20 Aug 2026 23:14:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 00:45 del 21 agosto 2026  tra Svincolo Colleferro e Svincolo Valmontone  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 23:14:00 GMT"
-    },
-    {
         "title": "SP26(AT) Portacomaro-Arobbio",
         "description": "SP26(AT) Portacomaro-Arobbio\n tratto chiuso causa lavori dalle 08:00 del 27 alle 18:30 del 29 agosto 2026  tra Incrocio Refrancore e Incrocio SP29-Arobbio   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 23:14:00 GMT"
@@ -48,16 +83,6 @@
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 01:09 del 21 agosto 2026  tra Svincolo Asse Mediano e Allacciamento A16 Napoli-Canosa  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 23:10:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n personale su strada dalle 01:09 del 21 agosto 2026  a Svincolo Montecatini in direzione da Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 23:10:00 GMT"
-    },
-    {
-        "title": "R06 Raccordo Bettolle-Perugia",
-        "description": "R06 Raccordo Bettolle-Perugia\n incidente  a Svincolo Perugia Stadio-Madonna Alta in direzione Raccordo Bettolle  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 23:08:00 GMT"
     },
     {
         "title": "Venezia Via Terraglio",
@@ -113,11 +138,6 @@
         "title": "SP69(TO) di Quincinetto",
         "description": "SP69(TO) di Quincinetto\n tratto chiuso causa lavori dalle 21:00 del 26 alle 05:00 del 29 agosto 2026  tra Incrocio SS565-Ivrea e Incrocio Fiorano Canavese   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 22:40:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n incidente dalle 00:28 del 21 agosto 2026  tra Svincolo Capua e Svincolo Santa Maria Capua Vetere  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 22:30:00 GMT"
     },
     {
         "title": "A1 Firenze-Roma",
@@ -478,25 +498,5 @@
         "title": "A2 Autostrada del Mediterraneo",
         "description": "A2 Autostrada del Mediterraneo\n materiali dispersi  tra 210 m prima di Svincolo Buonabitacolo-Padula e 11,149 km dopo Area di servizio  Sala Consilina  in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 17:30:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 12,95 km prima di Svincolo Pontremoli e 7,3 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 17:25:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 17:25:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 17:25:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n entrata chiusa causa allagamento  a Svincolo Chivasso in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 17:23:00 GMT"
     }
 ]
