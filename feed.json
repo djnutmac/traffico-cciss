@@ -1,22 +1,422 @@
 [
     {
-        "title": "A4 Venezia-Trieste",
-        "description": "A4 Venezia-Trieste\n code a tratti causa traffico intenso  tra 11,8 km prima di Allacciamento A28 Portogruaro-Pordenone e 3,1 km dopo Svincolo Cessalto  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:48:00 GMT"
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 11:59 del 20 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Castel S.Pietro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:16:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 12:15 del 20 agosto 2026  tra Svincolo Marotta-Mondolfo e Svincolo Senigallia  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:16:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 11:50 del 20 agosto 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Canosa  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:16:00 GMT"
+    },
+    {
+        "title": "Cuneo Via Torre Bianca",
+        "description": "Cuneo Via Torre Bianca\n manifestazione dalle 14:00 alle 23:59 del 31 agosto 2026  a Via della Abbazia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:16:00 GMT"
+    },
+    {
+        "title": "SS162 Della Valle Caudina",
+        "description": "SS162 Della Valle Caudina\n traffico rallentato causa incidente  a Incrocio Frattamaggiore in direzione Incrocio Lago Di Patria - SS7 Quater Via Domiziana  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:16:00 GMT"
+    },
+    {
+        "title": "SS340 Regina",
+        "description": "SS340 Regina\n frana  a Incrocio Colonno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:16:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n code causa incidente dalle 11:39 del 20 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Imola  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:15:00 GMT"
+    },
+    {
+        "title": "A14 Bari-Taranto",
+        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 12:13 del 20 agosto 2026  tra Svincolo Acquaviva Delle Fonti e Svincolo Gioia Del Colle  in direzione Taranto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:15:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 12:14 del 20 agosto 2026  tra Svincolo Valmontone e Svincolo Colleferro  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:15:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n code causa veicolo fermo o in avaria dalle 12:01 del 20 agosto 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:14:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 12:12 del 20 agosto 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:14:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 12:13 del 20 agosto 2026  tra Svincolo Caianello e Svincolo San Vittore  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:14:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n code causa incidente dalle 11:03 del 20 agosto 2026  tra Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio e Svincolo Cesena  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:14:00 GMT"
+    },
+    {
+        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
+        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 14:08 del 20 agosto 2026  a Svincolo Piazzale Lato Francese in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:14:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n perdita di carico causa perdita accidentale dalle 12:09 del 20 agosto 2026  tra Svincolo Ortona e Svincolo Lanciano  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:14:00 GMT"
+    },
+    {
+        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
+        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 14:09 del 20 agosto 2026  a Svincolo Piazzale Lato Italiano in direzione Chamonix  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:14:00 GMT"
+    },
+    {
+        "title": "SS372 Telesina",
+        "description": "SS372 Telesina\n traffico rallentato causa lavori di manutenzione  a Incrocio S.Salvatore Telesino in direzione Incrocio Masseria Olivola - SS88 Dei Due Principati  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:14:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n impianto di distribuzione carburante chiuso dalle 12:11 del 20 agosto 2026  a Area di servizio  Murge in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:13:00 GMT"
+    },
+    {
+        "title": "SS12 Dell abetone E Del Brennero",
+        "description": "SS12 Dell abetone E Del Brennero\n corsia chiusa causa incidente  a Incrocio Pianosinatico in direzione Incrocio Passo Del Brennero\/Confine Con L austria  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:12:00 GMT"
+    },
+    {
+        "title": "SS12 Dell abetone E Del Brennero",
+        "description": "SS12 Dell abetone E Del Brennero\n traffico rallentato causa lavori di manutenzione  a Incrocio Villa Poma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:12:00 GMT"
+    },
+    {
+        "title": "SS456 Del Turchino",
+        "description": "SS456 Del Turchino\n frana  a Incrocio Campoligure  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:12:00 GMT"
+    },
+    {
+        "title": "Cuneo Via Don Costanzo Costamagna",
+        "description": "Cuneo Via Don Costanzo Costamagna\n manifestazione dalle 14:00 alle 23:59 del 31 agosto 2026  a Via della Abbazia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:12:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 12:09 del 20 agosto 2026  tra Svincolo Sulmona-Pratola Peligna e Svincolo Cocullo  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:11:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 12:08 del 20 agosto 2026  tra Svincolo Isola Del Cantone e Svincolo Serravalle Scrivia  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:10:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 12:04 del 20 agosto 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Canosa  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:10:00 GMT"
+    },
+    {
+        "title": "Lecce Piazza Indipendenza",
+        "description": "Lecce Piazza Indipendenza\n transito temporaneamente sospeso causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via Tevere e Via Garigliano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:10:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n veicolo in avaria  a Svincolo Altare in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:09:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 12:06 del 20 agosto 2026  tra Svincolo Carnia e Svincolo Pontebba  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:09:00 GMT"
+    },
+    {
+        "title": "Cuneo Via Rocca",
+        "description": "Cuneo Via Rocca\n manifestazione dalle 14:00 alle 23:59 del 31 agosto 2026  a Via della Abbazia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:09:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n incidente dalle 11:03 del 20 agosto 2026  tra Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio e Svincolo Cesena  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:08:00 GMT"
+    },
+    {
+        "title": "A55 Tangenziale Sud Di Torino",
+        "description": "A55 Tangenziale Sud Di Torino\n lavori  a Svincolo Corso Allamano in direzione Allacciamento Interconnessione Tangenziale Nord  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:08:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n animali morti  a Svincolo Spotorno in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:08:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n pioggia  tra Svincolo Berceto e Svincolo Aulla   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:08:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 16,1 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:08:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 14,52 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:08:00 GMT"
     },
     {
         "title": "A4 Venezia-Trieste",
-        "description": "A4 Venezia-Trieste\n code causa traffico intenso  tra 4,9 km dopo Svincolo S. Dona  Di Piave e 4,1 km prima di Svincolo S. Stino Di Livenza  in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:48:00 GMT"
+        "description": "A4 Venezia-Trieste\n code causa traffico intenso  tra 4,9 km dopo Svincolo S. Dona  Di Piave e Svincolo Cessalto  in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n veicolo fermo o in avaria dalle 12:04 del 20 agosto 2026  a Svincolo Zona Ospedaliera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n code causa lavori dalle 10:30 del 20 agosto 2026  tra Svincolo Busalla e Svincolo Isola Del Cantone  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 12:05 del 20 agosto 2026  tra Allacciamento Diramazione Stroppiana-Santhia  e Svincolo Vercelli Est  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 12:01 del 20 agosto 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo Masone  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n perdita di carico causa perdita accidentale dalle 12:01 del 20 agosto 2026  tra Allacciamento Interconnessione A21 e Svincolo Brescia Ovest  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n perdita di carico dalle 11:57 del 20 agosto 2026  tra Svincolo Riccione e Svincolo Rimini Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n perdita di carico dalle 12:02 del 20 agosto 2026  tra Svincolo Ortona e Svincolo Lanciano  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n code a tratti causa traffico intenso dalle 12:04 del 20 agosto 2026  tra Svincolo Vasto Sud e Svincolo Val Di Sangro  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 11:58 del 20 agosto 2026  tra Svincolo Chiusi-Chianciano e Svincolo Valdichiana  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada dalle 12:05 del 20 agosto 2026  tra Svincolo Treviso Nord e Allacciamento A28 Venezia-Belluno  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "Cuneo Via dell Abbazia",
+        "description": "Cuneo Via dell Abbazia\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 31 agosto 2026  tra Via Rocca e SP589   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n veicolo in panne  tra Svincolo Gropello Cairoli e Svincolo Casei Gerola  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n incidente dalle 12:02 del 20 agosto 2026  tra Allacciamento Fano - Raccordo Per Fossombrone e Svincolo Pesaro-Urbino  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:06:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n code causa veicolo fermo o in avaria dalle 10:26 del 20 agosto 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Canosa  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:06:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 12:02 del 20 agosto 2026  tra Svincolo Treviso Nord e Allacciamento A28 Venezia-Belluno  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:06:00 GMT"
+    },
+    {
+        "title": "A2 Autostrada del Mediterraneo",
+        "description": "A2 Autostrada del Mediterraneo\n code causa veicolo in fiamme  a Svincolo Lamezia Terme in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:06:00 GMT"
+    },
+    {
+        "title": "Lecce Via Adige",
+        "description": "Lecce Via Adige\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Tevere  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:06:00 GMT"
+    },
+    {
+        "title": "LS\/SP81",
+        "description": "LS\/SP81 \n tratto chiuso causa lavori dalle 07:00 alle 17:00 del 2 settembre 2026  tra LS\/SP81 e Einsbergstraße - Via Einsberg   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:05:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicoli lenti dalle 12:02 del 20 agosto 2026  tra Svincolo Prato Est e Svincolo Prato Ovest  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:04:00 GMT"
+    },
+    {
+        "title": "Cuneo Via Rocca",
+        "description": "Cuneo Via Rocca\n manifestazione dalle 14:00 alle 23:59 del 30 agosto 2026  a Via della Abbazia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:04:00 GMT"
+    },
+    {
+        "title": "Lecce Via Po",
+        "description": "Lecce Via Po\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Tevere  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:03:00 GMT"
+    },
+    {
+        "title": "A9 Lainate-Chiasso",
+        "description": "A9 Lainate-Chiasso\n code dalle 12:00 del 20 agosto 2026  tra Svincolo Como Monte Olimpino e Svincolo Lago di Como  in direzione Svizzera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:02:00 GMT"
+    },
+    {
+        "title": "SS131 Carlo Felice",
+        "description": "SS131 Carlo Felice\n carreggiata chiusa causa incidente  a Incrocio S.Giusta - SS292 Nord Occ. Sarda in direzione Incrocio Cagliari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:02:00 GMT"
+    },
+    {
+        "title": "SR214 Maria E Isola Casamari",
+        "description": "SR214 Maria E Isola Casamari\n riduzione di carreggiata causa lavori dalle 06:00 del 24 agosto 2026 alle 17:00 del 29 ottobre 2026  tra Incrocio Stazione - Cartiera e Incrocio Castelliri   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:02:00 GMT"
+    },
+    {
+        "title": "Atzara Piazza Parrocchia",
+        "description": "Atzara Piazza Parrocchia\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 22 agosto 2026  a Via San Giacomo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:01:00 GMT"
+    },
+    {
+        "title": "Lecce Piazza Monsignor Vito De Grisantis",
+        "description": "Lecce Piazza Monsignor Vito De Grisantis\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Tevere  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:01:00 GMT"
+    },
+    {
+        "title": "Cuneo Via dell Abbazia",
+        "description": "Cuneo Via dell Abbazia\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 30 agosto 2026  tra Via Rocca e SP589   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 10:00:00 GMT"
+    },
+    {
+        "title": "A8 Diramazione Per Gallarate-Gattico",
+        "description": "A8 Diramazione Per Gallarate-Gattico\n veicolo fermo o in avaria dalle 11:54 del 20 agosto 2026  tra Svincolo Besnate e Barriera Di Gallarate Ovest  in direzione autostrada Milano-Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:59:00 GMT"
+    },
+    {
+        "title": "Atzara Via Sant Antioco",
+        "description": "Atzara Via Sant Antioco\n processione dalle 17:00 alle 20:00 del 22 agosto 2026  tra Via San Giorgio e Piazza Parrocchia   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:59:00 GMT"
+    },
+    {
+        "title": "Lecce Via Tevere",
+        "description": "Lecce Via Tevere\n transito temporaneamente sospeso causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via Sele e Piazza Indipendenza   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:59:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n incidente dalle 11:37 del 20 agosto 2026  tra Svincolo Castel S.Pietro e Svincolo Imola  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:58:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 11:53 del 20 agosto 2026  tra Svincolo Ovada e Svincolo Masone  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:57:00 GMT"
+    },
+    {
+        "title": "S04 S.S.V. Sora-Atina-Cassino",
+        "description": "S04 S.S.V. Sora-Atina-Cassino\n senso unico alternato dalle 06:00 del 24 agosto 2026 alle 17:00 del 29 ottobre 2026  tra Svincolo Settignano Di Atina e Svincolo Atina Superiore   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:57:00 GMT"
+    },
+    {
+        "title": "Lecce Via Sele",
+        "description": "Lecce Via Sele\n transito temporaneamente sospeso causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via Isonzo e Via Tevere   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:56:00 GMT"
+    },
+    {
+        "title": "Roma Piazzale della Farnesina",
+        "description": "Roma Piazzale della Farnesina\n incidente traffico rallentato  a Viale Antonino di San Giuliano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:56:00 GMT"
+    },
+    {
+        "title": "Sannazzaro de  Burgondi Via Pavia",
+        "description": "Sannazzaro de  Burgondi Via Pavia\n incidente che coinvolge  motociclette  a Via Pavia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:55:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n perdita di carico dalle 11:53 del 20 agosto 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:55:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n perdita di carico causa perdita accidentale dalle 11:52 del 20 agosto 2026  tra Allacciamento A1 Sud\/Diramazione Capodichino e Svincolo Centro Direzionale  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:55:00 GMT"
+    },
+    {
+        "title": "Atzara Via Regina Margherita",
+        "description": "Atzara Via Regina Margherita\n processione dalle 17:00 alle 20:00 del 22 agosto 2026  a Via San Giacomo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:55:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 11:46 del 20 agosto 2026  tra Svincolo Ferentino e Svincolo Anagni - Fiuggi  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:53:00 GMT"
+    },
+    {
+        "title": "Atzara Via San Giacomo",
+        "description": "Atzara Via San Giacomo\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 22 agosto 2026  tra Via Sandro Pertini e Piazza Parrocchia   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:53:00 GMT"
+    },
+    {
+        "title": "Lecce Via Isonzo",
+        "description": "Lecce Via Isonzo\n transito temporaneamente sospeso causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via Bradano e Via Sele   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:53:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 11:47 del 20 agosto 2026  tra Svincolo Montecatini e Svincolo Pistoia  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:52:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 11:45 del 20 agosto 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:52:00 GMT"
+    },
+    {
+        "title": "SP34 Via Altavilla",
+        "description": "SP34 Via Altavilla\n riduzione di carreggiata causa lavori dalle 00:01 del 24 agosto alle 23:59 del 4 settembre 2026  tra Via Tabernulae e Via Vicenza   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:52:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n perdita di carico causa perdita accidentale dalle 11:49 del 20 agosto 2026  tra Svincolo Prato Est e Svincolo Prato Ovest  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:51:00 GMT"
+    },
+    {
+        "title": "Lecce Via Bradano",
+        "description": "Lecce Via Bradano\n transito temporaneamente sospeso causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via Agri e Via Isonzo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Thu, 20 Aug 2026 09:51:00 GMT"
     },
     {
         "title": "Avellino Via Pellegrino Pellecchia",
         "description": "Avellino Via Pellegrino Pellecchia\n partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  a Via Carlo Nazzaro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:48:00 GMT"
-    },
-    {
-        "title": "SS16 Adriatica",
-        "description": "SS16 Adriatica\n incidente  a Incrocio Fasano in direzione Incrocio Otranto - SS173 Delle Terme Salentine  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 09:48:00 GMT"
     },
     {
@@ -25,18 +425,8 @@
         "pubDate": "Thu, 20 Aug 2026 09:48:00 GMT"
     },
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 11:45 del 20 agosto 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:47:00 GMT"
-    },
-    {
         "title": "Calvisano Via Rovata",
         "description": "Calvisano Via Rovata\n incidente  a Via Brignedolo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:47:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n lavori  tra Svincolo Baggio-Cusago: Via Zurigo-Zona Ind. e Svincolo Settimo Milanese-SS11: S.Siro-Fiera  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 09:47:00 GMT"
     },
     {
@@ -50,18 +440,13 @@
         "pubDate": "Thu, 20 Aug 2026 09:46:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 11:43 del 20 agosto 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:45:00 GMT"
-    },
-    {
         "title": "A14 Pescara-Bari",
         "description": "A14 Pescara-Bari\n perdita di carico dalle 11:43 del 20 agosto 2026  tra Svincolo Vasto Sud e Svincolo Vasto Nord-Casalbordino  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 09:45:00 GMT"
     },
     {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n code causa veicolo in fiamme dalle 10:26 del 20 agosto 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Canosa  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 11:43 del 20 agosto 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 09:45:00 GMT"
     },
     {
@@ -78,26 +463,6 @@
         "title": "Atzara Via Sandro Pertini",
         "description": "Atzara Via Sandro Pertini\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 22 agosto 2026  tra Via Molinu e Via San Giacomo   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 09:44:00 GMT"
-    },
-    {
-        "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 11:42 del 20 agosto 2026  tra Svincolo Treviso Nord e Allacciamento A28 Venezia-Belluno  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:43:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code causa incidente dalle 11:39 del 20 agosto 2026  tra Svincolo Bologna San Lazzaro e Svincolo Imola  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:42:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n veicolo fermo o in avaria dalle 11:41 del 20 agosto 2026  tra Allacciamento A10 Genova-Ventimiglia e Allacciamento A12 Genova-Rosignano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:42:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicoli lenti dalle 11:40 del 20 agosto 2026  tra Svincolo Lanciano e Svincolo Val Di Sangro  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:42:00 GMT"
     },
     {
         "title": "Atzara Via Padre Scanu",
@@ -126,11 +491,6 @@
     },
     {
         "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n incidente dalle 11:37 del 20 agosto 2026  tra Svincolo Castel S.Pietro e Svincolo Imola  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:39:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
         "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 11:36 del 20 agosto 2026  tra Svincolo Castel S.Pietro e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 09:39:00 GMT"
     },
@@ -138,365 +498,5 @@
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 11:37 del 20 agosto 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Thu, 20 Aug 2026 09:39:00 GMT"
-    },
-    {
-        "title": "Atzara Via Molinu",
-        "description": "Atzara Via Molinu\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 22 agosto 2026  tra Via Papa Giovanni XXIII e Via Sandro Pertini   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:38:00 GMT"
-    },
-    {
-        "title": "Avellino Via Pellegrino Pellecchia",
-        "description": "Avellino Via Pellegrino Pellecchia\n partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  a Via Sinibaldo Tino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:38:00 GMT"
-    },
-    {
-        "title": "Avellino Via Alfonso Carpentieri",
-        "description": "Avellino Via Alfonso Carpentieri\n partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  a Via Sinibaldo Tino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:37:00 GMT"
-    },
-    {
-        "title": "A3 Napoli-Salerno",
-        "description": "A3 Napoli-Salerno\n veicolo fermo o in avaria dalle 11:36 del 20 agosto 2026  tra Svincolo Torre Del Greco e Svincolo Ercolano-Portici  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:37:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 11:31 del 20 agosto 2026  tra Svincolo Grottaminarda e Svincolo Benevento - Raccordo Di Benevento  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:37:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 11:30 del 20 agosto 2026  tra Svincolo Livorno - Raccordo Per Livorno e Svincolo Collesalvetti\/Sgc Fi-Pi-Li  in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:36:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n code causa traffico intenso dalle 10:44 del 20 agosto 2026  a Barriera Di Ugovizza-Tarvisio in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:36:00 GMT"
-    },
-    {
-        "title": "Bruneck - Brunico Andreas-Hofer-Straße",
-        "description": "Bruneck - Brunico Andreas-Hofer-Straße\n senso unico alternato causa lavori dalle 19:00 del 13 alle 05:00 del 14 ottobre 2026  tra Andreas-Hofer-Straße e Stuckstraße - Via Stuck   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:36:00 GMT"
-    },
-    {
-        "title": "Avellino Via Sinibaldo Tino",
-        "description": "Avellino Via Sinibaldo Tino\n strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  tra Via Alfonso Carpentieri e Via Carlo Nazzaro   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:35:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n materiali dispersi  a Svincolo Versilia in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:35:00 GMT"
-    },
-    {
-        "title": "A33 Asti - Cuneo",
-        "description": "A33 Asti - Cuneo \n lavori  a Svincolo Cuneo Centro in direzione Asti   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:35:00 GMT"
-    },
-    {
-        "title": "SS308 Di Fondo Valle Taro",
-        "description": "SS308 Di Fondo Valle Taro\n lavori di manutenzione  a Incrocio Staz. Di Valmozzola in direzione Incrocio Groppo S.Giovanni - SS523 Del C.Di Cento Croci  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:34:00 GMT"
-    },
-    {
-        "title": "SS28 Del Colle Di Nava",
-        "description": "SS28 Del Colle Di Nava\n corsia chiusa causa lavori di manutenzione  tra 2,167 km dopo Incrocio Ponte In Nava e 365 m prima di Incrocio Case Di Nava   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:34:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n veicolo in avaria  tra 14,139 km prima di Svincolo Sibari e 198 m dopo Svincolo Morano-Castrovillari  in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:34:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n code causa veicolo fermo o in avaria dalle 11:03 del 20 agosto 2026  tra Svincolo Genova Est e Svincolo Genova Nervi  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:33:00 GMT"
-    },
-    {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n veicolo fermo o in avaria dalle 11:30 del 20 agosto 2026  a Svincolo Como Centro in direzione da Lainate  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:32:00 GMT"
-    },
-    {
-        "title": "Avellino Via Giovanni Feola",
-        "description": "Avellino Via Giovanni Feola\n strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  tra Via Pasquale Greco e Via Antonio Annarumma   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:32:00 GMT"
-    },
-    {
-        "title": "Atzara Via San Giacomo",
-        "description": "Atzara Via San Giacomo\n processione dalle 17:00 alle 20:00 del 22 agosto 2026  tra Via Vittorio Emanuele e Via Papa Giovanni XXIII   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:32:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code causa incidente dalle 11:03 del 20 agosto 2026  tra Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio e Svincolo Cesena  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:31:00 GMT"
-    },
-    {
-        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
-        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 13:25 del 20 agosto 2026  a Svincolo Piazzale Lato Francese in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:30:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n veicolo in avaria  a Svincolo Chatillon-Saint Vincent in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:30:00 GMT"
-    },
-    {
-        "title": "SS131 Carlo Felice",
-        "description": "SS131 Carlo Felice\n corsia chiusa causa incidente  a Incrocio S.Giusta - SS292 Nord Occ. Sarda in direzione Incrocio Cagliari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:30:00 GMT"
-    },
-    {
-        "title": "Atzara Via Papa Giovanni XXIII",
-        "description": "Atzara Via Papa Giovanni XXIII\n transito temporaneamente sospeso causa processione dalle 17:00 alle 20:00 del 22 agosto 2026  tra Via San Giacomo e Via Molinu   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:30:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n code causa lavori dalle 08:58 del 20 agosto 2026  tra Svincolo Pontedera Est e Svincolo Pontedera Ovest-Ponsacco  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:29:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 11:26 del 20 agosto 2026  tra Svincolo Tivoli e Svincolo Castel Madama  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:28:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n personale su strada dalle 11:26 del 20 agosto 2026  tra Svincolo Tivoli e Svincolo Castel Madama  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:28:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 11:24 del 20 agosto 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:27:00 GMT"
-    },
-    {
-        "title": "Genova Corso Italia",
-        "description": "Genova Corso Italia\n allagamento  a Corso Italia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:26:00 GMT"
-    },
-    {
-        "title": "A19 Palermo-Catania",
-        "description": "A19 Palermo-Catania\n veicolo in avaria  a Svincolo Tre Monzelli in direzione Catania  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:26:00 GMT"
-    },
-    {
-        "title": "A12 Roma-Civitavecchia",
-        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 11:23 del 20 agosto 2026  tra Svincolo S.Severa-S.Marinella e Svincolo Civitavecchia Sud  in direzione S.s. 1 Aurelia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:25:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n personale su strada dalle 11:23 del 20 agosto 2026  tra Svincolo Fabro e Svincolo Chiusi-Chianciano  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:25:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n incidente dalle 11:03 del 20 agosto 2026  tra Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio e Svincolo Cesena  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:25:00 GMT"
-    },
-    {
-        "title": "Genova Via Gelasio Adamoli",
-        "description": "Genova Via Gelasio Adamoli\n allagamento  a Via Gelasio Adamoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:25:00 GMT"
-    },
-    {
-        "title": "Atzara Via Demurtas",
-        "description": "Atzara Via Demurtas\n processione dalle 17:00 alle 20:00 del 22 agosto 2026  a Via Vittorio Emanuele  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:25:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n traffico rallentato causa rallentamenti per curiosi dalle 11:22 del 20 agosto 2026  tra Svincolo Canosa e Allacciamento A16 Napoli-Canosa  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:24:00 GMT"
-    },
-    {
-        "title": "Genova Corso Europa",
-        "description": "Genova Corso Europa\n allagamento  a Corso Europa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:24:00 GMT"
-    },
-    {
-        "title": "Avellino Via Aurelio Genovese",
-        "description": "Avellino Via Aurelio Genovese\n partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  a Via Pasquale Greco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:24:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 11:22 del 20 agosto 2026  tra Svincolo Caianello e Svincolo Capua  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:23:00 GMT"
-    },
-    {
-        "title": "A1 Raccordo Tangenziale Est Di Milano",
-        "description": "A1 Raccordo Tangenziale Est Di Milano\n perdita di carico causa perdita accidentale dalle 11:21 del 20 agosto 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Tangenziale Est Mi-Raccordo P.Le Corvetto  in direzione tangenziale Est di Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:22:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 10:56 del 20 agosto 2026  tra Svincolo Lavagna e Svincolo Sestri Levante  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:22:00 GMT"
-    },
-    {
-        "title": "SS49 Della Pusteria",
-        "description": "SS49 Della Pusteria\n chiusura notturna, tratto chiuso causa lavori dalle 19:00 del 28 alle 05:00 del 30 settembre 2026  tra Incrocio Braies e Incrocio Dobbiaco - SS51 Di Alemagna   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:22:00 GMT"
-    },
-    {
-        "title": "SS107 Silana Crotonese",
-        "description": "SS107 Silana Crotonese\n traffico rallentato  a Incrocio S.Giovanni In Fiore - SS108ter in direzione Incrocio Paola - SS18 Tirrena Inferiore  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:22:00 GMT"
-    },
-    {
-        "title": "Avellino Via Pasquale Greco",
-        "description": "Avellino Via Pasquale Greco\n strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  tra Via Zoccolari e Via Giovanni Feola   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:22:00 GMT"
-    },
-    {
-        "title": "A29 Palermo-Mazara Del Vallo",
-        "description": "A29 Palermo-Mazara Del Vallo\n code  a Svincolo Castelvetrano in direzione Mazara Del Vallo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:22:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 16,1 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:21:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 14,52 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:21:00 GMT"
-    },
-    {
-        "title": "Atzara Via Oristano",
-        "description": "Atzara Via Oristano\n processione dalle 17:00 alle 20:00 del 22 agosto 2026  a Via Vittorio Emanuele  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:21:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 11:19 del 20 agosto 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:20:00 GMT"
-    },
-    {
-        "title": "SS113 Settentrionale Sicula",
-        "description": "SS113 Settentrionale Sicula\n traffico rallentato causa lavori di manutenzione  tra 1,863 km dopo Incrocio Brolo e 4,416 km prima di Incrocio Capo D orlando - SS116 Randazzo C. D orlando  in direzione Incrocio Trapani - SS115 Sud Occidentale Sicula  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:20:00 GMT"
-    },
-    {
-        "title": "Avellino Via Pasquale Greco",
-        "description": "Avellino Via Pasquale Greco\n partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  a Via Zoccolari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:20:00 GMT"
-    },
-    {
-        "title": "Avellino Via Alfonso Carpentieri",
-        "description": "Avellino Via Alfonso Carpentieri\n partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  a Via Zoccolari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:19:00 GMT"
-    },
-    {
-        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
-        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 13:14 del 20 agosto 2026  a Svincolo Piazzale Lato Italiano in direzione Chamonix  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:19:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n traffico rallentato causa lavori dalle 11:16 del 20 agosto 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:18:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 11:15 del 20 agosto 2026  tra Allacciamento A15 Parma-La Spezia e Svincolo Fidenza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:18:00 GMT"
-    },
-    {
-        "title": "Atzara Via Regina Elena",
-        "description": "Atzara Via Regina Elena\n processione dalle 17:00 alle 20:00 del 22 agosto 2026  a Via Vittorio Emanuele  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:18:00 GMT"
-    },
-    {
-        "title": "Avellino Via Zoccolari",
-        "description": "Avellino Via Zoccolari\n strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  tra Via Antonio Annarumma e Via Aurelio Genovese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:17:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 11:13 del 20 agosto 2026  tra Svincolo Vignole Borbera e Svincolo Ronco Scrivia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:15:00 GMT"
-    },
-    {
-        "title": "Avellino Via Zoccolari",
-        "description": "Avellino Via Zoccolari\n partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  a Via Antonio Annarumma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:15:00 GMT"
-    },
-    {
-        "title": "Atzara Via San Mauro",
-        "description": "Atzara Via San Mauro\n processione dalle 17:00 alle 20:00 del 22 agosto 2026  a Via Vittorio Emanuele  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:15:00 GMT"
-    },
-    {
-        "title": "SS49 Della Pusteria",
-        "description": "SS49 Della Pusteria\n chiusura notturna, tratto chiuso causa lavori dalle 20:00 del 8 alle 05:00 del 9 ottobre 2026  tra Incrocio S.Lorenzo Di Sebato - SS244 Di Val Badia e Incrocio Brunico - SS621 Della Valle Aurina   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:15:00 GMT"
-    },
-    {
-        "title": "SS49 Della Pusteria",
-        "description": "SS49 Della Pusteria\n chiusura notturna, tratto chiuso causa lavori dalle 20:00 del 30 settembre 2026 alle 05:00 del 1 ottobre 2026  tra Incrocio Rasun e Incrocio Braies   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:14:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n veicolo in avaria  a Area di servizio  Frascineto in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:14:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n code causa veicolo in fiamme  a Svincolo Lamezia Terme in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:12:00 GMT"
-    },
-    {
-        "title": "SS7QuaDir Lago Patria - SS7 Quater Via Domiziana-Ischitella Lido",
-        "description": "SS7QuaDir Lago Patria - SS7 Quater Via Domiziana-Ischitella Lido\n code causa carichi dispersi  a Incrocio SS7Quater - Domitiana in direzione Lago Patria   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:12:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 11:10 del 20 agosto 2026  tra Svincolo Castel S.Pietro e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:11:00 GMT"
-    },
-    {
-        "title": "Avellino Via Tagliamento",
-        "description": "Avellino Via Tagliamento\n partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  a Via Antonio Annarumma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:11:00 GMT"
-    },
-    {
-        "title": "Atzara Via Regina Margherita",
-        "description": "Atzara Via Regina Margherita\n processione dalle 17:00 alle 20:00 del 22 agosto 2026  a Via Vittorio Emanuele  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:11:00 GMT"
-    },
-    {
-        "title": "SS75 Centrale Umbra",
-        "description": "SS75 Centrale Umbra\n corsia chiusa causa veicolo in avaria  a Incrocio Spello in direzione Incrocio S.Giovanni Profiamma - SS3 Flaminia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:10:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code a tratti causa traffico intenso dalle 09:53 del 20 agosto 2026  tra Svincolo Imola e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:09:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 11:08 del 20 agosto 2026  tra Svincolo Valdichiana e Svincolo Chiusi-Chianciano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:09:00 GMT"
-    },
-    {
-        "title": "Avellino Via Morelli e Silvati",
-        "description": "Avellino Via Morelli e Silvati\n partita di calcio dalle 18:00 alle 23:00 del 22 agosto 2026  a Via Antonio Annarumma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:09:00 GMT"
-    },
-    {
-        "title": "Atzara Via Cagliari",
-        "description": "Atzara Via Cagliari\n processione dalle 17:00 alle 20:00 del 22 agosto 2026  a Via Vittorio Emanuele  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Thu, 20 Aug 2026 09:09:00 GMT"
     }
 ]
