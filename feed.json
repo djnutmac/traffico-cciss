@@ -1,8 +1,63 @@
 [
     {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa ripristino incidente dalle 01:27 del 22 agosto 2026  tra Svincolo Ceprano e Svincolo Pontecorvo  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:29:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n animali morti in entrata  a Svincolo Arma Di Taggia in direzione In Entrata  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:29:00 GMT"
+    },
+    {
         "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 00:54 del 22 agosto 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:56:00 GMT"
+        "description": "A1 Firenze-Roma\n veicoli lenti dalle 01:24 del 22 agosto 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:25:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 01:13 del 22 agosto 2026  tra Svincolo Rapallo e Svincolo Recco  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:22:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 01:15 del 22 agosto 2026  tra Svincolo Trani e Svincolo Andria-Barletta  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:19:00 GMT"
+    },
+    {
+        "title": "A14 Ramo Casalecchio",
+        "description": "A14 Ramo Casalecchio\n uscita chiusa causa lavori dalle 01:15 alle 06:00 del 22 agosto 2026  a Svincolo Bologna Casalecchio in direzione da autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:17:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 01:11 del 22 agosto 2026  tra Svincolo Ovada e Allacciamento Diram. Predosa-Bettole  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:12:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n code causa incidente dalle 01:01 del 22 agosto 2026  tra Svincolo Valmontone e Allacciamento Diramazione Roma Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:12:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n pioggia dalle 01:09 del 22 agosto 2026  tra Svincolo Montelupo Fiorentino e Svincolo Pontedera Est   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:11:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:43 del 22 agosto 2026  tra Svincolo Ortona e Svincolo Pescara Sud-Francavilla  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:06:00 GMT"
+    },
+    {
+        "title": "SS18 Tirrena Inferiore",
+        "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 23:06:00 GMT"
+    },
+    {
+        "title": "SS12 Dell abetone E Del Brennero",
+        "description": "SS12 Dell abetone E Del Brennero\n senso unico alternato causa lavori dalle 21:00 del 17 alle 05:00 del 22 agosto 2026  tra Incrocio P.Te Gardena - SS242 Di Val Gardena E P.Sella e Incrocio Chiusa   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 22:59:00 GMT"
     },
     {
         "title": "A1 Roma-Napoli",
@@ -10,28 +65,8 @@
         "pubDate": "Fri, 21 Aug 2026 22:55:00 GMT"
     },
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n animali morti in entrata  a Svincolo Spotorno in direzione Accelerazione  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:55:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 00:48 del 22 agosto 2026  tra Svincolo Modena Sud e Svincolo Modena Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:51:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n code causa veicolo fermo o in avaria dalle 23:37 del 21 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Magliano Sabina  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:50:00 GMT"
-    },
-    {
         "title": "SS691 Fondo Valle Sele",
         "description": "SS691 Fondo Valle Sele\n traffico rallentato causa veicolo in fiamme  a Incrocio SS7 - Teora  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:50:00 GMT"
-    },
-    {
-        "title": "SS598 Di Fondo Valle D agri",
-        "description": "SS598 Di Fondo Valle D agri\n incidente  a Incrocio Missanello - SS92 Dell app. Merid.Le in direzione Incrocio Atena Lucana A3 Sa-Rc - SS95 Di Brienza  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 22:50:00 GMT"
     },
     {
@@ -43,11 +78,6 @@
         "title": "A1 Raccordo Piazzale Corvetto",
         "description": "A1 Raccordo Piazzale Corvetto\n veicolo fermo o in avaria dalle 00:44 del 22 agosto 2026  tra Svincolo A1 Milano Napoli e Svincolo S.Donato  in direzione Milano-Piazzale Corvetto  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 22:47:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:43 del 22 agosto 2026  tra Svincolo Ortona e Svincolo Pescara Sud-Francavilla  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:44:00 GMT"
     },
     {
         "title": "A24 Roma-Teramo",
@@ -70,24 +100,9 @@
         "pubDate": "Fri, 21 Aug 2026 22:36:00 GMT"
     },
     {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n veicolo fermo o in avaria dalle 00:35 del 22 agosto 2026  tra Allacciamento A10 Genova-Ventimiglia e Allacciamento A12 Genova-Rosignano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:36:00 GMT"
-    },
-    {
         "title": "SS145 Sorrentina",
         "description": "SS145 Sorrentina\n traffico rallentato causa perdita di liquido sull asfalto  a Incrocio Meta Di Sorrento in direzione Incrocio Torre Annunziata - SS18 Tirrena Inferiore  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 22:34:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 00:28 del 22 agosto 2026  tra Svincolo Lanciano e Svincolo Ortona  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:31:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicoli scortati per maltempo causa incidente dalle 00:30 del 22 agosto 2026  tra Svincolo Valmontone e Allacciamento Diramazione Roma Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:31:00 GMT"
     },
     {
         "title": "SS3bis Bis tiberina (e45)",
@@ -100,11 +115,6 @@
         "pubDate": "Fri, 21 Aug 2026 22:26:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 00:18 del 22 agosto 2026  tra Svincolo Sasso Marconi e Allacciamento Ramo Casalecchio  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 22:20:00 GMT"
-    },
-    {
         "title": "A56 Tangenziale Di Napoli",
         "description": "A56 Tangenziale Di Napoli\n area di servizio chiusa causa lavori dalle 00:04 alle 06:00 del 22 agosto 2026  a Area di servizio  Antica Campana in direzione allacciamento diramazione Capodichino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 22:06:00 GMT"
@@ -113,11 +123,6 @@
         "title": "A56 Tangenziale Di Napoli",
         "description": "A56 Tangenziale Di Napoli\n rampa di accesso chiusa causa lavori dalle 00:04 alle 06:00 del 22 agosto 2026  a Svincolo Pozzuoli-Via Campana in direzione allacciamento diramazione Capodichino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 22:06:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 23:43 del 21 agosto 2026  tra Svincolo Frosinone e Svincolo Ceprano  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 21:46:00 GMT"
     },
     {
         "title": "LS\/SP42",
@@ -165,19 +170,9 @@
         "pubDate": "Fri, 21 Aug 2026 21:12:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 22:51 del 21 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Magliano Sabina  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 21:10:00 GMT"
-    },
-    {
         "title": "SS421 Dei Laghi Di Molveno E Tenno",
         "description": "SS421 Dei Laghi Di Molveno E Tenno\n divieto di circolazione dei mezzi pesanti  causa lavori dalle 10:00 del 21 agosto 2026 alle 23:59 del 30 novembre 2026  tra Incrocio Ponte dei Servi - SS237 e Incrocio Ponte Arche - SS237 Del Caffaro   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 21:10:00 GMT"
-    },
-    {
-        "title": "SS5 Via Tiburtina Valeria",
-        "description": "SS5 Via Tiburtina Valeria\n presenza di alberi sulla carreggiata  a Incrocio Vicovaro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 21:06:00 GMT"
     },
     {
         "title": "A14 Bologna-Ancona",
@@ -498,5 +493,10 @@
         "title": "SP460 Corso Indipendenza",
         "description": "SP460 Corso Indipendenza\n senso unico alternato causa lavori dalle 00:01 del 21 settembre alle 23:59 del 21 novembre 2026  a Via Salassa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 17:29:00 GMT"
+    },
+    {
+        "title": "A32 Torino-Bardonecchia",
+        "description": "A32 Torino-Bardonecchia\n vento forte  tra Svincolo Chianocco-Bussoleno e Svincolo Oulx Est   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 17:28:00 GMT"
     }
 ]
