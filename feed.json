@@ -1,27 +1,387 @@
 [
     {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n traffico rallentato causa temporale dalle 13:07 del 21 agosto 2026  tra Svincolo Prato Ovest e Svincolo Montecatini  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:09:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n veicolo fermo o in avaria dalle 13:06 del 21 agosto 2026  tra Svincolo Corso Malta e Svincolo Capodimonte  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:09:00 GMT"
+    },
+    {
+        "title": "Pisa Via Antonio Rosmini",
+        "description": "Pisa Via Antonio Rosmini\n strada chiusa causa partita di calcio dalle 15:00 alle 22:00 del 23 agosto 2026  tra Via XXIV Maggio e Via Ugo Rindi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:09:00 GMT"
+    },
+    {
+        "title": "A32 Torino-Bardonecchia",
+        "description": "A32 Torino-Bardonecchia\n code per 1 km causa traffico intenso  tra Svincolo Circonvallazione Oulx e Svincolo Bardonecchia  in direzione Bardonecchia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:08:00 GMT"
+    },
+    {
+        "title": "SS131 Carlo Felice",
+        "description": "SS131 Carlo Felice\n traffico rallentato causa veicolo in avaria  a Incrocio Florinas in direzione Incrocio Cagliari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:08:00 GMT"
+    },
+    {
+        "title": "SS526 Dell esticino",
+        "description": "SS526 Dell esticino\n corsia chiusa  a Incrocio Motta Visconti  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:08:00 GMT"
+    },
+    {
+        "title": "Pisa Via Contessa Matilde",
+        "description": "Pisa Via Contessa Matilde\n strada chiusa causa partita di calcio dalle 15:00 alle 22:00 del 23 agosto 2026  tra Via Piave e Via Pietrasantina   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:07:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n personale su strada dalle 13:04 del 21 agosto 2026  tra Svincolo Morgex (entrata Direzione Sud) e Svincolo Aosta Ovest-Aymavilles  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:06:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n perdita di carico dalle 13:04 del 21 agosto 2026  tra Svincolo L aquila Ovest e Svincolo Tornimparte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:06:00 GMT"
+    },
+    {
+        "title": "Roma Via di Acilia",
+        "description": "Roma Via di Acilia\n incidente traffico rallentato  a Via Leonardo Mellano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:06:00 GMT"
+    },
+    {
+        "title": "Cerchia Dei Bastioni(MI)",
+        "description": "Cerchia Dei Bastioni(MI)\n veicolo fermo o in avaria dalle 13:03 del 21 agosto 2026  tra Svincolo Rimini Nord e Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:05:00 GMT"
+    },
+    {
+        "title": "Palermo Via Catania",
+        "description": "Palermo Via Catania\n manifestazione dalle 05:00 alle 14:00 del 20 settembre 2026  a Via della Libertà  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:05:00 GMT"
+    },
+    {
+        "title": "Pisa Via Piave",
+        "description": "Pisa Via Piave\n strada chiusa causa partita di calcio dalle 15:00 alle 22:00 del 23 agosto 2026  tra Piazzale Sicilia e Via Contessa Matilde   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:05:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n problemi in area di servizio causa interruzione erogazione idrica dalle 13:02 del 21 agosto 2026  a Area di servizio  Stura in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:04:00 GMT"
+    },
+    {
+        "title": "SS48 Delle Dolomiti",
+        "description": "SS48 Delle Dolomiti\n code a tratti causa traffico intenso  tra Incrocio Canazei - SS48 Var Canazei e Incrocio Pera   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:04:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n code a tratti causa traffico intenso dalle 10:33 del 21 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Pescara Sud-Francavilla  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:04:00 GMT"
+    },
+    {
+        "title": "SS106 Jonica",
+        "description": "SS106 Jonica\n corsia chiusa causa incidente  a Incrocio Condofuri Marina in direzione Incrocio Taranto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:04:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n code a tratti causa traffico intenso dalle 12:26 del 21 agosto 2026  tra Svincolo Chiavari e Svincolo Recco  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:03:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n code a tratti causa traffico intenso dalle 09:52 del 21 agosto 2026  tra Svincolo Riccione e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:03:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n code a tratti causa traffico intenso dalle 12:42 del 21 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Orte  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:03:00 GMT"
+    },
+    {
+        "title": "Siracusa Via Dione",
+        "description": "Siracusa Via Dione\n manifestazione dalle 20:30 alle 23:30 del 21 agosto 2026  tra Corso Giacomo Matteotti e Via Vittorio Veneto   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:03:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 12:59 del 21 agosto 2026  tra Allacciamento Ramo Casalecchio e Allacciamento A13 Bologna-Padova  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:02:00 GMT"
+    },
+    {
+        "title": "Lodovico Il Moro(MI)",
+        "description": "Lodovico Il Moro(MI)\n veicolo fermo o in avaria dalle 12:59 del 21 agosto 2026  tra Svincolo Baiano e Incrocio Via Ludovico il Moro corrispondenza Cavalcavia Don Lorenzo Milani  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:02:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicoli scortati per maltempo causa straripamenti dalle 13:00 del 21 agosto 2026  tra Svincolo Genova Aeroporto e Allacciamento A7 Milano-Genova  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:02:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n code causa incidente dalle 12:23 del 21 agosto 2026  tra Svincolo Val Vibrata e Svincolo Grottammare  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:02:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n code causa traffico intenso dalle 10:41 del 21 agosto 2026  a Barriera Di Ugovizza-Tarvisio in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:02:00 GMT"
+    },
+    {
+        "title": "SS202 Triestina",
+        "description": "SS202 Triestina\n lavori di manutenzione  tra 640 m dopo Incrocio Cattinara - SS15 Racc Via Flavia e 641 m prima di Incrocio Grandi Motori-St. Dorligo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:02:00 GMT"
+    },
+    {
+        "title": "Palermo Via Manin",
+        "description": "Palermo Via Manin\n corsa podistica dalle 05:00 alle 14:00 del 20 settembre 2026  a Via della Libertà  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:02:00 GMT"
+    },
+    {
+        "title": "Siracusa Via Dione",
+        "description": "Siracusa Via Dione\n manifestazione dalle 20:30 alle 23:30 del 21 agosto 2026  a Piazza Archimede  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:01:00 GMT"
+    },
+    {
+        "title": "SS38 Dello Stelvio",
+        "description": "SS38 Dello Stelvio\n code a tratti causa incidente  tra Incrocio Laces e Incrocio Castelbello   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:01:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n pioggia dalle 12:22 del 21 agosto 2026  tra Svincolo Parma e Allacciamento Ramo Casalecchio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:00:00 GMT"
+    },
+    {
+        "title": "Siracusa Via Biagio Pace",
+        "description": "Siracusa Via Biagio Pace\n manifestazione dalle 20:30 alle 23:30 del 21 agosto 2026  a Piazza Archimede  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:00:00 GMT"
+    },
+    {
+        "title": "SS589 Dei Laghi Di Avigliana",
+        "description": "SS589 Dei Laghi Di Avigliana\n allagamento  a Incrocio Pinerolo Est  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:00:00 GMT"
+    },
+    {
+        "title": "TG-CT Tangenziale Di Catania",
+        "description": "TG-CT Tangenziale Di Catania\n code causa traffico intenso  tra 160 m prima di Svincolo Gravina e Svincolo Catania Centro-S.Gregorio-A18 Diramazione  in direzione Svincolo Catania Centro-S.Gregorio-A18 Diramazione  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 11:00:00 GMT"
+    },
+    {
+        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
+        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 14:45 del 21 agosto 2026  a Svincolo Piazzale Lato Italiano in direzione Chamonix  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:59:00 GMT"
+    },
+    {
+        "title": "SS38 Dello Stelvio",
+        "description": "SS38 Dello Stelvio\n code a tratti causa traffico intenso  tra Incrocio Naturno e Incrocio Lagundo  in direzione Incrocio Bolzano - SS12 Dell abetone E Brennero  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:59:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n code a tratti per 4 km causa lavori e condizioni meteo avverse  tra 6,7 km prima di Svincolo Pontremoli e 12,7 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:58:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 16,1 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:58:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 14,52 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:58:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Fornovo in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:58:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n pioggia  tra Allacciamento A1 Milano-Napoli e Allacciamento A12 Genova-Rosignano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:58:00 GMT"
+    },
+    {
+        "title": "Palermo Via Caltanissetta",
+        "description": "Palermo Via Caltanissetta\n corsa podistica dalle 05:00 alle 14:00 del 20 settembre 2026  a Via della Libertà  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:58:00 GMT"
+    },
+    {
+        "title": "A3 Napoli-Salerno",
+        "description": "A3 Napoli-Salerno\n perdita di carico causa perdita accidentale dalle 12:55 del 21 agosto 2026  tra Svincolo Castellammare Di Stabia e Svincolo Pompei  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:57:00 GMT"
+    },
+    {
+        "title": "A2 Autostrada del Mediterraneo",
+        "description": "A2 Autostrada del Mediterraneo\n veicolo in avaria  tra 12,471 km dopo Svincolo Mileto e 200 m prima di Svincolo Gioia Tauro  in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:56:00 GMT"
+    },
+    {
+        "title": "SS28 Del Colle Di Nava",
+        "description": "SS28 Del Colle Di Nava\n corsia chiusa causa presenza di alberi sulla carreggiata  a Incrocio Colle S.Bartolomeo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:56:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n traffico rallentato&nbsp;con&nbsp;code a tratti causa traffico intenso  tra 5,62 km prima di Svincolo Confine Di Stato e Barriera Di Ventimiglia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:56:00 GMT"
+    },
+    {
+        "title": "Siracusa Via della Maestranza",
+        "description": "Siracusa Via della Maestranza\n manifestazione dalle 20:30 alle 23:30 del 21 agosto 2026  a Piazza Archimede  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:56:00 GMT"
+    },
+    {
+        "title": "Roma Via Erode Attico",
+        "description": "Roma Via Erode Attico\n incidente traffico rallentato  a Via del Triopio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:55:00 GMT"
+    },
+    {
+        "title": "Siracusa Corso Giacomo Matteotti",
+        "description": "Siracusa Corso Giacomo Matteotti\n manifestazione dalle 21:30 alle 23:30 del 21 agosto 2026  a Piazza Archimede  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:55:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n temporale dalle 12:52 del 21 agosto 2026  tra Svincolo Pistoia e Svincolo Chiesina Uzzanese   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:54:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 12:52 del 21 agosto 2026  tra Allacciamento A25 Torano-Pescara e Svincolo Valle Del Salto  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:54:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n pioggia dalle 10:40 del 21 agosto 2026  tra Svincolo Udine Sud-Tangenziale e Svincolo Dogana Di Coccau-Confine Di Stato   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:54:00 GMT"
+    },
+    {
+        "title": "Palermo Piazza Mordini",
+        "description": "Palermo Piazza Mordini\n corsa podistica dalle 05:00 alle 14:00 del 20 settembre 2026  a Via della Libertà  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:54:00 GMT"
+    },
+    {
+        "title": "Siracusa Piazza Archimede",
+        "description": "Siracusa Piazza Archimede\n transito temporaneamente sospeso causa manifestazione dalle 20:30 alle 23:30 del 21 agosto 2026  tra Corso Giacomo Matteotti e Via della Maestranza   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:54:00 GMT"
+    },
+    {
+        "title": "Brescia Corsetto Sant Agata",
+        "description": "Brescia Corsetto Sant Agata\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 7 settembre 2026  tra Via XXIV Maggio e Contrada Mangano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:53:00 GMT"
+    },
+    {
+        "title": "Brescia Via XXIV Maggio",
+        "description": "Brescia Via XXIV Maggio\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 7 settembre 2026  tra Via Alessandro Volta e Corsetto Sant Agata   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:52:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n pioggia  tra Svincolo Mondovi  e Svincolo Millesimo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:52:00 GMT"
+    },
+    {
+        "title": "Roma Via Fasana",
+        "description": "Roma Via Fasana\n strada chiusa, incidente  a Circonvallazione Clodia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:52:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n code a tratti causa traffico intenso dalle 09:39 del 21 agosto 2026  tra Svincolo Valdarno e Svincolo Firenze Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:51:00 GMT"
+    },
+    {
+        "title": "Palermo Piazza Crispi",
+        "description": "Palermo Piazza Crispi\n corsa podistica dalle 05:00 alle 14:00 del 20 settembre 2026  a Via della Libertà  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:51:00 GMT"
+    },
+    {
+        "title": "Brescia Via Alessandro Volta",
+        "description": "Brescia Via Alessandro Volta\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 7 settembre 2026  tra Via Dieci Giornate e Via XXIV Maggio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:50:00 GMT"
+    },
+    {
+        "title": "A8 Milano-Varese",
+        "description": "A8 Milano-Varese\n veicolo fermo o in avaria dalle 12:43 del 21 agosto 2026  a Svincolo Lainate in direzione da Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:49:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada dalle 12:47 del 21 agosto 2026  tra Svincolo Orvieto e Svincolo Attigliano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:49:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n incidente dalle 12:08 del 21 agosto 2026  tra Svincolo Cadola-Svincolo Di Belluno e Svincolo Pian Di Vedoia-SS51 Di Alemagna  in direzione Ss51 Alemagna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:49:00 GMT"
+    },
+    {
+        "title": "Palermo Via Giorgio Montisoro",
+        "description": "Palermo Via Giorgio Montisoro\n corsa podistica dalle 05:00 alle 14:00 del 20 settembre 2026  a Via della Libertà  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:49:00 GMT"
+    },
+    {
+        "title": "Brescia Via XXIV Maggio",
+        "description": "Brescia Via XXIV Maggio\n manifestazione dalle 14:00 alle 23:59 del 6 settembre 2026  a Contrada Mangano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:49:00 GMT"
+    },
+    {
+        "title": "Parma Borgo Padre Onorio Rosi",
+        "description": "Parma Borgo Padre Onorio Rosi\n partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  a Piazzale Risorgimento  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:48:00 GMT"
+    },
+    {
+        "title": "A19 Palermo-Catania",
+        "description": "A19 Palermo-Catania\n traffico rallentato causa incendio  a Svincolo Trabia in direzione Catania  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:48:00 GMT"
+    },
+    {
+        "title": "Brescia Corsetto Sant Agata",
+        "description": "Brescia Corsetto Sant Agata\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 6 settembre 2026  tra Contrada Mangano e Via XXIV Maggio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:47:00 GMT"
+    },
+    {
+        "title": "Brescia Via XXIV Maggio",
+        "description": "Brescia Via XXIV Maggio\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 6 settembre 2026  tra Via Alessandro Volta e Corsetto Sant Agata   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:46:00 GMT"
+    },
+    {
+        "title": "Palermo Via Duca della Verdura",
+        "description": "Palermo Via Duca della Verdura\n corsa podistica dalle 05:00 alle 14:00 del 20 settembre 2026  a Via della Libertà  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:46:00 GMT"
+    },
+    {
+        "title": "Brescia Via Alessandro Volta",
+        "description": "Brescia Via Alessandro Volta\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 6 settembre 2026  tra Via Dieci Giornate e Via XXIV Maggio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:45:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n traffico rallentato causa traffico intenso dalle 12:42 del 21 agosto 2026  tra Svincolo Varazze e Svincolo Celle Ligure  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:44:00 GMT"
+    },
+    {
+        "title": "A52 Tangenziale Nord Di Milano",
+        "description": "A52 Tangenziale Nord Di Milano\n incidente  tra Svincolo SP151 Cinisello B.Nord: Zona Industriale e Svincolo SS36 Del Lago Di Como: Lecco-Monza  in direzione Allacciamento Tangenziale Est Di Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:43:00 GMT"
+    },
+    {
+        "title": "Palermo Via della Libertà",
+        "description": "Palermo Via della Libertà\n strada chiusa causa corsa podistica dalle 05:00 alle 14:00 del 20 settembre 2026  tra Via Emanuele Notarbartolo e Via Filippo Turati   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Fri, 21 Aug 2026 10:43:00 GMT"
+    },
+    {
         "title": "A4 Venezia-Trieste",
         "description": "A4 Venezia-Trieste\n code a tratti causa traffico intenso  tra 1,8 km prima di Allacciamento A28 Portogruaro-Pordenone e 1,4 km dopo Svincolo S. Dona  Di Piave  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 10:42:00 GMT"
     },
     {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n veicolo fermo o in avaria dalle 12:40 del 21 agosto 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:42:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n code causa traffico congestionato dalle 12:07 del 21 agosto 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Ponzano Romano-Soratte  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:42:00 GMT"
-    },
-    {
         "title": "A12 Genova-Rosignano",
         "description": "A12 Genova-Rosignano\n code a tratti causa condizioni meteo avverso  tra Svincolo Massa e Svincolo Livorno - Raccordo Per Livorno  in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:42:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n code a tratti per 3 km causa veicolo in fiamme in competenze aspi  tra 6,47 km prima di Svincolo Deiva Marina e 2,169 km dopo Svincolo Sestri Levante  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 10:42:00 GMT"
     },
     {
@@ -55,16 +415,6 @@
         "pubDate": "Fri, 21 Aug 2026 10:40:00 GMT"
     },
     {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n code causa incidente dalle 12:23 del 21 agosto 2026  tra Svincolo Val Vibrata e Svincolo Grottammare  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:40:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code a tratti per 640 m causa traffico intenso  tra 5,62 km prima di Svincolo Confine Di Stato e Barriera Di Ventimiglia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:40:00 GMT"
-    },
-    {
         "title": "A10 Genova-Ventimiglia",
         "description": "A10 Genova-Ventimiglia\n code a tratti causa traffico intenso  tra 6,211 km prima di Svincolo Albenga e 5,279 km dopo Allacciamento A10 - A06 al Km 45  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 10:40:00 GMT"
@@ -85,38 +435,13 @@
         "pubDate": "Fri, 21 Aug 2026 10:40:00 GMT"
     },
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code a tratti causa traffico intenso dalle 12:36 del 21 agosto 2026  tra Svincolo Varazze e Svincolo Celle Ligure  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:39:00 GMT"
-    },
-    {
-        "title": "A21 Torino-Brescia",
-        "description": "A21 Torino-Brescia\n materiali dispersi  a Svincolo Voghera in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:39:00 GMT"
-    },
-    {
         "title": "Brescia Corsetto Sant Agata",
         "description": "Brescia Corsetto Sant Agata\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 5 settembre 2026  tra Via XXIV Maggio e Contrada Mangano   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 10:39:00 GMT"
     },
     {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n perdita di carico causa perdita accidentale dalle 12:36 del 21 agosto 2026  tra Svincolo Sarno e Svincolo Palma Campania  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:38:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n code causa incidente dalle 11:46 del 21 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Vasto Sud  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:38:00 GMT"
-    },
-    {
         "title": "Brescia Via XXIV Maggio",
         "description": "Brescia Via XXIV Maggio\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 5 settembre 2026  tra Via Alessandro Volta e Corsetto Sant Agata   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:38:00 GMT"
-    },
-    {
-        "title": "SS120 Dell etna E Delle Madonie",
-        "description": "SS120 Dell etna E Delle Madonie\n traffico rallentato causa incendio  a Incrocio Nicosia Ovest-SS117 Centrale Sicula in direzione Incrocio Fiumefreddo - SS114 Orientale Sicula  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 10:38:00 GMT"
     },
     {
@@ -130,18 +455,8 @@
         "pubDate": "Fri, 21 Aug 2026 10:37:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n code causa straripamenti dalle 12:34 del 21 agosto 2026  tra Svincolo Grumello e Svincolo Bergamo  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:36:00 GMT"
-    },
-    {
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 12:34 del 21 agosto 2026  tra Svincolo Anagni - Fiuggi e Svincolo Colleferro  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:36:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n code a tratti causa traffico intenso dalle 12:26 del 21 agosto 2026  tra Svincolo Sestri Levante e Svincolo Rapallo  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 10:36:00 GMT"
     },
     {
@@ -160,18 +475,8 @@
         "pubDate": "Fri, 21 Aug 2026 10:36:00 GMT"
     },
     {
-        "title": "R06 Raccordo Bettolle-Perugia",
-        "description": "R06 Raccordo Bettolle-Perugia\n veicolo in avaria  a Svincolo Perugia Centro-Prepo in direzione Perugia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:36:00 GMT"
-    },
-    {
         "title": "Parma Viale Italo e Cleofonte Campanini",
         "description": "Parma Viale Italo e Cleofonte Campanini\n partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  a Viale Partigiani d Italia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:36:00 GMT"
-    },
-    {
-        "title": "SS66 Pistoiese",
-        "description": "SS66 Pistoiese\n incidente  a Incrocio Pontepetri  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 10:36:00 GMT"
     },
     {
@@ -180,28 +485,8 @@
         "pubDate": "Fri, 21 Aug 2026 10:35:00 GMT"
     },
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicoli scortati per maltempo causa straripamenti dalle 12:32 del 21 agosto 2026  tra Svincolo Monselice e Svincolo Boara  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:35:00 GMT"
-    },
-    {
         "title": "A14 Pescara-Bari",
         "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 12:33 del 21 agosto 2026  tra Svincolo Trani e Svincolo Andria-Barletta  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:35:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 12:33 del 21 agosto 2026  tra Svincolo Tagliacozzo e Allacciamento A25 Torano-Pescara  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:35:00 GMT"
-    },
-    {
-        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
-        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 14:23 del 21 agosto 2026  a Svincolo Piazzale Lato Italiano in direzione Chamonix  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:35:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n code a tratti per 600 m causa incidente  tra 9,52 km prima di Svincolo Chatillon-Saint Vincent e 1,35 km dopo Svincolo Verres  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 10:35:00 GMT"
     },
     {
@@ -210,293 +495,8 @@
         "pubDate": "Fri, 21 Aug 2026 10:35:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n temporale dalle 12:32 del 21 agosto 2026  tra Svincolo Terre di Canossa - Campegine e Svincolo Reggio Emilia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:34:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n traffico rallentato causa temporale dalle 12:32 del 21 agosto 2026  tra Svincolo Terre di Canossa - Campegine e Svincolo Reggio Emilia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:34:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n code causa viabilità esterna non riceve dalle 12:24 del 21 agosto 2026  tra Svincolo Entrata Courmayeur Sud e Svincolo A05-SS26DIR  in direzione Monte Bianco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:34:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 12:32 del 21 agosto 2026  tra Svincolo Termoli-Molise e Svincolo Vasto Sud  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:34:00 GMT"
-    },
-    {
         "title": "Parma Viale Partigiani d Italia",
         "description": "Parma Viale Partigiani d Italia\n strada chiusa causa partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  tra Piazzale Risorgimento e Viale Italo e Cleofonte Campanini   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Fri, 21 Aug 2026 10:34:00 GMT"
-    },
-    {
-        "title": "Parma Viale Martiri della Libertà",
-        "description": "Parma Viale Martiri della Libertà\n strada chiusa causa partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  tra Strada Luigi Carlo Farini e Piazzale Risorgimento   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:33:00 GMT"
-    },
-    {
-        "title": "Brescia Corsetto Sant Agata",
-        "description": "Brescia Corsetto Sant Agata\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 4 settembre 2026  tra Via XXIV Maggio e Contrada Mangano   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:32:00 GMT"
-    },
-    {
-        "title": "A1 Diramazione Roma Nord",
-        "description": "A1 Diramazione Roma Nord\n veicolo fermo o in avaria dalle 12:15 del 21 agosto 2026  tra Svincolo Castelnuovo di Porto e Svincolo Fiano Romano  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:32:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 12:29 del 21 agosto 2026  tra Svincolo Candela e Svincolo Lacedonia  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:32:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n pioggia dalle 12:13 del 21 agosto 2026  tra Svincolo Firenze-Peretola e Barriera Di Pisa Nord   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:32:00 GMT"
-    },
-    {
-        "title": "SS26dir Diramazione Della Valle D aosta",
-        "description": "SS26dir Diramazione Della Valle D aosta\n code  tra Incrocio Pre  St Didier - SS26 Della Valle D aosta e 894 m prima di Incrocio La Strada Del Traforo Del Monte Bianco  in direzione Incrocio La Strada Del Traforo Del Monte Bianco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:32:00 GMT"
-    },
-    {
-        "title": "SS76 Della Val D esino",
-        "description": "SS76 Della Val D esino\n corsia chiusa causa veicolo in avaria  a Incrocio Campodiegoli E Cancelli\/Incrocio SS76 in direzione Incrocio Ponte S. Giovanni - SS3 Flaminia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:32:00 GMT"
-    },
-    {
-        "title": "SS1 Via Aurelia",
-        "description": "SS1 Via Aurelia\n tratto chiuso causa presenza di alberi sulla carreggiata  a Incrocio Termine Di Roverano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:32:00 GMT"
-    },
-    {
-        "title": "Parma Via Giacomo Puccini",
-        "description": "Parma Via Giacomo Puccini\n strada chiusa causa partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  tra Via Amato Furlotti e Viale Partigiani d Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:31:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n incidente dalle 12:10 del 21 agosto 2026  tra Svincolo San Benedetto Del Tronto e Svincolo Grottammare  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:30:00 GMT"
-    },
-    {
-        "title": "Brescia Via XXIV Maggio",
-        "description": "Brescia Via XXIV Maggio\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 4 settembre 2026  tra Via Alessandro Volta e Corsetto Sant Agata   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:30:00 GMT"
-    },
-    {
-        "title": "Brescia Via Alessandro Volta",
-        "description": "Brescia Via Alessandro Volta\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 4 settembre 2026  tra Via Dieci Giornate e Via XXIV Maggio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:28:00 GMT"
-    },
-    {
-        "title": "A6 Torino-Savona",
-        "description": "A6 Torino-Savona\n veicolo in avaria  a Allacciamento A06 - A33 in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:27:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Nord Di Torino",
-        "description": "A55 Tangenziale Nord Di Torino\n veicolo in avaria  a Svincolo Regina Margherita in direzione Allacciamento A32 Torino-Bardonecchia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:27:00 GMT"
-    },
-    {
-        "title": "A55Dir Diramazione Per Moncalieri",
-        "description": "A55Dir Diramazione Per Moncalieri\n veicolo in avaria  a Allacciamento A6 Torino-Savona in direzione Svincolo Torino-C.So Unita  D italia-A6 To Sv  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:27:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n code a tratti causa condizioni meteo avverse  tra 564 m prima di Svincolo Diramazione Lucca-Viareggio e Svincolo Massa  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:26:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 12:25 del 21 agosto 2026  tra Svincolo Rovigo e Svincolo Rovigo Sud - Villa Marzana  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:26:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 12:25 del 21 agosto 2026  tra Svincolo Canosa e Allacciamento A16 Napoli-Canosa  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:26:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 11:43 del 21 agosto 2026  tra Svincolo Candela e Svincolo Cerignola  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:26:00 GMT"
-    },
-    {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n non funzionante impianto di illuminazione tunnel  tra 5,079 km dopo Incrocio Piona e 453 m prima di Incrocio Colico\/Trivio Fuentes\/S.Agata\/SS38   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:26:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 12:23 del 21 agosto 2026  tra Svincolo Romagnano Sesia-Ghemme e Allacciamento A4 Torino-Trieste  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:25:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n pioggia dalle 12:22 del 21 agosto 2026  tra Svincolo Parma e Svincolo Reggio Emilia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:24:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n code a tratti causa traffico intenso dalle 10:33 del 21 agosto 2026  tra Svincolo Vasto Nord-Casalbordino e Svincolo Pescara Sud-Francavilla  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:24:00 GMT"
-    },
-    {
-        "title": "Brescia Via XXIV Maggio",
-        "description": "Brescia Via XXIV Maggio\n manifestazione dalle 14:00 alle 23:59 del 3 settembre 2026  a Corsetto Sant Agata  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:24:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 16,1 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:24:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n code a tratti per 7 km causa lavori e condizioni meteo avverse  tra 6,7 km prima di Svincolo Pontremoli e 9,7 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:24:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 14,52 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:24:00 GMT"
-    },
-    {
-        "title": "SS242 Di Val Gardena E Passo Sella",
-        "description": "SS242 Di Val Gardena E Passo Sella\n code a tratti causa traffico intenso  tra Incrocio S.Cristina Valgardena e Incrocio Ortisei - SS242 Dir  in direzione Incrocio Ponte Gardena - SS12  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:24:00 GMT"
-    },
-    {
-        "title": "SS73 Senese Aretina",
-        "description": "SS73 Senese Aretina\n traffico rallentato causa veicolo in avaria  a Incrocio Le Ville in direzione Incrocio Sansepolcro - SS3 Bis Tiberina  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:24:00 GMT"
-    },
-    {
-        "title": "SS582 Del Colle Di S.Bernardo",
-        "description": "SS582 Del Colle Di S.Bernardo\n corsia chiusa causa presenza di alberi sulla carreggiata  a Incrocio Berioli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:24:00 GMT"
-    },
-    {
-        "title": "Brescia Corsetto Sant Agata",
-        "description": "Brescia Corsetto Sant Agata\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 3 settembre 2026  tra Contrada Mangano e Via XXIV Maggio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:23:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code a tratti per 860 m causa traffico intenso  tra 5,203 km dopo Area di servizio  Bordighera e Barriera Di Ventimiglia  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:23:00 GMT"
-    },
-    {
-        "title": "SS242 Di Val Gardena E Passo Sella",
-        "description": "SS242 Di Val Gardena E Passo Sella\n code a tratti causa traffico intenso  tra Incrocio Selva Di Val Gardena e Incrocio Plan De Gralba - SS243 Del Passo Gardena   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:23:00 GMT"
-    },
-    {
-        "title": "Brescia Via XXIV Maggio",
-        "description": "Brescia Via XXIV Maggio\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 3 settembre 2026  tra Via Alessandro Volta e Corsetto Sant Agata   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:22:00 GMT"
-    },
-    {
-        "title": "Parma Via Niccolò Paganini",
-        "description": "Parma Via Niccolò Paganini\n strada chiusa causa partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  tra Via Amato Furlotti e Viale Partigiani d Italia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:22:00 GMT"
-    },
-    {
-        "title": "SS38 Dello Stelvio",
-        "description": "SS38 Dello Stelvio\n code a tratti causa traffico intenso  tra Incrocio Castelbello e Incrocio Lagundo  in direzione Incrocio Bolzano - SS12 Dell abetone E Brennero  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:22:00 GMT"
-    },
-    {
-        "title": "SS83 Marsicana",
-        "description": "SS83 Marsicana\n veicolo in avaria  a Incrocio Opi - SS509 Di Forca D acero  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:22:00 GMT"
-    },
-    {
-        "title": "Roma Via Erode Attico",
-        "description": "Roma Via Erode Attico\n incidente traffico rallentato  a Via del Triopio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:21:00 GMT"
-    },
-    {
-        "title": "Parma Via Renzo Pezzani",
-        "description": "Parma Via Renzo Pezzani\n strada chiusa causa partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  tra Via Giacomo Puccini e Via Pomponio Torelli   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:21:00 GMT"
-    },
-    {
-        "title": "SS53 Postumia",
-        "description": "SS53 Postumia\n tratto chiuso, chiusura notturna causa lavori dalle 23:00 del 29 alle 06:00 del 30 agosto 2026  tra Incrocio Treviso - SS348 Feltrina E SS515 Noalese e Incrocio Treviso\/Incrocio SS13 Pontebbana   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:21:00 GMT"
-    },
-    {
-        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
-        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 14:17 del 21 agosto 2026  a Svincolo Piazzale Lato Francese in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:20:00 GMT"
-    },
-    {
-        "title": "Parma Viale Duca Alessandro",
-        "description": "Parma Viale Duca Alessandro\n strada chiusa causa partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  tra Piazzale Risorgimento e Via Anteo e Erasmo Viotti   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:20:00 GMT"
-    },
-    {
-        "title": "SS225 Della Fontanabuona",
-        "description": "SS225 Della Fontanabuona\n presenza di alberi sulla carreggiata  a Incrocio Cicagna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:20:00 GMT"
-    },
-    {
-        "title": "Brescia Via Alessandro Volta",
-        "description": "Brescia Via Alessandro Volta\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 3 settembre 2026  tra Via Dieci Giornate e Via XXIV Maggio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:20:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n personale su strada causa lavori dalle 12:17 del 21 agosto 2026  tra Barriera Di Teramo e Svincolo Colledara-San Gabriele  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:19:00 GMT"
-    },
-    {
-        "title": "Parma Via Viotti",
-        "description": "Parma Via Viotti\n strada chiusa causa partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  tra Viale Duca Alessandro e Via Biagio Pelacani   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:19:00 GMT"
-    },
-    {
-        "title": "Brescia Via XXIV Maggio",
-        "description": "Brescia Via XXIV Maggio\n manifestazione dalle 14:00 alle 23:59 del 2 settembre 2026  a Contrada Mangano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:19:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n code a tratti causa traffico intenso dalle 12:17 del 21 agosto 2026  tra Svincolo Modena Nord e Allacciamento A22 Modena-Brennero  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:18:00 GMT"
-    },
-    {
-        "title": "Brescia Corsetto Sant Agata",
-        "description": "Brescia Corsetto Sant Agata\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 2 settembre 2026  tra Via XXIV Maggio e Contrada Mangano   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:18:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n code per 1 km causa traffico intenso  a Barriera Di Milano in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:18:00 GMT"
-    },
-    {
-        "title": "Parma Via Pomponio Torelli",
-        "description": "Parma Via Pomponio Torelli\n strada chiusa causa partita di calcio dalle 17:00 alle 23:30 del 22 agosto 2026  tra Piazzale Risorgimento e Via Anna Frank   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:17:00 GMT"
-    },
-    {
-        "title": "Brescia Via XXIV Maggio",
-        "description": "Brescia Via XXIV Maggio\n strada chiusa causa manifestazione dalle 14:00 alle 23:59 del 2 settembre 2026  tra Via Alessandro Volta e Corsetto Sant Agata   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:16:00 GMT"
-    },
-    {
-        "title": "SS16 Adriatica",
-        "description": "SS16 Adriatica\n traffico rallentato causa veicolo in avaria  a Incrocio Mungivacca\/Svincolo SS100 Di Gioia Del Colle in direzione Incrocio Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Fri, 21 Aug 2026 10:16:00 GMT"
     }
 ]
