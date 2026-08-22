@@ -1,17 +1,42 @@
 [
     {
         "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 01:46 del 23 agosto 2026  tra Svincolo Valmontone e Allacciamento Diramazione Roma Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 23:48:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 01:43 del 23 agosto 2026  tra Svincolo Arezzo e Svincolo Valdarno  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 23:46:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n incidente dalle 01:33 del 23 agosto 2026  tra Svincolo Genova Pegli e Svincolo Genova Voltri  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 23:46:00 GMT"
+    },
+    {
+        "title": "TG-BO Tangenziale Di Bologna",
+        "description": "TG-BO Tangenziale Di Bologna\n pedoni dalle 01:43 del 23 agosto 2026  tra Svincolo 9 San Donato e Svincolo 10 Zona Industriale Roveri  in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 23:45:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 01:40 del 23 agosto 2026  tra Svincolo Modena Sud e Svincolo Modena Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 23:43:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 01:32 del 23 agosto 2026  tra Svincolo Marotta-Mondolfo e Allacciamento Fano - Raccordo Per Fossombrone  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 23:34:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 00:43 del 23 agosto 2026  tra Svincolo Caserta Nord e Allacciamento A30 Caserta-Salerno  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 23:25:00 GMT"
+        "pubDate": "Sat, 22 Aug 2026 23:29:00 GMT"
     },
     {
         "title": "A25 Torano-Pescara",
         "description": "A25 Torano-Pescara\n animali sulla strada dalle 01:22 del 23 agosto 2026  a Svincolo Sulmona-Pratola Peligna in direzione da autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 23:24:00 GMT"
-    },
-    {
-        "title": "A91 Autostrada Aeroporto Di Fiumicino",
-        "description": "A91 Autostrada Aeroporto Di Fiumicino\n incidente  a Allacciamento A12 Roma-Civitavecchia in direzione Incrocio Via Laurentina  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 23:24:00 GMT"
     },
     {
@@ -20,29 +45,14 @@
         "pubDate": "Sat, 22 Aug 2026 23:20:00 GMT"
     },
     {
-        "title": "A55 Tangenziale Nord Di Torino",
-        "description": "A55 Tangenziale Nord Di Torino\n veicolo in avaria  a Allacciamento Interconnessione Tangenziale Sud in direzione Allacciamento A32 Torino-Bardonecchia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 23:18:00 GMT"
-    },
-    {
         "title": "A1 Milano-Bologna",
         "description": "A1 Milano-Bologna\n malore dalle 01:12 del 23 agosto 2026  tra Svincolo Parma e Svincolo Terre di Canossa - Campegine  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 23:13:00 GMT"
     },
     {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 01:08 del 23 agosto 2026  a Barriera Di Roma Est  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 23:09:00 GMT"
-    },
-    {
         "title": "SS18 Tirrena Inferiore",
         "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 23:08:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:55 del 23 agosto 2026  tra Svincolo Pescara Sud-Francavilla e Svincolo Ortona  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 23:05:00 GMT"
     },
     {
         "title": "A19 Palermo-Catania",
@@ -105,11 +115,6 @@
         "pubDate": "Sat, 22 Aug 2026 20:38:00 GMT"
     },
     {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n materiali dispersi  a Allacciamento A12 Genova-Rosignano in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 20:26:00 GMT"
-    },
-    {
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:19 del 22 alle 06:00 del 23 agosto 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 20:21:00 GMT"
@@ -143,11 +148,6 @@
         "title": "SS12 Dell abetone E Del Brennero",
         "description": "SS12 Dell abetone E Del Brennero\n tratto chiuso causa caduta massi  tra Incrocio P.Te Gardena - SS242 Di Val Gardena E P.Sella e Incrocio Chiusa   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 19:35:00 GMT"
-    },
-    {
-        "title": "SS125 Orientale Sarda",
-        "description": "SS125 Orientale Sarda\n fondo stradale dissestato  a Incrocio Porto Cervo in direzione Incrocio Palau - SS133 Di Palau  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 19:24:00 GMT"
     },
     {
         "title": "A30 Caserta-Salerno",
