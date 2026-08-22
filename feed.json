@@ -1,18 +1,348 @@
 [
     {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 12:00 del 22 agosto 2026  tra Svincolo Arenzano e Allacciamento A26 Ge Voltri-Gravellona T.  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 10:02:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n perdita di carico causa perdita accidentale dalle 12:00 del 22 agosto 2026  tra Allacciamento A21 Torino-Brescia e Allacciamento Piacenza sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 10:02:00 GMT"
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n code causa traffico congestionato dalle 12:32 del 22 agosto 2026  tra Svincolo Nola e Allacciamento A1 Milano-Napoli  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:35:00 GMT"
     },
     {
         "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n code a tratti causa traffico intenso dalle 11:22 del 22 agosto 2026  tra Svincolo Molfetta e Allacciamento A16 Napoli-Canosa  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 10:02:00 GMT"
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 12:33 del 22 agosto 2026  tra Svincolo Andria-Barletta e Svincolo Canosa  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:35:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n code a tratti causa traffico intenso dalle 12:32 del 22 agosto 2026  tra Svincolo Arezzo e Svincolo Firenze Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:34:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 12:31 del 22 agosto 2026  tra Allacciamento Ramo Casalecchio e Svincolo Bologna Borgo Panigale  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:34:00 GMT"
+    },
+    {
+        "title": "R21 Raccordo Porto Civitanova",
+        "description": "R21 Raccordo Porto Civitanova\n corsia chiusa causa veicolo in avaria  a Svincolo Stazione Di Sforzacosta in direzione Svincolo Castello Rancia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:34:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n veicoli scortati per maltempo causa perdita di carico dalle 12:31 del 22 agosto 2026  tra Svincolo Casalpusterlengo - Ospedaletto Lodigiano e Svincolo Piacenza Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:33:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n perdita di carico causa perdita accidentale dalle 12:24 del 22 agosto 2026  tra Svincolo Casalpusterlengo - Ospedaletto Lodigiano e Svincolo Piacenza Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:33:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 12:31 del 22 agosto 2026  a Barriera Di Ugovizza-Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:33:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 12:31 del 22 agosto 2026  tra Svincolo Cerveteri-Ladispoli e Svincolo S.Severa-S.Marinella  in direzione S.s. 1 Aurelia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:33:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 12:30 del 22 agosto 2026  tra Svincolo Baiano e Svincolo Avellino Ovest  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:32:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n code causa traffico congestionato dalle 11:50 del 22 agosto 2026  tra Svincolo Mercato S.Severino e Barriera Di Salerno M.S.Severino  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:32:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n code a tratti causa traffico intenso dalle 10:13 del 22 agosto 2026  tra Svincolo Teramo-Giulianova-Mosciano e Svincolo Porto Sant Elpidio  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:32:00 GMT"
+    },
+    {
+        "title": "A51 Tangenziale Est Di Milano",
+        "description": "A51 Tangenziale Est Di Milano\n veicolo in panne  tra Svincolo V. Rubattino: Segrate-Citta  Studi e Svincolo Lambrate: Melzo - Dogana Segrate  in direzione Svincolo Lecco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:32:00 GMT"
+    },
+    {
+        "title": "A18 Siracusa - Ragusa - Gela",
+        "description": "A18 Siracusa - Ragusa - Gela\n code a tratti causa traffico intenso  tra Svincolo Cassibile e Svincolo Noto  in direzione Gela  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:31:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n incidente dalle 12:29 del 22 agosto 2026  tra Svincolo Dogana Di Coccau-Confine Di Stato e Svincolo Tarvisio Nord  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:31:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicoli scortati per maltempo causa veicolo fermo o in avaria dalle 12:28 del 22 agosto 2026  tra Svincolo Arenzano e Allacciamento A26 Ge Voltri-Gravellona T.  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:30:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n code a tratti causa traffico intenso dalle 11:32 del 22 agosto 2026  tra Svincolo Orvieto e Svincolo Chiusi-Chianciano  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:30:00 GMT"
+    },
+    {
+        "title": "A18 Messina-Catania",
+        "description": "A18 Messina-Catania\n code a tratti causa traffico intenso  a Barriera Di Messina Sud in direzione Messina  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:30:00 GMT"
+    },
+    {
+        "title": "A18 Messina-Catania",
+        "description": "A18 Messina-Catania\n code a tratti causa traffico intenso  a Barriera Di Catania in direzione Messina  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:30:00 GMT"
+    },
+    {
+        "title": "Milano Via privata Cesare Vignati",
+        "description": "Milano Via privata Cesare Vignati\n incidente  a Via Pellegrino Rossi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:30:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n perdita di carico causa perdita accidentale dalle 12:25 del 22 agosto 2026  tra Svincolo Parma e Allacciamento A15 Parma-La Spezia  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:29:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 12:27 del 22 agosto 2026  tra Svincolo Vallata e Svincolo Grottaminarda  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:29:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 12:25 del 22 agosto 2026  tra Allacciamento A26 Ge Voltri-Gravellona T. e Svincolo Arenzano  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:29:00 GMT"
+    },
+    {
+        "title": "A20 Messina-Palermo",
+        "description": "A20 Messina-Palermo\n code a tratti causa traffico intenso  a Barriera Di Messina Nord in direzione Messina  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:28:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 12:26 del 22 agosto 2026  tra Svincolo L aquila Est e Svincolo Assergi  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:28:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n code causa incidente dalle 11:50 del 22 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:28:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n perdita di carico causa perdita accidentale dalle 12:24 del 22 agosto 2026  tra Svincolo Bergamo e Svincolo Seriate  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:27:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 08:37 del 22 agosto 2026  tra Svincolo Reggio Emilia e Svincolo Parma  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:27:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n code causa traffico congestionato dalle 08:09 del 22 agosto 2026  tra Svincolo Dogana Di Coccau-Confine Di Stato e Barriera Di Ugovizza-Tarvisio  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:27:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n code causa viabilità esterna non riceve dalle 12:23 del 22 agosto 2026  a Svincolo Genova Pegli in direzione da Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:26:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 12:23 del 22 agosto 2026  tra Svincolo Pesaro-Urbino e Svincolo Cattolica  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:26:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n code a tratti per 3 km  tra 9,95 km prima di Svincolo Pontremoli e 10,45 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:25:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:25:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Fornovo in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:25:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 3,64 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:25:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 12:21 del 22 agosto 2026  tra Svincolo Castel S.Pietro e Svincolo Imola  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:25:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 12:20 del 22 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:25:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n code a tratti per 2 km causa traffico intenso  tra 5,527 km prima di Svincolo Carrodano e 2,276 km dopo Svincolo Deiva Marina  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:25:00 GMT"
+    },
+    {
+        "title": "SS49 Della Pusteria",
+        "description": "SS49 Della Pusteria\n code a tratti causa traffico intenso  tra Incrocio Brunico e Incrocio Perca  in direzione San Candido  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:25:00 GMT"
+    },
+    {
+        "title": "A29 Palermo-Mazara Del Vallo",
+        "description": "A29 Palermo-Mazara Del Vallo\n traffico rallentato causa veicolo in avaria  a Svincolo Zona Industriale Nord in direzione Palermo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:24:00 GMT"
+    },
+    {
+        "title": "SS231 Di S.Vittoria",
+        "description": "SS231 Di S.Vittoria\n non funzionante impianto di illuminazione tunnel  tra 8,592 km dopo Incrocio Cervere e 7,931 km prima di Incrocio S.Sebastiano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:24:00 GMT"
+    },
+    {
+        "title": "Monza Via Carlo Prina",
+        "description": "Monza Via Carlo Prina\n incidente  a Via Bartolomeo Zucchi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:23:00 GMT"
+    },
+    {
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n code per 1 km causa traffico intenso  tra Allacciamento A8 Milano-Varese e Barriera Di Terrazzano  in direzione Allacciamento A1 Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:23:00 GMT"
+    },
+    {
+        "title": "A8 Milano-Varese",
+        "description": "A8 Milano-Varese\n veicolo fermo o in avaria dalle 12:20 del 22 agosto 2026  tra Barriera Di Gallarate Nord e Allacciamento Diramazione Gallarate-Gattico  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:22:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n problemi in area di servizio dalle 14:28 del 21 agosto 2026  a Area di servizio  Murge in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:22:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n traffico rallentato causa traffico intenso  tra Allacciamento Interconnessione A21 e Svincolo Sirmione  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:22:00 GMT"
+    },
+    {
+        "title": "SS249 Gardesana Orientale",
+        "description": "SS249 Gardesana Orientale\n incidente  a Incrocio Roverbella  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:22:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 12:19 del 22 agosto 2026  tra Svincolo Napoli-Caserta Sud e Allacciamento A30 Caserta-Salerno  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:20:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n code a tratti causa traffico intenso dalle 10:50 del 22 agosto 2026  tra Svincolo Termoli-Molise e Svincolo Ortona  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:20:00 GMT"
+    },
+    {
+        "title": "A4 Venezia-Trieste",
+        "description": "A4 Venezia-Trieste\n code a tratti causa traffico intenso  tra 14,921 km prima di Svincolo Latisana e 6,6 km dopo Svincolo Cessalto  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:20:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n code causa traffico congestionato dalle 12:01 del 22 agosto 2026  tra Svincolo Ceprano e Svincolo Frosinone  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:18:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n code a tratti causa traffico intenso dalle 11:22 del 22 agosto 2026  tra Svincolo Trani e Allacciamento A16 Napoli-Canosa  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:18:00 GMT"
+    },
+    {
+        "title": "SS330 Di Buonviaggio",
+        "description": "SS330 Di Buonviaggio\n frana  a Incrocio Albiano Magra  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:18:00 GMT"
+    },
+    {
+        "title": "SS131 Carlo Felice",
+        "description": "SS131 Carlo Felice\n traffico rallentato causa veicolo in avaria  a Incrocio Villanouvaforru in direzione Incrocio Porto Torres  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:18:00 GMT"
+    },
+    {
+        "title": "A19 Palermo-Catania",
+        "description": "A19 Palermo-Catania\n materiali dispersi  tra 1,154 km dopo Svincolo Catenanuova e 12,862 km prima di Svincolo Gerbini  in direzione Catania  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:18:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n code causa viabilità esterna non riceve dalle 11:10 del 22 agosto 2026  tra Svincolo Entrata Courmayeur Sud e Svincolo A05-SS26DIR  in direzione Monte Bianco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:17:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 12:04 del 22 agosto 2026  tra Svincolo Lanciano e Svincolo Ortona  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:17:00 GMT"
+    },
+    {
+        "title": "SS342 Briantea",
+        "description": "SS342 Briantea\n traffico rallentato causa perdita di liquido sull asfalto  a Incrocio Pontida  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:16:00 GMT"
+    },
+    {
+        "title": "A4 Venezia-Trieste",
+        "description": "A4 Venezia-Trieste\n code causa traffico intenso  tra 3,6 km dopo Svincolo Cessalto e 10,8 km prima di Allacciamento A28 Portogruaro-Pordenone  in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:13:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n code causa traffico intenso dalle 12:10 del 22 agosto 2026  a Barriera Di Rosignano in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:12:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n veicolo fermo o in avaria dalle 12:00 del 22 agosto 2026  tra Svincolo Arenzano e Allacciamento A26 Ge Voltri-Gravellona T.  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:12:00 GMT"
+    },
+    {
+        "title": "SS665 Massese",
+        "description": "SS665 Massese\n corsia chiusa causa frana  tra 6,378 km prima di Incrocio Aulla - SS62 Della Cisa e 1,004 km dopo Incrocio Licciana Nardi  in direzione Incrocio Parma - SS513 Di Val D enza  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:10:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n code causa incidente dalle 11:11 del 22 agosto 2026  tra Svincolo Genova Pegli e Allacciamento A7 Milano-Genova  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:09:00 GMT"
+    },
+    {
+        "title": "A4 Venezia-Trieste",
+        "description": "A4 Venezia-Trieste\n code a tratti causa traffico intenso  tra 5,9 km dopo Svincolo Redipuglia - Monfalcone Ovest e Barriera Di Trieste Lisert - Monfalcone Est  in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:09:00 GMT"
+    },
+    {
+        "title": "A10 Genova-Ventimiglia",
+        "description": "A10 Genova-Ventimiglia\n traffico rallentato&nbsp;con&nbsp;code a tratti causa traffico intenso  tra 1,279 km dopo Allacciamento A10 - A06 al Km 45 e 3,705 km prima di Svincolo Spotorno  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:08:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 12:03 del 22 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Magliano Sabina  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:07:00 GMT"
+    },
+    {
+        "title": "SS7 Bis Di Terra Di Lavoro",
+        "description": "SS7 Bis Di Terra Di Lavoro\n traffico rallentato causa allagamento  a Incrocio Nola A30 Ce-Sa - Sgc Nola-Domitio in direzione Incrocio Pianodardine - SS7 Via Appia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:06:00 GMT"
+    },
+    {
+        "title": "SS35 Dei Giovi",
+        "description": "SS35 Dei Giovi\n lavori di manutenzione  tra 1,741 km dopo Incrocio Casello Vignole Arquata A7 Milano-Genova e 4,665 km prima di Incrocio Variante Di Cassano Spinola   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:06:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n code a tratti causa traffico intenso dalle 09:30 del 22 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Orte  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 10:04:00 GMT"
     },
     {
         "title": "A1 Firenze-Roma",
@@ -20,48 +350,13 @@
         "pubDate": "Sat, 22 Aug 2026 10:01:00 GMT"
     },
     {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n code causa incidente dalle 11:50 del 22 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 10:00:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n incidente dalle 11:47 del 22 agosto 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 10:00:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n code causa incidente dalle 10:46 del 22 agosto 2026  tra Svincolo Lanciano e Svincolo Pescara Sud-Francavilla  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:59:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 11:51 del 22 agosto 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo Masone  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:58:00 GMT"
-    },
-    {
         "title": "SS1 Via Aurelia",
         "description": "SS1 Via Aurelia\n incidente  a Incrocio Staz. Di Gavorrano in direzione Incrocio Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:58:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n code a tratti causa traffico intenso dalle 11:55 del 22 agosto 2026  tra Svincolo Recco e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:57:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n code causa incidente dalle 11:11 del 22 agosto 2026  tra Svincolo Genova Pegli e Allacciamento A7 Milano-Genova  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:57:00 GMT"
-    },
-    {
         "title": "A10 Genova-Ventimiglia",
         "description": "A10 Genova-Ventimiglia\n code a tratti per 0 m causa traffico intenso  a Svincolo Ventimiglia in direzione In Entrata  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:56:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n traffico rallentato&nbsp;con&nbsp;code a tratti causa traffico intenso  tra 3,279 km dopo Allacciamento A10 - A06 al Km 45 e 3,705 km prima di Svincolo Spotorno  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:56:00 GMT"
     },
     {
@@ -75,44 +370,9 @@
         "pubDate": "Sat, 22 Aug 2026 09:56:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicoli lenti dalle 11:54 del 22 agosto 2026  tra Svincolo Orte e Svincolo Magliano Sabina  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:56:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n code causa traffico congestionato dalle 08:09 del 22 agosto 2026  tra Svincolo Dogana Di Coccau-Confine Di Stato e Barriera Di Ugovizza-Tarvisio  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:56:00 GMT"
-    },
-    {
-        "title": "SS16 Adriatica",
-        "description": "SS16 Adriatica\n traffico rallentato causa veicolo in avaria  a Incrocio Macchia Di Monte in direzione Incrocio Otranto - SS173 Delle Terme Salentine  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:56:00 GMT"
-    },
-    {
         "title": "TG-CT Tangenziale Di Catania",
         "description": "TG-CT Tangenziale Di Catania\n code causa traffico intenso  tra 1,56 km prima di Svincolo Gravina e Svincolo Catania Centro-S.Gregorio-A18 Diramazione  in direzione Svincolo Catania Centro-S.Gregorio-A18 Diramazione  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:56:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n traffico rallentato causa traffico intenso dalle 11:39 del 22 agosto 2026  tra Svincolo Arezzo e Svincolo Firenze Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:55:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n code a tratti per 4 km  tra 8,95 km prima di Svincolo Pontremoli e 10,45 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:55:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:55:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n lavori  tra 3,64 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:55:00 GMT"
     },
     {
         "title": "A55 Tangenziale Nord Di Torino",
@@ -125,64 +385,14 @@
         "pubDate": "Sat, 22 Aug 2026 09:54:00 GMT"
     },
     {
-        "title": "A4 Brescia-Padova",
-        "description": "A4 Brescia-Padova\n traffico rallentato causa traffico intenso  tra Svincolo Verona Sud e Svincolo Desenzano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:54:00 GMT"
-    },
-    {
-        "title": "SS49 Della Pusteria",
-        "description": "SS49 Della Pusteria\n code a tratti causa traffico intenso  tra Incrocio Vandoies Di Sopra e Incrocio Sciaves - SS49 Bis Della Pusteria  in direzione Bressanone  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:53:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 11:49 del 22 agosto 2026  tra Svincolo Ferentino e Svincolo Anagni - Fiuggi  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:53:00 GMT"
-    },
-    {
-        "title": "Genova Lungomare di Pegli",
-        "description": "Genova Lungomare di Pegli\n incidente  a Lungomare di Pegli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:53:00 GMT"
-    },
-    {
-        "title": "A4 Venezia-Trieste",
-        "description": "A4 Venezia-Trieste\n code a tratti causa traffico intenso  tra 14,921 km prima di Svincolo Latisana e 6,6 km dopo Svincolo Cessalto  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:53:00 GMT"
-    },
-    {
         "title": "Siracusa Largo Aretusa",
         "description": "Siracusa Largo Aretusa\n transito temporaneamente sospeso causa manifestazione dalle 20:30 alle 23:30 del 24 agosto 2026  tra Via Castello Maniace e Passeggio Aretusa   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:53:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n incidente dalle 11:50 del 22 agosto 2026  tra Svincolo Ceprano e Svincolo Frosinone  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:52:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n code causa traffico congestionato dalle 11:50 del 22 agosto 2026  tra Svincolo Mercato S.Severino e Barriera Di Salerno M.S.Severino  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:52:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n code a tratti causa traffico intenso dalle 10:50 del 22 agosto 2026  tra Svincolo Termoli-Molise e Svincolo Vasto Nord-Casalbordino  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:52:00 GMT"
-    },
-    {
         "title": "SS73 Bis Di Bocca Trabaria",
         "description": "SS73 Bis Di Bocca Trabaria\n corsia chiusa causa incidente  a Incrocio S.Angelo In Vado in direzione Incrocio S.Giustino Umbro - SS3 Bis Tiberina  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:52:00 GMT"
-    },
-    {
-        "title": "SS49 Della Pusteria",
-        "description": "SS49 Della Pusteria\n code causa traffico intenso  tra Incrocio Vandoies Di Sopra e Incrocio Chienes  in direzione San Candido  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:51:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 11:50 del 22 agosto 2026  tra Svincolo Orte e Svincolo Magliano Sabina  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:51:00 GMT"
     },
     {
         "title": "A23 Palmanova-Tarvisio",
@@ -195,23 +405,8 @@
         "pubDate": "Sat, 22 Aug 2026 09:50:00 GMT"
     },
     {
-        "title": "A18 Siracusa - Ragusa - Gela",
-        "description": "A18 Siracusa - Ragusa - Gela\n code a tratti causa traffico intenso  tra Svincolo Cassibile e Svincolo Noto  in direzione Gela  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:49:00 GMT"
-    },
-    {
-        "title": "SS49 Della Pusteria",
-        "description": "SS49 Della Pusteria\n code a tratti causa traffico intenso  tra Incrocio S.Lorenzo Di Sebato - SS244 Di Val Badia e Incrocio Perca  in direzione San Candido  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:49:00 GMT"
-    },
-    {
         "title": "Pisogne Località Val Palot",
         "description": "Pisogne Località Val Palot\n incidente  a Località Val Palot  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:48:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n personale su strada dalle 11:46 del 22 agosto 2026  a Svincolo Empoli Est in direzione da Livorno  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:48:00 GMT"
     },
     {
@@ -225,49 +420,14 @@
         "pubDate": "Sat, 22 Aug 2026 09:47:00 GMT"
     },
     {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n personale su strada dalle 11:45 del 22 agosto 2026  a Svincolo Empoli Est in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:47:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n perdita di carico causa perdita accidentale dalle 06:26 del 22 agosto 2026  tra Svincolo Ancona Sud e Svincolo Ancona Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:47:00 GMT"
-    },
-    {
-        "title": "A18 Messina-Catania",
-        "description": "A18 Messina-Catania\n code a tratti causa traffico intenso  a Barriera Di Catania in direzione Messina  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:47:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n code a tratti causa traffico intenso  tra 12 km prima di Svincolo Udine Nord e Allacciamento A4 Torino-Trieste  in direzione Palmanova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:47:00 GMT"
-    },
-    {
         "title": "Besana in Brianza Viale John e Robert Kennedy",
         "description": "Besana in Brianza Viale John e Robert Kennedy\n incidente  a Viale John e Robert Kennedy  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:47:00 GMT"
     },
     {
-        "title": "SS114 Orientale Sicula",
-        "description": "SS114 Orientale Sicula\n incidente  a Incrocio Catania\/Simeto - Tangenziale Di Catania  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:46:00 GMT"
-    },
-    {
         "title": "Siracusa Via Pompeo Picherali",
         "description": "Siracusa Via Pompeo Picherali\n transito temporaneamente sospeso causa manifestazione dalle 20:30 alle 23:30 del 24 agosto 2026  a Piazza Duomo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:46:00 GMT"
-    },
-    {
-        "title": "A4 Venezia-Trieste",
-        "description": "A4 Venezia-Trieste\n incidente  tra 1,9 km dopo Svincolo S. Stino Di Livenza e 10,8 km prima di Allacciamento A28 Portogruaro-Pordenone  in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:45:00 GMT"
-    },
-    {
-        "title": "A4 Venezia-Trieste",
-        "description": "A4 Venezia-Trieste\n code causa incidente  tra 900 m dopo Svincolo S. Stino Di Livenza e 10,8 km prima di Allacciamento A28 Portogruaro-Pordenone  in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:45:00 GMT"
     },
     {
         "title": "A14 Pescara-Bari",
@@ -290,11 +450,6 @@
         "pubDate": "Sat, 22 Aug 2026 09:42:00 GMT"
     },
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicoli scortati per maltempo causa fondo stradale dissestato dalle 11:37 del 22 agosto 2026  tra Allacciamento A4 Torino-Trieste e Svincolo Padova Zona Industriale-Interporto  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:39:00 GMT"
-    },
-    {
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n code causa traffico intenso dalle 11:36 del 22 agosto 2026  a Barriera Di Napoli Nord in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:38:00 GMT"
@@ -315,21 +470,6 @@
         "pubDate": "Sat, 22 Aug 2026 09:37:00 GMT"
     },
     {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n code a tratti causa traffico intenso dalle 11:32 del 22 agosto 2026  tra Svincolo Orvieto e Svincolo Fabro  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:37:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code causa incidente dalle 11:34 del 22 agosto 2026  tra Svincolo Forli  e Svincolo Cesena Nord  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:36:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n incidente dalle 11:32 del 22 agosto 2026  tra Svincolo Forli  e Svincolo Cesena Nord  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:35:00 GMT"
-    },
-    {
         "title": "Roma Via di Torrevecchia",
         "description": "Roma Via di Torrevecchia\n incidente traffico rallentato  a Via dei Castiglioni  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:33:00 GMT"
@@ -340,28 +480,8 @@
         "pubDate": "Sat, 22 Aug 2026 09:31:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 11:13 del 22 agosto 2026  tra Svincolo Sesto San Giovanni-Viale Zara e Svincolo Cormano  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:31:00 GMT"
-    },
-    {
-        "title": "Bologna Via San Donato",
-        "description": "Bologna Via San Donato\n impianto semaforico non funzionante  a Via Romolo Amaseo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:31:00 GMT"
-    },
-    {
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n traffico rallentato causa traffico intenso dalle 11:28 del 22 agosto 2026  tra Svincolo Fabro e Svincolo Chiusi-Chianciano  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:30:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 11:24 del 22 agosto 2026  tra Svincolo Lacedonia e Svincolo Vallata  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:30:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n code a tratti causa traffico intenso dalle 10:13 del 22 agosto 2026  tra Svincolo Atri-Pineto e Svincolo Porto Sant Elpidio  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:30:00 GMT"
     },
     {
@@ -378,125 +498,5 @@
         "title": "A30 Caserta-Salerno",
         "description": "A30 Caserta-Salerno\n pioggia dalle 11:27 del 22 agosto 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Nola   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 09:29:00 GMT"
-    },
-    {
-        "title": "A4 Venezia-Trieste",
-        "description": "A4 Venezia-Trieste\n code in uscita causa traffico intenso  a Svincolo Redipuglia - Monfalcone Ovest  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:28:00 GMT"
-    },
-    {
-        "title": "A4 Venezia-Trieste",
-        "description": "A4 Venezia-Trieste\n code causa traffico intenso  tra 6,1 km dopo Svincolo S. Giorgio Di Nogaro e Allacciamento A23 Palmanova-Tarvisio  in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:25:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n code causa traffico congestionato dalle 09:36 del 22 agosto 2026  tra Svincolo Nola e Allacciamento A1 Milano-Napoli  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:24:00 GMT"
-    },
-    {
-        "title": "SS665 Massese",
-        "description": "SS665 Massese\n corsia chiusa causa frana  tra 6,378 km prima di Incrocio Aulla - SS62 Della Cisa e 1,004 km dopo Incrocio Licciana Nardi  in direzione Incrocio Parma - SS513 Di Val D enza  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:24:00 GMT"
-    },
-    {
-        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
-        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 13:09 del 22 agosto 2026  a Svincolo Piazzale Lato Francese in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:19:00 GMT"
-    },
-    {
-        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
-        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 13:09 del 22 agosto 2026  a Svincolo Piazzale Lato Italiano in direzione Chamonix  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:18:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code a tratti causa traffico intenso dalle 08:40 del 22 agosto 2026  tra Svincolo Bologna Borgo Panigale e Svincolo Imola  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:13:00 GMT"
-    },
-    {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n code causa viabilità esterna non riceve dalle 11:10 del 22 agosto 2026  tra Svincolo Entrata Courmayeur Sud e Svincolo A05-SS26DIR  in direzione Monte Bianco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:11:00 GMT"
-    },
-    {
-        "title": "A4 Venezia-Trieste",
-        "description": "A4 Venezia-Trieste\n code causa traffico intenso  tra 900 m prima di Svincolo Duino e Barriera Di Trieste Lisert - Monfalcone Est  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:09:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n code causa lavori dalle 11:07 del 22 agosto 2026  tra Svincolo Busalla e Svincolo Isola Del Cantone  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:08:00 GMT"
-    },
-    {
-        "title": "SS613 Brindisi-Lecce",
-        "description": "SS613 Brindisi-Lecce\n traffico rallentato causa incidente  a Incrocio Lecce raccordo Tangenziale Ovest in direzione Lecce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:08:00 GMT"
-    },
-    {
-        "title": "Genova Corso Italia",
-        "description": "Genova Corso Italia\n incidente  a Corso Italia in direzione levante  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:07:00 GMT"
-    },
-    {
-        "title": "Genova Via Guglielmo Oberdan",
-        "description": "Genova Via Guglielmo Oberdan\n fondo stradale dissestato  a Via Guglielmo Oberdan  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:07:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n code a tratti causa traffico intenso dalle 09:30 del 22 agosto 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Orte  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:04:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n code a tratti causa traffico intenso  tra 564 m prima di Svincolo Diramazione Lucca-Viareggio e Allacciamento S.Stefano Di Magra-La Spezia-Allacciamento A15 Pr-Sp  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 09:02:00 GMT"
-    },
-    {
-        "title": "Siracusa Via Gaetano Zummo",
-        "description": "Siracusa Via Gaetano Zummo\n manifestazione dalle 20:30 alle 23:30 del 24 agosto 2026  a Via Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:56:00 GMT"
-    },
-    {
-        "title": "SP42 Via Lecco",
-        "description": "SP42 Via Lecco\n incidente  a Via Lecco  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:56:00 GMT"
-    },
-    {
-        "title": "Lumezzane Via Partigiani",
-        "description": "Lumezzane Via Partigiani\n incidente  a Via Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:56:00 GMT"
-    },
-    {
-        "title": "Siracusa Via Serafino Privitera",
-        "description": "Siracusa Via Serafino Privitera\n manifestazione dalle 20:30 alle 23:30 del 24 agosto 2026  a Via Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:56:00 GMT"
-    },
-    {
-        "title": "Siracusa Via Aracoeli",
-        "description": "Siracusa Via Aracoeli\n manifestazione dalle 20:30 alle 23:30 del 24 agosto 2026  a Via Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:55:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n code a tratti causa traffico intenso dalle 10:52 del 22 agosto 2026  tra Svincolo Ferentino e Allacciamento Diramazione Roma Sud  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:54:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n malore dalle 10:53 del 22 agosto 2026  a Svincolo Reggio Emilia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:54:00 GMT"
-    },
-    {
-        "title": "Siracusa Via del Teatro",
-        "description": "Siracusa Via del Teatro\n manifestazione dalle 20:30 alle 23:30 del 24 agosto 2026  a Via Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:54:00 GMT"
-    },
-    {
-        "title": "Viterbo Piazza del Plebiscito",
-        "description": "Viterbo Piazza del Plebiscito\n transito temporaneamente sospeso causa manifestazione con corteo dalle 21:00 alle 23:00 del 28 agosto 2026  a Via Cavour  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:54:00 GMT"
     }
 ]
