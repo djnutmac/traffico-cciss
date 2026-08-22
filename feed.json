@@ -1,8 +1,38 @@
 [
     {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:55 del 23 agosto 2026  tra Svincolo Pescara Sud-Francavilla e Svincolo Ortona  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:56:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n code causa incidente dalle 00:41 del 23 agosto 2026  tra Svincolo Santa Croce Sull arno e Svincolo Empoli Ovest  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:50:00 GMT"
+    },
+    {
+        "title": "A1 Bologna-Firenze",
+        "description": "A1 Bologna-Firenze\n veicolo fermo o in avaria dalle 00:46 del 23 agosto 2026  tra Svincolo Firenze Scandicci e Allacciamento A11 Firenze-Pisa Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:49:00 GMT"
+    },
+    {
         "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo in fiamme dalle 00:35 del 23 agosto 2026  tra Svincolo Valmontone e Svincolo Colleferro  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 22:37:00 GMT"
+        "description": "A1 Roma-Napoli\n veicoli lenti dalle 00:47 del 23 agosto 2026  tra Svincolo Colleferro e Svincolo Anagni - Fiuggi  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:48:00 GMT"
+    },
+    {
+        "title": "SS163 Amalfitana",
+        "description": "SS163 Amalfitana\n traffico rallentato causa incidente  a Incrocio Positano in direzione Incrocio Meta Di Sorrento - SS145 Sorrentina  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:46:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 00:43 del 23 agosto 2026  tra Svincolo Caserta Nord e Allacciamento A30 Caserta-Salerno  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:45:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 00:42 del 23 agosto 2026  tra Svincolo Colleferro e Svincolo Anagni - Fiuggi  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:45:00 GMT"
     },
     {
         "title": "A30 Caserta-Salerno",
@@ -13,16 +43,6 @@
         "title": "SS1 Via Aurelia",
         "description": "SS1 Via Aurelia\n tratto chiuso causa materiali dispersi  a Incrocio Finale Ligure - SS490 Del Colle Del Melogno  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 22:32:00 GMT"
-    },
-    {
-        "title": "SS163 Amalfitana",
-        "description": "SS163 Amalfitana\n traffico rallentato causa incidente  a Incrocio Praiano in direzione Incrocio Meta Di Sorrento - SS145 Sorrentina  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 22:32:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 00:13 del 23 agosto 2026  a Svincolo Pescara N. Citta  S.Angelo in direzione da Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 22:15:00 GMT"
     },
     {
         "title": "SS343 Asolana",
@@ -68,11 +88,6 @@
         "title": "A14 Ancona-Pescara",
         "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 23:47 del 22 agosto 2026  tra Svincolo Loreto-Porto Recanati e Svincolo Ancona Sud  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 21:48:00 GMT"
-    },
-    {
-        "title": "A14 Bari-Taranto",
-        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 23:31 del 22 agosto 2026  tra Svincolo Gioia Del Colle e Svincolo Acquaviva Delle Fonti  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 21:33:00 GMT"
     },
     {
         "title": "A2 Autostrada del Mediterraneo",
@@ -480,23 +495,8 @@
         "pubDate": "Sat, 22 Aug 2026 08:28:00 GMT"
     },
     {
-        "title": "Siracusa Via Vincenzo Mirabella",
-        "description": "Siracusa Via Vincenzo Mirabella\n manifestazione dalle 20:30 alle 23:30 del 24 agosto 2026  a Via Tommaso Gargallo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:27:00 GMT"
-    },
-    {
         "title": "Viterbo Via della Verità",
         "description": "Viterbo Via della Verità\n manifestazione con corteo dalle 21:00 alle 23:59 del 1 settembre 2026  tra Via Nicolò Della Tuccia e Via della Pace   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 08:27:00 GMT"
-    },
-    {
-        "title": "Siracusa Via della Maestranza",
-        "description": "Siracusa Via della Maestranza\n manifestazione dalle 20:30 alle 23:30 del 24 agosto 2026  tra Belvedere San Giacomo e Via della Giudecca   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:26:00 GMT"
-    },
-    {
-        "title": "Siracusa Piazza Francesco Corpaci",
-        "description": "Siracusa Piazza Francesco Corpaci\n manifestazione dalle 20:30 alle 23:30 del 24 agosto 2026  a Via Tommaso Gargallo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 08:26:00 GMT"
     }
 ]
