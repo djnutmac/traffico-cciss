@@ -1,5 +1,40 @@
 [
     {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo in fiamme dalle 00:35 del 23 agosto 2026  tra Svincolo Valmontone e Svincolo Colleferro  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:37:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n veicolo fermo o in avaria dalle 00:31 del 23 agosto 2026  tra Svincolo Sarno e Svincolo Palma Campania  in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:33:00 GMT"
+    },
+    {
+        "title": "SS1 Via Aurelia",
+        "description": "SS1 Via Aurelia\n tratto chiuso causa materiali dispersi  a Incrocio Finale Ligure - SS490 Del Colle Del Melogno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:32:00 GMT"
+    },
+    {
+        "title": "SS163 Amalfitana",
+        "description": "SS163 Amalfitana\n traffico rallentato causa incidente  a Incrocio Praiano in direzione Incrocio Meta Di Sorrento - SS145 Sorrentina  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:32:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 00:13 del 23 agosto 2026  a Svincolo Pescara N. Citta  S.Angelo in direzione da Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:15:00 GMT"
+    },
+    {
+        "title": "SS343 Asolana",
+        "description": "SS343 Asolana\n riduzione di carreggiata causa lavori dalle 07:00 del 23 giugno 2026 alle 07:00 del 23 agosto 2026  a Incrocio Casalmoro in direzione Incrocio Parma - Tangenziale Di Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:15:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n incidente dalle 00:12 del 23 agosto 2026  tra Svincolo San Miniato Basso e Svincolo Empoli Ovest  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 22 Aug 2026 22:13:00 GMT"
+    },
+    {
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 22:06:00 GMT"
@@ -20,29 +55,9 @@
         "pubDate": "Sat, 22 Aug 2026 22:06:00 GMT"
     },
     {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 00:04 del 23 agosto 2026  tra Svincolo Val Vibrata e Svincolo San Benedetto Del Tronto  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 22:05:00 GMT"
-    },
-    {
         "title": "A14 Bologna-Ancona",
         "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 00:01 del 23 agosto 2026  tra Svincolo Castel S.Pietro e Svincolo Bologna San Lazzaro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 22:03:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n veicoli scortati per maltempo causa veicolo fermo o in avaria dalle 00:01 del 23 agosto 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 22:02:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n veicolo fermo o in avaria dalle 23:48 del 22 agosto 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 22:01:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 23:57 del 22 agosto 2026  tra Svincolo Rapallo e Svincolo Chiavari  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 21:59:00 GMT"
     },
     {
         "title": "A91 Autostrada Aeroporto Di Fiumicino",
@@ -53,11 +68,6 @@
         "title": "A14 Ancona-Pescara",
         "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 23:47 del 22 agosto 2026  tra Svincolo Loreto-Porto Recanati e Svincolo Ancona Sud  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 21:48:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 23:37 del 22 agosto 2026  tra Svincolo Val Di Sangro e Svincolo Vasto Nord-Casalbordino  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 21:42:00 GMT"
     },
     {
         "title": "A14 Bari-Taranto",
@@ -73,11 +83,6 @@
         "title": "A12 Genova-Rosignano",
         "description": "A12 Genova-Rosignano\n problemi in area di servizio causa guasto impianto dalle 23:10 del 22 agosto 2026  a Area di servizio  Sant  Ilario in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 21:12:00 GMT"
-    },
-    {
-        "title": "SS1 Via Aurelia",
-        "description": "SS1 Via Aurelia\n materiali dispersi  tra 8,425 km prima di Incrocio Staz. Di Gavorrano e 3,499 km dopo Incrocio Montepescali - SS73 Senese Aretina  in direzione Incrocio Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 21:02:00 GMT"
     },
     {
         "title": "A23 Palmanova-Tarvisio",
@@ -158,11 +163,6 @@
         "title": "SS16 Adriatica",
         "description": "SS16 Adriatica\n code causa manifestazione  tra 2,324 km dopo Incrocio Martano e 3,626 km prima di Incrocio Variante Di Palmariggi   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 22 Aug 2026 18:26:00 GMT"
-    },
-    {
-        "title": "SS1 Via Aurelia",
-        "description": "SS1 Via Aurelia\n tratto chiuso causa materiali dispersi  a Incrocio Finale Ligure - SS490 Del Colle Del Melogno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 22 Aug 2026 17:48:00 GMT"
     },
     {
         "title": "Roma Via Appia Antica",
