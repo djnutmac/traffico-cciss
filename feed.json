@@ -1,5 +1,50 @@
 [
     {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n perdita di carico causa perdita accidentale dalle 01:45 del 24 agosto 2026  tra Svincolo Sarno e Svincolo Nocera Pagani  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 23:50:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n animali sulla strada dalle 01:32 del 24 agosto 2026  tra Svincolo Carnia e Svincolo Pontebba  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 23:46:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n code causa veicolo fermo o in avaria dalle 01:40 del 24 agosto 2026  tra Svincolo Seriate e Svincolo Ponte Oglio  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 23:43:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n tratto chiuso causa incidente  tra Svincolo Padova Est e Svincolo Padova Ovest  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 23:41:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 01:38 del 24 agosto 2026  tra Svincolo Chiusi-Chianciano e Svincolo Valdichiana  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 23:41:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n incidente  a Svincolo Padova Est in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 23:40:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 01:35 del 24 agosto 2026  tra Svincolo Grumello e Svincolo Ponte Oglio  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 23:39:00 GMT"
+    },
+    {
+        "title": "Lodovico Il Moro(MI)",
+        "description": "Lodovico Il Moro(MI)\n animali sulla strada dalle 01:33 del 24 agosto 2026  tra Svincolo Baiano e Incrocio Via Ludovico il Moro corrispondenza Cavalcavia Don Lorenzo Milani  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 23:34:00 GMT"
+    },
+    {
+        "title": "A14 Bari-Taranto",
+        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 01:24 del 24 agosto 2026  tra Barriera Di Taranto Nord e Svincolo Mottola-Castellaneta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 23:30:00 GMT"
+    },
+    {
         "title": "A13 Bologna-Padova",
         "description": "A13 Bologna-Padova\n veicoli lenti dalle 01:27 del 24 agosto 2026  tra Svincolo Occhiobello e Svincolo Rovigo Sud - Villa Marzana  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 23:29:00 GMT"
@@ -20,16 +65,6 @@
         "pubDate": "Sun, 23 Aug 2026 23:26:00 GMT"
     },
     {
-        "title": "A14 Bari-Taranto",
-        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 01:24 del 24 agosto 2026  tra Barriera Di Taranto Nord e Svincolo Mottola-Castellaneta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 23:26:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 01:20 del 24 agosto 2026  tra Svincolo Caianello e Svincolo Capua  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 23:22:00 GMT"
-    },
-    {
         "title": "SS18 Tirrena Inferiore",
         "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 23:02:00 GMT"
@@ -43,11 +78,6 @@
         "title": "SS36 Del Lago Di Como E Dello Spluga",
         "description": "SS36 Del Lago Di Como E Dello Spluga\n carreggiata chiusa  tra 8 m dopo Incrocio Bellano e 221 m prima di Incrocio Piona  in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 22:14:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n incidente dalle 00:07 del 24 agosto 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 22:09:00 GMT"
     },
     {
         "title": "A15 Parma-La Spezia",
@@ -468,35 +498,5 @@
         "title": "Pesaro Via Giovanni Branca",
         "description": "Pesaro Via Giovanni Branca\n riduzione di carreggiata causa lavori dalle 08:00 del 31 agosto 2026 alle 18:00 del 31 ottobre 2026  tra Via Ercole Luigi Morselli e Via Giambattista Passeri   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 15:16:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Marco Polo",
-        "description": "Cervia Viale Marco Polo\n manifestazione dalle 08:00 del 4 alle 19:30 del 6 settembre 2026  a Viale Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 15:03:00 GMT"
-    },
-    {
-        "title": "Cervia Via delle Paratoie",
-        "description": "Cervia Via delle Paratoie\n manifestazione dalle 08:00 del 4 alle 19:30 del 6 settembre 2026  a Viale Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 15:02:00 GMT"
-    },
-    {
-        "title": "Cervia Viale Alfredo Oriani",
-        "description": "Cervia Viale Alfredo Oriani\n manifestazione dalle 08:00 del 4 alle 19:30 del 6 settembre 2026  a Viale Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 15:02:00 GMT"
-    },
-    {
-        "title": "Cervia Via Vittorio Veneto",
-        "description": "Cervia Via Vittorio Veneto\n manifestazione dalle 08:00 del 4 alle 19:30 del 6 settembre 2026  a Viale Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 15:00:00 GMT"
-    },
-    {
-        "title": "Cervia Via Tommaso Bonaldo",
-        "description": "Cervia Via Tommaso Bonaldo\n manifestazione dalle 08:00 del 4 alle 19:30 del 6 settembre 2026  a Viale Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 14:58:00 GMT"
-    },
-    {
-        "title": "Cervia Via Isotta Proserpina Gervasi",
-        "description": "Cervia Via Isotta Proserpina Gervasi\n manifestazione dalle 08:00 del 4 alle 19:30 del 6 settembre 2026  a Viale Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 14:57:00 GMT"
     }
 ]
