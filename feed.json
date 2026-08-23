@@ -1,5 +1,20 @@
 [
     {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Allacciamento A1 Milano-Napoli in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 22:56:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n incidente dalle 00:53 del 24 agosto 2026  tra Svincolo Lastra A Signa e Svincolo Ginestra Fiorentina  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 22:55:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 00:45 del 24 agosto 2026  tra Svincolo Avellino Est e Svincolo Avellino Ovest  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 22:52:00 GMT"
+    },
+    {
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n ripristino incidente causa incidente dalle 08:22 del 23 agosto 2026  tra Svincolo Ceprano e Svincolo Frosinone  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 22:35:00 GMT"
@@ -30,11 +45,6 @@
         "pubDate": "Sun, 23 Aug 2026 22:13:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 00:01 del 24 agosto 2026  tra Svincolo Bologna Fiera e Allacciamento A13 Bologna-Padova  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 22:10:00 GMT"
-    },
-    {
         "title": "A7 Milano-Genova",
         "description": "A7 Milano-Genova\n incidente dalle 00:07 del 24 agosto 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 22:09:00 GMT"
@@ -53,16 +63,6 @@
         "title": "A15 Parma-La Spezia",
         "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 21:50:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code a tratti causa traffico intenso dalle 09:15 del 23 agosto 2026  tra Svincolo Forli  e Svincolo Bologna Fiera  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 21:48:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n perdita di carico dalle 23:33 del 23 agosto 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Guidonia - Montecelio  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 21:37:00 GMT"
     },
     {
         "title": "A13 Bologna-Padova",
@@ -95,11 +95,6 @@
         "pubDate": "Sun, 23 Aug 2026 20:40:00 GMT"
     },
     {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n perdita di carico dalle 22:33 del 23 agosto 2026  a Svincolo Empoli Est in direzione da Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 20:35:00 GMT"
-    },
-    {
         "title": "A4 Raccordo Sistiana-Trieste",
         "description": "A4 Raccordo Sistiana-Trieste\n corsia chiusa  tra 2,799 km dopo Svincolo Prosecco e 313 m prima di Svincolo Trebiciano  in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 20:26:00 GMT"
@@ -118,11 +113,6 @@
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:00 del 23 alle 06:00 del 24 agosto 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 20:01:00 GMT"
-    },
-    {
-        "title": "SS11 Padana Superiore",
-        "description": "SS11 Padana Superiore\n incidente  a Incrocio Urago D oglio - SS469 Sebina Occidentale  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 23 Aug 2026 19:58:00 GMT"
     },
     {
         "title": "A14 Ancona-Pescara",
@@ -498,5 +488,15 @@
         "title": "Cervia Viale Alfredo Oriani",
         "description": "Cervia Viale Alfredo Oriani\n manifestazione dalle 08:00 del 4 alle 19:30 del 6 settembre 2026  a Viale Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 23 Aug 2026 15:02:00 GMT"
+    },
+    {
+        "title": "Cervia Via Vittorio Veneto",
+        "description": "Cervia Via Vittorio Veneto\n manifestazione dalle 08:00 del 4 alle 19:30 del 6 settembre 2026  a Viale Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 15:00:00 GMT"
+    },
+    {
+        "title": "Cervia Via Tommaso Bonaldo",
+        "description": "Cervia Via Tommaso Bonaldo\n manifestazione dalle 08:00 del 4 alle 19:30 del 6 settembre 2026  a Viale Nazario Sauro  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 23 Aug 2026 14:58:00 GMT"
     }
 ]
