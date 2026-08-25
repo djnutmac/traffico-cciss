@@ -1,48 +1,298 @@
 [
     {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 19:49 del 25 agosto 2026  tra Svincolo Valle Del Salto e Svincolo Tornimparte  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:51:00 GMT"
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n malore dalle 20:30 del 25 agosto 2026  a Area di servizio  San Martino in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:31:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 20:30 del 25 agosto 2026  tra Barriera Di Venezia e Allacciamento A4 Padova - Venezia  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:31:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n personale su strada dalle 20:28 del 25 agosto 2026  tra Svincolo Ginestra Fiorentina e Svincolo Montelupo Fiorentino  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:30:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n incidente dalle 19:56 del 25 agosto 2026  tra Allacciamento A12 Genova-Rosignano e Allacciamento A10 Genova-Ventimiglia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:30:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n veicoli scortati per maltempo causa lavori dalle 20:27 del 25 agosto 2026  tra Barriera Di Belluno e Svincolo Fadalto-Lago Di S.Croce  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:29:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada causa lavori dalle 20:27 del 25 agosto 2026  tra Barriera Di Belluno e Svincolo Fadalto-Lago Di S.Croce  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:29:00 GMT"
     },
     {
         "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n veicoli scortati per maltempo causa perdita di carico dalle 19:49 del 25 agosto 2026  tra Svincolo Fidenza e Svincolo Parma  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:51:00 GMT"
+        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 20:25 del 25 agosto 2026  tra Svincolo Modena Sud e Svincolo Modena Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:29:00 GMT"
+    },
+    {
+        "title": "SS3bis Bis tiberina (e45)",
+        "description": "SS3bis Bis tiberina (e45)\n lavori di manutenzione  tra 1 m dopo Incrocio Canili e 7,654 km prima di Incrocio Bagno Di Romagna  in direzione Incrocio Ravenna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:28:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n area di servizio chiusa causa lavori dalle 20:25 del 25 alle 05:00 del 26 agosto 2026  a Area di servizio  San Zenone in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:27:00 GMT"
+    },
+    {
+        "title": "R06 Raccordo Bettolle-Perugia",
+        "description": "R06 Raccordo Bettolle-Perugia\n veicolo in avaria  a Svincolo Ponte S.Giovanni-SS3 Bis-Raccordo Orte-Ra in direzione Raccordo Bettolle  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:26:00 GMT"
+    },
+    {
+        "title": "A14 Diramazione Per Ravenna",
+        "description": "A14 Diramazione Per Ravenna\n personale su strada causa lavori dalle 20:23 del 25 agosto 2026  tra Svincolo Bagnacavallo e Svincolo Ravenna - S.Vitale  in direzione Ravenna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:25:00 GMT"
+    },
+    {
+        "title": "SS9 Via Emilia",
+        "description": "SS9 Via Emilia\n tratto chiuso causa lavori dalle 18:00 del 31 agosto 2026 alle 18:00 del 1 settembre 2026  tra Incrocio Variante Per Fombio e Incrocio Casalpusterlengo - SS234 Codognese   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:25:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n personale su strada causa lavori dalle 20:22 del 25 agosto 2026  tra Svincolo Udine Nord e Svincolo Gemona-Osoppo  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:24:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n code causa incidente dalle 20:13 del 25 agosto 2026  tra Svincolo Genova Bolzaneto e Allacciamento A10 Genova-Ventimiglia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:24:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 20:20 del 25 agosto 2026  tra Svincolo Bologna San Lazzaro e Allacciamento A13 Bologna-Padova  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:23:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 20:21 del 25 agosto 2026  tra Svincolo Rovigo Sud - Villa Marzana e Svincolo Rovigo  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:23:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 20:21 del 25 agosto 2026  a Svincolo Genova Nervi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:23:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n incendio dalle 20:18 del 25 agosto 2026  tra Svincolo Carnia e Svincolo Pontebba  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:23:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 20:20 del 25 agosto 2026  tra Svincolo Bologna Interporto e Allacciamento A14 Bologna-Taranto  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:22:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n personale su strada dalle 20:18 del 25 agosto 2026  tra Svincolo Tarvisio Nord e Svincolo Malborghetto-Valbruna  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:21:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 20:18 del 25 agosto 2026  tra Svincolo Reggio Emilia e Svincolo Modena Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:20:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 20:18 del 25 agosto 2026  tra Svincolo Casale Monferrato Sud e Svincolo Casale Monferrato Nord  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:20:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n personale su strada dalle 20:17 del 25 agosto 2026  tra Svincolo Pistoia e Svincolo Montecatini  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:19:00 GMT"
+    },
+    {
+        "title": "SS301 Del Foscagno",
+        "description": "SS301 Del Foscagno\n senso unico alternato causa lavori dalle 08:00 del 26 agosto 2026 alle 16:00 del 30 ottobre 2026  tra Incrocio Passo Del Foscagno e Incrocio Trepalle   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:18:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 20:15 del 25 agosto 2026  tra Svincolo Asse Mediano e Allacciamento A16 Napoli-Canosa  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:17:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n traffico rallentato causa traffico intenso dalle 20:15 del 25 agosto 2026  tra Svincolo Arezzo e Svincolo Incisa - Reggello  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:17:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n lavori  tra 63 m prima di Svincolo Rho e 8,202 km dopo Svincolo Arluno  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:16:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n lavori  tra 1,4 km prima di Svincolo Volpiano Sud e 1,83 km dopo Area di servizio  Settimo Torinese  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:16:00 GMT"
+    },
+    {
+        "title": "SS300 Del Passo Di Gavia",
+        "description": "SS300 Del Passo Di Gavia\n senso unico alternato causa lavori dalle 07:00 del 31 agosto 2026 alle 19:00 del 16 ottobre 2026  tra Incrocio S.Antonio e Incrocio S.Caterina Valfurva   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:15:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 20:12 del 25 agosto 2026  tra Svincolo Termoli-Molise e Svincolo Vasto Sud  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:14:00 GMT"
+    },
+    {
+        "title": "SS280 Dei Due Mari",
+        "description": "SS280 Dei Due Mari\n entrata chiusa, uscita chiusa causa lavori dalle 06:00 del 25 alle 19:00 del 26 agosto 2026  a Incrocio Lamezia Terme A3 Salerno-Reggio C. in direzione Incrocio S.Maria Di Catanzaro - SS19quater  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:13:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 20:10 del 25 agosto 2026  tra Svincolo Faenza e Allacciamento Diramazione Per Ravenna  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:13:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n perdita di carico dalle 20:10 del 25 agosto 2026  tra Svincolo L aquila Ovest e Svincolo Tornimparte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:12:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n area di servizio chiusa causa lavori dalle 20:07 del 25 alle 05:00 del 26 agosto 2026  a Area di servizio  La Pioppa in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:10:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n incendio dalle 20:08 del 25 agosto 2026  tra Svincolo Palma Campania e Svincolo Sarno  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:10:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 20:07 del 25 agosto 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Bologna Borgo Panigale  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:09:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n area di servizio chiusa causa lavori dalle 20:07 del 25 alle 05:00 del 26 agosto 2026  a Area di servizio  Arda in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:09:00 GMT"
+    },
+    {
+        "title": "SS107 Silana Crotonese",
+        "description": "SS107 Silana Crotonese\n senso unico alternato causa lavori dalle 07:00 del 7 alle 19:00 del 8 settembre 2026  tra Incrocio Cosenza e Incrocio Celico   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:09:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 20:06 del 25 agosto 2026  tra Allacciamento A14 Bologna Borgo Panigale e Svincolo Modena Sud  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:08:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada dalle 20:03 del 25 agosto 2026  tra Svincolo Valdarno e Svincolo Monte San Savino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:06:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n perdita di carico dalle 20:03 del 25 agosto 2026  tra Svincolo Vicarello e Svincolo Lavoria  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:06:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 20:04 del 25 agosto 2026  tra Svincolo Pescara N. Citta  S.Angelo e Allacciamento A25 Torano-Pescara   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:06:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 20:04 del 25 agosto 2026  tra Svincolo Cattolica e Svincolo Pesaro-Urbino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:06:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 20:04 del 25 agosto 2026  tra Svincolo Teramo-Giulianova-Mosciano e Svincolo Atri-Pineto   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:06:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 20:03 del 25 agosto 2026  tra Incrocio Viale Gabriele D Annunzio incrocio ZTL Via Gaetano Ronzoni e Svincolo Senigallia  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:06:00 GMT"
+    },
+    {
+        "title": "A29DirA Diramazione Aeroporto Di Birgi",
+        "description": "A29DirA Diramazione Aeroporto Di Birgi\n materiali dispersi  a Svincolo Marsala in direzione Allacciamento Diramazione Per Trapani  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:04:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n perdita di carico causa perdita accidentale dalle 20:01 del 25 agosto 2026  tra Svincolo Caianello e Svincolo San Vittore  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:03:00 GMT"
+    },
+    {
+        "title": "Torino Corso Rosselli",
+        "description": "Torino Corso Rosselli\n lavori dalle 07:00 del 7 settembre 2026 alle 23:59 del 30 novembre 2026  tra Corso Carlo e Nello Rosselli e Via Malta   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:03:00 GMT"
+    },
+    {
+        "title": "A14 Ancona-Pescara",
+        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 20:00 del 25 agosto 2026  tra Svincolo Val Vibrata e Svincolo Teramo-Giulianova-Mosciano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:02:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 19:59 del 25 agosto 2026  tra Svincolo Baiano e Svincolo Avellino Ovest  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:01:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n personale su strada dalle 20:00 del 25 agosto 2026  tra Svincolo Guidonia - Montecelio e Allacciamento Diramazione Roma Sud   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 18:01:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada dalle 19:58 del 25 agosto 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Treviso Nord  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 17:59:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n lavori  tra 12,699 km prima di Svincolo Marcallo inizio Mesero e 7,6 km dopo Svincolo Novara Ovest  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 17:59:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 19:54 del 25 agosto 2026  tra Svincolo Valle Del Salto e Allacciamento A25 Torano-Pescara  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 17:56:00 GMT"
+    },
+    {
+        "title": "Barzana Via Arzenate",
+        "description": "Barzana Via Arzenate\n senso unico alternato causa lavori dalle 07:00 del 31 agosto 2026 alle 23:59 del 11 settembre 2026  tra SP175 e Via Mazzini   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 17:56:00 GMT"
+    },
+    {
+        "title": "A26 Diramazione Predosa-Bettole",
+        "description": "A26 Diramazione Predosa-Bettole\n veicolo fermo o in avaria dalle 19:51 del 25 agosto 2026  tra Svincolo Novi Ligure e Allacciamento A7 Milano-Genova  in direzione autostrada Milano-Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 17:55:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 19:43 del 25 agosto 2026  tra Svincolo Guidonia - Montecelio e Allacciamento Diramazione Roma Nord  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 17:55:00 GMT"
     },
     {
         "title": "A26 Genova-Gravellona Toce",
         "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 19:49 del 25 agosto 2026  tra Allacciamento A21 Torino-Piacenza-Brescia e Svincolo Casale Monferrato Sud  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 25 Aug 2026 17:54:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 19:49 del 25 agosto 2026  tra Svincolo Valle Del Salto e Svincolo Tornimparte  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:51:00 GMT"
-    },
-    {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n fondo stradale dissestato  a Incrocio Abbadia Lariana in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:50:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n code a tratti causa traffico intenso dalle 16:47 del 25 agosto 2026  tra Svincolo Arezzo e Svincolo Incisa - Reggello  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:49:00 GMT"
-    },
-    {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n code causa incidente dalle 18:27 del 25 agosto 2026  tra Svincolo Lago di Como e Svincolo Como Monte Olimpino  in direzione Lainate  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:48:00 GMT"
-    },
-    {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n incidente dalle 18:26 del 25 agosto 2026  tra Svincolo Como Nord e Svincolo Como Monte Olimpino  in direzione Lainate  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:48:00 GMT"
-    },
-    {
-        "title": "SS597 Di Logudoro",
-        "description": "SS597 Di Logudoro\n veicolo in avaria  a Incrocio Ploaghe - SS672 Sassari-Tempio in direzione Incrocio Codrongianus - SS131 Carlo Felice  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:48:00 GMT"
-    },
-    {
-        "title": "SS286 Di Castelbuono",
-        "description": "SS286 Di Castelbuono\n incidente  a Incrocio Castelbuono  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:48:00 GMT"
     },
     {
         "title": "A1 Firenze-Roma",
@@ -50,24 +300,9 @@
         "pubDate": "Tue, 25 Aug 2026 17:47:00 GMT"
     },
     {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicoli scortati per maltempo dalle 19:41 del 25 agosto 2026  tra Svincolo Pescara Ovest-Chieti e Svincolo Pescara Sud-Francavilla  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:47:00 GMT"
-    },
-    {
-        "title": "A28 Portogruaro-Sacile",
-        "description": "A28 Portogruaro-Sacile\n traffico rallentato causa traffico intenso  a Barriera Di Portogruaro in direzione Portogruaro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:46:00 GMT"
-    },
-    {
         "title": "SP124(TO) di Pecetto",
         "description": "SP124(TO) di Pecetto\n senso unico alternato causa lavori dalle 07:00 del 31 agosto 2026 alle 18:00 del 8 settembre 2026  tra Incrocio Pecetto Torinese e Incrocio San Felice   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:46:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 19:43 del 25 agosto 2026  tra Svincolo Guidonia - Montecelio e Allacciamento Diramazione Roma Nord  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:45:00 GMT"
     },
     {
         "title": "TG-BO Tangenziale Di Bologna",
@@ -85,16 +320,6 @@
         "pubDate": "Tue, 25 Aug 2026 17:44:00 GMT"
     },
     {
-        "title": "R03 Raccordo Sicignano-Potenza",
-        "description": "R03 Raccordo Sicignano-Potenza\n veicolo in avaria  a Svincolo Vietri in direzione Potenza  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:44:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n code causa veicolo fermo o in avaria dalle 19:41 del 25 agosto 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:43:00 GMT"
-    },
-    {
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n personale su strada dalle 19:41 del 25 agosto 2026  tra Svincolo Frosinone e Svincolo Ceprano   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:43:00 GMT"
@@ -105,19 +330,9 @@
         "pubDate": "Tue, 25 Aug 2026 17:42:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 19:38 del 25 agosto 2026  tra Svincolo Grumello e Svincolo Ponte Oglio  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:42:00 GMT"
-    },
-    {
         "title": "SP119 Corso Vittorio Emanuele",
         "description": "SP119 Corso Vittorio Emanuele\n senso unico alternato causa lavori dalle 08:00 del 31 agosto 2026 alle 18:00 del 8 settembre 2026  tra SP119 e Strada della Costa   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:41:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 19:39 del 25 agosto 2026  tra Barriera Di Milano Sud e Svincolo Lodi  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:40:00 GMT"
     },
     {
         "title": "A27 Mestre-Belluno",
@@ -125,23 +340,13 @@
         "pubDate": "Tue, 25 Aug 2026 17:40:00 GMT"
     },
     {
-        "title": "A51 Tangenziale Est Di Milano",
-        "description": "A51 Tangenziale Est Di Milano\n veicolo in avaria  tra Svincolo Gobba: Treviglio-Vimodrone e Svincolo Lambrate: Melzo - Dogana Segrate  in direzione Allacciamento A1 Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:40:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 19:37 del 25 agosto 2026  tra Allacciamento Diramazione Stroppiana-Santhia  e Svincolo Casale Monferrato Nord  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:38:00 GMT"
-    },
-    {
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 19:37 del 25 agosto 2026  tra Svincolo Frosinone e Svincolo Ferentino  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:38:00 GMT"
     },
     {
-        "title": "A56 Tangenziale Di Napoli",
-        "description": "A56 Tangenziale Di Napoli\n veicolo fermo o in avaria dalle 19:27 del 25 agosto 2026  tra Svincolo Zona Ospedaliera e Svincolo Camaldoli  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 19:37 del 25 agosto 2026  tra Allacciamento Diramazione Stroppiana-Santhia  e Svincolo Casale Monferrato Nord  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:38:00 GMT"
     },
     {
@@ -155,23 +360,8 @@
         "pubDate": "Tue, 25 Aug 2026 17:36:00 GMT"
     },
     {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 19:32 del 25 agosto 2026  tra Svincolo Pistoia e Svincolo Prato Ovest  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:36:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicoli scortati per maltempo causa veicolo fermo o in avaria dalle 19:34 del 25 agosto 2026  tra Svincolo Montopoli In Val D arno e Svincolo Pontedera Ovest-Ponsacco  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:36:00 GMT"
-    },
-    {
         "title": "A26 Diramazione Predosa-Bettole",
         "description": "A26 Diramazione Predosa-Bettole\n veicolo fermo o in avaria dalle 19:35 del 25 agosto 2026  tra Svincolo Novi Ligure e Allacciamento A7 Milano-Genova  in direzione autostrada Milano-Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:36:00 GMT"
-    },
-    {
-        "title": "A14 Bari-Taranto",
-        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 19:34 del 25 agosto 2026  tra Svincolo Acquaviva Delle Fonti e Svincolo Bari Sud  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:36:00 GMT"
     },
     {
@@ -205,21 +395,6 @@
         "pubDate": "Tue, 25 Aug 2026 17:31:00 GMT"
     },
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 19:28 del 25 agosto 2026  tra Svincolo Monselice e Svincolo Boara  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:30:00 GMT"
-    },
-    {
-        "title": "A3 Napoli-Salerno",
-        "description": "A3 Napoli-Salerno\n veicolo fermo o in avaria dalle 19:27 del 25 agosto 2026  tra Svincolo Torre Annunziata Nord e Svincolo Torre Del Greco  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:29:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 19:26 del 25 agosto 2026  tra Svincolo Caserta Nord e Svincolo Santa Maria Capua Vetere  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:27:00 GMT"
-    },
-    {
         "title": "SS23 Del Colle Di Sestriere",
         "description": "SS23 Del Colle Di Sestriere\n senso unico alternato causa lavori dalle 07:30 del 31 agosto 2026 alle 18:30 del 4 settembre 2026  tra Incrocio None e Incrocio Airasca   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:26:00 GMT"
@@ -230,24 +405,9 @@
         "pubDate": "Tue, 25 Aug 2026 17:24:00 GMT"
     },
     {
-        "title": "A26 Diramazione Stroppiana-Santhia",
-        "description": "A26 Diramazione Stroppiana-Santhia \n incendio dalle 19:22 del 25 agosto 2026  tra Allacciamento A26 Ge Voltri-Gravellona T. e Svincolo Vercelli Ovest  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:23:00 GMT"
-    },
-    {
         "title": "A14 Pescara-Bari",
         "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 19:19 del 25 agosto 2026  tra Svincolo Val Di Sangro e Svincolo Vasto Nord-Casalbordino  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:21:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n perdita di carico causa perdita accidentale dalle 19:20 del 25 agosto 2026  tra Allacciamento A15 Parma-La Spezia e Svincolo Parma  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:21:00 GMT"
-    },
-    {
-        "title": "SS34 Del Lago Maggiore",
-        "description": "SS34 Del Lago Maggiore\n corsia chiusa  a Incrocio Piaggio Valmara\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:20:00 GMT"
     },
     {
         "title": "SS42 Del Tonale E Della Mendola",
@@ -258,26 +418,6 @@
         "title": "Pistoia Via della Vigna",
         "description": "Pistoia Via della Vigna\n strada chiusa causa lavori dalle 07:00 del 26 agosto 2026 alle 23:59 del 4 settembre 2026  tra Via Bindi e Via Giuseppe Verdi   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:19:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 19:16 del 25 agosto 2026  a Svincolo Bologna San Lazzaro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:18:00 GMT"
-    },
-    {
-        "title": "SS87 Sannitica",
-        "description": "SS87 Sannitica\n tratto chiuso causa incidente  tra Incrocio Baranello e Incrocio S.Vito - SS87 Var Ovest Di Campobasso   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:18:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 19:14 del 25 agosto 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Bologna Borgo Panigale  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:17:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo fermo o in avaria dalle 19:15 del 25 agosto 2026  tra Svincolo Pontedera Est e Svincolo Pontedera Ovest-Ponsacco  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:17:00 GMT"
     },
     {
         "title": "SS245 Castellana",
@@ -295,11 +435,6 @@
         "pubDate": "Tue, 25 Aug 2026 17:13:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 19:07 del 25 agosto 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:11:00 GMT"
-    },
-    {
         "title": "SS35 Dei Giovi",
         "description": "SS35 Dei Giovi\n senso unico alternato causa lavori dalle 07:00 del 1 settembre 2026 alle 19:00 del 2 ottobre 2026  tra Incrocio Borgo Fornari Pieve e Incrocio Casello Ronco Scrivia A7 Milano-Genova   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:10:00 GMT"
@@ -315,19 +450,9 @@
         "pubDate": "Tue, 25 Aug 2026 17:08:00 GMT"
     },
     {
-        "title": "A26 Diramazione Stroppiana-Santhia",
-        "description": "A26 Diramazione Stroppiana-Santhia \n fumo dalle 19:05 del 25 agosto 2026  tra Allacciamento A26 Ge Voltri-Gravellona T. e Svincolo Vercelli Ovest  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:07:00 GMT"
-    },
-    {
         "title": "T1-TRF.Bia Traforo Del Monte Bianco",
         "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 21:00 del 25 agosto 2026  a Svincolo Piazzale Lato Italiano in direzione Chamonix  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 17:07:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 19:03 del 25 agosto 2026  tra Svincolo Occhiobello e Svincolo Rovigo Sud - Villa Marzana  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 17:05:00 GMT"
     },
     {
         "title": "A14 Pescara-Bari",
@@ -340,29 +465,9 @@
         "pubDate": "Tue, 25 Aug 2026 16:57:00 GMT"
     },
     {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n veicolo in avaria  a Incrocio Desio in direzione Incrocio Monza - SS527 Bustese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:56:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 17:11 del 25 agosto 2026  tra Svincolo Boara e Svincolo Monselice  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:55:00 GMT"
-    },
-    {
-        "title": "Roma Piazzale della Farnesina",
-        "description": "Roma Piazzale della Farnesina\n incidente possibili rallentamenti  a Piazzale della Farnesina in direzione entrambe (altezza Viale dei Giusti della Farnesina)  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:54:00 GMT"
-    },
-    {
         "title": "SP130(PV) Bereguardo-Pavia",
         "description": "SP130(PV) Bereguardo-Pavia\n senso unico alternato causa lavori dalle 06:30 del 26 agosto 2026 alle 18:00 del 15 settembre 2026  tra Incrocio SP185-Bereguardo e Incrocio SP174-Torre d Isola   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 16:53:00 GMT"
-    },
-    {
-        "title": "A14 Bari-Taranto",
-        "description": "A14 Bari-Taranto\n vento forte dalle 18:50 del 25 agosto 2026  tra Svincolo Molfetta e Svincolo Acquaviva Delle Fonti   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:52:00 GMT"
     },
     {
         "title": "SP155(CN) Busca-Savigliano",
@@ -385,118 +490,13 @@
         "pubDate": "Tue, 25 Aug 2026 16:46:00 GMT"
     },
     {
-        "title": "A26 Diramazione Stroppiana-Santhia",
-        "description": "A26 Diramazione Stroppiana-Santhia \n veicolo fermo o in avaria dalle 18:42 del 25 agosto 2026  tra Allacciamento A4 Torino-Trieste\/Raccordo A4-A5 e Svincolo Vercelli Ovest  in direzione A26 Genova Voltri-Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:45:00 GMT"
-    },
-    {
         "title": "SP46(TO) di Frassinetto",
         "description": "SP46(TO) di Frassinetto\n senso unico alternato causa lavori dalle 07:00 del 31 agosto 2026 alle 18:00 del 30 settembre 2026  tra Incrocio Borgata Coppo e Incrocio Frassinetto   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 16:44:00 GMT"
     },
     {
-        "title": "SS9 Via Emilia",
-        "description": "SS9 Via Emilia\n materiali dispersi  tra 21 m prima di Incrocio Modena - SS255 Di S.Matteo Decima e 2,632 km dopo Incrocio Modena - SS12 dell Abetone e del Brennero  in direzione Incrocio Rimini - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:44:00 GMT"
-    },
-    {
-        "title": "SS113 Settentrionale Sicula",
-        "description": "SS113 Settentrionale Sicula\n traffico rallentato causa perdita di liquido sull asfalto  a Incrocio Rocca Di Capri Leone  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:42:00 GMT"
-    },
-    {
         "title": "SP222(TO) di Castellamonte",
         "description": "SP222(TO) di Castellamonte\n senso unico alternato causa lavori dalle 07:30 del 31 agosto 2026 alle 19:00 del 30 settembre 2026  tra Incrocio SP41-Baldissero Canavese e Incrocio Castellamonte   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 25 Aug 2026 16:40:00 GMT"
-    },
-    {
-        "title": "SP47(TO) della Val Soana",
-        "description": "SP47(TO) della Val Soana\n senso unico alternato causa lavori dalle 00:00 del 25 agosto alle 23:59 del 2 ottobre 2026  tra Incrocio Pont Canavese e Incrocio Strada Comunale Rivoira   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:36:00 GMT"
-    },
-    {
-        "title": "A26 Diramazione Predosa-Bettole",
-        "description": "A26 Diramazione Predosa-Bettole\n veicolo fermo o in avaria dalle 18:33 del 25 agosto 2026  tra Svincolo Novi Ligure e Allacciamento A26 Ge Voltri-Gravellona T.  in direzione A26 Genova Voltri-Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:34:00 GMT"
-    },
-    {
-        "title": "SS490 Del Colle Del Melogno",
-        "description": "SS490 Del Colle Del Melogno\n senso unico alternato causa lavori dalle 08:30 del 25 agosto 2026 alle 18:30 del 30 settembre 2026  tra Incrocio Frassino e Incrocio Colle Del Melogno   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:30:00 GMT"
-    },
-    {
-        "title": "Ferrara Corso Porta Mare",
-        "description": "Ferrara Corso Porta Mare\n lavori dalle 07:00 del 25 alle 18:00 del 28 agosto 2026  tra Corso Ercole I d Este e Via Borgo dei Leoni   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:25:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 18:21 del 25 agosto 2026  tra Svincolo Cerignola e Svincolo Lacedonia  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:23:00 GMT"
-    },
-    {
-        "title": "SP479 Strada provinciale di Ruscio",
-        "description": "SP479 Strada provinciale di Ruscio\n transito temporaneamente sospeso causa manifestazione dalle 19:00 alle 23:59 del 30 agosto 2026  a Strada Regionale 471 di Leonessa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:22:00 GMT"
-    },
-    {
-        "title": "SP479 Strada provinciale di Ruscio",
-        "description": "SP479 Strada provinciale di Ruscio\n transito temporaneamente sospeso causa manifestazione dalle 19:00 alle 23:59 del 28 agosto 2026  a Strada Regionale 471 di Leonessa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:21:00 GMT"
-    },
-    {
-        "title": "SS9 Via Emilia",
-        "description": "SS9 Via Emilia\n traffico rallentato causa incidente  a Incrocio Cesena - S.G.C. Orte-Ravenna (e45)  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:20:00 GMT"
-    },
-    {
-        "title": "SS658 S.S.V. Melfi-Potenza",
-        "description": "SS658 S.S.V. Melfi-Potenza\n tratto chiuso causa incendio  tra Incrocio Castel Lagopesole e Incrocio Scalera E Staz. Di Forenza   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:19:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 18:16 del 25 agosto 2026  tra Svincolo Bussi-Popoli e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:18:00 GMT"
-    },
-    {
-        "title": "Torino Via Giacomo Grosso",
-        "description": "Torino Via Giacomo Grosso\n lavori dalle 07:00 del 7 settembre 2026 alle 23:59 del 6 dicembre 2026  tra Corso Grosseto e Via Cerrione   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:17:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n corsia chiusa causa fondo stradale dissestato  a Svincolo Serre in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:15:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 18:11 del 25 agosto 2026  tra Svincolo Lacedonia e Svincolo Candela   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:12:00 GMT"
-    },
-    {
-        "title": "SS407 Basentana",
-        "description": "SS407 Basentana\n riduzione di carreggiata causa lavori dalle 00:01 del 27 luglio alle 23:59 del 1 ottobre 2026  tra Incrocio Staz. Di Pisticci - SS176 Della V. Del Basento e Incrocio Bernalda   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:09:00 GMT"
-    },
-    {
-        "title": "SS407 Basentana",
-        "description": "SS407 Basentana\n riduzione di carreggiata causa lavori dalle 07:00 del 14 maggio 2026 alle 18:00 del 31 ottobre 2026  tra Incrocio Campomaggiore e Incrocio Tricarico-raccordo con SS7  in direzione Incrocio Metaponto - SS106 Jonica  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:04:00 GMT"
-    },
-    {
-        "title": "SS407 Basentana",
-        "description": "SS407 Basentana\n riduzione di carreggiata causa lavori dalle 07:00 del 26 agosto 2026 alle 17:00 del 14 settembre 2026  tra Incrocio Staz. Di Salandra-Grottole e Incrocio Staz. Di Grassano - SS277 Di Calle  in direzione Potenza  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:03:00 GMT"
-    },
-    {
-        "title": "Torino Corso Giacomo Matteotti",
-        "description": "Torino Corso Giacomo Matteotti\n lavori dalle 07:00 alle 11:00 del 4 settembre 2026  tra Via Vincenzo Bellini e Corso Re Umberto   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:02:00 GMT"
-    },
-    {
-        "title": "SS6 Via Casilina",
-        "description": "SS6 Via Casilina\n senso unico alternato causa lavori dalle 00:00 del 31 agosto alle 23:59 del 18 settembre 2026  tra Incrocio S. Cesareo - SS155 Di Fiuggi e Incrocio Colleferro A1 Milano Napoli   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 25 Aug 2026 16:01:00 GMT"
     }
 ]
