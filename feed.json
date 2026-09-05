@@ -1,28 +1,368 @@
 [
     {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 18:05 del 5 settembre 2026  tra Svincolo Gemona-Osoppo e Svincolo Carnia  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 16:06:00 GMT"
+        "title": "SS96 Barese",
+        "description": "SS96 Barese\n traffico rallentato causa non funzionante impianto di illuminazione tunnel  a Incrocio Palo Del Colle in direzione Incrocio Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:16:00 GMT"
+    },
+    {
+        "title": "SS671 Della Val Seriana",
+        "description": "SS671 Della Val Seriana\n traffico rallentato causa incidente  a Incrocio SS470 Val Brembana\/SS342 Lecco-Como  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:16:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n fumo causa incendio dalle 18:36 del 5 settembre 2026  tra Svincolo Cerignola e Allacciamento A14 Bologna-Taranto   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:15:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n incendio dalle 18:36 del 5 settembre 2026  tra Svincolo Cerignola e Allacciamento A14 Bologna-Taranto  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:15:00 GMT"
+    },
+    {
+        "title": "Parma Strada Giovanni Cavestro",
+        "description": "Parma Strada Giovanni Cavestro\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada dell Università  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:13:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 20:08 del 5 settembre 2026  a Barriera Di Roma Ovest  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:12:00 GMT"
+    },
+    {
+        "title": "Parma Strada dell Università",
+        "description": "Parma Strada dell Università\n strada chiusa causa manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  tra Strada Giovanni Cavestro e Piazza Giuseppe Garibaldi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:10:00 GMT"
+    },
+    {
+        "title": "R03 Raccordo Sicignano-Potenza",
+        "description": "R03 Raccordo Sicignano-Potenza\n veicolo in avaria  a Svincolo Tito in direzione Raccordo Sicignano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:10:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 19:52 del 5 settembre 2026  tra Svincolo Monselice e Svincolo Boara  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:08:00 GMT"
+    },
+    {
+        "title": "Parma Borgo San Vitale",
+        "description": "Parma Borgo San Vitale\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:07:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 20:05 del 5 settembre 2026  tra Allacciamento A22 Modena-Brennero e Svincolo Reggio Emilia  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:07:00 GMT"
+    },
+    {
+        "title": "A50 Tangenziale Ovest Di Milano",
+        "description": "A50 Tangenziale Ovest Di Milano\n veicolo in avaria  tra Svincolo SS11 Padana Superiore E SS33: Molino Dorino e Allacciamento A4 Torino-Trieste: V.Le Certosa  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:07:00 GMT"
+    },
+    {
+        "title": "A8 Milano-Varese",
+        "description": "A8 Milano-Varese\n veicoli scortati per maltempo causa perdita di carico dalle 20:04 del 5 settembre 2026  tra Svincolo Lainate e Barriera Di Milano Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:05:00 GMT"
+    },
+    {
+        "title": "Parma Borgo della Posta",
+        "description": "Parma Borgo della Posta\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:04:00 GMT"
+    },
+    {
+        "title": "Parma Piazzale Cervi",
+        "description": "Parma Piazzale Cervi\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:01:00 GMT"
+    },
+    {
+        "title": "A5 Raccordo A4",
+        "description": "A5 Raccordo A4\n veicolo in avaria  a Allacciamento A4 Torino-Trieste in direzione Allacciamento A4 Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:01:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 19:59 del 5 settembre 2026  tra Svincolo Grottaminarda e Svincolo Vallata  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:01:00 GMT"
     },
     {
         "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 18:04 del 5 settembre 2026  tra Allacciamento A12 - Lucca e Allacciamento A12 - Pisa  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 16:06:00 GMT"
+        "description": "A11 Firenze-Pisa\n veicoli lenti dalle 20:00 del 5 settembre 2026  tra Svincolo Pistoia e Svincolo Montecatini  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:01:00 GMT"
+    },
+    {
+        "title": "SS45bis Bis Gardesana Occidentale",
+        "description": "SS45bis Bis Gardesana Occidentale\n materiali dispersi  a Galleria Galleria Di Amistani in direzione Incrocio Trento - SS12 Dell abetone E Del Brennero  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:00:00 GMT"
+    },
+    {
+        "title": "SS126 Sud Occidentale Sarda",
+        "description": "SS126 Sud Occidentale Sarda\n traffico rallentato causa incidente  a Incrocio Tratalias in direzione Incrocio Porto di S.Antioco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:00:00 GMT"
+    },
+    {
+        "title": "SS219 Di Gubbio E Piandassino",
+        "description": "SS219 Di Gubbio E Piandassino\n traffico rallentato causa incidente  a Incrocio Madonna D.Ponte - SS452 Della Contessa in direzione Incrocio Piandassino - Sgc Orte-Ra E SS3 Bis  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:00:00 GMT"
+    },
+    {
+        "title": "SS3 Via Flaminia",
+        "description": "SS3 Via Flaminia\n incidente  a Incrocio Valtopina in direzione Incrocio P.le Flaminio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:00:00 GMT"
+    },
+    {
+        "title": "R24 Raccordo Torino-Aeroporto Caselle",
+        "description": "R24 Raccordo Torino-Aeroporto Caselle\n materiali dispersi  a Svincolo S.Benigno - SS460 in direzione Aeroporto Caselle  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:00:00 GMT"
+    },
+    {
+        "title": "SS47 Della Valsugana",
+        "description": "SS47 Della Valsugana\n corsia chiusa  a Incrocio Solagna in direzione Incrocio Canova - SS12 Dell abetone E Del Brennero  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:00:00 GMT"
+    },
+    {
+        "title": "A8 Milano-Varese",
+        "description": "A8 Milano-Varese\n perdita di carico causa perdita accidentale dalle 19:59 del 5 settembre 2026  tra Svincolo Lainate e Barriera Di Milano Nord  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 18:00:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Sud",
+        "description": "A1 Diramazione Roma Sud\n ripristino incidente dalle 19:57 del 5 settembre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo San Cesareo  in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:59:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 19:57 del 5 settembre 2026  tra Svincolo Bologna Interporto e Svincolo Bologna Arcoveggio-Raccordo Per La Tangenziale  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:59:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 19:35 del 5 settembre 2026  tra Svincolo Vallata e Svincolo Grottaminarda  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:59:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 19:51 del 5 settembre 2026  tra Svincolo S.Severa-S.Marinella e Svincolo Cerveteri-Ladispoli  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:53:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 19:42 del 5 settembre 2026  tra Svincolo Altopascio e Svincolo Capannori  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:53:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n code a tratti causa lavori  tra Svincolo Peschiera e Svincolo Sirmione  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:49:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo fermo o in avaria dalle 19:48 del 5 settembre 2026  tra Svincolo Montelupo Fiorentino e Svincolo Ginestra Fiorentina  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:49:00 GMT"
+    },
+    {
+        "title": "SS66 Pistoiese",
+        "description": "SS66 Pistoiese\n tratto chiuso causa fiera popolare  tra 737 m dopo Incrocio Limestre e 2,023 km prima di Incrocio Mammiano - SS633 Mammianese Marlianese   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:48:00 GMT"
+    },
+    {
+        "title": "A1 Milano-Bologna",
+        "description": "A1 Milano-Bologna\n veicolo fermo o in avaria dalle 19:41 del 5 settembre 2026  tra Svincolo Parma e Svincolo Terre di Canossa - Campegine  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:47:00 GMT"
+    },
+    {
+        "title": "Parma Via Francesco Petrarca",
+        "description": "Parma Via Francesco Petrarca\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:42:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 19:09 del 5 settembre 2026  tra Svincolo Colledara-San Gabriele e Svincolo Assergi  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:41:00 GMT"
+    },
+    {
+        "title": "Parma Strada Aurelio Saffi",
+        "description": "Parma Strada Aurelio Saffi\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:40:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Pontremoli in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:39:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 18:48 del 5 settembre 2026  tra Svincolo Benevento - Raccordo Di Benevento e Svincolo Avellino Est  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:38:00 GMT"
+    },
+    {
+        "title": "Parma Strada Cairoli",
+        "description": "Parma Strada Cairoli\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:37:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 19:26 del 5 settembre 2026  tra Svincolo Assergi e Svincolo Colledara-San Gabriele  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:35:00 GMT"
+    },
+    {
+        "title": "Parma Strada Nuova",
+        "description": "Parma Strada Nuova\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:30:00 GMT"
+    },
+    {
+        "title": "Parma Borgo Valorio",
+        "description": "Parma Borgo Valorio\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:28:00 GMT"
+    },
+    {
+        "title": "Parma Borgo Lalatta",
+        "description": "Parma Borgo Lalatta\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:21:00 GMT"
+    },
+    {
+        "title": "Parma Viale Mentana",
+        "description": "Parma Viale Mentana\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada della Repubblica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:18:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 19:10 del 5 settembre 2026  tra Svincolo Ferrara Sud e Svincolo Altedo  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:14:00 GMT"
+    },
+    {
+        "title": "Parma Strada della Repubblica",
+        "description": "Parma Strada della Repubblica\n strada chiusa causa manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  tra Piazza Giuseppe Garibaldi e Strada Ventidue Luglio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:14:00 GMT"
+    },
+    {
+        "title": "Parma Piazza Giuseppe Garibaldi",
+        "description": "Parma Piazza Giuseppe Garibaldi\n strada chiusa causa manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  tra Strada Giuseppe Mazzini e Strada della Repubblica   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:11:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 18:59 del 5 settembre 2026  tra Svincolo Fabro e Svincolo Orvieto  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:02:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n veicolo in panne  tra Svincolo Binasco e Barriera Di Milano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:01:00 GMT"
+    },
+    {
+        "title": "Parma Viale Arturo Toscanini",
+        "description": "Parma Viale Arturo Toscanini\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:00:00 GMT"
+    },
+    {
+        "title": "Roma Viale di Castel Porziano",
+        "description": "Roma Viale di Castel Porziano\n strada chiusa causa lavori di potatura dalle 09:00 del 2 alle 17:00 del 30 settembre 2026  tra Via Giuseppe Nicolini e Via Cristoforo Colombo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 17:00:00 GMT"
+    },
+    {
+        "title": "SS202 Triestina",
+        "description": "SS202 Triestina\n materiali dispersi  a Incrocio Cattinara - SS15 Racc Via Flavia in direzione Incrocio Padriciano - Raccordo A4-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:58:00 GMT"
+    },
+    {
+        "title": "Parma Borgo Piccinini",
+        "description": "Parma Borgo Piccinini\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:57:00 GMT"
+    },
+    {
+        "title": "A29 Diramazione Alcamo-Trapani",
+        "description": "A29 Diramazione Alcamo-Trapani\n incendio  a Svincolo Fulgatore in direzione Trapani  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:56:00 GMT"
+    },
+    {
+        "title": "Parma Viale Giovanni Mariotti",
+        "description": "Parma Viale Giovanni Mariotti\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:55:00 GMT"
+    },
+    {
+        "title": "Parma Borgo Gian Domenico Romagnosi",
+        "description": "Parma Borgo Gian Domenico Romagnosi\n manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  a Strada Giuseppe Mazzini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:52:00 GMT"
+    },
+    {
+        "title": "Parma Strada Giuseppe Mazzini",
+        "description": "Parma Strada Giuseppe Mazzini\n strada chiusa causa manifestazione dalle 12:00 del 8 alle 06:00 del 9 settembre 2026  tra Strada Giovanni Cavestro e Piazza Giuseppe Garibaldi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:49:00 GMT"
+    },
+    {
+        "title": "Roma Via Marcello Provenzale",
+        "description": "Roma Via Marcello Provenzale\n chiusura per veicoli con peso superiore a 3,5 tonnellate causa lavori dalle 10:00 del 3 settembre 2026  tra Via di Torrevecchia e Via Pietro Maffi  in direzione Via Pietro Maffi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:44:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 18:37 del 5 settembre 2026  tra Svincolo Imola e Svincolo Castel S.Pietro  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:39:00 GMT"
+    },
+    {
+        "title": "Parma Borgo Angelo Mazza",
+        "description": "Parma Borgo Angelo Mazza\n senso unico alternato causa manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  tra Strada Giuseppe Garibaldi e Borgo San Biagio   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:36:00 GMT"
+    },
+    {
+        "title": "Parma Vicolo Sant Alessandro",
+        "description": "Parma Vicolo Sant Alessandro\n senso unico alternato causa manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  tra Strada Giuseppe Garibaldi e Piazzale San Bartolomeo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:33:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 2,89 km dopo Svincolo Berceto e 14,52 km prima di Svincolo Pontremoli  in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:32:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n lavori  tra 16,1 km prima di Svincolo Pontremoli e 6,18 km dopo Svincolo Berceto  in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:32:00 GMT"
+    },
+    {
+        "title": "Parma Via Giambattista Bodoni",
+        "description": "Parma Via Giambattista Bodoni\n senso unico alternato causa manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  tra Strada Giuseppe Garibaldi e Via Giuseppe Verdi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:28:00 GMT"
+    },
+    {
+        "title": "Parma Via Ireneo Affo",
+        "description": "Parma Via Ireneo Affo \n senso unico alternato causa manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  tra Strada Giuseppe Garibaldi e Via Paolo Maria Paciaudi   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:20:00 GMT"
+    },
+    {
+        "title": "Parma Borgo Pietro Giordani",
+        "description": "Parma Borgo Pietro Giordani\n senso unico alternato causa manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  tra Strada Felice Cavallotti e Via Ireneo Affo    <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:15:00 GMT"
+    },
+    {
+        "title": "Parma Borgo del Parmigianino",
+        "description": "Parma Borgo del Parmigianino\n senso unico alternato causa manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  tra Strada Macedonio Melloni e Borgo Montassù   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:11:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Sud",
+        "description": "A1 Diramazione Roma Sud\n problemi in area di servizio causa lavori dalle 08:18 del 2 settembre 2026  a Area di servizio  Tuscolana in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:09:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Sud",
+        "description": "A1 Diramazione Roma Sud\n impianto di distribuzione carburante chiuso causa lavori dalle 08:18 del 2 settembre 2026  a Area di servizio  Tuscolana in direzione G.r.a.  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:09:00 GMT"
+    },
+    {
+        "title": "A4 Venezia-Trieste",
+        "description": "A4 Venezia-Trieste\n chiusura area di servizio nell area di sosta causa lavori in corso  a Area di servizio  Calstorta in direzione Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:08:00 GMT"
+    },
+    {
+        "title": "Parma Viale Fratti",
+        "description": "Parma Viale Fratti\n manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  a Strada Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 05 Sep 2026 16:07:00 GMT"
     },
     {
         "title": "Parma Via Trento",
         "description": "Parma Via Trento\n manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  a Strada Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 16:04:00 GMT"
-    },
-    {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n pedoni dalle 18:03 del 5 settembre 2026  tra Svincolo Caserta Nord e Allacciamento A30 Caserta-Salerno  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 16:04:00 GMT"
-    },
-    {
-        "title": "Genova Via Antonio Pacinotti",
-        "description": "Genova Via Antonio Pacinotti\n incidente, guidare con attenzione  a Via Antonio Pacinotti  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 16:03:00 GMT"
     },
     {
         "title": "A56 Tangenziale Di Napoli",
@@ -40,54 +380,9 @@
         "pubDate": "Sat, 05 Sep 2026 16:02:00 GMT"
     },
     {
-        "title": "A1 Diramazione Roma Nord",
-        "description": "A1 Diramazione Roma Nord\n perdita di carico causa perdita accidentale dalle 18:01 del 5 settembre 2026  tra Svincolo Settebagni e Svincolo Castelnuovo di Porto  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 16:02:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 17:59 del 5 settembre 2026  tra Svincolo Chiavari e Svincolo Rapallo  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 16:02:00 GMT"
-    },
-    {
         "title": "SS586 Della Valle Dell aveto",
         "description": "SS586 Della Valle Dell aveto\n senso unico alternato causa lavori dalle 08:00 del 7 settembre 2026 alle 19:00 del 10 ottobre 2026  tra Incrocio Marsaglia - SS45 Di Val Di Trebbia e Incrocio Boschi   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 16:01:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 17:43 del 5 settembre 2026  tra Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio e Svincolo Cesena  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 16:00:00 GMT"
-    },
-    {
-        "title": "SS148 Pontina",
-        "description": "SS148 Pontina\n traffico rallentato causa traffico intenso  tra Incrocio Castel Romano\/Trigoria e Incrocio Via Decima-Castel Porziano (direzione Rm)  in direzione GRA (Roma)  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:59:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Parma Ovest in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:59:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n perdita di carico causa perdita accidentale dalle 17:51 del 5 settembre 2026  tra Svincolo Teramo-Giulianova-Mosciano e Svincolo Roseto Degli Abruzzi  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:59:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n veicolo in avaria in uscita  a Svincolo Spotorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:58:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n perdita di carico causa perdita accidentale dalle 17:52 del 5 settembre 2026  tra Svincolo Avellino Est e Svincolo Benevento - Raccordo Di Benevento  in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:58:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 17:56 del 5 settembre 2026  tra Svincolo Carnia e Svincolo Pontebba  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:57:00 GMT"
     },
     {
         "title": "Parma Borgo Guazzo",
@@ -95,39 +390,9 @@
         "pubDate": "Sat, 05 Sep 2026 15:57:00 GMT"
     },
     {
-        "title": "A4 Brescia-Padova",
-        "description": "A4 Brescia-Padova\n code per 6 km causa lavori  tra Svincolo Sommacampagna e Svincolo Sirmione  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:56:00 GMT"
-    },
-    {
-        "title": "A56 Tangenziale Di Napoli",
-        "description": "A56 Tangenziale Di Napoli\n code causa viabilità esterna non riceve dalle 17:54 del 5 settembre 2026  a Svincolo Fuorigrotta in direzione da allacciamento diramazione Capodichino  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:56:00 GMT"
-    },
-    {
         "title": "Parma Viale Vittorio Bottego",
         "description": "Parma Viale Vittorio Bottego\n manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  a Strada Giuseppe Garibaldi  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 15:55:00 GMT"
-    },
-    {
-        "title": "Roma Viale di Tor di Quinto",
-        "description": "Roma Viale di Tor di Quinto\n traffico rallentato causa traffico intenso  tra Via del Foro Italico e Corso di Francia  in direzione Ponte Milvio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:55:00 GMT"
-    },
-    {
-        "title": "T1-TRF.Bia Traforo Del Monte Bianco",
-        "description": "T1-TRF.Bia Traforo Del Monte Bianco\n code dalle 19:52 del 5 settembre 2026  a Svincolo Piazzale Lato Francese in direzione Courmayeur  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:55:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 17:53 del 5 settembre 2026  tra Svincolo Sasso Marconi e Allacciamento Ramo Casalecchio  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:54:00 GMT"
-    },
-    {
-        "title": "Tangenziale Est (RM)",
-        "description": "Tangenziale Est (RM)\n traffico rallentato causa traffico intenso  tra Incrocio Uscita Via Salaria-Villa Ada e Incrocio Uscita Via dei Campi Sportivi  in direzione Foro Italico (Stadio Olimpico)  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:52:00 GMT"
     },
     {
         "title": "Parma Borgo Giambattista Borghesi",
@@ -135,64 +400,9 @@
         "pubDate": "Sat, 05 Sep 2026 15:52:00 GMT"
     },
     {
-        "title": "Cerchia Dei Bastioni(MI)",
-        "description": "Cerchia Dei Bastioni(MI)\n pedoni dalle 17:43 del 5 settembre 2026  tra Svincolo Cesena e Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:52:00 GMT"
-    },
-    {
         "title": "Parma Strada Giuseppe Garibaldi",
         "description": "Parma Strada Giuseppe Garibaldi\n strada chiusa causa manifestazione dalle 07:00 alle 20:30 del 6 settembre 2026  tra Borgo Angelo Mazza e Borgo Giambattista Borghesi   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 15:49:00 GMT"
-    },
-    {
-        "title": "Roma Via della Pineta Sacchetti",
-        "description": "Roma Via della Pineta Sacchetti\n traffico rallentato causa traffico intenso  tra Circonvallazione Cornelia e Via del Forte Braschi   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:48:00 GMT"
-    },
-    {
-        "title": "SS3bis Bis tiberina (e45)",
-        "description": "SS3bis Bis tiberina (e45)\n traffico rallentato causa incidente  a Incrocio SS75 Centrale Umbra in direzione Incrocio Ravenna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:48:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Sud Di Torino",
-        "description": "A55 Tangenziale Sud Di Torino\n veicolo in avaria  a Allacciamento Interscambio Drosso in direzione Svincolo Santena - A21 Torino-Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:47:00 GMT"
-    },
-    {
-        "title": "A14 Bari-Taranto",
-        "description": "A14 Bari-Taranto\n veicolo fermo o in avaria dalle 17:45 del 5 settembre 2026  tra Barriera Di Taranto Nord e Svincolo Mottola-Castellaneta  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:46:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 17:45 del 5 settembre 2026  a Svincolo Fermo-Porto S.Giorgio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:46:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n veicolo fermo o in avaria dalle 17:40 del 5 settembre 2026  tra Svincolo Pontebba e Svincolo Carnia  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:45:00 GMT"
-    },
-    {
-        "title": "SS2 Via Cassia",
-        "description": "SS2 Via Cassia\n code a tratti causa traffico intenso  tra Incrocio La Storta - SS493 Claudia Braccianese e Incrocio Via Trionfale  in direzione GRA (Roma)  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:44:00 GMT"
-    },
-    {
-        "title": "Genova Corso Belvedere",
-        "description": "Genova Corso Belvedere\n semaforo non funzionante correttamente  a Corso Belvedere  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:43:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 17:32 del 5 settembre 2026  tra Svincolo Colledara-San Gabriele e Svincolo Assergi  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:43:00 GMT"
-    },
-    {
-        "title": "SS9 Via Emilia",
-        "description": "SS9 Via Emilia\n traffico intenso  tra 20,667 km dopo Incrocio S. Ilario D enza e 7,357 km prima di Incrocio Piacenza - SS10 Padana Inferiore   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:40:00 GMT"
     },
     {
         "title": "Lecce Via Brizio Elia",
@@ -210,11 +420,6 @@
         "pubDate": "Sat, 05 Sep 2026 15:39:00 GMT"
     },
     {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n fumo causa veicolo fermo o in avaria dalle 17:35 del 5 settembre 2026  tra Svincolo Colledara-San Gabriele e Svincolo Assergi  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:37:00 GMT"
-    },
-    {
         "title": "Roma Via di Boccea",
         "description": "Roma Via di Boccea\n riduzione di carreggiata causa lavori di rifacimento del manto stradale dalle 21:00 del 14 alle 06:00 del 17 settembre 2026  tra Via Ulrico Hoepli e Via di Casal del Marmo   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 15:35:00 GMT"
@@ -230,18 +435,8 @@
         "pubDate": "Sat, 05 Sep 2026 15:33:00 GMT"
     },
     {
-        "title": "A9 Lainate-Chiasso",
-        "description": "A9 Lainate-Chiasso\n code dalle 17:32 del 5 settembre 2026  tra Svincolo Como Monte Olimpino e Svincolo Lago di Como  in direzione Svizzera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:33:00 GMT"
-    },
-    {
         "title": "Lecce Via Giuseppe Scardia",
         "description": "Lecce Via Giuseppe Scardia\n strada chiusa causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via Antonio Coniglio Gallo e Via Antonio Gidiuli   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:31:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 17:30 del 5 settembre 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 15:31:00 GMT"
     },
     {
@@ -253,11 +448,6 @@
         "title": "Roma Via di Boccea",
         "description": "Roma Via di Boccea\n riduzione di carreggiata causa lavori dalle 00:01 del 26 ottobre alle 23:59 del 6 novembre 2026  a Via Trecate  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 15:28:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n code a tratti causa traffico intenso dalle 15:38 del 5 settembre 2026  tra Svincolo Parma e Allacciamento Fiorenzuola  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:27:00 GMT"
     },
     {
         "title": "Lecce Via Luigi Martucci",
@@ -275,19 +465,9 @@
         "pubDate": "Sat, 05 Sep 2026 15:23:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 17:21 del 5 settembre 2026  tra Svincolo Ospitaletto e Svincolo Rovato  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:22:00 GMT"
-    },
-    {
         "title": "Lecce Via Aldo Estrafallaces",
         "description": "Lecce Via Aldo Estrafallaces\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Antonio Coniglio Gallo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 15:21:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 17:16 del 5 settembre 2026  tra Svincolo Grottaminarda e Svincolo Benevento - Raccordo Di Benevento  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:20:00 GMT"
     },
     {
         "title": "Lecce Via Antonio Coniglio Gallo",
@@ -295,23 +475,8 @@
         "pubDate": "Sat, 05 Sep 2026 15:19:00 GMT"
     },
     {
-        "title": "SP15 Via San Rocco",
-        "description": "SP15 Via San Rocco\n incidente  tra Via Monte Gallo e Via Fosse   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:18:00 GMT"
-    },
-    {
-        "title": "SS66 Pistoiese",
-        "description": "SS66 Pistoiese\n tratto chiuso causa manifestazione  tra 737 m dopo Incrocio Limestre e 2,023 km prima di Incrocio Mammiano - SS633 Mammianese Marlianese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:15:00 GMT"
-    },
-    {
         "title": "Lecce Via Franco Basaglia",
         "description": "Lecce Via Franco Basaglia\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Guido Dorso  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:15:00 GMT"
-    },
-    {
-        "title": "SP44(MN) Pegognaga-San Giacomo delle Segnate",
-        "description": "SP44(MN) Pegognaga-San Giacomo delle Segnate\n incidente  tra Incrocio SP49-Pegognaga e Incrocio SPEXSS413-Strada Romana   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 15:15:00 GMT"
     },
     {
@@ -333,170 +498,5 @@
         "title": "SS26 Della Valle D aosta",
         "description": "SS26 Della Valle D aosta\n riduzione di carreggiata causa lavori dalle 21:30 del 7 alle 06:00 del 25 settembre 2026  tra Incrocio Aosta Est A5 - Raccordo Per G.S.Bernardo e Incrocio Aosta   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 05 Sep 2026 15:10:00 GMT"
-    },
-    {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Parma Ovest in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:09:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 17:03 del 5 settembre 2026  tra Svincolo Casale Monferrato Sud e Allacciamento A21 Torino-Piacenza-Brescia  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:09:00 GMT"
-    },
-    {
-        "title": "SS49 Della Pusteria",
-        "description": "SS49 Della Pusteria\n code causa traffico intenso  tra Incrocio Vandoies Di Sopra e Incrocio Chienes  in direzione Incrocio Prato Alla Drava\/Confine Con L austria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:04:00 GMT"
-    },
-    {
-        "title": "SS30 Di Val Bormida",
-        "description": "SS30 Di Val Bormida\n riduzione di carreggiata, entrata chiusa causa lavori dalle 08:00 del 7 alle 22:00 del 11 settembre 2026  tra Incrocio Alessandria - SS10 Padana Inferiore e Incrocio Cantalupo  in direzione Incrocio Piana Crixia - SS29 Del Colle Di Cadibona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:03:00 GMT"
-    },
-    {
-        "title": "Lecce Via Amleto Poso",
-        "description": "Lecce Via Amleto Poso\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Guido Dorso  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:02:00 GMT"
-    },
-    {
-        "title": "SS10 Padana Inferiore",
-        "description": "SS10 Padana Inferiore\n senso unico alternato causa lavori dalle 09:00 del 7 settembre 2026 alle 18:00 del 3 ottobre 2026  tra Incrocio Villanova D asti - SS29 Racc Del C. Di Cadibona e Incrocio Baldichieri D asti   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 15:00:00 GMT"
-    },
-    {
-        "title": "Lecce Via Guido Dorso",
-        "description": "Lecce Via Guido Dorso\n strada chiusa causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via delle Medaglie d oro e Via Enzo Estrafallaces   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:59:00 GMT"
-    },
-    {
-        "title": "Lecce Via Salvatore Sacquegna",
-        "description": "Lecce Via Salvatore Sacquegna\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via delle Medaglie d oro  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:56:00 GMT"
-    },
-    {
-        "title": "Lecce Via delle Medaglie d oro",
-        "description": "Lecce Via delle Medaglie d oro\n strada chiusa causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via Antonio Gidiuli e Via Guido Dorso   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:53:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n materiali dispersi  tra 6,751 km dopo Area di servizio  Pizzo Est e 121 m prima di Svincolo Serre  in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:52:00 GMT"
-    },
-    {
-        "title": "Lecce Viale della Repubblica",
-        "description": "Lecce Viale della Repubblica\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Antonio Gidiuli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:51:00 GMT"
-    },
-    {
-        "title": "Genova Salita Multedo",
-        "description": "Genova Salita Multedo\n allagamento  a Salita Multedo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:49:00 GMT"
-    },
-    {
-        "title": "Lecce Via Silvio Spaventa",
-        "description": "Lecce Via Silvio Spaventa\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Antonio Gidiuli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:49:00 GMT"
-    },
-    {
-        "title": "Lecce Via Giuseppe Scardia",
-        "description": "Lecce Via Giuseppe Scardia\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Antonio Gidiuli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:47:00 GMT"
-    },
-    {
-        "title": "Lecce Via Gaetano Giancane",
-        "description": "Lecce Via Gaetano Giancane\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Antonio Gidiuli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:45:00 GMT"
-    },
-    {
-        "title": "Lecce Via Francesco De Simone",
-        "description": "Lecce Via Francesco De Simone\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Antonio Gidiuli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:42:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n perdita di carico dalle 16:40 del 5 settembre 2026  tra Svincolo Montecatini e Svincolo Pistoia  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:41:00 GMT"
-    },
-    {
-        "title": "Lecce Via Ennio Carlino",
-        "description": "Lecce Via Ennio Carlino\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Antonio Gidiuli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:40:00 GMT"
-    },
-    {
-        "title": "Lecce Via Antonio Coniglio Gallo",
-        "description": "Lecce Via Antonio Coniglio Gallo\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Antonio Gidiuli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:38:00 GMT"
-    },
-    {
-        "title": "Lecce Via Antonio Amantea",
-        "description": "Lecce Via Antonio Amantea\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Antonio Gidiuli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:36:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 16:34 del 5 settembre 2026  tra Svincolo Lanciano e Svincolo Ortona  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:35:00 GMT"
-    },
-    {
-        "title": "Lecce Via Antonio Gidiuli",
-        "description": "Lecce Via Antonio Gidiuli\n strada chiusa causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via Enzo Estrafallaces e Via delle Medaglie d oro   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:34:00 GMT"
-    },
-    {
-        "title": "A50 Tangenziale Ovest Di Milano",
-        "description": "A50 Tangenziale Ovest Di Milano\n code a tratti causa traffico intenso  tra Svincolo Uscita 7bis: Quinto De Stampi e Svincolo Settimo Milanese-SS11: S.Siro-Fiera  in direzione Allacciamento A8 Milano-Varese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:33:00 GMT"
-    },
-    {
-        "title": "Lecce Via Guido Dorso",
-        "description": "Lecce Via Guido Dorso\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Enzo Estrafallaces  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:32:00 GMT"
-    },
-    {
-        "title": "Roma Via Aurelia Antica",
-        "description": "Roma Via Aurelia Antica\n traffico rallentato causa traffico intenso  tra Largo Don Luigi Guanella e Via Aurelia  in direzione Via Aurelia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:31:00 GMT"
-    },
-    {
-        "title": "Lecce Via Enzo Estrafallaces",
-        "description": "Lecce Via Enzo Estrafallaces\n strada chiusa causa processione dalle 19:00 alle 20:30 del 12 settembre 2026  tra Via Taranto e Via Antonio Gidiuli   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:29:00 GMT"
-    },
-    {
-        "title": "Lecce Viale del Risorgimento",
-        "description": "Lecce Viale del Risorgimento\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:27:00 GMT"
-    },
-    {
-        "title": "Lecce Via di Valesio",
-        "description": "Lecce Via di Valesio\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:25:00 GMT"
-    },
-    {
-        "title": "Genova Piazza Giovanni Antonio Aprosio",
-        "description": "Genova Piazza Giovanni Antonio Aprosio\n incidente traffico rallentato  a Piazza Giovanni Antonio Aprosio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:25:00 GMT"
-    },
-    {
-        "title": "A4 Diramazione Opicina-Fernetti",
-        "description": "A4 Diramazione Opicina-Fernetti\n veicolo in avaria  tra Svincolo Villa Opicina-Raccordo A4-Trieste e Svincolo Fernetti-Confine Con La Slovenia  in direzione Fernetti  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:20:00 GMT"
-    },
-    {
-        "title": "Lecce Via Silvio Pellico",
-        "description": "Lecce Via Silvio Pellico\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:20:00 GMT"
-    },
-    {
-        "title": "Lecce Via Giuseppe Scardia",
-        "description": "Lecce Via Giuseppe Scardia\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:18:00 GMT"
-    },
-    {
-        "title": "Lecce Via Cesare Gallucci",
-        "description": "Lecce Via Cesare Gallucci\n processione dalle 19:00 alle 20:30 del 12 settembre 2026  a Via Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 05 Sep 2026 14:16:00 GMT"
     }
 ]
