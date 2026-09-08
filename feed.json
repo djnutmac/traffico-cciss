@@ -1,78 +1,183 @@
 [
     {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n personale su strada causa lavori dalle 01:30 del 9 settembre 2026  tra Svincolo Cavenago e Svincolo Capriate  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:31:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n incidente dalle 01:31 del 9 settembre 2026  tra Svincolo Brescia Ovest e Allacciamento Interconnessione A21  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:31:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n personale su strada causa lavori dalle 01:29 del 9 settembre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Nola  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:30:00 GMT"
+    },
+    {
+        "title": "A9 Lainate-Chiasso",
+        "description": "A9 Lainate-Chiasso\n personale su strada causa lavori dalle 01:27 del 9 settembre 2026  tra Svincolo Como Centro e Svincolo Como Monte Olimpino  in direzione Svizzera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:28:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 01:23 del 9 settembre 2026  tra Svincolo Termoli-Molise e Svincolo Vasto Sud  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:23:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 01:19 del 9 settembre 2026  tra Svincolo Grottaminarda e Svincolo Benevento - Raccordo Di Benevento  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:20:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 01:16 del 9 settembre 2026  tra Svincolo Avellino Est e Svincolo Avellino Ovest  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:17:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 01:12 del 9 settembre 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:13:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n lavori dalle 01:12 alle 05:00 del 9 settembre 2026  tra Svincolo Tortona e Svincolo Serravalle Scrivia  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:13:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 01:08 del 9 settembre 2026  tra Svincolo Chiusi-Chianciano e Svincolo Fabro  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:11:00 GMT"
+    },
+    {
+        "title": "SS18 Tirrena Inferiore",
+        "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:10:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 00:59 del 9 settembre 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 23:00:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n personale su strada causa lavori dalle 00:57 del 9 settembre 2026  tra Barriera Di Ugovizza-Tarvisio e Svincolo Tarvisio Sud  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:58:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n personale su strada causa lavori dalle 00:57 del 9 settembre 2026  tra Svincolo Tarvisio Nord e Barriera Di Ugovizza-Tarvisio  in direzione autostrada Torino-Trieste  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:58:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n veicolo fermo o in avaria dalle 00:54 del 9 settembre 2026  a Svincolo Candela  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:55:00 GMT"
+    },
+    {
+        "title": "Circonvallazione di Oulx",
+        "description": "Circonvallazione di Oulx\n chiusura notturna, tratto chiuso causa lavori dalle 22:00 del 9 alle 04:00 del 10 settembre 2026  tra A32 e SS24   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:52:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:46 del 9 settembre 2026  tra Allacciamento Bari Nord - Raccordo Per La Tangenziale e Svincolo Bitonto  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:47:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n personale su strada causa lavori dalle 00:43 del 9 settembre 2026  tra Svincolo Morgex (entrata Direzione Sud) e Svincolo Aosta Ovest-Aymavilles  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:45:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 00:43 del 9 settembre 2026  tra Svincolo Masone e Svincolo Ovada  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:44:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 00:36 del 9 settembre 2026  tra Svincolo Arezzo e Svincolo Monte San Savino  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:38:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Per Capodichino",
+        "description": "A1 Diramazione Per Capodichino\n uscita chiusa causa lavori dalle 00:34 alle 05:00 del 9 settembre 2026  a Svincolo Capodichino in direzione da autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:35:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 00:32 del 9 settembre 2026  tra Svincolo Ferrara Nord e Svincolo Altedo  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:33:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 00:29 del 9 settembre 2026  tra Svincolo Poggio Imperiale e Svincolo Termoli-Molise  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:30:00 GMT"
+    },
+    {
+        "title": "A14 Ramo Casalecchio",
+        "description": "A14 Ramo Casalecchio\n uscita chiusa causa lavori dalle 00:28 alle 05:00 del 9 settembre 2026  a Svincolo Bologna Casalecchio in direzione da autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:30:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n personale su strada causa lavori dalle 00:15 del 9 settembre 2026  tra Svincolo Castel S. Giorgio e Barriera Di Salerno M.S.Severino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:17:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 00:07 del 9 settembre 2026  tra Svincolo Foggia e Svincolo San Severo  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 22:08:00 GMT"
+    },
+    {
+        "title": "A4 Milano-Brescia",
+        "description": "A4 Milano-Brescia\n personale su strada causa lavori dalle 23:58 del 8 settembre 2026  tra Svincolo Trezzo e Allacciamento Tangenziale Est Di Milano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 21:59:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n tratto chiuso causa lavori dalle 22:21 del 8 alle 06:00 del 9 settembre 2026  tra Svincolo Civitavecchia Sud e Svincolo S.Severa-S.Marinella  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 21:48:00 GMT"
+    },
+    {
+        "title": "A4 Torino-Milano",
+        "description": "A4 Torino-Milano\n lavori  tra 100 m prima di Svincolo Ghisolfa Ovest inizio Tangenziale Ovest e 1,55 km dopo Svincolo Rho  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 21:45:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n incidente dalle 20:53 del 8 settembre 2026  tra Svincolo Nocera Pagani e Svincolo Castel S. Giorgio  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 21:40:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n area di servizio chiusa causa lavori dalle 23:38 del 8 alle 06:00 del 9 settembre 2026  a Area di servizio  Mascherone in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 21:39:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n uscita chiusa causa lavori dalle 23:35 del 8 alle 00:00 del 9 settembre 2026  a Svincolo Corso Malta in direzione da allacciamento diramazione Capodichino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 21:36:00 GMT"
+    },
+    {
+        "title": "A55 Tangenziale Sud Di Torino",
+        "description": "A55 Tangenziale Sud Di Torino\n lavori  a Svincolo Santena - A21 Torino-Brescia in direzione Svincolo Santena - A21 Torino-Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 21:27:00 GMT"
+    },
+    {
+        "title": "A35 BreBeMi",
+        "description": "A35 BreBeMi\n chiusura notturna, uscita chiusa causa lavori dalle 23:00 del 9 alle 05:00 del 10 settembre 2026  a Allacciamento Bariano in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 21:26:00 GMT"
+    },
+    {
         "title": "A52 Tangenziale Nord Di Milano",
         "description": "A52 Tangenziale Nord Di Milano\n chiusura notturna, uscita chiusa causa lavori dalle 23:20 del 8 alle 05:00 del 9 settembre 2026  a Svincolo Monza-S.Alessandro in direzione Allacciamento Tangenziale Est Di Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 21:24:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n personale su strada causa lavori dalle 23:23 del 8 settembre 2026  tra Svincolo Cassino e Svincolo Pontecorvo  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:24:00 GMT"
-    },
-    {
-        "title": "SS223 Di Paganico",
-        "description": "SS223 Di Paganico\n corsia chiusa  tra 6,391 km dopo Incrocio Civitella Marittima e 2,731 km prima di Incrocio Iesa-Montepescini-Terme di Petriolo  in direzione Incrocio SS715-SS73  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:22:00 GMT"
-    },
-    {
         "title": "A30 Caserta-Salerno",
         "description": "A30 Caserta-Salerno\n rampa di accesso chiusa causa lavori dalle 23:22 del 8 alle 05:00 del 9 settembre 2026  a Svincolo Nocera Pagani in direzione Caserta  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 21:22:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n perdita di carico dalle 23:19 del 8 settembre 2026  tra Svincolo Teramo-Giulianova-Mosciano e Svincolo Val Vibrata  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:20:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 23:19 del 8 settembre 2026  tra Svincolo Celano e Svincolo Pescina  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:19:00 GMT"
-    },
-    {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n incidente dalle 20:53 del 8 settembre 2026  tra Svincolo Nocera Pagani e Svincolo Castel S. Giorgio  in direzione Salerno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:16:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 23:14 del 8 settembre 2026  tra Svincolo Varazze e Svincolo Celle Ligure  in direzione Ventimiglia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:15:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 23:12 del 8 settembre 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:13:00 GMT"
-    },
-    {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 23:12 del 8 settembre 2026  tra Svincolo Pescara N. Citta  S.Angelo e Svincolo Atri-Pineto  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:13:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 23:11 del 8 settembre 2026  tra Svincolo Firenze Impruneta e Svincolo Firenze Sud  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:12:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Sud Di Torino",
-        "description": "A55 Tangenziale Sud Di Torino\n lavori  a Svincolo Vado   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:11:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n personale su strada causa lavori dalle 23:07 del 8 settembre 2026  tra Svincolo Chiavari e Svincolo Rapallo  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:08:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n personale su strada causa lavori dalle 23:06 del 8 settembre 2026  tra Svincolo Cocullo e Svincolo Sulmona-Pratola Peligna  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:08:00 GMT"
-    },
-    {
-        "title": "A10 Genova-Ventimiglia",
-        "description": "A10 Genova-Ventimiglia\n personale su strada causa lavori dalle 23:07 del 8 settembre 2026  tra Svincolo Albisola e Svincolo Celle Ligure  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:08:00 GMT"
     },
     {
         "title": "A8 Milano-Varese",
@@ -83,16 +188,6 @@
         "title": "R20 Raccordo Chieti-Pescara",
         "description": "R20 Raccordo Chieti-Pescara\n traffico rallentato  a Svincolo Zona Industriale Di Pescara in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 21:06:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 23:06 del 8 settembre 2026  tra Allacciamento A21 Torino-Piacenza-Brescia e Svincolo Alessandria Sud  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:06:00 GMT"
-    },
-    {
-        "title": "TG-BO Tangenziale Di Bologna",
-        "description": "TG-BO Tangenziale Di Bologna\n personale su strada causa lavori dalle 23:04 del 8 settembre 2026  tra Svincolo 2 Bologna Centro-Bo Borgo Panigale e Svincolo Bologna Casalecchio  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:05:00 GMT"
     },
     {
         "title": "A56 Tangenziale Di Napoli",
@@ -120,41 +215,11 @@
         "pubDate": "Tue, 08 Sep 2026 21:03:00 GMT"
     },
     {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n personale su strada causa lavori dalle 23:01 del 8 settembre 2026  tra Svincolo Foggia e Svincolo San Severo  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:03:00 GMT"
-    },
-    {
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n tratto chiuso causa lavori dalle 23:02 del 8 alle 06:00 del 9 settembre 2026  tra Allacciamento A1 Nord\/Diramazione Capodichino e Svincolo Centro Direzionale  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 21:03:00 GMT"
     },
     {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 23:01 del 8 settembre 2026  tra Allacciamento A22 Modena-Brennero e Svincolo Reggio Emilia  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:02:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n personale su strada causa lavori dalle 22:58 del 8 settembre 2026  tra Svincolo Altedo e Svincolo Bologna Interporto  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:00:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 22:58 del 8 settembre 2026  tra Svincolo Reggio Emilia e Svincolo Terre di Canossa - Campegine  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 21:00:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n area di servizio chiusa causa lavori dalle 22:54 del 8 alle 02:00 del 9 settembre 2026  a Area di servizio  Irpinia in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:56:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n personale su strada causa lavori dalle 22:50 del 8 settembre 2026  tra Svincolo Modena Nord e Svincolo Modena Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:51:00 GMT"
-    },
-    {
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:50 del 8 alle 06:00 del 9 settembre 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 20:51:00 GMT"
@@ -163,16 +228,6 @@
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:50 del 8 alle 06:00 del 9 settembre 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 20:51:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n code causa tratto chiuso dalle 22:50 del 8 settembre 2026  tra Allacciamento A15 Parma-La Spezia e Svincolo Parma  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:51:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 22:49 del 8 settembre 2026  tra Svincolo Grottaminarda e Svincolo Benevento - Raccordo Di Benevento  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:50:00 GMT"
     },
     {
         "title": "A1 Diramazione Roma Sud",
@@ -190,19 +245,9 @@
         "pubDate": "Tue, 08 Sep 2026 20:38:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n personale su strada causa lavori dalle 22:37 del 8 settembre 2026  tra Svincolo Genova Nervi e Svincolo Recco  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:38:00 GMT"
-    },
-    {
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 22:29 del 8 settembre 2026  tra Svincolo Orvieto e Svincolo Fabro  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 20:38:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Sud Di Torino",
-        "description": "A55 Tangenziale Sud Di Torino\n veicolo in avaria  a Svincolo La Loggia-SS20 Del Colle Di Tenda in direzione Svincolo Santena - A21 Torino-Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:37:00 GMT"
     },
     {
         "title": "SS9 Via Emilia",
@@ -213,11 +258,6 @@
         "title": "A52 Tangenziale Nord Di Milano",
         "description": "A52 Tangenziale Nord Di Milano\n lavori  tra Svincolo Monza Centro: 1 Maggio e Svincolo Monza-S.Alessandro  in direzione A1 Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 20:31:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 22:28 del 8 settembre 2026  tra Svincolo Busalla e Svincolo Ronco Scrivia  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:30:00 GMT"
     },
     {
         "title": "A10 Genova-Ventimiglia",
@@ -245,11 +285,6 @@
         "pubDate": "Tue, 08 Sep 2026 20:26:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 22:24 del 8 settembre 2026  tra Svincolo Masone e Svincolo Ovada  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:25:00 GMT"
-    },
-    {
         "title": "A21 Torino-Brescia",
         "description": "A21 Torino-Brescia\n lavori  tra 1,38 km dopo Svincolo Castel S.Giovanni e 13,991 km prima di Svincolo Piacenza Ovest  in direzione Brescia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 20:23:00 GMT"
@@ -265,16 +300,6 @@
         "pubDate": "Tue, 08 Sep 2026 20:23:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 22:21 del 8 settembre 2026  tra Svincolo Ovada e Svincolo Masone  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:22:00 GMT"
-    },
-    {
-        "title": "A35 BreBeMi",
-        "description": "A35 BreBeMi\n riduzione di carreggiata causa rifacimento della segnaletica orizzontale dalle 22:15 del 8 alle 05:00 del 9 settembre 2026  tra Svincolo Caravaggio e Svincolo Romano di Lombardia  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:21:00 GMT"
-    },
-    {
         "title": "A4 Torino-Milano",
         "description": "A4 Torino-Milano\n lavori  tra 4,65 km prima di Svincolo Carisio e 8,21 km dopo Svincolo Borgo D ale  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 20:21:00 GMT"
@@ -287,11 +312,6 @@
     {
         "title": "A1 Milano-Bologna",
         "description": "A1 Milano-Bologna\n rampa di accesso chiusa causa lavori dalle 22:20 del 8 alle 05:00 del 9 settembre 2026  a Svincolo Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:21:00 GMT"
-    },
-    {
-        "title": "A12 Roma-Civitavecchia",
-        "description": "A12 Roma-Civitavecchia\n tratto chiuso causa lavori dalle 22:21 del 8 alle 06:00 del 9 settembre 2026  tra Svincolo Civitavecchia Sud e Svincolo S.Severa-S.Marinella  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 20:21:00 GMT"
     },
     {
@@ -395,16 +415,6 @@
         "pubDate": "Tue, 08 Sep 2026 20:12:00 GMT"
     },
     {
-        "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n chiusura notturna, entrata chiusa causa lavori dalle 22:11 del 8 alle 05:00 del 9 settembre 2026  a Svincolo SP151 Cinisello B.Nord: Zona Industriale in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:11:00 GMT"
-    },
-    {
-        "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n chiusura notturna, uscita chiusa causa lavori dalle 22:10 del 8 alle 05:00 del 9 settembre 2026  a Svincolo SP151 Cinisello B.Nord: Zona Industriale in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:10:00 GMT"
-    },
-    {
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n tratto chiuso causa lavori dalle 22:09 del 8 alle 05:00 del 9 settembre 2026  tra Svincolo Chiusi-Chianciano e Svincolo Valdichiana  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 20:10:00 GMT"
@@ -455,16 +465,6 @@
         "pubDate": "Tue, 08 Sep 2026 20:04:00 GMT"
     },
     {
-        "title": "A1 Roma-Napoli",
-        "description": "A1 Roma-Napoli\n veicolo fermo o in avaria dalle 20:29 del 8 settembre 2026  tra Svincolo Anagni - Fiuggi e Svincolo Ferentino  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:03:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 21:30 del 8 settembre 2026  tra Svincolo Guidonia - Montecelio e Allacciamento Diramazione Roma Nord  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:03:00 GMT"
-    },
-    {
         "title": "SS268 Del Vesuvio",
         "description": "SS268 Del Vesuvio\n materiali dispersi  a Incrocio Poggiomarino in direzione Incrocio Scafati  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 20:02:00 GMT"
@@ -485,11 +485,6 @@
         "pubDate": "Tue, 08 Sep 2026 20:00:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicolo fermo o in avaria dalle 21:53 del 8 settembre 2026  tra Svincolo Rapallo e Svincolo Recco  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Tue, 08 Sep 2026 20:00:00 GMT"
-    },
-    {
         "title": "A1 Milano-Bologna",
         "description": "A1 Milano-Bologna\n area di servizio chiusa causa lavori dalle 21:55 del 8 alle 05:00 del 9 settembre 2026  a Area di servizio  Somaglia in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 19:56:00 GMT"
@@ -498,5 +493,10 @@
         "title": "A3 Napoli-Salerno",
         "description": "A3 Napoli-Salerno\n personale su strada causa lavori dalle 21:52 del 8 settembre 2026  tra Svincolo Torre Annunziata Nord e Svincolo Torre Del Greco  in direzione Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Tue, 08 Sep 2026 19:53:00 GMT"
+    },
+    {
+        "title": "A4 Raccordo Sistiana-Trieste",
+        "description": "A4 Raccordo Sistiana-Trieste\n lavori di manutenzione  tra Svincolo Sistiana-A4 To-Ts e 821 m prima di Svincolo Padriciano - SS202   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Tue, 08 Sep 2026 19:50:00 GMT"
     }
 ]
