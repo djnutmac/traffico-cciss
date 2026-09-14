@@ -1,53 +1,103 @@
 [
     {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 23:35 del 13 settembre 2026  tra Svincolo Altedo e Svincolo Ferrara Sud  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:54:00 GMT"
+        "title": "SS223 Di Paganico",
+        "description": "SS223 Di Paganico\n veicolo in avaria  a Incrocio Ponte Macereto in direzione Incrocio SS715-SS73  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:50:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 01:35 del 14 settembre 2026  tra Svincolo Meina e Svincolo Carpugnino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:36:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 01:31 del 14 settembre 2026  tra Svincolo Avellino Est e Svincolo Benevento - Raccordo Di Benevento   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:32:00 GMT"
+    },
+    {
+        "title": "R03 Raccordo Sicignano-Potenza",
+        "description": "R03 Raccordo Sicignano-Potenza\n lavori di manutenzione  a Svincolo Vietri in direzione Potenza  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:32:00 GMT"
+    },
+    {
+        "title": "A90-GRA Appia-Aurelia",
+        "description": "A90-GRA Appia-Aurelia\n traffico rallentato  a Area di servizio  Ardeatina in direzione Aurelia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:30:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 01:12 del 14 settembre 2026  tra Svincolo S.Severa-S.Marinella e Svincolo Cerveteri-Ladispoli  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:24:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 01:10 del 14 settembre 2026  tra Svincolo Castel Madama e Svincolo Tivoli  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:24:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada causa lavori dalle 01:21 del 14 settembre 2026  tra Svincolo Vittorio Veneto Sud e Allacciamento A28 Venezia-Belluno  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:23:00 GMT"
+    },
+    {
+        "title": "SS36 Del Lago Di Como E Dello Spluga",
+        "description": "SS36 Del Lago Di Como E Dello Spluga\n corsia chiusa  tra 4,953 km prima di Incrocio Colico\/Trivio Fuentes\/S.Agata\/SS38 e 7,748 km dopo Incrocio Bellano  in direzione Incrocio Monza - SS527 Bustese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:14:00 GMT"
+    },
+    {
+        "title": "SS36 Del Lago Di Como E Dello Spluga",
+        "description": "SS36 Del Lago Di Como E Dello Spluga\n corsia chiusa  tra 4,06 km dopo Incrocio Abbadia Lariana e 10,993 km prima di Incrocio Bellano  in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:06:00 GMT"
+    },
+    {
+        "title": "SS18 Tirrena Inferiore",
+        "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 23:04:00 GMT"
+    },
+    {
+        "title": "SS163 Amalfitana",
+        "description": "SS163 Amalfitana\n traffico rallentato causa incendio  tra 4,662 km dopo Incrocio Colli Di Fontanelle - SS145 Sorrentina e 4,484 km prima di Incrocio Positano   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 22:58:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada causa lavori dalle 00:36 del 14 settembre 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Vittorio Veneto Nord  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 22:37:00 GMT"
+    },
+    {
+        "title": "A52 Tangenziale Nord Di Milano",
+        "description": "A52 Tangenziale Nord Di Milano\n veicolo in avaria  tra Svincolo Sesto S.Giovanni Sud: Cologno M. e Svincolo Sesto S.Giovanni (Diramazione Nord)  in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 22:35:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n veicolo in avaria  tra Allacciamento Bereguardo - Allacciamento Raccordo Bereguardo-Pv e Svincolo Binasco  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 22:34:00 GMT"
+    },
+    {
+        "title": "A1 Bologna-Firenze",
+        "description": "A1 Bologna-Firenze\n malore dalle 00:30 del 14 settembre 2026  a Area di servizio  Cantagallo in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 22:31:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n tratto chiuso causa lavori dalle 00:10 alle 06:00 del 14 settembre 2026  tra Svincolo Tornimparte e Svincolo L aquila Ovest  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 22:12:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n tratto chiuso causa lavori dalle 00:04 alle 06:00 del 14 settembre 2026  tra Svincolo L aquila Ovest e Svincolo Tornimparte  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 22:06:00 GMT"
+    },
+    {
+        "title": "SS598 Di Fondo Valle D agri",
+        "description": "SS598 Di Fondo Valle D agri\n incidente  a Incrocio S.Arcangelo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 22:02:00 GMT"
     },
     {
         "title": "A27 Mestre-Belluno",
         "description": "A27 Mestre-Belluno\n personale su strada causa lavori dalle 23:48 del 13 settembre 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Vittorio Veneto Sud  in direzione Belluno  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 13 Sep 2026 21:50:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n traffico rallentato causa incidente dalle 23:46 del 13 settembre 2026  tra Allacciamento A15 Parma-La Spezia e Svincolo Fidenza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:48:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 23:45 del 13 settembre 2026  tra Svincolo Prato Ovest e Svincolo Pistoia  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:47:00 GMT"
-    },
-    {
-        "title": "A1 Milano-Bologna",
-        "description": "A1 Milano-Bologna\n incidente dalle 22:48 del 13 settembre 2026  tra Allacciamento A15 Parma-La Spezia e Svincolo Fidenza  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:47:00 GMT"
-    },
-    {
-        "title": "A52 Tangenziale Nord Di Milano",
-        "description": "A52 Tangenziale Nord Di Milano\n veicolo in avaria  tra Svincolo Sesto S.Giovanni (Diramazione Nord) e Svincolo Sesto S.Giovanni Sud: Cologno M.  in direzione Allacciamento Tangenziale Est Di Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:40:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 23:09 del 13 settembre 2026  tra Svincolo Bologna San Lazzaro e Svincolo Bologna Fiera  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:35:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 23:28 del 13 settembre 2026  tra Svincolo Altedo e Svincolo Ferrara Sud  in direzione Padova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:30:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 23:10 del 13 settembre 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:23:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 23:19 del 13 settembre 2026  tra Svincolo Colledara-San Gabriele e Svincolo Assergi  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:21:00 GMT"
     },
     {
         "title": "SS516 Piovese",
@@ -60,29 +110,9 @@
         "pubDate": "Sun, 13 Sep 2026 21:18:00 GMT"
     },
     {
-        "title": "A56 Tangenziale Di Napoli",
-        "description": "A56 Tangenziale Di Napoli\n personale su strada causa lavori dalle 23:06 del 13 settembre 2026  tra Svincolo Viale Maddalena e Svincolo Camaldoli  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 21:11:00 GMT"
-    },
-    {
         "title": "A24 Roma-Teramo",
         "description": "A24 Roma-Teramo\n personale su strada causa lavori dalle 23:02 del 13 settembre 2026  tra Svincolo Valle Del Salto e Svincolo Tornimparte  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 13 Sep 2026 21:03:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 22:05 del 13 settembre 2026  tra Svincolo Magliano Sabina e Svincolo Orte  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 20:31:00 GMT"
-    },
-    {
-        "title": "A2 Autostrada del Mediterraneo",
-        "description": "A2 Autostrada del Mediterraneo\n veicolo in avaria  a Svincolo Altilia-Grimaldi in direzione Svincolo A2 Raccordo di Reggio Calabria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 20:22:00 GMT"
-    },
-    {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n veicolo in avaria  tra 186 m prima di Incrocio Desio e 1,298 km dopo Incrocio Lissone  in direzione Incrocio Monza - SS527 Bustese  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 20:06:00 GMT"
     },
     {
         "title": "A16 Napoli-Canosa",
@@ -100,29 +130,14 @@
         "pubDate": "Sun, 13 Sep 2026 19:55:00 GMT"
     },
     {
-        "title": "SS128 Bis Centrale Sarda",
-        "description": "SS128 Bis Centrale Sarda\n traffico rallentato  tra 1,402 km dopo Incrocio Pattada - SS389 Dir\/A Del Correboi e 2 m prima di Incrocio Ponte Molinu   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 19:52:00 GMT"
-    },
-    {
         "title": "SS51 Di Alemagna",
         "description": "SS51 Di Alemagna\n senso unico alternato causa lavori dalle 00:01 del 14 settembre alle 23:59 del 5 ottobre 2026  tra Incrocio Perarolo Di Cadore e Incrocio Valle Di Cadore   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 13 Sep 2026 19:45:00 GMT"
     },
     {
-        "title": "SS598 Di Fondo Valle D agri",
-        "description": "SS598 Di Fondo Valle D agri\n traffico rallentato causa incidente  a Incrocio S.Arcangelo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 19:31:00 GMT"
-    },
-    {
         "title": "SS434 Transpolesana",
         "description": "SS434 Transpolesana\n riduzione di carreggiata causa lavori dalle 08:00 del 16 alle 23:59 del 18 settembre 2026  tra Incrocio Pozzo-S.G.Lupatoto e Incrocio Rovigo Sud - SS16 Adriatica   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 13 Sep 2026 19:31:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 21:14 del 13 settembre 2026  tra Svincolo Grottaminarda e Svincolo Lacedonia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 19:15:00 GMT"
     },
     {
         "title": "A57 Tangenziale di Mestre",
@@ -133,31 +148,6 @@
         "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
         "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n personale su strada dalle 20:26 del 13 settembre 2026  tra Svincolo Centro Intermodale Ovest e Svincolo A12 Genova Rosignano  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 13 Sep 2026 19:10:00 GMT"
-    },
-    {
-        "title": "SS7QuaDir Lago Patria - SS7 Quater Via Domiziana-Ischitella Lido",
-        "description": "SS7QuaDir Lago Patria - SS7 Quater Via Domiziana-Ischitella Lido\n corsia chiusa causa incidente  a Incrocio Varcaturo in direzione  SS7 Quater Via Domiziana  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 18:58:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 20:47 del 13 settembre 2026  tra Svincolo Vicovaro-Mandela e Svincolo Carsoli-Oricola  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 18:50:00 GMT"
-    },
-    {
-        "title": "SS575 Di Troina",
-        "description": "SS575 Di Troina\n traffico rallentato causa frana  tra 1,39 km dopo Incrocio Ferraro e 9,7 km prima di Incrocio Ponte Maccarone - SS121 Catanese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 18:46:00 GMT"
-    },
-    {
-        "title": "SS36 Del Lago Di Como E Dello Spluga",
-        "description": "SS36 Del Lago Di Como E Dello Spluga\n fondo stradale dissestato  a Incrocio Bellano in direzione Incrocio Passo Dello Spluga\/Confine Con La Svizzera  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 18:00:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 19:57 del 13 settembre 2026  tra Svincolo Grottaminarda e Svincolo Lacedonia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 17:59:00 GMT"
     },
     {
         "title": "Viterbo Viale Raniero Capocci",
@@ -248,11 +238,6 @@
         "title": "Brescia Traversa 8 Villaggio La Famiglia",
         "description": "Brescia Traversa 8 Villaggio La Famiglia\n senso unico alternato causa lavori dalle 09:00 del 14 alle 17:00 del 25 settembre 2026  a Traversa 8 Villaggio La Famiglia  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 13 Sep 2026 16:51:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n scambio di carreggiata  tra 1,304 km dopo Svincolo Udine Sud-Tangenziale e 8,9 km prima di Svincolo Udine Nord  in direzione Tarvisio  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 13 Sep 2026 16:50:00 GMT"
     },
     {
         "title": "Brescia Via Faustino Bocchi",
@@ -498,5 +483,20 @@
         "title": "Torino Via Giovanni Giolitti",
         "description": "Torino Via Giovanni Giolitti\n vietato sostare causa riprese cinematografiche\n dalle 09:00 del 14 alle 04:00 del 15 settembre 2026  a Piazza Camillo Benso Conte di Cavour  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 13 Sep 2026 14:08:00 GMT"
+    },
+    {
+        "title": "Torino Piazza Camillo Benso Conte di Cavour",
+        "description": "Torino Piazza Camillo Benso Conte di Cavour\n vietato sostare causa riprese cinematografiche\n dalle 09:00 del 14 alle 04:00 del 15 settembre 2026  a Via fratelli Calandra  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 14:03:00 GMT"
+    },
+    {
+        "title": "Vicenza Via Nicolò Boldrini",
+        "description": "Vicenza Via Nicolò Boldrini\n allagamento  a Via Nicolò Boldrini  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 12:48:00 GMT"
+    },
+    {
+        "title": "Genova Corso Europa",
+        "description": "Genova Corso Europa\n guidare con attenzione causa segnali di controllo stradale non operativi  a Via Timavo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 13 Sep 2026 12:47:00 GMT"
     }
 ]
