@@ -1,8 +1,98 @@
 [
     {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 01:40 del 27 settembre 2026  tra Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio e Svincolo Cesena  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:46:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 01:40 del 27 settembre 2026  tra Allacciamento A10 Genova-Ventimiglia e Allacciamento A12 Genova-Rosignano  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:41:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 01:36 del 27 settembre 2026  tra Svincolo Pesaro-Urbino e Svincolo Cattolica  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:37:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Berceto in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:33:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n pedoni dalle 01:18 del 27 settembre 2026  a Svincolo Avellino Ovest  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:20:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo fermo o in avaria dalle 01:08 del 27 settembre 2026  tra Svincolo Ginestra Fiorentina e Svincolo Montelupo Fiorentino  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:14:00 GMT"
+    },
+    {
+        "title": "SS16 Adriatica",
+        "description": "SS16 Adriatica\n traffico rallentato causa pulizia del manto stradale  a Incrocio Stazione Di Osimo in direzione Incrocio Padova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:10:00 GMT"
+    },
+    {
+        "title": "SS18 Tirrena Inferiore",
+        "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:08:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 01:01 del 27 settembre 2026  tra Allacciamento Diram. Predosa-Bettole e Svincolo Alessandria Sud  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:03:00 GMT"
+    },
+    {
         "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n perdita di carico dalle 23:26 del 26 settembre 2026  tra Svincolo Fermo-Porto S.Giorgio e Svincolo Pedaso  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:27:00 GMT"
+        "description": "A14 Ancona-Pescara\n personale su strada causa lavori dalle 00:47 del 27 settembre 2026  tra Svincolo San Benedetto Del Tronto e Svincolo Grottammare  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 23:02:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 00:43 del 27 settembre 2026  tra Svincolo Bussi-Popoli e Svincolo Sulmona-Pratola Peligna  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 22:45:00 GMT"
+    },
+    {
+        "title": "A25 Torano-Pescara",
+        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 00:19 del 27 settembre 2026  tra Svincolo Sulmona-Pratola Peligna e Svincolo Cocullo  in direzione autostrada Roma-Teramo  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 22:25:00 GMT"
+    },
+    {
+        "title": "A13 Bologna-Padova",
+        "description": "A13 Bologna-Padova\n incidente dalle 23:37 del 26 settembre 2026  tra Svincolo Monselice e Svincolo Boara  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 22:14:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n rampa di accesso chiusa causa lavori dalle 22:11 del 26 alle 06:00 del 27 settembre 2026  a Svincolo Bologna Borgo Panigale in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 22:12:00 GMT"
+    },
+    {
+        "title": "A7 Milano-Genova",
+        "description": "A7 Milano-Genova\n incidente dalle 23:59 del 26 settembre 2026  tra Svincolo Serravalle Scrivia e Svincolo Vignole Borbera  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 22:09:00 GMT"
+    },
+    {
+        "title": "A11 Firenze-Pisa",
+        "description": "A11 Firenze-Pisa\n veicolo fermo o in avaria dalle 00:05 del 27 settembre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Prato Est  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 22:07:00 GMT"
+    },
+    {
+        "title": "A12 Roma-Civitavecchia",
+        "description": "A12 Roma-Civitavecchia\n veicolo fermo o in avaria dalle 00:05 del 27 settembre 2026  tra Svincolo Cerveteri-Ladispoli e Svincolo S.Severa-S.Marinella  in direzione S.s. 1 Aurelia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 22:06:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 23:59 del 26 settembre 2026  tra Svincolo Vasto Nord-Casalbordino e Svincolo Vasto Sud  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 22:04:00 GMT"
+    },
+    {
+        "title": "SS7 Via Appia",
+        "description": "SS7 Via Appia\n traffico rallentato causa incidente  a Incrocio Ponte Della Palomba - SS271 Di Cassano in direzione Incrocio Brindisi - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 21:38:00 GMT"
     },
     {
         "title": "R03 Raccordo Sicignano-Potenza",
@@ -10,74 +100,14 @@
         "pubDate": "Sat, 26 Sep 2026 21:24:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n code causa incidente dalle 22:08 del 26 settembre 2026  tra Allacciamento Ramo Casalecchio e Allacciamento A13 Bologna-Padova  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:23:00 GMT"
-    },
-    {
         "title": "RA02 Raccordo Autostradale Salerno-Avellino",
         "description": "RA02 Raccordo Autostradale Salerno-Avellino\n veicolo in avaria  a Svincolo Torchiati in direzione Avellino  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 26 Sep 2026 21:20:00 GMT"
     },
     {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 23:17 del 26 settembre 2026  tra Svincolo Casale Monferrato Sud e Allacciamento A21 Torino-Piacenza-Brescia  in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:20:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n veicoli scortati per maltempo causa perdita di carico dalle 23:11 del 26 settembre 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:12:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n incidente dalle 21:50 del 26 settembre 2026  tra Allacciamento Ramo Casalecchio e Allacciamento A13 Bologna-Padova  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:12:00 GMT"
-    },
-    {
-        "title": "A35 - VAR Variante di Liscate",
-        "description": "A35 - VAR Variante di Liscate\n veicolo in avaria  a SP 14 Rivoltana in direzione Linate  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:11:00 GMT"
-    },
-    {
-        "title": "A4 Torino-Milano",
-        "description": "A4 Torino-Milano\n code a tratti causa traffico intenso  tra Allacciamento Nodo di Pero e Svincolo Pero - Diramazione Molino Dorino  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:10:00 GMT"
-    },
-    {
-        "title": "A25 Torano-Pescara",
-        "description": "A25 Torano-Pescara\n veicolo fermo o in avaria dalle 23:07 del 26 settembre 2026  tra Svincolo Casauria-Torre De  Passeri e Svincolo Scafa-Alanno  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:09:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 23:07 del 26 settembre 2026  tra Svincolo Marotta-Mondolfo e Allacciamento Fano - Raccordo Per Fossombrone  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:09:00 GMT"
-    },
-    {
         "title": "A19 Palermo-Catania",
         "description": "A19 Palermo-Catania\n presenza di alberi sulla carreggiata  a Svincolo Resuttano in direzione Catania  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 26 Sep 2026 21:06:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n perdita di carico dalle 23:03 del 26 settembre 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:05:00 GMT"
-    },
-    {
-        "title": "T4-TRF Fre Traforo Del Frejus",
-        "description": "T4-TRF Fre Traforo Del Frejus\n tratto chiuso causa lavori dalle 23:01 alle 23:45 del 26 settembre 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:01:00 GMT"
-    },
-    {
-        "title": "SS539 Di Manoppello",
-        "description": "SS539 Di Manoppello\n corsia chiusa causa incidente  a Incrocio Manoppello  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 21:00:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n veicolo fermo o in avaria dalle 22:57 del 26 settembre 2026  tra Svincolo Casale Monferrato Sud e Svincolo Casale Monferrato Nord  in direzione Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:58:00 GMT"
     },
     {
         "title": "A14 Ancona-Pescara",
@@ -100,29 +130,9 @@
         "pubDate": "Sat, 26 Sep 2026 20:48:00 GMT"
     },
     {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n materiali dispersi  tra 172 m dopo Svincolo Carrodano e 5,113 km prima di Svincolo Brugnato-Borghetto Vara  in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:44:00 GMT"
-    },
-    {
         "title": "A2 Autostrada del Mediterraneo",
         "description": "A2 Autostrada del Mediterraneo\n svincolo chiuso causa lavori dalle 22:00 del 26 alle 06:00 del 27 settembre 2026  tra Svincolo Battipaglia e Svincolo Monte Corvino - Pontecagnano Sud  in direzione Allacciamento Fisciano - A30-RA02  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 26 Sep 2026 20:39:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n incidente  tra Allacciamento Bereguardo - Allacciamento Raccordo Bereguardo-Pv e Svincolo Binasco  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:38:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 22:34 del 26 settembre 2026  a Svincolo Orte  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:36:00 GMT"
-    },
-    {
-        "title": "A12 Genova-Rosignano",
-        "description": "A12 Genova-Rosignano\n materiali dispersi  tra 2,72 km dopo Svincolo Carrodano e 2,407 km prima di Svincolo Brugnato-Borghetto Vara  in direzione Rosignano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:28:00 GMT"
     },
     {
         "title": "A24 Roma-Teramo",
@@ -150,29 +160,9 @@
         "pubDate": "Sat, 26 Sep 2026 20:14:00 GMT"
     },
     {
-        "title": "A15 Parma-La Spezia",
-        "description": "A15 Parma-La Spezia\n animali morti  a Svincolo Berceto in direzione Parma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:13:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n rampa di accesso chiusa causa lavori dalle 22:11 del 26 alle 06:00 del 27 settembre 2026  a Svincolo Bologna Borgo Panigale  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:12:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n personale su strada causa lavori dalle 22:06 del 26 settembre 2026  tra Svincolo Orvieto e Svincolo Attigliano  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:08:00 GMT"
-    },
-    {
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n tratto chiuso causa lavori dalle 22:07 del 26 alle 06:00 del 27 settembre 2026  tra Svincolo Firenze Sud e Svincolo Incisa - Reggello  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 26 Sep 2026 20:08:00 GMT"
-    },
-    {
-        "title": "A14 Diramazione Per Ravenna",
-        "description": "A14 Diramazione Per Ravenna\n rampa di accesso chiusa causa lavori dalle 22:03 del 26 alle 05:00 del 27 settembre 2026  a Svincolo Cotignola in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:06:00 GMT"
     },
     {
         "title": "R01 Ramo Verde Tangenziale Di Bologna",
@@ -180,19 +170,9 @@
         "pubDate": "Sat, 26 Sep 2026 20:06:00 GMT"
     },
     {
-        "title": "A14 Diramazione Per Ravenna",
-        "description": "A14 Diramazione Per Ravenna\n rampa di accesso chiusa causa lavori dalle 22:03 del 26 alle 05:00 del 27 settembre 2026  a Svincolo Lugo in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:05:00 GMT"
-    },
-    {
         "title": "A14 Bologna-Ancona",
         "description": "A14 Bologna-Ancona\n tratto chiuso causa lavori dalle 22:03 del 26 alle 06:00 del 27 settembre 2026  tra Allacciamento Ramo Casalecchio e Allacciamento A1 Milano-Napoli  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 26 Sep 2026 20:05:00 GMT"
-    },
-    {
-        "title": "A14 Diramazione Per Ravenna",
-        "description": "A14 Diramazione Per Ravenna\n tratto chiuso causa lavori dalle 22:02 del 26 alle 05:00 del 27 settembre 2026  tra Svincolo Lugo e Allacciamento A14 Bologna-Taranto  in direzione autostrada Bologna-Taranto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 20:04:00 GMT"
     },
     {
         "title": "A7 Milano-Genova",
@@ -208,16 +188,6 @@
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 21:59 del 26 alle 05:00 del 27 settembre 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 26 Sep 2026 20:00:00 GMT"
-    },
-    {
-        "title": "A1 Firenze-Roma",
-        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 21:28 del 26 settembre 2026  tra Svincolo Ponzano Romano-Soratte e Allacciamento Diramazione Roma Nord  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 19:55:00 GMT"
-    },
-    {
-        "title": "A14 Pescara-Bari",
-        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 21:51 del 26 settembre 2026  a Svincolo Bitonto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 19:54:00 GMT"
     },
     {
         "title": "SS1 Via Aurelia",
@@ -245,11 +215,6 @@
         "pubDate": "Sat, 26 Sep 2026 19:29:00 GMT"
     },
     {
-        "title": "A4 Milano-Brescia",
-        "description": "A4 Milano-Brescia\n veicolo fermo o in avaria dalle 21:23 del 26 settembre 2026  a Allacciamento Tangenziale Est Di Milano in direzione da Brescia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 19:24:00 GMT"
-    },
-    {
         "title": "A1 Firenze-Roma",
         "description": "A1 Firenze-Roma\n area di servizio chiusa causa lavori dalle 21:20 del 26 alle 06:00 del 27 settembre 2026  a Area di servizio  Chianti in direzione Roma  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 26 Sep 2026 19:21:00 GMT"
@@ -258,11 +223,6 @@
         "title": "A14 Bologna-Ancona",
         "description": "A14 Bologna-Ancona\n area di servizio chiusa causa lavori dalle 21:08 del 26 alle 06:00 del 27 settembre 2026  a Area di servizio  La Pioppa in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 26 Sep 2026 19:09:00 GMT"
-    },
-    {
-        "title": "A11 Firenze-Pisa",
-        "description": "A11 Firenze-Pisa\n personale su strada dalle 20:55 del 26 settembre 2026  tra Svincolo Pistoia e Svincolo Chiesina Uzzanese  in direzione Pisa  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sat, 26 Sep 2026 18:56:00 GMT"
     },
     {
         "title": "SS38 VAR di Morbegno",
@@ -498,5 +458,45 @@
         "title": "Torino Via Nizza",
         "description": "Torino Via Nizza\n riduzione di carreggiata causa lavori dalle 00:00 del 21 settembre alle 20:00 del 20 dicembre 2026  a Via Giovanni Ribet  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sat, 26 Sep 2026 13:46:00 GMT"
+    },
+    {
+        "title": "A4 Brescia-Padova",
+        "description": "A4 Brescia-Padova\n chiusura notturna, uscita chiusa causa lavori dalle 21:00 del 1 alle 06:00 del 3 ottobre 2026  a Svincolo Peschiera  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 13:45:00 GMT"
+    },
+    {
+        "title": "Torino Via Garessio",
+        "description": "Torino Via Garessio\n riduzione di carreggiata causa lavori dalle 00:00 del 21 settembre alle 20:00 del 20 dicembre 2026  a Via Spotorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 13:42:00 GMT"
+    },
+    {
+        "title": "Torino Via Domenico Tibone",
+        "description": "Torino Via Domenico Tibone\n riduzione di carreggiata causa lavori dalle 00:00 del 21 settembre alle 20:00 del 20 dicembre 2026  a Via Cortemilia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 13:41:00 GMT"
+    },
+    {
+        "title": "Torino Via Cortemilia",
+        "description": "Torino Via Cortemilia\n riduzione di carreggiata causa lavori dalle 00:00 del 21 settembre alle 20:00 del 20 dicembre 2026  a Via Ventimiglia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 13:39:00 GMT"
+    },
+    {
+        "title": "Torino Via Genova",
+        "description": "Torino Via Genova\n riduzione di carreggiata causa lavori dalle 00:00 del 21 settembre alle 20:00 del 20 dicembre 2026  a Via Giaglione  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 13:37:00 GMT"
+    },
+    {
+        "title": "GVT Autostrada Sistiana-Rabuiese",
+        "description": "GVT Autostrada Sistiana-Rabuiese\n tratto chiuso causa lavori dalle 18:00 del 28 settembre 2026 alle 06:00 del 11 ottobre 2026  a Autostrada Sistiana-Rabuiese in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 13:37:00 GMT"
+    },
+    {
+        "title": "Torino Via Genova",
+        "description": "Torino Via Genova\n riduzione di carreggiata causa lavori dalle 00:00 del 21 settembre alle 20:00 del 20 dicembre 2026  a Corso Piero Maroncelli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 13:36:00 GMT"
+    },
+    {
+        "title": "GVT Autostrada Sistiana-Rabuiese",
+        "description": "GVT Autostrada Sistiana-Rabuiese\n scambio di carreggiata causa lavori di manutenzione straordinaria dell impianto di drenaggio e\ndell impianto antincendio della galleria carso e della galleria montedoro dalle 00:00 del 26 settembre alle 23:59 del 3 ottobre 2026  a Autostrada Sistiana-Rabuiese in direzione Italia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sat, 26 Sep 2026 13:36:00 GMT"
     }
 ]
