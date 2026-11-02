@@ -1,43 +1,213 @@
 [
     {
-        "title": "A14 Ancona-Pescara",
-        "description": "A14 Ancona-Pescara\n veicolo fermo o in avaria dalle 22:55 del 1 novembre 2026  tra Svincolo Pedaso e Svincolo Grottammare  in direzione Pescara  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:56:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 22:41 del 1 novembre 2026  a Svincolo Riccione in direzione da Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:55:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicoli lenti dalle 22:54 del 1 novembre 2026  tra Svincolo Ferrara Sud e Svincolo Altedo  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:55:00 GMT"
-    },
-    {
-        "title": "A55 Tangenziale Sud Di Torino",
-        "description": "A55 Tangenziale Sud Di Torino\n lavori  tra Svincolo Santena - A21 Torino-Brescia e Allacciamento Interconnessione Tangenziale Nord  in direzione Allacciamento Interconnessione Tangenziale Nord  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:50:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 22:46 del 1 novembre 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:49:00 GMT"
-    },
-    {
-        "title": "SS680-E78 SGC Grosseto-Fano",
-        "description": "SS680-E78 SGC Grosseto-Fano\n animali morti  a Svincolo Alberoro in direzione SGC Grosseto  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:46:00 GMT"
-    },
-    {
-        "title": "A7 Milano-Genova",
-        "description": "A7 Milano-Genova\n personale su strada causa lavori dalle 22:30 del 1 novembre 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:33:00 GMT"
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada causa lavori dalle 02:24 del 2 novembre 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:26:00 GMT"
     },
     {
         "title": "A27 Mestre-Belluno",
-        "description": "A27 Mestre-Belluno\n veicolo fermo o in avaria dalle 22:18 del 1 novembre 2026  tra Svincolo Treviso Nord e Svincolo Treviso Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:32:00 GMT"
+        "description": "A27 Mestre-Belluno\n personale su strada causa lavori dalle 02:22 del 2 novembre 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:25:00 GMT"
+    },
+    {
+        "title": "A14 Bologna-Ancona",
+        "description": "A14 Bologna-Ancona\n veicolo fermo o in avaria dalle 02:10 del 2 novembre 2026  tra Svincolo Bologna Fiera e Svincolo Bologna San Lazzaro  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:24:00 GMT"
+    },
+    {
+        "title": "A1 Firenze-Roma",
+        "description": "A1 Firenze-Roma\n veicolo fermo o in avaria dalle 02:20 del 2 novembre 2026  tra Svincolo Orte e Svincolo Attigliano  in direzione Firenze  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:22:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 01:12 del 2 novembre 2026  tra Svincolo Poggio Imperiale e Svincolo San Severo  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:22:00 GMT"
+    },
+    {
+        "title": "A14 Pescara-Bari",
+        "description": "A14 Pescara-Bari\n veicolo fermo o in avaria dalle 01:58 del 2 novembre 2026  tra Svincolo Poggio Imperiale e Svincolo San Severo  in direzione Bari  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:22:00 GMT"
+    },
+    {
+        "title": "T4-TRF Fre Traforo Del Frejus",
+        "description": "T4-TRF Fre Traforo Del Frejus\n galleria chiusa causa transito convoglio dalle 02:17 alle 02:37 del 2 novembre 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese  in direzione Galleria Inzio Traforo - versante Francese  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:21:00 GMT"
+    },
+    {
+        "title": "A5 Torino-Courmayeur",
+        "description": "A5 Torino-Courmayeur\n mezzi spargisale in azione dalle 02:16 del 2 novembre 2026  tra Incrocio Controllo Merci AO \/ A5 e Svincolo A05-SS26DIR  in direzione Monte Bianco  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:17:00 GMT"
+    },
+    {
+        "title": "TG-CT Tangenziale Di Catania",
+        "description": "TG-CT Tangenziale Di Catania\n veicolo in avaria  a Svincolo Gravina in direzione Svincolo Catania Centro-S.Gregorio-A18 Diramazione  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:12:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n pioggia dalle 18:06 del 1 novembre 2026  tra Allacciamento A1 Milano-Napoli e Allacciamento Salerno - Raccordo Salerno-Avellino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:09:00 GMT"
+    },
+    {
+        "title": "A16 Napoli-Canosa",
+        "description": "A16 Napoli-Canosa\n pioggia dalle 05:41 del 1 novembre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Candela   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:09:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Allacciamento A1 Milano-Napoli in direzione Parma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:07:00 GMT"
+    },
+    {
+        "title": "A56 Tangenziale Di Napoli",
+        "description": "A56 Tangenziale Di Napoli\n tratto chiuso causa lavori dalle 02:01 alle 06:00 del 2 novembre 2026  tra Svincolo Zona Ospedaliera e Svincolo Camaldoli  in direzione Pozzuoli  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 01:03:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n incidente dalle 01:36 del 2 novembre 2026  tra Svincolo Ceprano e Svincolo Frosinone  in direzione Roma  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:39:00 GMT"
+    },
+    {
+        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
+        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n veicolo fermo o in avaria dalle 01:35 del 2 novembre 2026  tra Svincolo Lastra A Signa e Svincolo Ginestra Fiorentina  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:36:00 GMT"
+    },
+    {
+        "title": "A15 Parma-La Spezia",
+        "description": "A15 Parma-La Spezia\n veicolo in avaria  a Svincolo Pontremoli in direzione La Spezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:33:00 GMT"
+    },
+    {
+        "title": "A55 Tangenziale Sud Di Torino",
+        "description": "A55 Tangenziale Sud Di Torino\n nebbia a banchi  tra Svincolo La Loggia-SS20 Del Colle Di Tenda e Svincolo Santena - A21 Torino-Brescia  in direzione Svincolo Santena - A21 Torino-Brescia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:21:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n lavori  tra 7,55 km dopo Svincolo Altare e 1,684 km prima di Allacciamento Savona-Zinola-Vado-Allacciamento A10 Ge-Ventimiglia  in direzione Savona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:08:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n lavori  tra 6,4 km dopo Svincolo Altare e 6,534 km prima di Allacciamento Savona-Zinola-Vado-Allacciamento A10 Ge-Ventimiglia  in direzione Savona  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:08:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n nebbia a banchi  tra Allacciamento Tangenziale Sud Di Torino - DirMoncalieri e Barriera Di Torino   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:08:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n lavori  tra 756 m prima di Allacciamento Savona-Zinola-Vado-Allacciamento A10 Ge-Ventimiglia e 8,04 km dopo Svincolo Altare  in direzione Torino  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:08:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n area di servizio chiusa causa tratto chiuso dalle 01:03 alle 04:00 del 2 novembre 2026  a Area di servizio  Riviera in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:04:00 GMT"
+    },
+    {
+        "title": "A12 Genova-Rosignano",
+        "description": "A12 Genova-Rosignano\n tratto chiuso causa lavori dalle 01:02 alle 04:00 del 2 novembre 2026  tra Svincolo Lavagna e Svincolo Sestri Levante  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:04:00 GMT"
+    },
+    {
+        "title": "SS598 Di Fondo Valle D agri",
+        "description": "SS598 Di Fondo Valle D agri\n traffico rallentato causa lavori di manutenzione  a Incrocio Montemurro in direzione Incrocio Atena Lucana A3 Sa-Rc - SS95 Di Brienza  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Mon, 02 Nov 2026 00:02:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 00:57 del 2 novembre 2026  tra Svincolo Carpugnino e Svincolo SS33 Del Sempione   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 23:59:00 GMT"
+    },
+    {
+        "title": "A14 Diramazione Per Ravenna",
+        "description": "A14 Diramazione Per Ravenna\n vento forte dalle 00:35 del 2 novembre 2026  tra Allacciamento A14 Bologna-Taranto e Svincolo SS 309 Diramazione Ravenna   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 23:37:00 GMT"
+    },
+    {
+        "title": "A23 Palmanova-Tarvisio",
+        "description": "A23 Palmanova-Tarvisio\n pioggia dalle 20:46 del 1 novembre 2026  tra Svincolo Carnia e Svincolo Dogana Di Coccau-Confine Di Stato   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 23:26:00 GMT"
+    },
+    {
+        "title": "A30 Caserta-Salerno",
+        "description": "A30 Caserta-Salerno\n vento forte dalle 00:21 del 2 novembre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Nola   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 23:23:00 GMT"
+    },
+    {
+        "title": "SS696 Del Parco Regionale Sirente - Velino",
+        "description": "SS696 Del Parco Regionale Sirente - Velino\n neve  tra 1,699 km dopo Valico La Chiesole e 4,87 km prima di Incrocio SP38 - Rocca Di Mezzo   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 23:02:00 GMT"
+    },
+    {
+        "title": "SS18 Tirrena Inferiore",
+        "description": "SS18 Tirrena Inferiore\n tratto chiuso causa frana  tra 7,942 km dopo Incrocio Maratea e 1,646 km prima di Incrocio Ponte Sul Castrocucco - SS585   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 23:02:00 GMT"
+    },
+    {
+        "title": "SS45 Di Val Di Trebbia",
+        "description": "SS45 Di Val Di Trebbia\n pulizia del manto stradale  a Incrocio Variante Di Rivergaro  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 23:00:00 GMT"
+    },
+    {
+        "title": "SS598 Di Fondo Valle D agri",
+        "description": "SS598 Di Fondo Valle D agri\n traffico rallentato causa incidente  a Incrocio Montemurro in direzione Incrocio Atena Lucana A3 Sa-Rc - SS95 Di Brienza  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 23:00:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n uscita chiusa causa trasporto eccezionale dalle 23:48 del 1 alle 04:00 del 2 novembre 2026  a Svincolo Baveno in direzione da Gravellona Toce  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:51:00 GMT"
+    },
+    {
+        "title": "A1 Roma-Napoli",
+        "description": "A1 Roma-Napoli\n pioggia dalle 23:50 del 1 novembre 2026  tra Allacciamento A24 Roma-Teramo e Svincolo Colleferro   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:51:00 GMT"
+    },
+    {
+        "title": "A26 Genova-Gravellona Toce",
+        "description": "A26 Genova-Gravellona Toce\n rampa di accesso chiusa causa trasporto eccezionale dalle 23:48 del 1 alle 04:00 del 2 novembre 2026  a Svincolo Baveno in direzione Genova Voltri  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:51:00 GMT"
+    },
+    {
+        "title": "SS614 Della Maielletta",
+        "description": "SS614 Della Maielletta\n neve  tra 8 km dopo Incrocio Pretoro - SS539 Di Manoppello e 13,6 km prima di Incrocio Blokhaus   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:49:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n pioggia dalle 23:48 del 1 novembre 2026  tra Svincolo Tivoli e Svincolo Castel Madama   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:49:00 GMT"
+    },
+    {
+        "title": "A6 Torino-Savona",
+        "description": "A6 Torino-Savona\n nebbia a banchi  tra Svincolo Niella Tanaro e Svincolo Ceva   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:44:00 GMT"
+    },
+    {
+        "title": "A27 Mestre-Belluno",
+        "description": "A27 Mestre-Belluno\n personale su strada causa lavori dalle 23:36 del 1 novembre 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:38:00 GMT"
+    },
+    {
+        "title": "A1 Diramazione Roma Sud",
+        "description": "A1 Diramazione Roma Sud\n pioggia dalle 23:26 del 1 novembre 2026  tra Allacciamento A1 Milano-Napoli e Allacciamento A90-GRA   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:27:00 GMT"
+    },
+    {
+        "title": "A24 Roma-Teramo",
+        "description": "A24 Roma-Teramo\n pioggia dalle 18:21 del 1 novembre 2026  tra Svincolo Valle Del Salto e Svincolo S.G.C. per Giulianova   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:20:00 GMT"
+    },
+    {
+        "title": "SS20 Del Colle Di Tenda E Di Valle Roja",
+        "description": "SS20 Del Colle Di Tenda E Di Valle Roja\n tratto chiuso  tra 6,465 km dopo Incrocio Limone e 22,679 km prima di Incrocio Fanghetto\/Confine Con La Francia   <br\/> (Fonte: www.cciss.it)",
+        "pubDate": "Sun, 01 Nov 2026 22:10:00 GMT"
     },
     {
         "title": "A15 Parma-La Spezia",
@@ -60,49 +230,9 @@
         "pubDate": "Sun, 01 Nov 2026 21:29:00 GMT"
     },
     {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n veicolo fermo o in avaria dalle 22:25 del 1 novembre 2026  tra Svincolo Colledara-San Gabriele e Barriera Di Teramo  in direzione Teramo  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:26:00 GMT"
-    },
-    {
-        "title": "A19 Palermo-Catania",
-        "description": "A19 Palermo-Catania\n riduzione di carreggiata causa lavori dalle 00:01 del 30 novembre 2023 alle 23:59 del 1 novembre 2026  tra Svincolo Palermo e Svincolo Tre Monzelli   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:24:00 GMT"
-    },
-    {
-        "title": "A19 Diramazione per Imera",
-        "description": "A19 Diramazione per Imera\n riduzione di carreggiata dalle 00:01 del 30 novembre 2023 alle 23:59 del 1 novembre 2026  tra Svincolo A19 Palermo-Catania e Svincolo Stazione Di Imera   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:24:00 GMT"
-    },
-    {
-        "title": "SS20 Del Colle Di Tenda E Di Valle Roja",
-        "description": "SS20 Del Colle Di Tenda E Di Valle Roja\n senso unico alternato causa lavori dalle 06:00 del 30 ottobre 2026 alle 23:00 del 1 novembre 2026  a Incrocio Colle Di Tenda\/Confine Con La Francia  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:23:00 GMT"
-    },
-    {
-        "title": "SS434 Transpolesana",
-        "description": "SS434 Transpolesana\n scambio di carreggiata causa lavori dalle 00:01 del 6 ottobre alle 23:59 del 1 novembre 2026  tra Incrocio Crocetta e Incrocio Canda E Ramo Di Palo   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:23:00 GMT"
-    },
-    {
-        "title": "SS131 Carlo Felice",
-        "description": "SS131 Carlo Felice\n riduzione di carreggiata causa lavori dalle 00:01 del 28 ottobre alle 23:59 del 1 novembre 2026  tra Incrocio La Maddalena - SS388 Del Tirso E Mandrolisai e Incrocio S.Giusta - SS292 Nord Occ. Sarda   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:22:00 GMT"
-    },
-    {
         "title": "A7 Milano-Genova",
         "description": "A7 Milano-Genova\n rampa di accesso chiusa causa lavori dalle 22:18 del 1 alle 06:00 del 5 novembre 2026  a Svincolo Serravalle Scrivia in direzione Milano  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 21:20:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n traffico rallentato causa incidente dalle 22:14 del 1 novembre 2026  tra Svincolo Lastra A Signa e Svincolo Ginestra Fiorentina  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:16:00 GMT"
-    },
-    {
-        "title": "SS17 Dell appennino Abruzzese E Appulo-Sannitico",
-        "description": "SS17 Dell appennino Abruzzese E Appulo-Sannitico\n incidente  a Incrocio Staz. Cantalupo Nel Sannio - SS618 Molesana  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:12:00 GMT"
     },
     {
         "title": "A26 Genova-Gravellona Toce",
@@ -110,11 +240,6 @@
         "pubDate": "Sun, 01 Nov 2026 21:09:00 GMT"
     },
     {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n tratto chiuso causa lavori dalle 22:01 del 1 alle 05:00 del 2 novembre 2026  tra Svincolo Rimini Sud e Svincolo Rimini Nord  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 21:03:00 GMT"
-    },
-    {
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:00 del 1 alle 06:00 del 2 novembre 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 21:02:00 GMT"
@@ -123,26 +248,11 @@
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n problemi in area di servizio dalle 22:00 del 1 alle 06:00 del 2 novembre 2026  a Area di servizio  Vesuvio in direzione Canosa  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 21:02:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n personale su strada causa lavori dalle 21:56 del 1 novembre 2026  tra Svincolo Grottaminarda e Svincolo Lacedonia   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 20:58:00 GMT"
     },
     {
         "title": "A6 Torino-Savona",
         "description": "A6 Torino-Savona\n lavori  tra 800 m dopo Svincolo Niella Tanaro e 7,75 km prima di Svincolo Ceva  in direzione Savona  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 20:54:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 21:41 del 1 novembre 2026  tra Allacciamento A1 Milano-Napoli e Allacciamento Ramo Casalecchio  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 20:43:00 GMT"
-    },
-    {
-        "title": "A14 Bologna-Ancona",
-        "description": "A14 Bologna-Ancona\n personale su strada causa lavori dalle 21:41 del 1 novembre 2026  tra Allacciamento Ramo Casalecchio e Svincolo Bologna Borgo Panigale  in direzione autostrada Milano-Napoli  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 20:43:00 GMT"
     },
     {
         "title": "A1 Diramazione Roma Nord",
@@ -153,16 +263,6 @@
         "title": "SP185(BG) Rivoltana",
         "description": "SP185(BG) Rivoltana\n senso unico alternato causa lavori dalle 07:30 del 2 alle 18:00 del 30 novembre 2026  tra Incrocio SP132-Misano di Gera d Adda e Incrocio EXSS11-Mozzanica   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 20:38:00 GMT"
-    },
-    {
-        "title": "A26 Genova-Gravellona Toce",
-        "description": "A26 Genova-Gravellona Toce\n personale su strada causa lavori dalle 21:35 del 1 novembre 2026  tra Svincolo Carpugnino e Svincolo SS33 Del Sempione   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 20:36:00 GMT"
-    },
-    {
-        "title": "SS379 Egnazia E Delle Terme Di Torre Canne",
-        "description": "SS379 Egnazia E Delle Terme Di Torre Canne\n veicolo in fiamme  a Incrocio Lido Di Specchiolla in direzione Incrocio Brindisi - SS16 Adriatica  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 20:36:00 GMT"
     },
     {
         "title": "SP6(BG) Cugno-Valtorta",
@@ -178,11 +278,6 @@
         "title": "SP80 Strada Provinciale 80",
         "description": "SP80 Strada Provinciale 80\n senso unico alternato causa lavori dalle 00:00 del 2 alle 23:59 del 16 novembre 2026  tra NC 06 e Via Papa Luciani   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 20:26:00 GMT"
-    },
-    {
-        "title": "Cerchia Dei Bastioni(MI)",
-        "description": "Cerchia Dei Bastioni(MI)\n incidente dalle 20:55 del 1 novembre 2026  tra Svincolo Cesena e Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio  in direzione Ancona  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 20:21:00 GMT"
     },
     {
         "title": "SP70(BG) EXSS671-Brusaporto-EXSS671-Gavarno Rinnovata",
@@ -205,29 +300,9 @@
         "pubDate": "Sun, 01 Nov 2026 20:12:00 GMT"
     },
     {
-        "title": "SS340 Regina",
-        "description": "SS340 Regina\n corsia chiusa causa materiali dispersi  a Incrocio Brienno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 20:10:00 GMT"
-    },
-    {
         "title": "SP49 Strada Provinciale 49 della Valle Seriana Superiore",
         "description": "SP49 Strada Provinciale 49 della Valle Seriana Superiore\n senso unico alternato causa lavori dalle 00:00 del 1 novembre 2026 alle 23:59 del 31 gennaio 2027  tra Contrada Ludrigno e Via Leonardo da Vinci   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 20:08:00 GMT"
-    },
-    {
-        "title": "SS131 Carlo Felice",
-        "description": "SS131 Carlo Felice\n incidente  a Incrocio Variante Di Monastir in direzione Incrocio Cagliari  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 20:00:00 GMT"
-    },
-    {
-        "title": "A24 Roma-Teramo",
-        "description": "A24 Roma-Teramo\n pioggia dalle 18:21 del 1 novembre 2026  tra Svincolo L aquila Ovest e Svincolo S.G.C. per Giulianova   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 19:58:00 GMT"
-    },
-    {
-        "title": "SS16 Adriatica",
-        "description": "SS16 Adriatica\n traffico rallentato causa allagamento  tra 202 m dopo Incrocio Marzocca e 1,993 km prima di Incrocio Rocca Priora - SS76 Della Val D esino  in direzione Incrocio Otranto - SS173 Delle Terme Salentine  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 19:58:00 GMT"
     },
     {
         "title": "SP184 Via Brembate",
@@ -235,33 +310,8 @@
         "pubDate": "Sun, 01 Nov 2026 19:57:00 GMT"
     },
     {
-        "title": "A5 Torino-Courmayeur",
-        "description": "A5 Torino-Courmayeur\n mezzi spargisale in azione dalle 20:51 del 1 novembre 2026  tra Svincolo Libero Aosta Ovest e Svincolo A05-SS26DIR   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 19:53:00 GMT"
-    },
-    {
-        "title": "SS12 Dell abetone E Del Brennero",
-        "description": "SS12 Dell abetone E Del Brennero\n incidente  tra 3,185 km dopo Incrocio Volargne e 3,49 km prima di Incrocio Dolce    <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 19:50:00 GMT"
-    },
-    {
-        "title": "SS12 Dell abetone E Del Brennero",
-        "description": "SS12 Dell abetone E Del Brennero\n presenza di alberi sulla carreggiata  a Incrocio Fabbriche in direzione Incrocio Passo Del Brennero\/Confine Con L austria  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 19:48:00 GMT"
-    },
-    {
-        "title": "A23 Palmanova-Tarvisio",
-        "description": "A23 Palmanova-Tarvisio\n pioggia dalle 20:46 del 1 novembre 2026  tra Svincolo Carnia e Barriera Di Ugovizza-Tarvisio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 19:47:00 GMT"
-    },
-    {
         "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
         "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n personale su strada dalle 20:08 del 1 novembre 2026  tra Svincolo Gello - Allacciamento Diramazione per Pisa e Svincolo Lavoria  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 19:45:00 GMT"
-    },
-    {
-        "title": "A13 Bologna-Padova",
-        "description": "A13 Bologna-Padova\n veicolo fermo o in avaria dalle 20:37 del 1 novembre 2026  tra Svincolo Ferrara Sud e Svincolo Altedo  in direzione Bologna  <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 19:45:00 GMT"
     },
     {
@@ -303,11 +353,6 @@
         "title": "SS470 Della Valle Brembana",
         "description": "SS470 Della Valle Brembana\n riduzione di carreggiata causa lavori dalle 07:00 del 1 alle 18:00 del 20 novembre 2026  tra Incrocio Bergamo - SS42 E SS671 Della Val Seriana e Incrocio Villa D alme  - SS470 D Della Val Brembana   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 18:56:00 GMT"
-    },
-    {
-        "title": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)",
-        "description": "S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)\n incidente dalle 19:49 del 1 novembre 2026  tra Svincolo Lastra A Signa e Svincolo Ginestra Fiorentina  in direzione Livorno  <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 18:52:00 GMT"
     },
     {
         "title": "SP46(BG) SS42 Ponte Nossa-Zambla",
@@ -355,11 +400,6 @@
         "pubDate": "Sun, 01 Nov 2026 17:23:00 GMT"
     },
     {
-        "title": "A30 Caserta-Salerno",
-        "description": "A30 Caserta-Salerno\n pioggia dalle 18:06 del 1 novembre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Castel S. Giorgio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 17:08:00 GMT"
-    },
-    {
         "title": "A25 Torano-Pescara",
         "description": "A25 Torano-Pescara\n pioggia dalle 12:13 del 1 novembre 2026  tra Svincolo Avezzano e Allacciamento A14 Bologna-Taranto   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 16:40:00 GMT"
@@ -368,21 +408,6 @@
         "title": "A16 Napoli-Canosa",
         "description": "A16 Napoli-Canosa\n pioggia dalle 17:36 del 1 novembre 2026  tra Svincolo Lacedonia e Allacciamento A14 Bologna-Taranto   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 16:37:00 GMT"
-    },
-    {
-        "title": "A16 Napoli-Canosa",
-        "description": "A16 Napoli-Canosa\n pioggia dalle 05:41 del 1 novembre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Benevento - Raccordo Di Benevento   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 16:34:00 GMT"
-    },
-    {
-        "title": "SS17 Dell appennino Abruzzese E Appulo-Sannitico",
-        "description": "SS17 Dell appennino Abruzzese E Appulo-Sannitico\n neve  tra 3,485 km dopo Incrocio Piano Delle Cinquemiglia e 3,224 km prima di Incrocio Rionero Sannitico - SS652   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 16:26:00 GMT"
-    },
-    {
-        "title": "SS84 Frentana",
-        "description": "SS84 Frentana\n neve  tra Incrocio Roccaraso - SS17 Dell app. Abr. E App. Sann. e 10,384 km prima di Incrocio Palena   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 16:26:00 GMT"
     },
     {
         "title": "SS487 Di Caramanico Terme",
@@ -398,16 +423,6 @@
         "title": "A1 Roma-Napoli",
         "description": "A1 Roma-Napoli\n pioggia dalle 04:15 del 1 novembre 2026  tra Svincolo Frosinone e Barriera Di Napoli Nord   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 16:08:00 GMT"
-    },
-    {
-        "title": "SS17 Dell appennino Abruzzese E Appulo-Sannitico",
-        "description": "SS17 Dell appennino Abruzzese E Appulo-Sannitico\n neve  tra 1,449 km dopo Incrocio Sulmona - SS479 Sannite e 5,938 km prima di Incrocio Roccaraso - SS84 Frentana   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 16:02:00 GMT"
-    },
-    {
-        "title": "SS614 Della Maielletta",
-        "description": "SS614 Della Maielletta\n neve  tra 8 km dopo Incrocio Pretoro - SS539 Di Manoppello e 13,6 km prima di Incrocio Blokhaus   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 15:46:00 GMT"
     },
     {
         "title": "A4 Milano-Brescia",
@@ -483,20 +498,5 @@
         "title": "Torino Via Correggio",
         "description": "Torino Via Correggio\n lavori dalle 08:00 del 2 novembre 2026 alle 18:00 del 4 dicembre 2026  tra Via Carlo Marochetti e Via Gabriele Chiabrera   <br\/> (Fonte: www.cciss.it)",
         "pubDate": "Sun, 01 Nov 2026 13:18:00 GMT"
-    },
-    {
-        "title": "Torino Via Carlo Marochetti",
-        "description": "Torino Via Carlo Marochetti\n riduzione di carreggiata causa lavori dalle 08:00 del 2 novembre 2026 alle 18:00 del 4 dicembre 2026  tra Via Correggio e Via Tiziano Vecellio   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 13:14:00 GMT"
-    },
-    {
-        "title": "Torino Piazza Giovanni dalle Bande Nere",
-        "description": "Torino Piazza Giovanni dalle Bande Nere\n lavori dalle 08:00 del 2 novembre 2026 alle 18:00 del 4 dicembre 2026  tra Via Carlo Della Porta e Strada Mongreno   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 13:11:00 GMT"
-    },
-    {
-        "title": "Torino Via Rosolino Pilo",
-        "description": "Torino Via Rosolino Pilo\n strada chiusa causa lavori dalle 08:00 del 2 novembre 2026 alle 18:00 del 4 dicembre 2026  tra Via Borgomanero e Via Piedicavallo   <br\/> (Fonte: www.cciss.it)",
-        "pubDate": "Sun, 01 Nov 2026 13:07:00 GMT"
     }
 ]
